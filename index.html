@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Chunk Atlas Quiz</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <button id="theme-toggle" class="theme-toggle-btn" type="button">Dark mode</button>
+
+  <!-- HOME SCREEN -->
+  <section id="screen-home" class="screen">
+    <header class="app-header">
+      <h1>Chunk Atlas Quiz</h1>
+      <p class="subtitle">Practice English business-communication chunks — pilot: Core Patterns <small id="count-core"></small></p>
+    </header>
+
+    <div class="card">
+      <h2>1. Filter by tab</h2>
+      <div class="ka-actions">
+        <button type="button" class="link-btn" id="ka-select-all">Select all</button>
+        <button type="button" class="link-btn" id="ka-select-none">Deselect all</button>
+      </div>
+      <div id="ka-select">
+        <!-- filled dynamically from loaded data, see app.js renderKaSelect() -->
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>2. Mode</h2>
+      <div class="option-grid" id="mode-select">
+        <label class="pill-radio">
+          <input type="radio" name="mode" value="practice" checked>
+          <span>Practice <small>Instant feedback</small></span>
+        </label>
+        <label class="pill-radio">
+          <input type="radio" name="mode" value="exam">
+          <span>Exam <small>Graded at the end, timed</small></span>
+        </label>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="row-between">
+        <button id="btn-start" class="btn btn-primary">Start</button>
+        <button id="btn-review" class="btn btn-secondary" disabled>Review wrong / bookmarked (<span id="review-count">0</span>)</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- QUIZ SCREEN -->
+  <section id="screen-quiz" class="screen hidden">
+    <div class="quiz-topbar">
+      <div class="quiz-progress">
+        <span id="quiz-position">Question 1 / 54</span>
+        <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+      </div>
+      <div id="quiz-timer" class="quiz-timer hidden">00:30:00</div>
+      <button id="btn-exit-quiz" class="btn btn-ghost">Exit</button>
+    </div>
+
+    <div class="card question-card">
+      <div class="question-meta">
+        <span class="ka-tag" id="question-ka"></span>
+        <button id="btn-bookmark" class="bookmark-btn" title="Bookmark this question for review">☆</button>
+      </div>
+      <p class="question-text" id="question-text"></p>
+      <div id="options-list" class="options-list"></div>
+      <div id="explanation-box" class="explanation-box hidden"></div>
+    </div>
+
+    <div class="quiz-nav">
+      <button id="btn-prev" class="btn btn-secondary">← Previous</button>
+      <button id="btn-next" class="btn btn-primary">Next →</button>
+      <button id="btn-submit" class="btn btn-danger hidden">Submit</button>
+    </div>
+  </section>
+
+  <!-- RESULT SCREEN -->
+  <section id="screen-result" class="screen hidden">
+    <div class="card result-summary">
+      <h2>Result</h2>
+      <div class="score-big" id="score-big">0/0</div>
+      <div class="score-pct" id="score-pct">0%</div>
+    </div>
+
+    <div class="card">
+      <h3>Score by tab</h3>
+      <table class="ka-table" id="ka-table"></table>
+    </div>
+
+    <div class="card">
+      <div class="row-between">
+        <h3>Question review</h3>
+        <label class="chip"><input type="checkbox" id="filter-wrong-only"> Show incorrect only</label>
+      </div>
+      <div id="review-list"></div>
+    </div>
+
+    <div class="card">
+      <div class="row-between">
+        <button id="btn-review-wrong-now" class="btn btn-secondary">Review this round's mistakes</button>
+        <button id="btn-back-home" class="btn btn-primary">Back to home</button>
+      </div>
+    </div>
+  </section>
+
+</div>
+<script src="app.js"></script>
+</body>
+</html>

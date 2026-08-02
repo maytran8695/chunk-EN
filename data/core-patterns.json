@@ -1,0 +1,762 @@
+{
+  "examId": "core",
+  "title": "Chunk Atlas — Situations: Core Patterns",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just joined a meeting and need to open it so people get started. Which chunk fits best?",
+      "options": {
+        "A": "Let's get started.",
+        "B": "This can be divided into two parts.",
+        "C": "Does that make sense?",
+        "D": "So moving forward..."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Opening\" function — you've just joined a meeting and need to open it so people get started. The correct chunk is: \"Let's get started.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 2,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just joined a meeting and need to open it so people get started. Which chunk fits best?",
+      "options": {
+        "A": "Let me expand on that.",
+        "B": "Take the case of...",
+        "C": "In summary...",
+        "D": "Today I'd like to discuss..."
+      },
+      "correct": "D",
+      "explanation": "This chunk belongs to the \"Opening\" function — you've just joined a meeting and need to open it so people get started. The correct chunk is: \"Today I'd like to discuss...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 3,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just joined a meeting and need to open it so people get started. Which chunk fits best?",
+      "options": {
+        "A": "So the conclusion is...",
+        "B": "Consequently...",
+        "C": "Thanks everyone for joining.",
+        "D": "The downside is..."
+      },
+      "correct": "C",
+      "explanation": "This chunk belongs to the \"Opening\" function — you've just joined a meeting and need to open it so people get started. The correct chunk is: \"Thanks everyone for joining.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 4,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just joined a meeting and need to open it so people get started. Which chunk fits best?",
+      "options": {
+        "A": "Maybe we should look at the bigger picture.",
+        "B": "Before we dive in, a quick update.",
+        "C": "I see your point, but...",
+        "D": "Put simply..."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Opening\" function — you've just joined a meeting and need to open it so people get started. The correct chunk is: \"Before we dive in, a quick update.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 5,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to highlight the single most important point before saying anything else. Which chunk fits best?",
+      "options": {
+        "A": "What really matters here is...",
+        "B": "Let me start with a quick overview.",
+        "C": "We can think about this in two ways.",
+        "D": "Let's not lose sight of the goal."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Framing the main point\" function — you want to highlight the single most important point before saying anything else. The correct chunk is: \"What really matters here is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 6,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to highlight the single most important point before saying anything else. Which chunk fits best?",
+      "options": {
+        "A": "For example...",
+        "B": "The bottom line is...",
+        "C": "What's your take on this?",
+        "D": "We should prioritize..."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Framing the main point\" function — you want to highlight the single most important point before saying anything else. The correct chunk is: \"The bottom line is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 7,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to highlight the single most important point before saying anything else. Which chunk fits best?",
+      "options": {
+        "A": "The real question is...",
+        "B": "It's more complicated than it appears.",
+        "C": "Does that make sense?",
+        "D": "That's a good question."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Framing the main point\" function — you want to highlight the single most important point before saying anything else. The correct chunk is: \"The real question is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 8,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to highlight the single most important point before saying anything else. Which chunk fits best?",
+      "options": {
+        "A": "The key takeaway is...",
+        "B": "What's your take on this?",
+        "C": "The short/simple answer is...",
+        "D": "That might be true, but..."
+      },
+      "correct": "C",
+      "explanation": "This chunk belongs to the \"Framing the main point\" function — you want to highlight the single most important point before saying anything else. The correct chunk is: \"The short/simple answer is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 9,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to signal upfront that you'll present your ideas in a clear, multi-part structure. Which chunk fits best?",
+      "options": {
+        "A": "Let's break this down.",
+        "B": "Could you elaborate on that?",
+        "C": "Let me clarify that.",
+        "D": "That's why..."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Organizing ideas\" function — you want to signal upfront that you'll present your ideas in a clear, multi-part structure. The correct chunk is: \"Let's break this down.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 10,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to signal upfront that you'll present your ideas in a clear, multi-part structure. Which chunk fits best?",
+      "options": {
+        "A": "I'll briefly walk through...",
+        "B": "This can be divided into two parts.",
+        "C": "By contrast...",
+        "D": "I see it slightly differently."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Organizing ideas\" function — you want to signal upfront that you'll present your ideas in a clear, multi-part structure. The correct chunk is: \"This can be divided into two parts.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 11,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to signal upfront that you'll present your ideas in a clear, multi-part structure. Which chunk fits best?",
+      "options": {
+        "A": "This leads to...",
+        "B": "The real question is...",
+        "C": "Let's go through them one by one.",
+        "D": "We should probably..."
+      },
+      "correct": "C",
+      "explanation": "This chunk belongs to the \"Organizing ideas\" function — you want to signal upfront that you'll present your ideas in a clear, multi-part structure. The correct chunk is: \"Let's go through them one by one.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 12,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to signal upfront that you'll present your ideas in a clear, multi-part structure. Which chunk fits best?",
+      "options": {
+        "A": "On the one hand... on the other hand...",
+        "B": "On the other hand...",
+        "C": "Having said that...",
+        "D": "We should prioritize..."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Organizing ideas\" function — you want to signal upfront that you'll present your ideas in a clear, multi-part structure. The correct chunk is: \"On the one hand... on the other hand...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 13,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to explain the reason or cause behind something you just mentioned. Which chunk fits best?",
+      "options": {
+        "A": "Let me consider that.",
+        "B": "The short/simple answer is...",
+        "C": "Let's take a closer look.",
+        "D": "That's why..."
+      },
+      "correct": "D",
+      "explanation": "This chunk belongs to the \"Explaining\" function — you need to explain the reason or cause behind something you just mentioned. The correct chunk is: \"That's why...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 14,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to explain the reason or cause behind something you just mentioned. Which chunk fits best?",
+      "options": {
+        "A": "To wrap up...",
+        "B": "Put simply...",
+        "C": "It's more complicated than it appears.",
+        "D": "There are two main reasons."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Explaining\" function — you need to explain the reason or cause behind something you just mentioned. The correct chunk is: \"Put simply...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 15,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to explain the reason or cause behind something you just mentioned. Which chunk fits best?",
+      "options": {
+        "A": "What I mean is...",
+        "B": "Take the case of...",
+        "C": "This leads to...",
+        "D": "What's your take on this?"
+      },
+      "correct": "C",
+      "explanation": "This chunk belongs to the \"Explaining\" function — you need to explain the reason or cause behind something you just mentioned. The correct chunk is: \"This leads to...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 16,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to explain the reason or cause behind something you just mentioned. Which chunk fits best?",
+      "options": {
+        "A": "Let me be more specific.",
+        "B": "This happens because...",
+        "C": "On the other hand...",
+        "D": "Generally speaking..."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Explaining\" function — you need to explain the reason or cause behind something you just mentioned. The correct chunk is: \"This happens because...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 17,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to illustrate your point with a specific example. Which chunk fits best?",
+      "options": {
+        "A": "Thanks everyone for joining.",
+        "B": "A good example is...",
+        "C": "Overall...",
+        "D": "The goal of this meeting is..."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Giving examples\" function — you want to illustrate your point with a specific example. The correct chunk is: \"A good example is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 18,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to illustrate your point with a specific example. Which chunk fits best?",
+      "options": {
+        "A": "Let's take a closer look.",
+        "B": "Give me a second.",
+        "C": "Let's step back for a moment.",
+        "D": "This reminds me of..."
+      },
+      "correct": "D",
+      "explanation": "This chunk belongs to the \"Giving examples\" function — you want to illustrate your point with a specific example. The correct chunk is: \"This reminds me of...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 19,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to illustrate your point with a specific example. Which chunk fits best?",
+      "options": {
+        "A": "For instance...",
+        "B": "One possible solution is...",
+        "C": "Another factor is...",
+        "D": "The goal of this meeting is..."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Giving examples\" function — you want to illustrate your point with a specific example. The correct chunk is: \"For instance...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 20,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "The listener seems to have misunderstood you — you need to restate it more clearly. Which chunk fits best?",
+      "options": {
+        "A": "What I mean is...",
+        "B": "I'll briefly walk through...",
+        "C": "This can be attributed to...",
+        "D": "Having said that..."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Clarifying\" function — the listener seems to have misunderstood you — you need to restate it more clearly. The correct chunk is: \"What I mean is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 21,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "The listener seems to have misunderstood you — you need to restate it more clearly. Which chunk fits best?",
+      "options": {
+        "A": "Does that make sense?",
+        "B": "Let me be more specific.",
+        "C": "On the other hand...",
+        "D": "The core problem is..."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Clarifying\" function — the listener seems to have misunderstood you — you need to restate it more clearly. The correct chunk is: \"Let me be more specific.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 22,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "The listener seems to have misunderstood you — you need to restate it more clearly. Which chunk fits best?",
+      "options": {
+        "A": "Let me clarify that.",
+        "B": "The reason is...",
+        "C": "Let's go through them one by one.",
+        "D": "There are three main points I'd like to make."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Clarifying\" function — the listener seems to have misunderstood you — you need to restate it more clearly. The correct chunk is: \"Let me clarify that.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 23,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just finished presenting and want to ask the listener what they think. Which chunk fits best?",
+      "options": {
+        "A": "What's your take on this?",
+        "B": "I'm not convinced yet.",
+        "C": "Let me consider that.",
+        "D": "That might be true, but..."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Asking questions\" function — you've just finished presenting and want to ask the listener what they think. The correct chunk is: \"What's your take on this?\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 24,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just finished presenting and want to ask the listener what they think. Which chunk fits best?",
+      "options": {
+        "A": "Let me start with a quick overview.",
+        "B": "What this really comes down to is...",
+        "C": "What do you think?",
+        "D": "To wrap up..."
+      },
+      "correct": "C",
+      "explanation": "This chunk belongs to the \"Asking questions\" function — you've just finished presenting and want to ask the listener what they think. The correct chunk is: \"What do you think?\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 25,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just finished presenting and want to ask the listener what they think. Which chunk fits best?",
+      "options": {
+        "A": "Having said that...",
+        "B": "Let's break this down.",
+        "C": "How do you see this?",
+        "D": "There are three things to consider."
+      },
+      "correct": "C",
+      "explanation": "This chunk belongs to the \"Asking questions\" function — you've just finished presenting and want to ask the listener what they think. The correct chunk is: \"How do you see this?\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 26,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You disagree with an opinion just raised, but want to push back politely, without creating tension. Which chunk fits best?",
+      "options": {
+        "A": "I would challenge that assumption.",
+        "B": "Let me think about that.",
+        "C": "The next step is...",
+        "D": "This reminds me of..."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Disagreeing politely\" function — you disagree with an opinion just raised, but want to push back politely, without creating tension. The correct chunk is: \"I would challenge that assumption.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 27,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You disagree with an opinion just raised, but want to push back politely, without creating tension. Which chunk fits best?",
+      "options": {
+        "A": "What's your take on this?",
+        "B": "This happens because...",
+        "C": "The best option is...",
+        "D": "I see it slightly differently."
+      },
+      "correct": "D",
+      "explanation": "This chunk belongs to the \"Disagreeing politely\" function — you disagree with an opinion just raised, but want to push back politely, without creating tension. The correct chunk is: \"I see it slightly differently.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 28,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You disagree with an opinion just raised, but want to push back politely, without creating tension. Which chunk fits best?",
+      "options": {
+        "A": "On the other hand...",
+        "B": "I'm not convinced yet.",
+        "C": "The big picture is...",
+        "D": "A major advantage is..."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Disagreeing politely\" function — you disagree with an opinion just raised, but want to push back politely, without creating tension. The correct chunk is: \"I'm not convinced yet.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 29,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "The meeting is drifting off-topic — you want to pull everyone back to the main issue. Which chunk fits best?",
+      "options": {
+        "A": "If we break it down...",
+        "B": "In other words...",
+        "C": "Maybe we should look at the bigger picture.",
+        "D": "We should probably..."
+      },
+      "correct": "C",
+      "explanation": "This chunk belongs to the \"Steering the conversation\" function — the meeting is drifting off-topic — you want to pull everyone back to the main issue. The correct chunk is: \"Maybe we should look at the bigger picture.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 30,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "The meeting is drifting off-topic — you want to pull everyone back to the main issue. Which chunk fits best?",
+      "options": {
+        "A": "In summary...",
+        "B": "Let's step back for a moment.",
+        "C": "One possible solution is...",
+        "D": "It depends on..."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Steering the conversation\" function — the meeting is drifting off-topic — you want to pull everyone back to the main issue. The correct chunk is: \"Let's step back for a moment.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 31,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "The meeting is drifting off-topic — you want to pull everyone back to the main issue. Which chunk fits best?",
+      "options": {
+        "A": "It depends on...",
+        "B": "Let's not lose sight of the goal.",
+        "C": "Thanks everyone for joining.",
+        "D": "Just to clarify..."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Steering the conversation\" function — the meeting is drifting off-topic — you want to pull everyone back to the main issue. The correct chunk is: \"Let's not lose sight of the goal.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 32,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're wrapping up your presentation and want to summarize the main point. Which chunk fits best?",
+      "options": {
+        "A": "To wrap up...",
+        "B": "A good example is...",
+        "C": "To put it another way...",
+        "D": "I see it slightly differently."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Concluding\" function — you're wrapping up your presentation and want to summarize the main point. The correct chunk is: \"To wrap up...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 33,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're wrapping up your presentation and want to summarize the main point. Which chunk fits best?",
+      "options": {
+        "A": "There are three main points I'd like to make.",
+        "B": "The next step is...",
+        "C": "I see it slightly differently.",
+        "D": "What we learned is..."
+      },
+      "correct": "D",
+      "explanation": "This chunk belongs to the \"Concluding\" function — you're wrapping up your presentation and want to summarize the main point. The correct chunk is: \"What we learned is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 34,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're wrapping up your presentation and want to summarize the main point. Which chunk fits best?",
+      "options": {
+        "A": "Let me consider that.",
+        "B": "There are two main reasons.",
+        "C": "In summary...",
+        "D": "The reason is..."
+      },
+      "correct": "C",
+      "explanation": "This chunk belongs to the \"Concluding\" function — you're wrapping up your presentation and want to summarize the main point. The correct chunk is: \"In summary...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 35,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're wrapping up your presentation and want to summarize the main point. Which chunk fits best?",
+      "options": {
+        "A": "Maybe we should look at the bigger picture.",
+        "B": "We should prioritize...",
+        "C": "Let me think this through.",
+        "D": "So moving forward..."
+      },
+      "correct": "D",
+      "explanation": "This chunk belongs to the \"Concluding\" function — you're wrapping up your presentation and want to summarize the main point. The correct chunk is: \"So moving forward...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 36,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to propose a specific direction or decision for the group. Which chunk fits best?",
+      "options": {
+        "A": "I have mixed feelings about...",
+        "B": "We should probably...",
+        "C": "What do you think?",
+        "D": "The main takeaway is..."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Decision making\" function — you want to propose a specific direction or decision for the group. The correct chunk is: \"We should probably...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 37,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to propose a specific direction or decision for the group. Which chunk fits best?",
+      "options": {
+        "A": "We should prioritize...",
+        "B": "This leads to...",
+        "C": "I would challenge that assumption.",
+        "D": "I'm not sure I agree."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Decision making\" function — you want to propose a specific direction or decision for the group. The correct chunk is: \"We should prioritize...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 38,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to propose a specific direction or decision for the group. Which chunk fits best?",
+      "options": {
+        "A": "To wrap up...",
+        "B": "Let me be more specific.",
+        "C": "Let's focus on the main issue.",
+        "D": "Let's agree on..."
+      },
+      "correct": "D",
+      "explanation": "This chunk belongs to the \"Decision making\" function — you want to propose a specific direction or decision for the group. The correct chunk is: \"Let's agree on...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 39,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just been asked a tough question and need a moment to think before answering. Which chunk fits best?",
+      "options": {
+        "A": "Let's break this down.",
+        "B": "Let me check if I understand.",
+        "C": "Let me rephrase that.",
+        "D": "Maybe we should look at the bigger picture."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Buying thinking time\" function — you've just been asked a tough question and need a moment to think before answering. The correct chunk is: \"Let me check if I understand.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 40,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just been asked a tough question and need a moment to think before answering. Which chunk fits best?",
+      "options": {
+        "A": "Let me consider that.",
+        "B": "I see your point, but...",
+        "C": "There are three main points I'd like to make.",
+        "D": "We can think about this in two ways."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Buying thinking time\" function — you've just been asked a tough question and need a moment to think before answering. The correct chunk is: \"Let me consider that.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 41,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just been asked a tough question and need a moment to think before answering. Which chunk fits best?",
+      "options": {
+        "A": "Give me a second.",
+        "B": "In summary...",
+        "C": "Before we dive in, a quick update.",
+        "D": "As a result..."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Buying thinking time\" function — you've just been asked a tough question and need a moment to think before answering. The correct chunk is: \"Give me a second.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 42,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've already covered everything necessary and want to wrap up without rambling further. Which chunk fits best?",
+      "options": {
+        "A": "The real question is...",
+        "B": "First, second... and that's it. Okay, stop. The point's clear.",
+        "C": "Generally speaking...",
+        "D": "I suggest we..."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Cutting the list short\" function — you've already covered everything necessary and want to wrap up without rambling further. The correct chunk is: \"First, second... and that's it. Okay, stop. The point's clear.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 43,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've already covered everything necessary and want to wrap up without rambling further. Which chunk fits best?",
+      "options": {
+        "A": "Look, the rest doesn't matter — those three cover it.",
+        "B": "Let me check if I understand.",
+        "C": "The reason for this is...",
+        "D": "The short/simple answer is..."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Cutting the list short\" function — you've already covered everything necessary and want to wrap up without rambling further. The correct chunk is: \"Look, the rest doesn't matter — those three cover it.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 44,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to signal upfront that you'll make several structured points. Which chunk fits best?",
+      "options": {
+        "A": "As a result...",
+        "B": "There are three main points I'd like to make.",
+        "C": "It depends on...",
+        "D": "Let's come back to the key question."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Structuring (extended)\" function — you want to signal upfront that you'll make several structured points. The correct chunk is: \"There are three main points I'd like to make.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 45,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to signal upfront that you'll make several structured points. Which chunk fits best?",
+      "options": {
+        "A": "What this really comes down to is...",
+        "B": "Today I'd like to discuss...",
+        "C": "Another factor is...",
+        "D": "The big picture is..."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Structuring (extended)\" function — you want to signal upfront that you'll make several structured points. The correct chunk is: \"What this really comes down to is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 46,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to state your personal opinion or belief about an issue. Which chunk fits best?",
+      "options": {
+        "A": "Today I'd like to discuss...",
+        "B": "I'm inclined to think that...",
+        "C": "What do you think?",
+        "D": "How do you see this?"
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Giving opinions\" function — you want to state your personal opinion or belief about an issue. The correct chunk is: \"I'm inclined to think that...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 47,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to state your personal opinion or belief about an issue. Which chunk fits best?",
+      "options": {
+        "A": "Let's look at this step by step.",
+        "B": "I have mixed feelings about...",
+        "C": "Take the case of...",
+        "D": "In summary..."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Giving opinions\" function — you want to state your personal opinion or belief about an issue. The correct chunk is: \"I have mixed feelings about...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 48,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to say something without stating it as an absolute — adding a degree of caution. Which chunk fits best?",
+      "options": {
+        "A": "What I mean is...",
+        "B": "The key takeaway is...",
+        "C": "To some extent...",
+        "D": "This can be attributed to..."
+      },
+      "correct": "C",
+      "explanation": "This chunk belongs to the \"Hedging / degree\" function — you want to say something without stating it as an absolute — adding a degree of caution. The correct chunk is: \"To some extent...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 49,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to say something without stating it as an absolute — adding a degree of caution. Which chunk fits best?",
+      "options": {
+        "A": "Generally speaking...",
+        "B": "On the other hand...",
+        "C": "The best option is...",
+        "D": "Let me check if I understand."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Hedging / degree\" function — you want to say something without stating it as an absolute — adding a degree of caution. The correct chunk is: \"Generally speaking...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 50,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to raise a contrasting point or downside compared to what was just said. Which chunk fits best?",
+      "options": {
+        "A": "Look, the rest doesn't matter — those three cover it.",
+        "B": "That being said...",
+        "C": "To some extent...",
+        "D": "There are three main points I'd like to make."
+      },
+      "correct": "B",
+      "explanation": "This chunk belongs to the \"Contrast\" function — you want to raise a contrasting point or downside compared to what was just said. The correct chunk is: \"That being said...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 51,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to raise a contrasting point or downside compared to what was just said. Which chunk fits best?",
+      "options": {
+        "A": "Having said that...",
+        "B": "As a result...",
+        "C": "Let's step back for a moment.",
+        "D": "Let me expand on that."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Contrast\" function — you want to raise a contrasting point or downside compared to what was just said. The correct chunk is: \"Having said that...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 52,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to raise a contrasting point or downside compared to what was just said. Which chunk fits best?",
+      "options": {
+        "A": "On the other hand...",
+        "B": "Let's not lose sight of the goal.",
+        "C": "I see your point, but...",
+        "D": "To put it another way..."
+      },
+      "correct": "A",
+      "explanation": "This chunk belongs to the \"Contrast\" function — you want to raise a contrasting point or downside compared to what was just said. The correct chunk is: \"On the other hand...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 53,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to explain why something happened, in a more formal register than a plain \"because\". Which chunk fits best?",
+      "options": {
+        "A": "Let me check if I understand.",
+        "B": "That's a good question.",
+        "C": "I see your point, but...",
+        "D": "This can be attributed to..."
+      },
+      "correct": "D",
+      "explanation": "This chunk belongs to the \"Cause & effect (formal)\" function — you want to explain why something happened, in a more formal register than a plain \"because\". The correct chunk is: \"This can be attributed to...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    },
+    {
+      "id": 54,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to explain why something happened, in a more formal register than a plain \"because\". Which chunk fits best?",
+      "options": {
+        "A": "Let's not lose sight of the goal.",
+        "B": "Maybe we should look at the bigger picture.",
+        "C": "This is similar to...",
+        "D": "The reason for this is..."
+      },
+      "correct": "D",
+      "explanation": "This chunk belongs to the \"Cause & effect (formal)\" function — you want to explain why something happened, in a more formal register than a plain \"because\". The correct chunk is: \"The reason for this is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+    }
+  ]
+}

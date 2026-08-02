@@ -1,0 +1,9 @@
+{
+  "name": "chunk-atlas-exam",
+  "private": true,
+  "description": "Chunk Atlas Quiz Trainer — static HTML/CSS/JS, no bundler",
+  "scripts": {
+    "build": "echo 'static site — nothing to build'",
+    "dev": "npx --yes serve -l 8010 ."
+  }
+}
