@@ -45,12 +45,18 @@ npm run dev
 
 ## Deploy to Cloudflare Pages
 
-Static site — `package.json`'s `build` script is a no-op so Cloudflare's
-default `npm run build` succeeds even with no bundler configured. In the
-Pages project settings:
+Static site, no bundler — `npm run build` just copies `index.html`,
+`style.css`, `app.js`, `data/`, `fonts/` into `dist/` (nothing to
+transpile/bundle, this only exists so Cloudflare Pages has a `dist`
+directory to publish, matching its default). In the Pages project
+settings:
 
-- **Build command:** leave empty, or `npm run build` (either works)
-- **Build output directory:** `/`
+- **Build command:** `npm run build`
+- **Build output directory:** `dist`
+
+(Unlike `cbap-cert`, which is configured with output directory `/` and no
+build step — either approach works, this one just matches Cloudflare's
+usual default instead of requiring a manual setting change.)
 
 ## Project structure
 
