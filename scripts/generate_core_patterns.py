@@ -12,131 +12,292 @@ OUT_PATH = os.path.join(SCRIPT_DIR, "..", "data", "core-patterns.json")
 # functions (structuring / opinion / hedging-degree / contrast / cause-effect).
 #
 # Filtering/scoring in the app is done at TIER level (the 5 big nav tabs of
-# ChunkAtlas_EN.jsx: Situations / Real-Time Fluency / Voice & Presence /
-# Language Systems / Confidence & Humour) — NOT at this fine function-group
-# level, per explicit request ("too many sub-tabs" for a filter). The fine
-# group name below is only used inside the English explanation text, for
-# learning value, not as a separate filterable field.
+# ChunkAtlas_EN.jsx) — NOT at this fine function-group level (too many for a
+# filter UI). The fine group name/usage_note/example ARE used inside each
+# question's explanation text, for learning value.
 TIER_ID = "core"
 TIER_NAME = "Situations"
 
-# (function_label, context_en, [phrases])
+# Each group: (function_label, question_context_en, usage_note_en, [(phrase, example_sentence), ...])
+# - question_context_en: the situation described in the question stem ("You...")
+# - usage_note_en: general "used when..." explanation, used when a phrase from
+#   this group appears as a WRONG answer, to explain what it actually fits.
+# - example_sentence: a natural sentence using that exact phrase, shown for
+#   whichever phrase ends up as the CORRECT answer.
 groups_def = [
     ("Opening",
      "You've just joined a meeting and need to open it so people get started.",
-     ["Thanks everyone for joining.", "Let's get started.", "Let's take a quick look at the agenda.",
-      "The goal of this meeting is...", "Today I'd like to discuss...", "Let me start with a quick overview.",
-      "I'll briefly walk through...", "Let's begin with the key issue.", "Before we dive in, a quick update."]),
+     "used to move from small talk into the actual meeting content, right at the start",
+     [
+        ("Thanks everyone for joining.", "Thanks everyone for joining — I know it's a busy week."),
+        ("Let's get started.", "Let's get started, we have a lot to cover today."),
+        ("Let's take a quick look at the agenda.", "Let's take a quick look at the agenda before we dive into details."),
+        ("The goal of this meeting is...", "The goal of this meeting is to align on the Q3 roadmap."),
+        ("Today I'd like to discuss...", "Today I'd like to discuss the vendor delay and its impact on our timeline."),
+        ("Let me start with a quick overview.", "Let me start with a quick overview of where we stand."),
+        ("I'll briefly walk through...", "I'll briefly walk through the numbers before we open it up for questions."),
+        ("Let's begin with the key issue.", "Let's begin with the key issue: our churn rate went up last month."),
+        ("Before we dive in, a quick update.", "Before we dive in, a quick update: the client pushed the deadline by a week."),
+     ]),
     ("Framing the main point",
      "You want to highlight the single most important point before saying anything else.",
-     ["The key point is...", "The main issue is...", "The real question is...", "The core problem is...",
-      "The main takeaway is...", "What really matters here is...", "The big picture is...",
-      "The short/simple answer is...", "The bottom line is..."]),
+     "used to flag the single most important point before anything else",
+     [
+        ("The key point is...", "The key point is that we're three weeks behind schedule."),
+        ("The main issue is...", "The main issue is a lack of clear ownership on this task."),
+        ("The real question is...", "The real question is whether we can hit the deadline at all."),
+        ("The core problem is...", "The core problem is that the two teams are using different data sources."),
+        ("The main takeaway is...", "The main takeaway is that customer feedback was overwhelmingly positive."),
+        ("What really matters here is...", "What really matters here is user retention, not just sign-ups."),
+        ("The big picture is...", "The big picture is that we need to diversify our revenue streams."),
+        ("The short/simple answer is...", "The short answer is: not yet, but we're close."),
+        ("The bottom line is...", "The bottom line is we need more budget to hit this target."),
+     ]),
     ("Organizing ideas",
      "You want to signal upfront that you'll present your ideas in a clear, multi-part structure.",
-     ["There are three things to consider.", "There are two main reasons.", "Let's break this down.",
-      "Let's look at this step by step.", "Let's go through them one by one.",
-      "We can think about this in two ways.", "This can be divided into two parts.",
-      "On the one hand... on the other hand..."]),
+     "used to signal you're about to lay out multiple structured points",
+     [
+        ("There are three things to consider.", "There are three things to consider: cost, timeline, and risk."),
+        ("There are two main reasons.", "There are two main reasons why the launch slipped."),
+        ("Let's break this down.", "Let's break this down into smaller, manageable pieces."),
+        ("Let's look at this step by step.", "Let's look at this step by step, starting with the data."),
+        ("Let's go through them one by one.", "Let's go through them one by one so nothing gets missed."),
+        ("We can think about this in two ways.", "We can think about this in two ways: short-term impact and long-term cost."),
+        ("This can be divided into two parts.", "This can be divided into two parts: the technical fix and the communication plan."),
+        ("On the one hand... on the other hand...", "On the one hand, it's cheaper; on the other hand, it's slower."),
+     ]),
     ("Explaining",
      "You need to explain the reason or cause behind something you just mentioned.",
-     ["This happens because...", "The reason is...", "One explanation is...", "Another factor is...",
-      "This leads to...", "As a result...", "That's why...", "In other words...", "Put simply..."]),
+     "used to give the reason or cause behind something already stated",
+     [
+        ("This happens because...", "This happens because the API rate limit was hit during peak hours."),
+        ("The reason is...", "The reason is simple: we underestimated the QA time needed."),
+        ("One explanation is...", "One explanation is that the new pricing confused customers."),
+        ("Another factor is...", "Another factor is the seasonal drop in traffic."),
+        ("This leads to...", "This leads to longer wait times for support tickets."),
+        ("As a result...", "As a result, we had to push the release by a week."),
+        ("That's why...", "That's why we're proposing a phased rollout instead."),
+        ("In other words...", "In other words, the current process doesn't scale."),
+        ("Put simply...", "Put simply, we're spending more than we're making on this feature."),
+     ]),
     ("Giving examples",
      "You want to illustrate your point with a specific example.",
-     ["For example...", "For instance...", "A good example is...", "Let me give you an example.",
-      "Take the case of...", "This is similar to...", "This reminds me of..."]),
+     "used to illustrate a point with a specific, concrete case",
+     [
+        ("For example...", "For example, our biggest client saw a 30% drop in load time."),
+        ("For instance...", "For instance, last quarter we lost two deals over pricing alone."),
+        ("A good example is...", "A good example is the onboarding flow we redesigned in March."),
+        ("Let me give you an example.", "Let me give you an example of what I mean by \"friction\"."),
+        ("Take the case of...", "Take the case of our largest customer, who churned last month."),
+        ("This is similar to...", "This is similar to what happened with the previous vendor."),
+        ("This reminds me of...", "This reminds me of the outage we had back in January."),
+     ]),
     ("Clarifying",
      "The listener seems to have misunderstood you — you need to restate it more clearly.",
-     ["Let me clarify that.", "Just to clarify...", "What I mean is...", "Let me rephrase that.",
-      "To put it another way...", "Let me be more specific.", "Let me expand on that."]),
+     "used to restate something more clearly after being misunderstood",
+     [
+        ("Let me clarify that.", "Let me clarify that — I meant next Friday, not this Friday."),
+        ("Just to clarify...", "Just to clarify, this only affects the EU region."),
+        ("What I mean is...", "What I mean is we should pause, not cancel, the project."),
+        ("Let me rephrase that.", "Let me rephrase that so it's clearer."),
+        ("To put it another way...", "To put it another way, we're not ready to scale yet."),
+        ("Let me be more specific.", "Let me be more specific: I mean the checkout page, not the whole site."),
+        ("Let me expand on that.", "Let me expand on that a little, since it's an important point."),
+     ]),
     ("Asking questions",
      "You've just finished presenting and want to ask the listener what they think.",
-     ["What do you think?", "How do you see this?", "Does that make sense?",
-      "Could you elaborate on that?", "Can you walk me through that?", "What's your take on this?"]),
+     "used after presenting something, to check understanding or invite input",
+     [
+        ("What do you think?", "What do you think — does this approach make sense to you?"),
+        ("How do you see this?", "How do you see this playing out over the next quarter?"),
+        ("Does that make sense?", "Does that make sense, or should I go through it again?"),
+        ("Could you elaborate on that?", "Could you elaborate on that point about the budget?"),
+        ("Can you walk me through that?", "Can you walk me through that process again?"),
+        ("What's your take on this?", "What's your take on this — are we moving too fast?"),
+     ]),
     ("Disagreeing politely",
      "You disagree with an opinion just raised, but want to push back politely, without creating tension.",
-     ["I see your point, but...", "I'm not sure I agree.", "I see it slightly differently.",
-      "That might be true, but...", "I'm not convinced yet.", "I would challenge that assumption."]),
+     "used to push back on an opinion without creating tension",
+     [
+        ("I see your point, but...", "I see your point, but I think the risk here is too high."),
+        ("I'm not sure I agree.", "I'm not sure I agree — the data seems to say otherwise."),
+        ("I see it slightly differently.", "I see it slightly differently — I'd prioritize speed over polish here."),
+        ("That might be true, but...", "That might be true, but it doesn't solve the root problem."),
+        ("I'm not convinced yet.", "I'm not convinced yet — can we see more data first?"),
+        ("I would challenge that assumption.", "I would challenge that assumption — are we sure users actually want this?"),
+     ]),
     ("Steering the conversation",
      "The meeting is drifting off-topic — you want to pull everyone back to the main issue.",
-     ["Let's step back for a moment.", "Let's focus on the main issue.",
-      "Maybe we should look at the bigger picture.", "Let's not lose sight of the goal.",
-      "Let's come back to the key question.", "Let's take a closer look."]),
+     "used to pull a drifting conversation back to the main issue",
+     [
+        ("Let's step back for a moment.", "Let's step back for a moment and look at the bigger goal."),
+        ("Let's focus on the main issue.", "Let's focus on the main issue — the deadline, not the design details."),
+        ("Maybe we should look at the bigger picture.", "Maybe we should look at the bigger picture instead of one metric."),
+        ("Let's not lose sight of the goal.", "Let's not lose sight of the goal: shipping by Friday."),
+        ("Let's come back to the key question.", "Let's come back to the key question: can we hit the deadline?"),
+        ("Let's take a closer look.", "Let's take a closer look at what's actually causing the delay."),
+     ]),
     ("Concluding",
      "You're wrapping up your presentation and want to summarize the main point.",
-     ["So to summarize...", "To wrap up...", "The key takeaway is...", "In summary...", "Overall...",
-      "So the conclusion is...", "What we learned is...", "So moving forward..."]),
+     "used to wrap up and summarize the main point at the end",
+     [
+        ("So to summarize...", "So to summarize, we're on track but tight on budget."),
+        ("To wrap up...", "To wrap up, here are the three action items."),
+        ("The key takeaway is...", "The key takeaway is that we need more testing time."),
+        ("In summary...", "In summary, the pilot performed better than expected."),
+        ("Overall...", "Overall, the feedback was positive with a few concerns about pricing."),
+        ("So the conclusion is...", "So the conclusion is we should move forward with vendor B."),
+        ("What we learned is...", "What we learned is that users want fewer steps, not more features."),
+        ("So moving forward...", "So moving forward, let's assign owners to each task."),
+     ]),
     ("Decision making",
      "You want to propose a specific direction or decision for the group.",
-     ["We should probably...", "The best option is...", "I suggest we...",
-      "One possible solution is...", "The next step is...", "Let's agree on...", "We should prioritize..."]),
+     "used to propose a specific direction or decision",
+     [
+        ("We should probably...", "We should probably delay the launch by a week."),
+        ("The best option is...", "The best option is to run a small pilot first."),
+        ("I suggest we...", "I suggest we get legal's sign-off before proceeding."),
+        ("One possible solution is...", "One possible solution is to split the release into two phases."),
+        ("The next step is...", "The next step is to confirm budget with finance."),
+        ("Let's agree on...", "Let's agree on a deadline before we leave this meeting."),
+        ("We should prioritize...", "We should prioritize the mobile fix over the new feature."),
+     ]),
     ("Buying thinking time",
      "You've just been asked a tough question and need a moment to think before answering.",
-     ["That's a good question.", "Let me think about that.", "Give me a second.", "Let me consider that.",
-      "Let me check if I understand.", "Let me think this through.", "Let me get back to that."]),
+     "used to stall briefly before answering a tough question",
+     [
+        ("That's a good question.", "That's a good question — give me a moment to think."),
+        ("Let me think about that.", "Let me think about that for a second."),
+        ("Give me a second.", "Give me a second to pull up the numbers."),
+        ("Let me consider that.", "Let me consider that before I answer."),
+        ("Let me check if I understand.", "Let me check if I understand — you mean the whole team, not just engineering?"),
+        ("Let me think this through.", "Let me think this through out loud for a moment."),
+        ("Let me get back to that.", "Let me get back to that after I check with the team."),
+     ]),
     ("Cutting the list short",
      "You've already covered everything necessary and want to wrap up without rambling further.",
-     ["That's all. Anything else is noise.", "Look, the rest doesn't matter — those three cover it.",
-      "First, second... and that's it. Okay, stop. The point's clear."]),
+     "used to stop listing and signal you're done, no more needed",
+     [
+        ("That's all. Anything else is noise.", "Those three risks are what matter. That's all — anything else is noise."),
+        ("Look, the rest doesn't matter — those three cover it.", "Look, the rest doesn't matter — those three cover it, let's move on."),
+        ("First, second... and that's it. Okay, stop. The point's clear.", "First, cost. Second, timeline. And that's it. Okay, stop — the point's clear."),
+     ]),
     ("Structuring (extended)",
      "You want to signal upfront that you'll make several structured points.",
-     ["There are three main points I'd like to make.", "What this really comes down to is...",
-      "If we break it down..."]),
+     "used to preview that several structured points are coming",
+     [
+        ("There are three main points I'd like to make.", "There are three main points I'd like to make before we open discussion."),
+        ("What this really comes down to is...", "What this really comes down to is trust between the two teams."),
+        ("If we break it down...", "If we break it down, most of the delay came from QA, not development."),
+     ]),
     ("Giving opinions",
      "You want to state your personal opinion or belief about an issue.",
-     ["I tend to believe that...", "I'm inclined to think that...", "I would argue that...",
-      "I have mixed feelings about..."]),
+     "used to state a personal belief or opinion on an issue",
+     [
+        ("I tend to believe that...", "I tend to believe that speed matters more than perfection here."),
+        ("I'm inclined to think that...", "I'm inclined to think that we're overcomplicating this."),
+        ("I would argue that...", "I would argue that the risk is worth taking."),
+        ("I have mixed feelings about...", "I have mixed feelings about pushing the deadline again."),
+     ]),
     ("Hedging / degree",
      "You want to say something without stating it as an absolute — adding a degree of caution.",
-     ["To some extent...", "It depends on...", "It's more complicated than it appears.",
-      "Generally speaking..."]),
+     "used to soften a claim instead of stating it as absolute",
+     [
+        ("To some extent...", "To some extent, yes, but it depends on the team's bandwidth."),
+        ("It depends on...", "It depends on whether legal approves the new terms."),
+        ("It's more complicated than it appears.", "It's more complicated than it appears — there are compliance issues too."),
+        ("Generally speaking...", "Generally speaking, our customers prefer simplicity over more features."),
+     ]),
     ("Contrast",
      "You want to raise a contrasting point or downside compared to what was just said.",
-     ["On the other hand...", "That being said...", "Having said that...", "By contrast...",
-      "The downside is...", "A major advantage is..."]),
+     "used to raise an opposing point or downside",
+     [
+        ("On the other hand...", "On the other hand, delaying might cost us the client entirely."),
+        ("That being said...", "That being said, we should still monitor it closely."),
+        ("Having said that...", "Having said that, I think the risk is manageable."),
+        ("By contrast...", "By contrast, our competitor shipped this feature two months ago."),
+        ("The downside is...", "The downside is it will take an extra sprint to build properly."),
+        ("A major advantage is...", "A major advantage is that it reduces support tickets significantly."),
+     ]),
     ("Cause & effect (formal)",
      "You want to explain why something happened, in a more formal register than a plain \"because\".",
-     ["The reason for this is...", "This is mainly because...", "Consequently...",
-      "This can be attributed to..."]),
+     "used to explain why something happened, in a more formal register",
+     [
+        ("The reason for this is...", "The reason for this is a mismatch between the two systems' data formats."),
+        ("This is mainly because...", "This is mainly because the vendor missed their delivery date."),
+        ("Consequently...", "Consequently, we had to push the launch by two weeks."),
+        ("This can be attributed to...", "This can be attributed to the recent change in the onboarding flow."),
+     ]),
 ]
 
-# sanity: unique phrases within each group, and build a global phrase->group map
+# flat lookup: group name -> (context, usage_note, [(phrase, example), ...])
+GROUPS = {name: (ctx, note, phrases) for name, ctx, note, phrases in groups_def}
+# global phrase -> group name map (for distractor sourcing)
 all_phrases = []
-for name, ctx, phrases in groups_def:
-    for p in phrases:
-        all_phrases.append((name, p))
+for name, ctx, note, phrases in groups_def:
+    for phrase, example in phrases:
+        all_phrases.append((name, phrase))
 
-def build_question(qid, name, ctx, phrases, used_correct):
+
+def equivalents_for(group_name, exclude_phrase, k=3):
+    _, _, phrases = GROUPS[group_name]
+    pool = [p for p, _ in phrases if p != exclude_phrase]
+    random.shuffle(pool)
+    return pool[:k]
+
+
+def build_question(qid, name, ctx, usage_note, phrases, used_correct):
     # pick a correct phrase not yet used for this group if possible
-    candidates = [p for p in phrases if p not in used_correct.get(name, set())]
+    candidates = [p for p, _ in phrases if p not in used_correct.get(name, set())]
     if not candidates:
-        candidates = phrases
+        candidates = [p for p, _ in phrases]
     correct_phrase = random.choice(candidates)
+    correct_example = dict(phrases)[correct_phrase]
     used_correct.setdefault(name, set()).add(correct_phrase)
 
     # distractors: 3 phrases from OTHER groups, no repeats
     other_pool = [(n, p) for n, p in all_phrases if n != name]
     random.shuffle(other_pool)
     distractors = []
+    seen_phrases = set()
     for n, p in other_pool:
-        if p == correct_phrase:
+        if p == correct_phrase or p in seen_phrases:
             continue
-        if len(distractors) < 3:
-            distractors.append(p)
-    distractors = distractors[:3]
+        distractors.append((n, p))
+        seen_phrases.add(p)
+        if len(distractors) == 3:
+            break
 
-    options_pool = [correct_phrase] + distractors
-    random.shuffle(options_pool)
+    # assemble the 4 options: (phrase, is_correct, group_name)
+    all_options = [(correct_phrase, True, name)] + [(p, False, n) for n, p in distractors]
+    random.shuffle(all_options)
     letters = ["A", "B", "C", "D"]
-    options = {letters[i]: options_pool[i] for i in range(4)}
-    correct_letter = [l for l, v in options.items() if v == correct_phrase][0]
+    options = {}
+    explanation_blocks = []
+    correct_letter = None
+    for letter, (phrase, is_correct, group_name) in zip(letters, all_options):
+        options[letter] = phrase
+        if is_correct:
+            correct_letter = letter
+            eqs = equivalents_for(group_name, phrase, k=3)
+            eqs_str = " · ".join(f'"{e}"' for e in eqs)
+            article = "an" if group_name[0] in "AEIOU" else "a"
+            block = (
+                f'✓ Correct — "{phrase}" is {article} {group_name} chunk: {usage_note}.\n'
+                f'Example: "{correct_example}"'
+                + (f'\nOther ways to say it: {eqs_str}' if eqs else '')
+            )
+        else:
+            g_ctx, g_note, g_phrases = GROUPS[group_name]
+            eqs = equivalents_for(group_name, phrase, k=3)
+            eqs_str = " · ".join(f'"{e}"' for e in eqs)
+            block = (
+                f'✗ "{phrase}" belongs to {group_name} — {g_note}, not this context.'
+                + (f'\nOther ways to say it (same group): {eqs_str}' if eqs else '')
+            )
+        explanation_blocks.append(block)
 
-    explanation = (
-        f'This chunk belongs to the "{name}" function — {ctx[0].lower()}{ctx[1:]} '
-        f'The correct chunk is: "{correct_phrase}". The other options are valid chunks too, '
-        f'but they belong to a different communicative function, so they don\'t fit this context.'
-    )
+    explanation = "\n\n".join(explanation_blocks)
 
     return {
         "id": qid,
@@ -148,14 +309,15 @@ def build_question(qid, name, ctx, phrases, used_correct):
         "explanation": explanation,
     }
 
+
 questions = []
 qid = 1
 used_correct = {}
 # generate ~3 questions per group (or len(phrases) if fewer), capped at 4
-for name, ctx, phrases in groups_def:
+for name, ctx, usage_note, phrases in groups_def:
     n = min(4, max(2, len(phrases) // 2))
     for _ in range(n):
-        questions.append(build_question(qid, name, ctx, phrases, used_correct))
+        questions.append(build_question(qid, name, ctx, usage_note, phrases, used_correct))
         qid += 1
 
 print("total questions:", len(questions))

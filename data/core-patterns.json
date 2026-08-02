@@ -14,7 +14,7 @@
         "D": "So moving forward..."
       },
       "correct": "A",
-      "explanation": "This chunk belongs to the \"Opening\" function — you've just joined a meeting and need to open it so people get started. The correct chunk is: \"Let's get started.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✓ Correct — \"Let's get started.\" is an Opening chunk: used to move from small talk into the actual meeting content, right at the start.\nExample: \"Let's get started, we have a lot to cover today.\"\nOther ways to say it: \"The goal of this meeting is...\" · \"Let's take a quick look at the agenda.\" · \"Thanks everyone for joining.\"\n\n✗ \"This can be divided into two parts.\" belongs to Organizing ideas — used to signal you're about to lay out multiple structured points, not this context.\nOther ways to say it (same group): \"There are three things to consider.\" · \"We can think about this in two ways.\" · \"Let's look at this step by step.\"\n\n✗ \"Does that make sense?\" belongs to Asking questions — used after presenting something, to check understanding or invite input, not this context.\nOther ways to say it (same group): \"Could you elaborate on that?\" · \"What do you think?\" · \"How do you see this?\"\n\n✗ \"So moving forward...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"What we learned is...\" · \"The key takeaway is...\" · \"So the conclusion is...\""
     },
     {
       "id": 2,
@@ -22,13 +22,13 @@
       "kaName": "Situations",
       "question": "You've just joined a meeting and need to open it so people get started. Which chunk fits best?",
       "options": {
-        "A": "Let me expand on that.",
-        "B": "Take the case of...",
-        "C": "In summary...",
-        "D": "Today I'd like to discuss..."
+        "A": "There are three things to consider.",
+        "B": "The goal of this meeting is...",
+        "C": "Having said that...",
+        "D": "That being said..."
       },
-      "correct": "D",
-      "explanation": "This chunk belongs to the \"Opening\" function — you've just joined a meeting and need to open it so people get started. The correct chunk is: \"Today I'd like to discuss...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "B",
+      "explanation": "✗ \"There are three things to consider.\" belongs to Organizing ideas — used to signal you're about to lay out multiple structured points, not this context.\nOther ways to say it (same group): \"Let's look at this step by step.\" · \"Let's break this down.\" · \"There are two main reasons.\"\n\n✓ Correct — \"The goal of this meeting is...\" is an Opening chunk: used to move from small talk into the actual meeting content, right at the start.\nExample: \"The goal of this meeting is to align on the Q3 roadmap.\"\nOther ways to say it: \"Let me start with a quick overview.\" · \"Let's take a quick look at the agenda.\" · \"Before we dive in, a quick update.\"\n\n✗ \"Having said that...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"That being said...\" · \"On the other hand...\" · \"By contrast...\"\n\n✗ \"That being said...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"The downside is...\" · \"By contrast...\" · \"Having said that...\""
     },
     {
       "id": 3,
@@ -36,13 +36,13 @@
       "kaName": "Situations",
       "question": "You've just joined a meeting and need to open it so people get started. Which chunk fits best?",
       "options": {
-        "A": "So the conclusion is...",
-        "B": "Consequently...",
-        "C": "Thanks everyone for joining.",
-        "D": "The downside is..."
+        "A": "Before we dive in, a quick update.",
+        "B": "That's a good question.",
+        "C": "What's your take on this?",
+        "D": "The reason is..."
       },
-      "correct": "C",
-      "explanation": "This chunk belongs to the \"Opening\" function — you've just joined a meeting and need to open it so people get started. The correct chunk is: \"Thanks everyone for joining.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "A",
+      "explanation": "✓ Correct — \"Before we dive in, a quick update.\" is an Opening chunk: used to move from small talk into the actual meeting content, right at the start.\nExample: \"Before we dive in, a quick update: the client pushed the deadline by a week.\"\nOther ways to say it: \"I'll briefly walk through...\" · \"Let's get started.\" · \"The goal of this meeting is...\"\n\n✗ \"That's a good question.\" belongs to Buying thinking time — used to stall briefly before answering a tough question, not this context.\nOther ways to say it (same group): \"Let me think this through.\" · \"Let me consider that.\" · \"Let me check if I understand.\"\n\n✗ \"What's your take on this?\" belongs to Asking questions — used after presenting something, to check understanding or invite input, not this context.\nOther ways to say it (same group): \"What do you think?\" · \"Could you elaborate on that?\" · \"Does that make sense?\"\n\n✗ \"The reason is...\" belongs to Explaining — used to give the reason or cause behind something already stated, not this context.\nOther ways to say it (same group): \"As a result...\" · \"This happens because...\" · \"One explanation is...\""
     },
     {
       "id": 4,
@@ -50,13 +50,13 @@
       "kaName": "Situations",
       "question": "You've just joined a meeting and need to open it so people get started. Which chunk fits best?",
       "options": {
-        "A": "Maybe we should look at the bigger picture.",
-        "B": "Before we dive in, a quick update.",
-        "C": "I see your point, but...",
-        "D": "Put simply..."
+        "A": "Overall...",
+        "B": "Let me rephrase that.",
+        "C": "That's why...",
+        "D": "Thanks everyone for joining."
       },
-      "correct": "B",
-      "explanation": "This chunk belongs to the \"Opening\" function — you've just joined a meeting and need to open it so people get started. The correct chunk is: \"Before we dive in, a quick update.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "D",
+      "explanation": "✗ \"Overall...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"So the conclusion is...\" · \"To wrap up...\" · \"What we learned is...\"\n\n✗ \"Let me rephrase that.\" belongs to Clarifying — used to restate something more clearly after being misunderstood, not this context.\nOther ways to say it (same group): \"Let me be more specific.\" · \"Just to clarify...\" · \"To put it another way...\"\n\n✗ \"That's why...\" belongs to Explaining — used to give the reason or cause behind something already stated, not this context.\nOther ways to say it (same group): \"This leads to...\" · \"As a result...\" · \"This happens because...\"\n\n✓ Correct — \"Thanks everyone for joining.\" is an Opening chunk: used to move from small talk into the actual meeting content, right at the start.\nExample: \"Thanks everyone for joining — I know it's a busy week.\"\nOther ways to say it: \"Today I'd like to discuss...\" · \"Let's get started.\" · \"Let me start with a quick overview.\""
     },
     {
       "id": 5,
@@ -64,13 +64,13 @@
       "kaName": "Situations",
       "question": "You want to highlight the single most important point before saying anything else. Which chunk fits best?",
       "options": {
-        "A": "What really matters here is...",
-        "B": "Let me start with a quick overview.",
-        "C": "We can think about this in two ways.",
-        "D": "Let's not lose sight of the goal."
+        "A": "The main takeaway is...",
+        "B": "Maybe we should look at the bigger picture.",
+        "C": "I'm not convinced yet.",
+        "D": "That being said..."
       },
       "correct": "A",
-      "explanation": "This chunk belongs to the \"Framing the main point\" function — you want to highlight the single most important point before saying anything else. The correct chunk is: \"What really matters here is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✓ Correct — \"The main takeaway is...\" is a Framing the main point chunk: used to flag the single most important point before anything else.\nExample: \"The main takeaway is that customer feedback was overwhelmingly positive.\"\nOther ways to say it: \"The big picture is...\" · \"The bottom line is...\" · \"The real question is...\"\n\n✗ \"Maybe we should look at the bigger picture.\" belongs to Steering the conversation — used to pull a drifting conversation back to the main issue, not this context.\nOther ways to say it (same group): \"Let's not lose sight of the goal.\" · \"Let's step back for a moment.\" · \"Let's focus on the main issue.\"\n\n✗ \"I'm not convinced yet.\" belongs to Disagreeing politely — used to push back on an opinion without creating tension, not this context.\nOther ways to say it (same group): \"I see your point, but...\" · \"That might be true, but...\" · \"I'm not sure I agree.\"\n\n✗ \"That being said...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"By contrast...\" · \"On the other hand...\" · \"The downside is...\""
     },
     {
       "id": 6,
@@ -78,13 +78,13 @@
       "kaName": "Situations",
       "question": "You want to highlight the single most important point before saying anything else. Which chunk fits best?",
       "options": {
-        "A": "For example...",
-        "B": "The bottom line is...",
-        "C": "What's your take on this?",
-        "D": "We should prioritize..."
+        "A": "Let's come back to the key question.",
+        "B": "What really matters here is...",
+        "C": "For example...",
+        "D": "That's all. Anything else is noise."
       },
       "correct": "B",
-      "explanation": "This chunk belongs to the \"Framing the main point\" function — you want to highlight the single most important point before saying anything else. The correct chunk is: \"The bottom line is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✗ \"Let's come back to the key question.\" belongs to Steering the conversation — used to pull a drifting conversation back to the main issue, not this context.\nOther ways to say it (same group): \"Let's step back for a moment.\" · \"Let's take a closer look.\" · \"Maybe we should look at the bigger picture.\"\n\n✓ Correct — \"What really matters here is...\" is a Framing the main point chunk: used to flag the single most important point before anything else.\nExample: \"What really matters here is user retention, not just sign-ups.\"\nOther ways to say it: \"The big picture is...\" · \"The key point is...\" · \"The main issue is...\"\n\n✗ \"For example...\" belongs to Giving examples — used to illustrate a point with a specific, concrete case, not this context.\nOther ways to say it (same group): \"This is similar to...\" · \"A good example is...\" · \"This reminds me of...\"\n\n✗ \"That's all. Anything else is noise.\" belongs to Cutting the list short — used to stop listing and signal you're done, no more needed, not this context.\nOther ways to say it (same group): \"Look, the rest doesn't matter — those three cover it.\" · \"First, second... and that's it. Okay, stop. The point's clear.\""
     },
     {
       "id": 7,
@@ -92,13 +92,13 @@
       "kaName": "Situations",
       "question": "You want to highlight the single most important point before saying anything else. Which chunk fits best?",
       "options": {
-        "A": "The real question is...",
-        "B": "It's more complicated than it appears.",
-        "C": "Does that make sense?",
-        "D": "That's a good question."
+        "A": "One possible solution is...",
+        "B": "For example...",
+        "C": "Let me start with a quick overview.",
+        "D": "The real question is..."
       },
-      "correct": "A",
-      "explanation": "This chunk belongs to the \"Framing the main point\" function — you want to highlight the single most important point before saying anything else. The correct chunk is: \"The real question is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "D",
+      "explanation": "✗ \"One possible solution is...\" belongs to Decision making — used to propose a specific direction or decision, not this context.\nOther ways to say it (same group): \"We should probably...\" · \"We should prioritize...\" · \"I suggest we...\"\n\n✗ \"For example...\" belongs to Giving examples — used to illustrate a point with a specific, concrete case, not this context.\nOther ways to say it (same group): \"For instance...\" · \"A good example is...\" · \"This is similar to...\"\n\n✗ \"Let me start with a quick overview.\" belongs to Opening — used to move from small talk into the actual meeting content, right at the start, not this context.\nOther ways to say it (same group): \"Let's get started.\" · \"Let's take a quick look at the agenda.\" · \"The goal of this meeting is...\"\n\n✓ Correct — \"The real question is...\" is a Framing the main point chunk: used to flag the single most important point before anything else.\nExample: \"The real question is whether we can hit the deadline at all.\"\nOther ways to say it: \"The main takeaway is...\" · \"The core problem is...\" · \"The short/simple answer is...\""
     },
     {
       "id": 8,
@@ -106,13 +106,13 @@
       "kaName": "Situations",
       "question": "You want to highlight the single most important point before saying anything else. Which chunk fits best?",
       "options": {
-        "A": "The key takeaway is...",
-        "B": "What's your take on this?",
-        "C": "The short/simple answer is...",
-        "D": "That might be true, but..."
+        "A": "Let me think this through.",
+        "B": "That's why...",
+        "C": "The main issue is...",
+        "D": "In other words..."
       },
       "correct": "C",
-      "explanation": "This chunk belongs to the \"Framing the main point\" function — you want to highlight the single most important point before saying anything else. The correct chunk is: \"The short/simple answer is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✗ \"Let me think this through.\" belongs to Buying thinking time — used to stall briefly before answering a tough question, not this context.\nOther ways to say it (same group): \"That's a good question.\" · \"Let me get back to that.\" · \"Let me consider that.\"\n\n✗ \"That's why...\" belongs to Explaining — used to give the reason or cause behind something already stated, not this context.\nOther ways to say it (same group): \"Another factor is...\" · \"As a result...\" · \"One explanation is...\"\n\n✓ Correct — \"The main issue is...\" is a Framing the main point chunk: used to flag the single most important point before anything else.\nExample: \"The main issue is a lack of clear ownership on this task.\"\nOther ways to say it: \"The real question is...\" · \"The core problem is...\" · \"The big picture is...\"\n\n✗ \"In other words...\" belongs to Explaining — used to give the reason or cause behind something already stated, not this context.\nOther ways to say it (same group): \"As a result...\" · \"This leads to...\" · \"One explanation is...\""
     },
     {
       "id": 9,
@@ -120,13 +120,13 @@
       "kaName": "Situations",
       "question": "You want to signal upfront that you'll present your ideas in a clear, multi-part structure. Which chunk fits best?",
       "options": {
-        "A": "Let's break this down.",
-        "B": "Could you elaborate on that?",
-        "C": "Let me clarify that.",
-        "D": "That's why..."
+        "A": "Let's go through them one by one.",
+        "B": "I have mixed feelings about...",
+        "C": "Let's not lose sight of the goal.",
+        "D": "The goal of this meeting is..."
       },
       "correct": "A",
-      "explanation": "This chunk belongs to the \"Organizing ideas\" function — you want to signal upfront that you'll present your ideas in a clear, multi-part structure. The correct chunk is: \"Let's break this down.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✓ Correct — \"Let's go through them one by one.\" is an Organizing ideas chunk: used to signal you're about to lay out multiple structured points.\nExample: \"Let's go through them one by one so nothing gets missed.\"\nOther ways to say it: \"We can think about this in two ways.\" · \"There are three things to consider.\" · \"Let's break this down.\"\n\n✗ \"I have mixed feelings about...\" belongs to Giving opinions — used to state a personal belief or opinion on an issue, not this context.\nOther ways to say it (same group): \"I'm inclined to think that...\" · \"I would argue that...\" · \"I tend to believe that...\"\n\n✗ \"Let's not lose sight of the goal.\" belongs to Steering the conversation — used to pull a drifting conversation back to the main issue, not this context.\nOther ways to say it (same group): \"Let's focus on the main issue.\" · \"Let's take a closer look.\" · \"Maybe we should look at the bigger picture.\"\n\n✗ \"The goal of this meeting is...\" belongs to Opening — used to move from small talk into the actual meeting content, right at the start, not this context.\nOther ways to say it (same group): \"Thanks everyone for joining.\" · \"Let's begin with the key issue.\" · \"Let's take a quick look at the agenda.\""
     },
     {
       "id": 10,
@@ -134,13 +134,13 @@
       "kaName": "Situations",
       "question": "You want to signal upfront that you'll present your ideas in a clear, multi-part structure. Which chunk fits best?",
       "options": {
-        "A": "I'll briefly walk through...",
-        "B": "This can be divided into two parts.",
-        "C": "By contrast...",
-        "D": "I see it slightly differently."
+        "A": "Another factor is...",
+        "B": "The short/simple answer is...",
+        "C": "First, second... and that's it. Okay, stop. The point's clear.",
+        "D": "Let's look at this step by step."
       },
-      "correct": "B",
-      "explanation": "This chunk belongs to the \"Organizing ideas\" function — you want to signal upfront that you'll present your ideas in a clear, multi-part structure. The correct chunk is: \"This can be divided into two parts.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "D",
+      "explanation": "✗ \"Another factor is...\" belongs to Explaining — used to give the reason or cause behind something already stated, not this context.\nOther ways to say it (same group): \"The reason is...\" · \"In other words...\" · \"This leads to...\"\n\n✗ \"The short/simple answer is...\" belongs to Framing the main point — used to flag the single most important point before anything else, not this context.\nOther ways to say it (same group): \"The bottom line is...\" · \"The main takeaway is...\" · \"The key point is...\"\n\n✗ \"First, second... and that's it. Okay, stop. The point's clear.\" belongs to Cutting the list short — used to stop listing and signal you're done, no more needed, not this context.\nOther ways to say it (same group): \"Look, the rest doesn't matter — those three cover it.\" · \"That's all. Anything else is noise.\"\n\n✓ Correct — \"Let's look at this step by step.\" is an Organizing ideas chunk: used to signal you're about to lay out multiple structured points.\nExample: \"Let's look at this step by step, starting with the data.\"\nOther ways to say it: \"There are two main reasons.\" · \"This can be divided into two parts.\" · \"We can think about this in two ways.\""
     },
     {
       "id": 11,
@@ -148,13 +148,13 @@
       "kaName": "Situations",
       "question": "You want to signal upfront that you'll present your ideas in a clear, multi-part structure. Which chunk fits best?",
       "options": {
-        "A": "This leads to...",
-        "B": "The real question is...",
-        "C": "Let's go through them one by one.",
-        "D": "We should probably..."
+        "A": "This can be divided into two parts.",
+        "B": "A good example is...",
+        "C": "What we learned is...",
+        "D": "Maybe we should look at the bigger picture."
       },
-      "correct": "C",
-      "explanation": "This chunk belongs to the \"Organizing ideas\" function — you want to signal upfront that you'll present your ideas in a clear, multi-part structure. The correct chunk is: \"Let's go through them one by one.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "A",
+      "explanation": "✓ Correct — \"This can be divided into two parts.\" is an Organizing ideas chunk: used to signal you're about to lay out multiple structured points.\nExample: \"This can be divided into two parts: the technical fix and the communication plan.\"\nOther ways to say it: \"Let's look at this step by step.\" · \"Let's go through them one by one.\" · \"We can think about this in two ways.\"\n\n✗ \"A good example is...\" belongs to Giving examples — used to illustrate a point with a specific, concrete case, not this context.\nOther ways to say it (same group): \"For example...\" · \"Take the case of...\" · \"For instance...\"\n\n✗ \"What we learned is...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"To wrap up...\" · \"The key takeaway is...\" · \"So to summarize...\"\n\n✗ \"Maybe we should look at the bigger picture.\" belongs to Steering the conversation — used to pull a drifting conversation back to the main issue, not this context.\nOther ways to say it (same group): \"Let's step back for a moment.\" · \"Let's not lose sight of the goal.\" · \"Let's come back to the key question.\""
     },
     {
       "id": 12,
@@ -162,13 +162,13 @@
       "kaName": "Situations",
       "question": "You want to signal upfront that you'll present your ideas in a clear, multi-part structure. Which chunk fits best?",
       "options": {
-        "A": "On the one hand... on the other hand...",
-        "B": "On the other hand...",
-        "C": "Having said that...",
-        "D": "We should prioritize..."
+        "A": "There are two main reasons.",
+        "B": "In summary...",
+        "C": "If we break it down...",
+        "D": "The goal of this meeting is..."
       },
       "correct": "A",
-      "explanation": "This chunk belongs to the \"Organizing ideas\" function — you want to signal upfront that you'll present your ideas in a clear, multi-part structure. The correct chunk is: \"On the one hand... on the other hand...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✓ Correct — \"There are two main reasons.\" is an Organizing ideas chunk: used to signal you're about to lay out multiple structured points.\nExample: \"There are two main reasons why the launch slipped.\"\nOther ways to say it: \"Let's look at this step by step.\" · \"There are three things to consider.\" · \"Let's break this down.\"\n\n✗ \"In summary...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"Overall...\" · \"What we learned is...\" · \"To wrap up...\"\n\n✗ \"If we break it down...\" belongs to Structuring (extended) — used to preview that several structured points are coming, not this context.\nOther ways to say it (same group): \"There are three main points I'd like to make.\" · \"What this really comes down to is...\"\n\n✗ \"The goal of this meeting is...\" belongs to Opening — used to move from small talk into the actual meeting content, right at the start, not this context.\nOther ways to say it (same group): \"Let's begin with the key issue.\" · \"Let's get started.\" · \"Today I'd like to discuss...\""
     },
     {
       "id": 13,
@@ -176,13 +176,13 @@
       "kaName": "Situations",
       "question": "You need to explain the reason or cause behind something you just mentioned. Which chunk fits best?",
       "options": {
-        "A": "Let me consider that.",
-        "B": "The short/simple answer is...",
-        "C": "Let's take a closer look.",
-        "D": "That's why..."
+        "A": "The goal of this meeting is...",
+        "B": "In summary...",
+        "C": "Let me rephrase that.",
+        "D": "This happens because..."
       },
       "correct": "D",
-      "explanation": "This chunk belongs to the \"Explaining\" function — you need to explain the reason or cause behind something you just mentioned. The correct chunk is: \"That's why...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✗ \"The goal of this meeting is...\" belongs to Opening — used to move from small talk into the actual meeting content, right at the start, not this context.\nOther ways to say it (same group): \"Let's take a quick look at the agenda.\" · \"Before we dive in, a quick update.\" · \"Let's get started.\"\n\n✗ \"In summary...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"So to summarize...\" · \"What we learned is...\" · \"So moving forward...\"\n\n✗ \"Let me rephrase that.\" belongs to Clarifying — used to restate something more clearly after being misunderstood, not this context.\nOther ways to say it (same group): \"What I mean is...\" · \"To put it another way...\" · \"Let me expand on that.\"\n\n✓ Correct — \"This happens because...\" is an Explaining chunk: used to give the reason or cause behind something already stated.\nExample: \"This happens because the API rate limit was hit during peak hours.\"\nOther ways to say it: \"This leads to...\" · \"Another factor is...\" · \"In other words...\""
     },
     {
       "id": 14,
@@ -190,13 +190,13 @@
       "kaName": "Situations",
       "question": "You need to explain the reason or cause behind something you just mentioned. Which chunk fits best?",
       "options": {
-        "A": "To wrap up...",
+        "A": "Thanks everyone for joining.",
         "B": "Put simply...",
-        "C": "It's more complicated than it appears.",
-        "D": "There are two main reasons."
+        "C": "Let's focus on the main issue.",
+        "D": "The goal of this meeting is..."
       },
       "correct": "B",
-      "explanation": "This chunk belongs to the \"Explaining\" function — you need to explain the reason or cause behind something you just mentioned. The correct chunk is: \"Put simply...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✗ \"Thanks everyone for joining.\" belongs to Opening — used to move from small talk into the actual meeting content, right at the start, not this context.\nOther ways to say it (same group): \"Today I'd like to discuss...\" · \"I'll briefly walk through...\" · \"Let me start with a quick overview.\"\n\n✓ Correct — \"Put simply...\" is an Explaining chunk: used to give the reason or cause behind something already stated.\nExample: \"Put simply, we're spending more than we're making on this feature.\"\nOther ways to say it: \"This leads to...\" · \"As a result...\" · \"In other words...\"\n\n✗ \"Let's focus on the main issue.\" belongs to Steering the conversation — used to pull a drifting conversation back to the main issue, not this context.\nOther ways to say it (same group): \"Let's take a closer look.\" · \"Maybe we should look at the bigger picture.\" · \"Let's not lose sight of the goal.\"\n\n✗ \"The goal of this meeting is...\" belongs to Opening — used to move from small talk into the actual meeting content, right at the start, not this context.\nOther ways to say it (same group): \"Let me start with a quick overview.\" · \"Let's begin with the key issue.\" · \"I'll briefly walk through...\""
     },
     {
       "id": 15,
@@ -204,13 +204,13 @@
       "kaName": "Situations",
       "question": "You need to explain the reason or cause behind something you just mentioned. Which chunk fits best?",
       "options": {
-        "A": "What I mean is...",
-        "B": "Take the case of...",
-        "C": "This leads to...",
-        "D": "What's your take on this?"
+        "A": "Consequently...",
+        "B": "The reason is...",
+        "C": "The key point is...",
+        "D": "I suggest we..."
       },
-      "correct": "C",
-      "explanation": "This chunk belongs to the \"Explaining\" function — you need to explain the reason or cause behind something you just mentioned. The correct chunk is: \"This leads to...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "B",
+      "explanation": "✗ \"Consequently...\" belongs to Cause & effect (formal) — used to explain why something happened, in a more formal register, not this context.\nOther ways to say it (same group): \"This is mainly because...\" · \"The reason for this is...\" · \"This can be attributed to...\"\n\n✓ Correct — \"The reason is...\" is an Explaining chunk: used to give the reason or cause behind something already stated.\nExample: \"The reason is simple: we underestimated the QA time needed.\"\nOther ways to say it: \"This leads to...\" · \"One explanation is...\" · \"That's why...\"\n\n✗ \"The key point is...\" belongs to Framing the main point — used to flag the single most important point before anything else, not this context.\nOther ways to say it (same group): \"The core problem is...\" · \"The main issue is...\" · \"The real question is...\"\n\n✗ \"I suggest we...\" belongs to Decision making — used to propose a specific direction or decision, not this context.\nOther ways to say it (same group): \"We should probably...\" · \"The best option is...\" · \"Let's agree on...\""
     },
     {
       "id": 16,
@@ -218,13 +218,13 @@
       "kaName": "Situations",
       "question": "You need to explain the reason or cause behind something you just mentioned. Which chunk fits best?",
       "options": {
-        "A": "Let me be more specific.",
-        "B": "This happens because...",
-        "C": "On the other hand...",
-        "D": "Generally speaking..."
+        "A": "I'm inclined to think that...",
+        "B": "Thanks everyone for joining.",
+        "C": "There are three main points I'd like to make.",
+        "D": "One explanation is..."
       },
-      "correct": "B",
-      "explanation": "This chunk belongs to the \"Explaining\" function — you need to explain the reason or cause behind something you just mentioned. The correct chunk is: \"This happens because...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "D",
+      "explanation": "✗ \"I'm inclined to think that...\" belongs to Giving opinions — used to state a personal belief or opinion on an issue, not this context.\nOther ways to say it (same group): \"I have mixed feelings about...\" · \"I would argue that...\" · \"I tend to believe that...\"\n\n✗ \"Thanks everyone for joining.\" belongs to Opening — used to move from small talk into the actual meeting content, right at the start, not this context.\nOther ways to say it (same group): \"Today I'd like to discuss...\" · \"Before we dive in, a quick update.\" · \"Let's take a quick look at the agenda.\"\n\n✗ \"There are three main points I'd like to make.\" belongs to Structuring (extended) — used to preview that several structured points are coming, not this context.\nOther ways to say it (same group): \"If we break it down...\" · \"What this really comes down to is...\"\n\n✓ Correct — \"One explanation is...\" is an Explaining chunk: used to give the reason or cause behind something already stated.\nExample: \"One explanation is that the new pricing confused customers.\"\nOther ways to say it: \"In other words...\" · \"This happens because...\" · \"Put simply...\""
     },
     {
       "id": 17,
@@ -232,13 +232,13 @@
       "kaName": "Situations",
       "question": "You want to illustrate your point with a specific example. Which chunk fits best?",
       "options": {
-        "A": "Thanks everyone for joining.",
-        "B": "A good example is...",
-        "C": "Overall...",
-        "D": "The goal of this meeting is..."
+        "A": "The bottom line is...",
+        "B": "So the conclusion is...",
+        "C": "For instance...",
+        "D": "Could you elaborate on that?"
       },
-      "correct": "B",
-      "explanation": "This chunk belongs to the \"Giving examples\" function — you want to illustrate your point with a specific example. The correct chunk is: \"A good example is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "C",
+      "explanation": "✗ \"The bottom line is...\" belongs to Framing the main point — used to flag the single most important point before anything else, not this context.\nOther ways to say it (same group): \"The key point is...\" · \"The real question is...\" · \"The short/simple answer is...\"\n\n✗ \"So the conclusion is...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"Overall...\" · \"To wrap up...\" · \"The key takeaway is...\"\n\n✓ Correct — \"For instance...\" is a Giving examples chunk: used to illustrate a point with a specific, concrete case.\nExample: \"For instance, last quarter we lost two deals over pricing alone.\"\nOther ways to say it: \"This is similar to...\" · \"Take the case of...\" · \"For example...\"\n\n✗ \"Could you elaborate on that?\" belongs to Asking questions — used after presenting something, to check understanding or invite input, not this context.\nOther ways to say it (same group): \"What do you think?\" · \"How do you see this?\" · \"What's your take on this?\""
     },
     {
       "id": 18,
@@ -246,13 +246,13 @@
       "kaName": "Situations",
       "question": "You want to illustrate your point with a specific example. Which chunk fits best?",
       "options": {
-        "A": "Let's take a closer look.",
-        "B": "Give me a second.",
-        "C": "Let's step back for a moment.",
-        "D": "This reminds me of..."
+        "A": "In summary...",
+        "B": "Let me give you an example.",
+        "C": "Let me think this through.",
+        "D": "A major advantage is..."
       },
-      "correct": "D",
-      "explanation": "This chunk belongs to the \"Giving examples\" function — you want to illustrate your point with a specific example. The correct chunk is: \"This reminds me of...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "B",
+      "explanation": "✗ \"In summary...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"So to summarize...\" · \"So the conclusion is...\" · \"The key takeaway is...\"\n\n✓ Correct — \"Let me give you an example.\" is a Giving examples chunk: used to illustrate a point with a specific, concrete case.\nExample: \"Let me give you an example of what I mean by \"friction\".\"\nOther ways to say it: \"Take the case of...\" · \"This is similar to...\" · \"A good example is...\"\n\n✗ \"Let me think this through.\" belongs to Buying thinking time — used to stall briefly before answering a tough question, not this context.\nOther ways to say it (same group): \"That's a good question.\" · \"Let me think about that.\" · \"Let me get back to that.\"\n\n✗ \"A major advantage is...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"On the other hand...\" · \"The downside is...\" · \"By contrast...\""
     },
     {
       "id": 19,
@@ -260,13 +260,13 @@
       "kaName": "Situations",
       "question": "You want to illustrate your point with a specific example. Which chunk fits best?",
       "options": {
-        "A": "For instance...",
-        "B": "One possible solution is...",
-        "C": "Another factor is...",
-        "D": "The goal of this meeting is..."
+        "A": "This reminds me of...",
+        "B": "Consequently...",
+        "C": "In summary...",
+        "D": "I would challenge that assumption."
       },
       "correct": "A",
-      "explanation": "This chunk belongs to the \"Giving examples\" function — you want to illustrate your point with a specific example. The correct chunk is: \"For instance...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✓ Correct — \"This reminds me of...\" is a Giving examples chunk: used to illustrate a point with a specific, concrete case.\nExample: \"This reminds me of the outage we had back in January.\"\nOther ways to say it: \"A good example is...\" · \"For example...\" · \"This is similar to...\"\n\n✗ \"Consequently...\" belongs to Cause & effect (formal) — used to explain why something happened, in a more formal register, not this context.\nOther ways to say it (same group): \"This can be attributed to...\" · \"This is mainly because...\" · \"The reason for this is...\"\n\n✗ \"In summary...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"So moving forward...\" · \"So to summarize...\" · \"So the conclusion is...\"\n\n✗ \"I would challenge that assumption.\" belongs to Disagreeing politely — used to push back on an opinion without creating tension, not this context.\nOther ways to say it (same group): \"That might be true, but...\" · \"I'm not convinced yet.\" · \"I'm not sure I agree.\""
     },
     {
       "id": 20,
@@ -274,13 +274,13 @@
       "kaName": "Situations",
       "question": "The listener seems to have misunderstood you — you need to restate it more clearly. Which chunk fits best?",
       "options": {
-        "A": "What I mean is...",
-        "B": "I'll briefly walk through...",
-        "C": "This can be attributed to...",
-        "D": "Having said that..."
+        "A": "By contrast...",
+        "B": "In summary...",
+        "C": "I tend to believe that...",
+        "D": "Just to clarify..."
       },
-      "correct": "A",
-      "explanation": "This chunk belongs to the \"Clarifying\" function — the listener seems to have misunderstood you — you need to restate it more clearly. The correct chunk is: \"What I mean is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "D",
+      "explanation": "✗ \"By contrast...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"That being said...\" · \"The downside is...\" · \"A major advantage is...\"\n\n✗ \"In summary...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"What we learned is...\" · \"So the conclusion is...\" · \"To wrap up...\"\n\n✗ \"I tend to believe that...\" belongs to Giving opinions — used to state a personal belief or opinion on an issue, not this context.\nOther ways to say it (same group): \"I have mixed feelings about...\" · \"I would argue that...\" · \"I'm inclined to think that...\"\n\n✓ Correct — \"Just to clarify...\" is a Clarifying chunk: used to restate something more clearly after being misunderstood.\nExample: \"Just to clarify, this only affects the EU region.\"\nOther ways to say it: \"Let me clarify that.\" · \"Let me expand on that.\" · \"What I mean is...\""
     },
     {
       "id": 21,
@@ -288,13 +288,13 @@
       "kaName": "Situations",
       "question": "The listener seems to have misunderstood you — you need to restate it more clearly. Which chunk fits best?",
       "options": {
-        "A": "Does that make sense?",
-        "B": "Let me be more specific.",
-        "C": "On the other hand...",
-        "D": "The core problem is..."
+        "A": "That might be true, but...",
+        "B": "We can think about this in two ways.",
+        "C": "Let me clarify that.",
+        "D": "Let's agree on..."
       },
-      "correct": "B",
-      "explanation": "This chunk belongs to the \"Clarifying\" function — the listener seems to have misunderstood you — you need to restate it more clearly. The correct chunk is: \"Let me be more specific.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "C",
+      "explanation": "✗ \"That might be true, but...\" belongs to Disagreeing politely — used to push back on an opinion without creating tension, not this context.\nOther ways to say it (same group): \"I see it slightly differently.\" · \"I would challenge that assumption.\" · \"I'm not sure I agree.\"\n\n✗ \"We can think about this in two ways.\" belongs to Organizing ideas — used to signal you're about to lay out multiple structured points, not this context.\nOther ways to say it (same group): \"Let's look at this step by step.\" · \"Let's break this down.\" · \"On the one hand... on the other hand...\"\n\n✓ Correct — \"Let me clarify that.\" is a Clarifying chunk: used to restate something more clearly after being misunderstood.\nExample: \"Let me clarify that — I meant next Friday, not this Friday.\"\nOther ways to say it: \"What I mean is...\" · \"Let me rephrase that.\" · \"To put it another way...\"\n\n✗ \"Let's agree on...\" belongs to Decision making — used to propose a specific direction or decision, not this context.\nOther ways to say it (same group): \"I suggest we...\" · \"We should probably...\" · \"One possible solution is...\""
     },
     {
       "id": 22,
@@ -302,13 +302,13 @@
       "kaName": "Situations",
       "question": "The listener seems to have misunderstood you — you need to restate it more clearly. Which chunk fits best?",
       "options": {
-        "A": "Let me clarify that.",
-        "B": "The reason is...",
-        "C": "Let's go through them one by one.",
-        "D": "There are three main points I'd like to make."
+        "A": "To put it another way...",
+        "B": "This is mainly because...",
+        "C": "Let's step back for a moment.",
+        "D": "That's all. Anything else is noise."
       },
       "correct": "A",
-      "explanation": "This chunk belongs to the \"Clarifying\" function — the listener seems to have misunderstood you — you need to restate it more clearly. The correct chunk is: \"Let me clarify that.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✓ Correct — \"To put it another way...\" is a Clarifying chunk: used to restate something more clearly after being misunderstood.\nExample: \"To put it another way, we're not ready to scale yet.\"\nOther ways to say it: \"Just to clarify...\" · \"What I mean is...\" · \"Let me expand on that.\"\n\n✗ \"This is mainly because...\" belongs to Cause & effect (formal) — used to explain why something happened, in a more formal register, not this context.\nOther ways to say it (same group): \"Consequently...\" · \"This can be attributed to...\" · \"The reason for this is...\"\n\n✗ \"Let's step back for a moment.\" belongs to Steering the conversation — used to pull a drifting conversation back to the main issue, not this context.\nOther ways to say it (same group): \"Let's focus on the main issue.\" · \"Let's come back to the key question.\" · \"Let's not lose sight of the goal.\"\n\n✗ \"That's all. Anything else is noise.\" belongs to Cutting the list short — used to stop listing and signal you're done, no more needed, not this context.\nOther ways to say it (same group): \"Look, the rest doesn't matter — those three cover it.\" · \"First, second... and that's it. Okay, stop. The point's clear.\""
     },
     {
       "id": 23,
@@ -316,13 +316,13 @@
       "kaName": "Situations",
       "question": "You've just finished presenting and want to ask the listener what they think. Which chunk fits best?",
       "options": {
-        "A": "What's your take on this?",
-        "B": "I'm not convinced yet.",
-        "C": "Let me consider that.",
-        "D": "That might be true, but..."
+        "A": "On the other hand...",
+        "B": "Generally speaking...",
+        "C": "This happens because...",
+        "D": "Does that make sense?"
       },
-      "correct": "A",
-      "explanation": "This chunk belongs to the \"Asking questions\" function — you've just finished presenting and want to ask the listener what they think. The correct chunk is: \"What's your take on this?\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "D",
+      "explanation": "✗ \"On the other hand...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"That being said...\" · \"A major advantage is...\" · \"Having said that...\"\n\n✗ \"Generally speaking...\" belongs to Hedging / degree — used to soften a claim instead of stating it as absolute, not this context.\nOther ways to say it (same group): \"It depends on...\" · \"It's more complicated than it appears.\" · \"To some extent...\"\n\n✗ \"This happens because...\" belongs to Explaining — used to give the reason or cause behind something already stated, not this context.\nOther ways to say it (same group): \"In other words...\" · \"Another factor is...\" · \"The reason is...\"\n\n✓ Correct — \"Does that make sense?\" is an Asking questions chunk: used after presenting something, to check understanding or invite input.\nExample: \"Does that make sense, or should I go through it again?\"\nOther ways to say it: \"How do you see this?\" · \"What's your take on this?\" · \"Can you walk me through that?\""
     },
     {
       "id": 24,
@@ -330,13 +330,13 @@
       "kaName": "Situations",
       "question": "You've just finished presenting and want to ask the listener what they think. Which chunk fits best?",
       "options": {
-        "A": "Let me start with a quick overview.",
-        "B": "What this really comes down to is...",
-        "C": "What do you think?",
-        "D": "To wrap up..."
+        "A": "What's your take on this?",
+        "B": "Having said that...",
+        "C": "Let me consider that.",
+        "D": "A major advantage is..."
       },
-      "correct": "C",
-      "explanation": "This chunk belongs to the \"Asking questions\" function — you've just finished presenting and want to ask the listener what they think. The correct chunk is: \"What do you think?\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "A",
+      "explanation": "✓ Correct — \"What's your take on this?\" is an Asking questions chunk: used after presenting something, to check understanding or invite input.\nExample: \"What's your take on this — are we moving too fast?\"\nOther ways to say it: \"Does that make sense?\" · \"Could you elaborate on that?\" · \"How do you see this?\"\n\n✗ \"Having said that...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"A major advantage is...\" · \"The downside is...\" · \"By contrast...\"\n\n✗ \"Let me consider that.\" belongs to Buying thinking time — used to stall briefly before answering a tough question, not this context.\nOther ways to say it (same group): \"Let me check if I understand.\" · \"Let me get back to that.\" · \"Give me a second.\"\n\n✗ \"A major advantage is...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"That being said...\" · \"The downside is...\" · \"On the other hand...\""
     },
     {
       "id": 25,
@@ -344,13 +344,13 @@
       "kaName": "Situations",
       "question": "You've just finished presenting and want to ask the listener what they think. Which chunk fits best?",
       "options": {
-        "A": "Having said that...",
-        "B": "Let's break this down.",
-        "C": "How do you see this?",
-        "D": "There are three things to consider."
+        "A": "One possible solution is...",
+        "B": "What do you think?",
+        "C": "It depends on...",
+        "D": "The key point is..."
       },
-      "correct": "C",
-      "explanation": "This chunk belongs to the \"Asking questions\" function — you've just finished presenting and want to ask the listener what they think. The correct chunk is: \"How do you see this?\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "B",
+      "explanation": "✗ \"One possible solution is...\" belongs to Decision making — used to propose a specific direction or decision, not this context.\nOther ways to say it (same group): \"Let's agree on...\" · \"The next step is...\" · \"We should probably...\"\n\n✓ Correct — \"What do you think?\" is an Asking questions chunk: used after presenting something, to check understanding or invite input.\nExample: \"What do you think — does this approach make sense to you?\"\nOther ways to say it: \"What's your take on this?\" · \"Does that make sense?\" · \"Can you walk me through that?\"\n\n✗ \"It depends on...\" belongs to Hedging / degree — used to soften a claim instead of stating it as absolute, not this context.\nOther ways to say it (same group): \"It's more complicated than it appears.\" · \"To some extent...\" · \"Generally speaking...\"\n\n✗ \"The key point is...\" belongs to Framing the main point — used to flag the single most important point before anything else, not this context.\nOther ways to say it (same group): \"The core problem is...\" · \"The main issue is...\" · \"The big picture is...\""
     },
     {
       "id": 26,
@@ -358,13 +358,13 @@
       "kaName": "Situations",
       "question": "You disagree with an opinion just raised, but want to push back politely, without creating tension. Which chunk fits best?",
       "options": {
-        "A": "I would challenge that assumption.",
-        "B": "Let me think about that.",
-        "C": "The next step is...",
-        "D": "This reminds me of..."
+        "A": "We should probably...",
+        "B": "The next step is...",
+        "C": "That might be true, but...",
+        "D": "Give me a second."
       },
-      "correct": "A",
-      "explanation": "This chunk belongs to the \"Disagreeing politely\" function — you disagree with an opinion just raised, but want to push back politely, without creating tension. The correct chunk is: \"I would challenge that assumption.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "C",
+      "explanation": "✗ \"We should probably...\" belongs to Decision making — used to propose a specific direction or decision, not this context.\nOther ways to say it (same group): \"The best option is...\" · \"Let's agree on...\" · \"We should prioritize...\"\n\n✗ \"The next step is...\" belongs to Decision making — used to propose a specific direction or decision, not this context.\nOther ways to say it (same group): \"The best option is...\" · \"Let's agree on...\" · \"I suggest we...\"\n\n✓ Correct — \"That might be true, but...\" is a Disagreeing politely chunk: used to push back on an opinion without creating tension.\nExample: \"That might be true, but it doesn't solve the root problem.\"\nOther ways to say it: \"I see your point, but...\" · \"I'm not sure I agree.\" · \"I would challenge that assumption.\"\n\n✗ \"Give me a second.\" belongs to Buying thinking time — used to stall briefly before answering a tough question, not this context.\nOther ways to say it (same group): \"Let me think about that.\" · \"That's a good question.\" · \"Let me think this through.\""
     },
     {
       "id": 27,
@@ -372,13 +372,13 @@
       "kaName": "Situations",
       "question": "You disagree with an opinion just raised, but want to push back politely, without creating tension. Which chunk fits best?",
       "options": {
-        "A": "What's your take on this?",
-        "B": "This happens because...",
-        "C": "The best option is...",
-        "D": "I see it slightly differently."
+        "A": "Can you walk me through that?",
+        "B": "Let me be more specific.",
+        "C": "I see your point, but...",
+        "D": "Look, the rest doesn't matter — those three cover it."
       },
-      "correct": "D",
-      "explanation": "This chunk belongs to the \"Disagreeing politely\" function — you disagree with an opinion just raised, but want to push back politely, without creating tension. The correct chunk is: \"I see it slightly differently.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "C",
+      "explanation": "✗ \"Can you walk me through that?\" belongs to Asking questions — used after presenting something, to check understanding or invite input, not this context.\nOther ways to say it (same group): \"Could you elaborate on that?\" · \"What's your take on this?\" · \"Does that make sense?\"\n\n✗ \"Let me be more specific.\" belongs to Clarifying — used to restate something more clearly after being misunderstood, not this context.\nOther ways to say it (same group): \"Just to clarify...\" · \"To put it another way...\" · \"Let me clarify that.\"\n\n✓ Correct — \"I see your point, but...\" is a Disagreeing politely chunk: used to push back on an opinion without creating tension.\nExample: \"I see your point, but I think the risk here is too high.\"\nOther ways to say it: \"I would challenge that assumption.\" · \"I see it slightly differently.\" · \"I'm not convinced yet.\"\n\n✗ \"Look, the rest doesn't matter — those three cover it.\" belongs to Cutting the list short — used to stop listing and signal you're done, no more needed, not this context.\nOther ways to say it (same group): \"First, second... and that's it. Okay, stop. The point's clear.\" · \"That's all. Anything else is noise.\""
     },
     {
       "id": 28,
@@ -386,13 +386,13 @@
       "kaName": "Situations",
       "question": "You disagree with an opinion just raised, but want to push back politely, without creating tension. Which chunk fits best?",
       "options": {
-        "A": "On the other hand...",
+        "A": "A major advantage is...",
         "B": "I'm not convinced yet.",
-        "C": "The big picture is...",
-        "D": "A major advantage is..."
+        "C": "One explanation is...",
+        "D": "On the other hand..."
       },
       "correct": "B",
-      "explanation": "This chunk belongs to the \"Disagreeing politely\" function — you disagree with an opinion just raised, but want to push back politely, without creating tension. The correct chunk is: \"I'm not convinced yet.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✗ \"A major advantage is...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"By contrast...\" · \"The downside is...\" · \"That being said...\"\n\n✓ Correct — \"I'm not convinced yet.\" is a Disagreeing politely chunk: used to push back on an opinion without creating tension.\nExample: \"I'm not convinced yet — can we see more data first?\"\nOther ways to say it: \"That might be true, but...\" · \"I'm not sure I agree.\" · \"I see your point, but...\"\n\n✗ \"One explanation is...\" belongs to Explaining — used to give the reason or cause behind something already stated, not this context.\nOther ways to say it (same group): \"That's why...\" · \"This leads to...\" · \"As a result...\"\n\n✗ \"On the other hand...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"A major advantage is...\" · \"By contrast...\" · \"The downside is...\""
     },
     {
       "id": 29,
@@ -400,13 +400,13 @@
       "kaName": "Situations",
       "question": "The meeting is drifting off-topic — you want to pull everyone back to the main issue. Which chunk fits best?",
       "options": {
-        "A": "If we break it down...",
-        "B": "In other words...",
-        "C": "Maybe we should look at the bigger picture.",
-        "D": "We should probably..."
+        "A": "To wrap up...",
+        "B": "Let me clarify that.",
+        "C": "Let's focus on the main issue.",
+        "D": "I'm not sure I agree."
       },
       "correct": "C",
-      "explanation": "This chunk belongs to the \"Steering the conversation\" function — the meeting is drifting off-topic — you want to pull everyone back to the main issue. The correct chunk is: \"Maybe we should look at the bigger picture.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✗ \"To wrap up...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"What we learned is...\" · \"In summary...\" · \"Overall...\"\n\n✗ \"Let me clarify that.\" belongs to Clarifying — used to restate something more clearly after being misunderstood, not this context.\nOther ways to say it (same group): \"Just to clarify...\" · \"Let me rephrase that.\" · \"Let me expand on that.\"\n\n✓ Correct — \"Let's focus on the main issue.\" is a Steering the conversation chunk: used to pull a drifting conversation back to the main issue.\nExample: \"Let's focus on the main issue — the deadline, not the design details.\"\nOther ways to say it: \"Let's come back to the key question.\" · \"Maybe we should look at the bigger picture.\" · \"Let's take a closer look.\"\n\n✗ \"I'm not sure I agree.\" belongs to Disagreeing politely — used to push back on an opinion without creating tension, not this context.\nOther ways to say it (same group): \"I would challenge that assumption.\" · \"I see your point, but...\" · \"I see it slightly differently.\""
     },
     {
       "id": 30,
@@ -414,13 +414,13 @@
       "kaName": "Situations",
       "question": "The meeting is drifting off-topic — you want to pull everyone back to the main issue. Which chunk fits best?",
       "options": {
-        "A": "In summary...",
-        "B": "Let's step back for a moment.",
-        "C": "One possible solution is...",
-        "D": "It depends on..."
+        "A": "Let's step back for a moment.",
+        "B": "This is similar to...",
+        "C": "Just to clarify...",
+        "D": "Take the case of..."
       },
-      "correct": "B",
-      "explanation": "This chunk belongs to the \"Steering the conversation\" function — the meeting is drifting off-topic — you want to pull everyone back to the main issue. The correct chunk is: \"Let's step back for a moment.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "A",
+      "explanation": "✓ Correct — \"Let's step back for a moment.\" is a Steering the conversation chunk: used to pull a drifting conversation back to the main issue.\nExample: \"Let's step back for a moment and look at the bigger goal.\"\nOther ways to say it: \"Maybe we should look at the bigger picture.\" · \"Let's take a closer look.\" · \"Let's focus on the main issue.\"\n\n✗ \"This is similar to...\" belongs to Giving examples — used to illustrate a point with a specific, concrete case, not this context.\nOther ways to say it (same group): \"This reminds me of...\" · \"Let me give you an example.\" · \"For example...\"\n\n✗ \"Just to clarify...\" belongs to Clarifying — used to restate something more clearly after being misunderstood, not this context.\nOther ways to say it (same group): \"What I mean is...\" · \"Let me expand on that.\" · \"Let me be more specific.\"\n\n✗ \"Take the case of...\" belongs to Giving examples — used to illustrate a point with a specific, concrete case, not this context.\nOther ways to say it (same group): \"Let me give you an example.\" · \"This is similar to...\" · \"A good example is...\""
     },
     {
       "id": 31,
@@ -428,13 +428,13 @@
       "kaName": "Situations",
       "question": "The meeting is drifting off-topic — you want to pull everyone back to the main issue. Which chunk fits best?",
       "options": {
-        "A": "It depends on...",
-        "B": "Let's not lose sight of the goal.",
-        "C": "Thanks everyone for joining.",
-        "D": "Just to clarify..."
+        "A": "For instance...",
+        "B": "Let's come back to the key question.",
+        "C": "The main takeaway is...",
+        "D": "Let me check if I understand."
       },
       "correct": "B",
-      "explanation": "This chunk belongs to the \"Steering the conversation\" function — the meeting is drifting off-topic — you want to pull everyone back to the main issue. The correct chunk is: \"Let's not lose sight of the goal.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✗ \"For instance...\" belongs to Giving examples — used to illustrate a point with a specific, concrete case, not this context.\nOther ways to say it (same group): \"This is similar to...\" · \"A good example is...\" · \"For example...\"\n\n✓ Correct — \"Let's come back to the key question.\" is a Steering the conversation chunk: used to pull a drifting conversation back to the main issue.\nExample: \"Let's come back to the key question: can we hit the deadline?\"\nOther ways to say it: \"Let's not lose sight of the goal.\" · \"Let's step back for a moment.\" · \"Maybe we should look at the bigger picture.\"\n\n✗ \"The main takeaway is...\" belongs to Framing the main point — used to flag the single most important point before anything else, not this context.\nOther ways to say it (same group): \"The core problem is...\" · \"The short/simple answer is...\" · \"The main issue is...\"\n\n✗ \"Let me check if I understand.\" belongs to Buying thinking time — used to stall briefly before answering a tough question, not this context.\nOther ways to say it (same group): \"That's a good question.\" · \"Give me a second.\" · \"Let me think this through.\""
     },
     {
       "id": 32,
@@ -442,13 +442,13 @@
       "kaName": "Situations",
       "question": "You're wrapping up your presentation and want to summarize the main point. Which chunk fits best?",
       "options": {
-        "A": "To wrap up...",
-        "B": "A good example is...",
-        "C": "To put it another way...",
-        "D": "I see it slightly differently."
+        "A": "Does that make sense?",
+        "B": "What we learned is...",
+        "C": "Take the case of...",
+        "D": "Let's come back to the key question."
       },
-      "correct": "A",
-      "explanation": "This chunk belongs to the \"Concluding\" function — you're wrapping up your presentation and want to summarize the main point. The correct chunk is: \"To wrap up...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "B",
+      "explanation": "✗ \"Does that make sense?\" belongs to Asking questions — used after presenting something, to check understanding or invite input, not this context.\nOther ways to say it (same group): \"Can you walk me through that?\" · \"Could you elaborate on that?\" · \"How do you see this?\"\n\n✓ Correct — \"What we learned is...\" is a Concluding chunk: used to wrap up and summarize the main point at the end.\nExample: \"What we learned is that users want fewer steps, not more features.\"\nOther ways to say it: \"So to summarize...\" · \"The key takeaway is...\" · \"So moving forward...\"\n\n✗ \"Take the case of...\" belongs to Giving examples — used to illustrate a point with a specific, concrete case, not this context.\nOther ways to say it (same group): \"For instance...\" · \"This is similar to...\" · \"A good example is...\"\n\n✗ \"Let's come back to the key question.\" belongs to Steering the conversation — used to pull a drifting conversation back to the main issue, not this context.\nOther ways to say it (same group): \"Let's focus on the main issue.\" · \"Maybe we should look at the bigger picture.\" · \"Let's take a closer look.\""
     },
     {
       "id": 33,
@@ -456,13 +456,13 @@
       "kaName": "Situations",
       "question": "You're wrapping up your presentation and want to summarize the main point. Which chunk fits best?",
       "options": {
-        "A": "There are three main points I'd like to make.",
-        "B": "The next step is...",
-        "C": "I see it slightly differently.",
-        "D": "What we learned is..."
+        "A": "Having said that...",
+        "B": "That's all. Anything else is noise.",
+        "C": "To wrap up...",
+        "D": "Maybe we should look at the bigger picture."
       },
-      "correct": "D",
-      "explanation": "This chunk belongs to the \"Concluding\" function — you're wrapping up your presentation and want to summarize the main point. The correct chunk is: \"What we learned is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "C",
+      "explanation": "✗ \"Having said that...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"By contrast...\" · \"The downside is...\" · \"A major advantage is...\"\n\n✗ \"That's all. Anything else is noise.\" belongs to Cutting the list short — used to stop listing and signal you're done, no more needed, not this context.\nOther ways to say it (same group): \"First, second... and that's it. Okay, stop. The point's clear.\" · \"Look, the rest doesn't matter — those three cover it.\"\n\n✓ Correct — \"To wrap up...\" is a Concluding chunk: used to wrap up and summarize the main point at the end.\nExample: \"To wrap up, here are the three action items.\"\nOther ways to say it: \"So to summarize...\" · \"Overall...\" · \"So the conclusion is...\"\n\n✗ \"Maybe we should look at the bigger picture.\" belongs to Steering the conversation — used to pull a drifting conversation back to the main issue, not this context.\nOther ways to say it (same group): \"Let's focus on the main issue.\" · \"Let's step back for a moment.\" · \"Let's not lose sight of the goal.\""
     },
     {
       "id": 34,
@@ -470,13 +470,13 @@
       "kaName": "Situations",
       "question": "You're wrapping up your presentation and want to summarize the main point. Which chunk fits best?",
       "options": {
-        "A": "Let me consider that.",
-        "B": "There are two main reasons.",
-        "C": "In summary...",
-        "D": "The reason is..."
+        "A": "This is mainly because...",
+        "B": "That being said...",
+        "C": "So moving forward...",
+        "D": "To put it another way..."
       },
       "correct": "C",
-      "explanation": "This chunk belongs to the \"Concluding\" function — you're wrapping up your presentation and want to summarize the main point. The correct chunk is: \"In summary...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✗ \"This is mainly because...\" belongs to Cause & effect (formal) — used to explain why something happened, in a more formal register, not this context.\nOther ways to say it (same group): \"This can be attributed to...\" · \"The reason for this is...\" · \"Consequently...\"\n\n✗ \"That being said...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"On the other hand...\" · \"A major advantage is...\" · \"By contrast...\"\n\n✓ Correct — \"So moving forward...\" is a Concluding chunk: used to wrap up and summarize the main point at the end.\nExample: \"So moving forward, let's assign owners to each task.\"\nOther ways to say it: \"What we learned is...\" · \"So to summarize...\" · \"In summary...\"\n\n✗ \"To put it another way...\" belongs to Clarifying — used to restate something more clearly after being misunderstood, not this context.\nOther ways to say it (same group): \"Let me clarify that.\" · \"Let me rephrase that.\" · \"Let me be more specific.\""
     },
     {
       "id": 35,
@@ -484,13 +484,13 @@
       "kaName": "Situations",
       "question": "You're wrapping up your presentation and want to summarize the main point. Which chunk fits best?",
       "options": {
-        "A": "Maybe we should look at the bigger picture.",
-        "B": "We should prioritize...",
-        "C": "Let me think this through.",
-        "D": "So moving forward..."
+        "A": "Generally speaking...",
+        "B": "Let me consider that.",
+        "C": "Overall...",
+        "D": "What really matters here is..."
       },
-      "correct": "D",
-      "explanation": "This chunk belongs to the \"Concluding\" function — you're wrapping up your presentation and want to summarize the main point. The correct chunk is: \"So moving forward...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "C",
+      "explanation": "✗ \"Generally speaking...\" belongs to Hedging / degree — used to soften a claim instead of stating it as absolute, not this context.\nOther ways to say it (same group): \"It depends on...\" · \"It's more complicated than it appears.\" · \"To some extent...\"\n\n✗ \"Let me consider that.\" belongs to Buying thinking time — used to stall briefly before answering a tough question, not this context.\nOther ways to say it (same group): \"Let me check if I understand.\" · \"That's a good question.\" · \"Give me a second.\"\n\n✓ Correct — \"Overall...\" is a Concluding chunk: used to wrap up and summarize the main point at the end.\nExample: \"Overall, the feedback was positive with a few concerns about pricing.\"\nOther ways to say it: \"The key takeaway is...\" · \"In summary...\" · \"What we learned is...\"\n\n✗ \"What really matters here is...\" belongs to Framing the main point — used to flag the single most important point before anything else, not this context.\nOther ways to say it (same group): \"The main issue is...\" · \"The core problem is...\" · \"The bottom line is...\""
     },
     {
       "id": 36,
@@ -498,13 +498,13 @@
       "kaName": "Situations",
       "question": "You want to propose a specific direction or decision for the group. Which chunk fits best?",
       "options": {
-        "A": "I have mixed feelings about...",
-        "B": "We should probably...",
-        "C": "What do you think?",
-        "D": "The main takeaway is..."
+        "A": "Let's go through them one by one.",
+        "B": "Let's agree on...",
+        "C": "To put it another way...",
+        "D": "To some extent..."
       },
       "correct": "B",
-      "explanation": "This chunk belongs to the \"Decision making\" function — you want to propose a specific direction or decision for the group. The correct chunk is: \"We should probably...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✗ \"Let's go through them one by one.\" belongs to Organizing ideas — used to signal you're about to lay out multiple structured points, not this context.\nOther ways to say it (same group): \"Let's break this down.\" · \"Let's look at this step by step.\" · \"We can think about this in two ways.\"\n\n✓ Correct — \"Let's agree on...\" is a Decision making chunk: used to propose a specific direction or decision.\nExample: \"Let's agree on a deadline before we leave this meeting.\"\nOther ways to say it: \"I suggest we...\" · \"The best option is...\" · \"We should probably...\"\n\n✗ \"To put it another way...\" belongs to Clarifying — used to restate something more clearly after being misunderstood, not this context.\nOther ways to say it (same group): \"Just to clarify...\" · \"Let me rephrase that.\" · \"Let me expand on that.\"\n\n✗ \"To some extent...\" belongs to Hedging / degree — used to soften a claim instead of stating it as absolute, not this context.\nOther ways to say it (same group): \"It depends on...\" · \"Generally speaking...\" · \"It's more complicated than it appears.\""
     },
     {
       "id": 37,
@@ -512,13 +512,13 @@
       "kaName": "Situations",
       "question": "You want to propose a specific direction or decision for the group. Which chunk fits best?",
       "options": {
-        "A": "We should prioritize...",
-        "B": "This leads to...",
-        "C": "I would challenge that assumption.",
-        "D": "I'm not sure I agree."
+        "A": "The reason for this is...",
+        "B": "Take the case of...",
+        "C": "We should probably...",
+        "D": "Let's go through them one by one."
       },
-      "correct": "A",
-      "explanation": "This chunk belongs to the \"Decision making\" function — you want to propose a specific direction or decision for the group. The correct chunk is: \"We should prioritize...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "C",
+      "explanation": "✗ \"The reason for this is...\" belongs to Cause & effect (formal) — used to explain why something happened, in a more formal register, not this context.\nOther ways to say it (same group): \"Consequently...\" · \"This is mainly because...\" · \"This can be attributed to...\"\n\n✗ \"Take the case of...\" belongs to Giving examples — used to illustrate a point with a specific, concrete case, not this context.\nOther ways to say it (same group): \"A good example is...\" · \"This reminds me of...\" · \"This is similar to...\"\n\n✓ Correct — \"We should probably...\" is a Decision making chunk: used to propose a specific direction or decision.\nExample: \"We should probably delay the launch by a week.\"\nOther ways to say it: \"Let's agree on...\" · \"The next step is...\" · \"We should prioritize...\"\n\n✗ \"Let's go through them one by one.\" belongs to Organizing ideas — used to signal you're about to lay out multiple structured points, not this context.\nOther ways to say it (same group): \"Let's look at this step by step.\" · \"Let's break this down.\" · \"There are two main reasons.\""
     },
     {
       "id": 38,
@@ -526,13 +526,13 @@
       "kaName": "Situations",
       "question": "You want to propose a specific direction or decision for the group. Which chunk fits best?",
       "options": {
-        "A": "To wrap up...",
-        "B": "Let me be more specific.",
-        "C": "Let's focus on the main issue.",
-        "D": "Let's agree on..."
+        "A": "We should prioritize...",
+        "B": "The big picture is...",
+        "C": "I'm not sure I agree.",
+        "D": "What really matters here is..."
       },
-      "correct": "D",
-      "explanation": "This chunk belongs to the \"Decision making\" function — you want to propose a specific direction or decision for the group. The correct chunk is: \"Let's agree on...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "A",
+      "explanation": "✓ Correct — \"We should prioritize...\" is a Decision making chunk: used to propose a specific direction or decision.\nExample: \"We should prioritize the mobile fix over the new feature.\"\nOther ways to say it: \"One possible solution is...\" · \"The best option is...\" · \"I suggest we...\"\n\n✗ \"The big picture is...\" belongs to Framing the main point — used to flag the single most important point before anything else, not this context.\nOther ways to say it (same group): \"The short/simple answer is...\" · \"The key point is...\" · \"What really matters here is...\"\n\n✗ \"I'm not sure I agree.\" belongs to Disagreeing politely — used to push back on an opinion without creating tension, not this context.\nOther ways to say it (same group): \"I'm not convinced yet.\" · \"I see your point, but...\" · \"I would challenge that assumption.\"\n\n✗ \"What really matters here is...\" belongs to Framing the main point — used to flag the single most important point before anything else, not this context.\nOther ways to say it (same group): \"The real question is...\" · \"The core problem is...\" · \"The big picture is...\""
     },
     {
       "id": 39,
@@ -540,13 +540,13 @@
       "kaName": "Situations",
       "question": "You've just been asked a tough question and need a moment to think before answering. Which chunk fits best?",
       "options": {
-        "A": "Let's break this down.",
-        "B": "Let me check if I understand.",
-        "C": "Let me rephrase that.",
-        "D": "Maybe we should look at the bigger picture."
+        "A": "This happens because...",
+        "B": "For instance...",
+        "C": "The downside is...",
+        "D": "Let me consider that."
       },
-      "correct": "B",
-      "explanation": "This chunk belongs to the \"Buying thinking time\" function — you've just been asked a tough question and need a moment to think before answering. The correct chunk is: \"Let me check if I understand.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "D",
+      "explanation": "✗ \"This happens because...\" belongs to Explaining — used to give the reason or cause behind something already stated, not this context.\nOther ways to say it (same group): \"Another factor is...\" · \"As a result...\" · \"This leads to...\"\n\n✗ \"For instance...\" belongs to Giving examples — used to illustrate a point with a specific, concrete case, not this context.\nOther ways to say it (same group): \"For example...\" · \"Take the case of...\" · \"This reminds me of...\"\n\n✗ \"The downside is...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"On the other hand...\" · \"Having said that...\" · \"That being said...\"\n\n✓ Correct — \"Let me consider that.\" is a Buying thinking time chunk: used to stall briefly before answering a tough question.\nExample: \"Let me consider that before I answer.\"\nOther ways to say it: \"Let me think about that.\" · \"Let me think this through.\" · \"Give me a second.\""
     },
     {
       "id": 40,
@@ -554,13 +554,13 @@
       "kaName": "Situations",
       "question": "You've just been asked a tough question and need a moment to think before answering. Which chunk fits best?",
       "options": {
-        "A": "Let me consider that.",
+        "A": "Let me get back to that.",
         "B": "I see your point, but...",
-        "C": "There are three main points I'd like to make.",
-        "D": "We can think about this in two ways."
+        "C": "This can be divided into two parts.",
+        "D": "Can you walk me through that?"
       },
       "correct": "A",
-      "explanation": "This chunk belongs to the \"Buying thinking time\" function — you've just been asked a tough question and need a moment to think before answering. The correct chunk is: \"Let me consider that.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✓ Correct — \"Let me get back to that.\" is a Buying thinking time chunk: used to stall briefly before answering a tough question.\nExample: \"Let me get back to that after I check with the team.\"\nOther ways to say it: \"That's a good question.\" · \"Let me check if I understand.\" · \"Let me think this through.\"\n\n✗ \"I see your point, but...\" belongs to Disagreeing politely — used to push back on an opinion without creating tension, not this context.\nOther ways to say it (same group): \"I'm not convinced yet.\" · \"I'm not sure I agree.\" · \"I see it slightly differently.\"\n\n✗ \"This can be divided into two parts.\" belongs to Organizing ideas — used to signal you're about to lay out multiple structured points, not this context.\nOther ways to say it (same group): \"Let's break this down.\" · \"Let's look at this step by step.\" · \"On the one hand... on the other hand...\"\n\n✗ \"Can you walk me through that?\" belongs to Asking questions — used after presenting something, to check understanding or invite input, not this context.\nOther ways to say it (same group): \"Does that make sense?\" · \"What do you think?\" · \"Could you elaborate on that?\""
     },
     {
       "id": 41,
@@ -568,13 +568,13 @@
       "kaName": "Situations",
       "question": "You've just been asked a tough question and need a moment to think before answering. Which chunk fits best?",
       "options": {
-        "A": "Give me a second.",
-        "B": "In summary...",
-        "C": "Before we dive in, a quick update.",
-        "D": "As a result..."
+        "A": "The key point is...",
+        "B": "That's a good question.",
+        "C": "Just to clarify...",
+        "D": "So the conclusion is..."
       },
-      "correct": "A",
-      "explanation": "This chunk belongs to the \"Buying thinking time\" function — you've just been asked a tough question and need a moment to think before answering. The correct chunk is: \"Give me a second.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "B",
+      "explanation": "✗ \"The key point is...\" belongs to Framing the main point — used to flag the single most important point before anything else, not this context.\nOther ways to say it (same group): \"What really matters here is...\" · \"The main issue is...\" · \"The core problem is...\"\n\n✓ Correct — \"That's a good question.\" is a Buying thinking time chunk: used to stall briefly before answering a tough question.\nExample: \"That's a good question — give me a moment to think.\"\nOther ways to say it: \"Give me a second.\" · \"Let me consider that.\" · \"Let me think this through.\"\n\n✗ \"Just to clarify...\" belongs to Clarifying — used to restate something more clearly after being misunderstood, not this context.\nOther ways to say it (same group): \"To put it another way...\" · \"Let me rephrase that.\" · \"Let me clarify that.\"\n\n✗ \"So the conclusion is...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"The key takeaway is...\" · \"So moving forward...\" · \"In summary...\""
     },
     {
       "id": 42,
@@ -582,13 +582,13 @@
       "kaName": "Situations",
       "question": "You've already covered everything necessary and want to wrap up without rambling further. Which chunk fits best?",
       "options": {
-        "A": "The real question is...",
-        "B": "First, second... and that's it. Okay, stop. The point's clear.",
-        "C": "Generally speaking...",
-        "D": "I suggest we..."
+        "A": "First, second... and that's it. Okay, stop. The point's clear.",
+        "B": "The big picture is...",
+        "C": "What I mean is...",
+        "D": "That being said..."
       },
-      "correct": "B",
-      "explanation": "This chunk belongs to the \"Cutting the list short\" function — you've already covered everything necessary and want to wrap up without rambling further. The correct chunk is: \"First, second... and that's it. Okay, stop. The point's clear.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "A",
+      "explanation": "✓ Correct — \"First, second... and that's it. Okay, stop. The point's clear.\" is a Cutting the list short chunk: used to stop listing and signal you're done, no more needed.\nExample: \"First, cost. Second, timeline. And that's it. Okay, stop — the point's clear.\"\nOther ways to say it: \"That's all. Anything else is noise.\" · \"Look, the rest doesn't matter — those three cover it.\"\n\n✗ \"The big picture is...\" belongs to Framing the main point — used to flag the single most important point before anything else, not this context.\nOther ways to say it (same group): \"The real question is...\" · \"The main issue is...\" · \"The key point is...\"\n\n✗ \"What I mean is...\" belongs to Clarifying — used to restate something more clearly after being misunderstood, not this context.\nOther ways to say it (same group): \"Let me clarify that.\" · \"Let me rephrase that.\" · \"Just to clarify...\"\n\n✗ \"That being said...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"On the other hand...\" · \"Having said that...\" · \"The downside is...\""
     },
     {
       "id": 43,
@@ -596,13 +596,13 @@
       "kaName": "Situations",
       "question": "You've already covered everything necessary and want to wrap up without rambling further. Which chunk fits best?",
       "options": {
-        "A": "Look, the rest doesn't matter — those three cover it.",
-        "B": "Let me check if I understand.",
-        "C": "The reason for this is...",
-        "D": "The short/simple answer is..."
+        "A": "That's all. Anything else is noise.",
+        "B": "What we learned is...",
+        "C": "Let's agree on...",
+        "D": "Let's look at this step by step."
       },
       "correct": "A",
-      "explanation": "This chunk belongs to the \"Cutting the list short\" function — you've already covered everything necessary and want to wrap up without rambling further. The correct chunk is: \"Look, the rest doesn't matter — those three cover it.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✓ Correct — \"That's all. Anything else is noise.\" is a Cutting the list short chunk: used to stop listing and signal you're done, no more needed.\nExample: \"Those three risks are what matter. That's all — anything else is noise.\"\nOther ways to say it: \"First, second... and that's it. Okay, stop. The point's clear.\" · \"Look, the rest doesn't matter — those three cover it.\"\n\n✗ \"What we learned is...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"Overall...\" · \"So moving forward...\" · \"To wrap up...\"\n\n✗ \"Let's agree on...\" belongs to Decision making — used to propose a specific direction or decision, not this context.\nOther ways to say it (same group): \"We should probably...\" · \"One possible solution is...\" · \"The next step is...\"\n\n✗ \"Let's look at this step by step.\" belongs to Organizing ideas — used to signal you're about to lay out multiple structured points, not this context.\nOther ways to say it (same group): \"Let's go through them one by one.\" · \"There are two main reasons.\" · \"This can be divided into two parts.\""
     },
     {
       "id": 44,
@@ -610,13 +610,13 @@
       "kaName": "Situations",
       "question": "You want to signal upfront that you'll make several structured points. Which chunk fits best?",
       "options": {
-        "A": "As a result...",
+        "A": "Let me give you an example.",
         "B": "There are three main points I'd like to make.",
-        "C": "It depends on...",
-        "D": "Let's come back to the key question."
+        "C": "Overall...",
+        "D": "The bottom line is..."
       },
       "correct": "B",
-      "explanation": "This chunk belongs to the \"Structuring (extended)\" function — you want to signal upfront that you'll make several structured points. The correct chunk is: \"There are three main points I'd like to make.\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✗ \"Let me give you an example.\" belongs to Giving examples — used to illustrate a point with a specific, concrete case, not this context.\nOther ways to say it (same group): \"This is similar to...\" · \"A good example is...\" · \"This reminds me of...\"\n\n✓ Correct — \"There are three main points I'd like to make.\" is a Structuring (extended) chunk: used to preview that several structured points are coming.\nExample: \"There are three main points I'd like to make before we open discussion.\"\nOther ways to say it: \"If we break it down...\" · \"What this really comes down to is...\"\n\n✗ \"Overall...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"So to summarize...\" · \"In summary...\" · \"To wrap up...\"\n\n✗ \"The bottom line is...\" belongs to Framing the main point — used to flag the single most important point before anything else, not this context.\nOther ways to say it (same group): \"The main issue is...\" · \"The real question is...\" · \"What really matters here is...\""
     },
     {
       "id": 45,
@@ -625,12 +625,12 @@
       "question": "You want to signal upfront that you'll make several structured points. Which chunk fits best?",
       "options": {
         "A": "What this really comes down to is...",
-        "B": "Today I'd like to discuss...",
-        "C": "Another factor is...",
-        "D": "The big picture is..."
+        "B": "So the conclusion is...",
+        "C": "I'm not sure I agree.",
+        "D": "For example..."
       },
       "correct": "A",
-      "explanation": "This chunk belongs to the \"Structuring (extended)\" function — you want to signal upfront that you'll make several structured points. The correct chunk is: \"What this really comes down to is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✓ Correct — \"What this really comes down to is...\" is a Structuring (extended) chunk: used to preview that several structured points are coming.\nExample: \"What this really comes down to is trust between the two teams.\"\nOther ways to say it: \"If we break it down...\" · \"There are three main points I'd like to make.\"\n\n✗ \"So the conclusion is...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"So to summarize...\" · \"So moving forward...\" · \"The key takeaway is...\"\n\n✗ \"I'm not sure I agree.\" belongs to Disagreeing politely — used to push back on an opinion without creating tension, not this context.\nOther ways to say it (same group): \"I see your point, but...\" · \"I'm not convinced yet.\" · \"I see it slightly differently.\"\n\n✗ \"For example...\" belongs to Giving examples — used to illustrate a point with a specific, concrete case, not this context.\nOther ways to say it (same group): \"Take the case of...\" · \"Let me give you an example.\" · \"This reminds me of...\""
     },
     {
       "id": 46,
@@ -638,13 +638,13 @@
       "kaName": "Situations",
       "question": "You want to state your personal opinion or belief about an issue. Which chunk fits best?",
       "options": {
-        "A": "Today I'd like to discuss...",
-        "B": "I'm inclined to think that...",
-        "C": "What do you think?",
-        "D": "How do you see this?"
+        "A": "The reason is...",
+        "B": "We can think about this in two ways.",
+        "C": "This happens because...",
+        "D": "I would argue that..."
       },
-      "correct": "B",
-      "explanation": "This chunk belongs to the \"Giving opinions\" function — you want to state your personal opinion or belief about an issue. The correct chunk is: \"I'm inclined to think that...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "D",
+      "explanation": "✗ \"The reason is...\" belongs to Explaining — used to give the reason or cause behind something already stated, not this context.\nOther ways to say it (same group): \"This happens because...\" · \"Another factor is...\" · \"In other words...\"\n\n✗ \"We can think about this in two ways.\" belongs to Organizing ideas — used to signal you're about to lay out multiple structured points, not this context.\nOther ways to say it (same group): \"Let's look at this step by step.\" · \"On the one hand... on the other hand...\" · \"This can be divided into two parts.\"\n\n✗ \"This happens because...\" belongs to Explaining — used to give the reason or cause behind something already stated, not this context.\nOther ways to say it (same group): \"This leads to...\" · \"That's why...\" · \"Put simply...\"\n\n✓ Correct — \"I would argue that...\" is a Giving opinions chunk: used to state a personal belief or opinion on an issue.\nExample: \"I would argue that the risk is worth taking.\"\nOther ways to say it: \"I tend to believe that...\" · \"I'm inclined to think that...\" · \"I have mixed feelings about...\""
     },
     {
       "id": 47,
@@ -652,13 +652,13 @@
       "kaName": "Situations",
       "question": "You want to state your personal opinion or belief about an issue. Which chunk fits best?",
       "options": {
-        "A": "Let's look at this step by step.",
-        "B": "I have mixed feelings about...",
-        "C": "Take the case of...",
-        "D": "In summary..."
+        "A": "The goal of this meeting is...",
+        "B": "What really matters here is...",
+        "C": "I'm inclined to think that...",
+        "D": "On the other hand..."
       },
-      "correct": "B",
-      "explanation": "This chunk belongs to the \"Giving opinions\" function — you want to state your personal opinion or belief about an issue. The correct chunk is: \"I have mixed feelings about...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "C",
+      "explanation": "✗ \"The goal of this meeting is...\" belongs to Opening — used to move from small talk into the actual meeting content, right at the start, not this context.\nOther ways to say it (same group): \"Let's begin with the key issue.\" · \"I'll briefly walk through...\" · \"Let's take a quick look at the agenda.\"\n\n✗ \"What really matters here is...\" belongs to Framing the main point — used to flag the single most important point before anything else, not this context.\nOther ways to say it (same group): \"The core problem is...\" · \"The main issue is...\" · \"The key point is...\"\n\n✓ Correct — \"I'm inclined to think that...\" is a Giving opinions chunk: used to state a personal belief or opinion on an issue.\nExample: \"I'm inclined to think that we're overcomplicating this.\"\nOther ways to say it: \"I would argue that...\" · \"I have mixed feelings about...\" · \"I tend to believe that...\"\n\n✗ \"On the other hand...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"A major advantage is...\" · \"The downside is...\" · \"By contrast...\""
     },
     {
       "id": 48,
@@ -666,13 +666,13 @@
       "kaName": "Situations",
       "question": "You want to say something without stating it as an absolute — adding a degree of caution. Which chunk fits best?",
       "options": {
-        "A": "What I mean is...",
-        "B": "The key takeaway is...",
-        "C": "To some extent...",
-        "D": "This can be attributed to..."
+        "A": "How do you see this?",
+        "B": "To some extent...",
+        "C": "Let me get back to that.",
+        "D": "Let me clarify that."
       },
-      "correct": "C",
-      "explanation": "This chunk belongs to the \"Hedging / degree\" function — you want to say something without stating it as an absolute — adding a degree of caution. The correct chunk is: \"To some extent...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "B",
+      "explanation": "✗ \"How do you see this?\" belongs to Asking questions — used after presenting something, to check understanding or invite input, not this context.\nOther ways to say it (same group): \"What's your take on this?\" · \"Does that make sense?\" · \"What do you think?\"\n\n✓ Correct — \"To some extent...\" is a Hedging / degree chunk: used to soften a claim instead of stating it as absolute.\nExample: \"To some extent, yes, but it depends on the team's bandwidth.\"\nOther ways to say it: \"It's more complicated than it appears.\" · \"It depends on...\" · \"Generally speaking...\"\n\n✗ \"Let me get back to that.\" belongs to Buying thinking time — used to stall briefly before answering a tough question, not this context.\nOther ways to say it (same group): \"Let me consider that.\" · \"Let me think about that.\" · \"Let me think this through.\"\n\n✗ \"Let me clarify that.\" belongs to Clarifying — used to restate something more clearly after being misunderstood, not this context.\nOther ways to say it (same group): \"Let me be more specific.\" · \"To put it another way...\" · \"What I mean is...\""
     },
     {
       "id": 49,
@@ -680,13 +680,13 @@
       "kaName": "Situations",
       "question": "You want to say something without stating it as an absolute — adding a degree of caution. Which chunk fits best?",
       "options": {
-        "A": "Generally speaking...",
-        "B": "On the other hand...",
-        "C": "The best option is...",
-        "D": "Let me check if I understand."
+        "A": "It's more complicated than it appears.",
+        "B": "The main takeaway is...",
+        "C": "Let's step back for a moment.",
+        "D": "Having said that..."
       },
       "correct": "A",
-      "explanation": "This chunk belongs to the \"Hedging / degree\" function — you want to say something without stating it as an absolute — adding a degree of caution. The correct chunk is: \"Generally speaking...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✓ Correct — \"It's more complicated than it appears.\" is a Hedging / degree chunk: used to soften a claim instead of stating it as absolute.\nExample: \"It's more complicated than it appears — there are compliance issues too.\"\nOther ways to say it: \"Generally speaking...\" · \"It depends on...\" · \"To some extent...\"\n\n✗ \"The main takeaway is...\" belongs to Framing the main point — used to flag the single most important point before anything else, not this context.\nOther ways to say it (same group): \"The key point is...\" · \"The bottom line is...\" · \"The real question is...\"\n\n✗ \"Let's step back for a moment.\" belongs to Steering the conversation — used to pull a drifting conversation back to the main issue, not this context.\nOther ways to say it (same group): \"Maybe we should look at the bigger picture.\" · \"Let's focus on the main issue.\" · \"Let's not lose sight of the goal.\"\n\n✗ \"Having said that...\" belongs to Contrast — used to raise an opposing point or downside, not this context.\nOther ways to say it (same group): \"That being said...\" · \"A major advantage is...\" · \"By contrast...\""
     },
     {
       "id": 50,
@@ -694,13 +694,13 @@
       "kaName": "Situations",
       "question": "You want to raise a contrasting point or downside compared to what was just said. Which chunk fits best?",
       "options": {
-        "A": "Look, the rest doesn't matter — those three cover it.",
-        "B": "That being said...",
-        "C": "To some extent...",
-        "D": "There are three main points I'd like to make."
+        "A": "Maybe we should look at the bigger picture.",
+        "B": "Let's take a closer look.",
+        "C": "So moving forward...",
+        "D": "Having said that..."
       },
-      "correct": "B",
-      "explanation": "This chunk belongs to the \"Contrast\" function — you want to raise a contrasting point or downside compared to what was just said. The correct chunk is: \"That being said...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "D",
+      "explanation": "✗ \"Maybe we should look at the bigger picture.\" belongs to Steering the conversation — used to pull a drifting conversation back to the main issue, not this context.\nOther ways to say it (same group): \"Let's step back for a moment.\" · \"Let's take a closer look.\" · \"Let's focus on the main issue.\"\n\n✗ \"Let's take a closer look.\" belongs to Steering the conversation — used to pull a drifting conversation back to the main issue, not this context.\nOther ways to say it (same group): \"Let's not lose sight of the goal.\" · \"Maybe we should look at the bigger picture.\" · \"Let's step back for a moment.\"\n\n✗ \"So moving forward...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"What we learned is...\" · \"So the conclusion is...\" · \"In summary...\"\n\n✓ Correct — \"Having said that...\" is a Contrast chunk: used to raise an opposing point or downside.\nExample: \"Having said that, I think the risk is manageable.\"\nOther ways to say it: \"The downside is...\" · \"By contrast...\" · \"On the other hand...\""
     },
     {
       "id": 51,
@@ -708,13 +708,13 @@
       "kaName": "Situations",
       "question": "You want to raise a contrasting point or downside compared to what was just said. Which chunk fits best?",
       "options": {
-        "A": "Having said that...",
-        "B": "As a result...",
-        "C": "Let's step back for a moment.",
-        "D": "Let me expand on that."
+        "A": "Let's look at this step by step.",
+        "B": "Look, the rest doesn't matter — those three cover it.",
+        "C": "By contrast...",
+        "D": "Let me clarify that."
       },
-      "correct": "A",
-      "explanation": "This chunk belongs to the \"Contrast\" function — you want to raise a contrasting point or downside compared to what was just said. The correct chunk is: \"Having said that...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "C",
+      "explanation": "✗ \"Let's look at this step by step.\" belongs to Organizing ideas — used to signal you're about to lay out multiple structured points, not this context.\nOther ways to say it (same group): \"There are three things to consider.\" · \"Let's break this down.\" · \"Let's go through them one by one.\"\n\n✗ \"Look, the rest doesn't matter — those three cover it.\" belongs to Cutting the list short — used to stop listing and signal you're done, no more needed, not this context.\nOther ways to say it (same group): \"First, second... and that's it. Okay, stop. The point's clear.\" · \"That's all. Anything else is noise.\"\n\n✓ Correct — \"By contrast...\" is a Contrast chunk: used to raise an opposing point or downside.\nExample: \"By contrast, our competitor shipped this feature two months ago.\"\nOther ways to say it: \"A major advantage is...\" · \"On the other hand...\" · \"The downside is...\"\n\n✗ \"Let me clarify that.\" belongs to Clarifying — used to restate something more clearly after being misunderstood, not this context.\nOther ways to say it (same group): \"To put it another way...\" · \"Just to clarify...\" · \"Let me rephrase that.\""
     },
     {
       "id": 52,
@@ -722,13 +722,13 @@
       "kaName": "Situations",
       "question": "You want to raise a contrasting point or downside compared to what was just said. Which chunk fits best?",
       "options": {
-        "A": "On the other hand...",
-        "B": "Let's not lose sight of the goal.",
-        "C": "I see your point, but...",
-        "D": "To put it another way..."
+        "A": "A major advantage is...",
+        "B": "What really matters here is...",
+        "C": "Let's take a closer look.",
+        "D": "Let's go through them one by one."
       },
       "correct": "A",
-      "explanation": "This chunk belongs to the \"Contrast\" function — you want to raise a contrasting point or downside compared to what was just said. The correct chunk is: \"On the other hand...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✓ Correct — \"A major advantage is...\" is a Contrast chunk: used to raise an opposing point or downside.\nExample: \"A major advantage is that it reduces support tickets significantly.\"\nOther ways to say it: \"On the other hand...\" · \"The downside is...\" · \"Having said that...\"\n\n✗ \"What really matters here is...\" belongs to Framing the main point — used to flag the single most important point before anything else, not this context.\nOther ways to say it (same group): \"The key point is...\" · \"The core problem is...\" · \"The real question is...\"\n\n✗ \"Let's take a closer look.\" belongs to Steering the conversation — used to pull a drifting conversation back to the main issue, not this context.\nOther ways to say it (same group): \"Let's come back to the key question.\" · \"Maybe we should look at the bigger picture.\" · \"Let's not lose sight of the goal.\"\n\n✗ \"Let's go through them one by one.\" belongs to Organizing ideas — used to signal you're about to lay out multiple structured points, not this context.\nOther ways to say it (same group): \"We can think about this in two ways.\" · \"On the one hand... on the other hand...\" · \"Let's break this down.\""
     },
     {
       "id": 53,
@@ -736,13 +736,13 @@
       "kaName": "Situations",
       "question": "You want to explain why something happened, in a more formal register than a plain \"because\". Which chunk fits best?",
       "options": {
-        "A": "Let me check if I understand.",
-        "B": "That's a good question.",
-        "C": "I see your point, but...",
+        "A": "Let me rephrase that.",
+        "B": "There are three things to consider.",
+        "C": "So to summarize...",
         "D": "This can be attributed to..."
       },
       "correct": "D",
-      "explanation": "This chunk belongs to the \"Cause & effect (formal)\" function — you want to explain why something happened, in a more formal register than a plain \"because\". The correct chunk is: \"This can be attributed to...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "explanation": "✗ \"Let me rephrase that.\" belongs to Clarifying — used to restate something more clearly after being misunderstood, not this context.\nOther ways to say it (same group): \"What I mean is...\" · \"Let me be more specific.\" · \"Let me expand on that.\"\n\n✗ \"There are three things to consider.\" belongs to Organizing ideas — used to signal you're about to lay out multiple structured points, not this context.\nOther ways to say it (same group): \"Let's go through them one by one.\" · \"This can be divided into two parts.\" · \"Let's break this down.\"\n\n✗ \"So to summarize...\" belongs to Concluding — used to wrap up and summarize the main point at the end, not this context.\nOther ways to say it (same group): \"Overall...\" · \"The key takeaway is...\" · \"What we learned is...\"\n\n✓ Correct — \"This can be attributed to...\" is a Cause & effect (formal) chunk: used to explain why something happened, in a more formal register.\nExample: \"This can be attributed to the recent change in the onboarding flow.\"\nOther ways to say it: \"This is mainly because...\" · \"The reason for this is...\" · \"Consequently...\""
     },
     {
       "id": 54,
@@ -750,13 +750,13 @@
       "kaName": "Situations",
       "question": "You want to explain why something happened, in a more formal register than a plain \"because\". Which chunk fits best?",
       "options": {
-        "A": "Let's not lose sight of the goal.",
-        "B": "Maybe we should look at the bigger picture.",
-        "C": "This is similar to...",
-        "D": "The reason for this is..."
+        "A": "I suggest we...",
+        "B": "This is mainly because...",
+        "C": "I see your point, but...",
+        "D": "It depends on..."
       },
-      "correct": "D",
-      "explanation": "This chunk belongs to the \"Cause & effect (formal)\" function — you want to explain why something happened, in a more formal register than a plain \"because\". The correct chunk is: \"The reason for this is...\". The other options are valid chunks too, but they belong to a different communicative function, so they don't fit this context."
+      "correct": "B",
+      "explanation": "✗ \"I suggest we...\" belongs to Decision making — used to propose a specific direction or decision, not this context.\nOther ways to say it (same group): \"We should probably...\" · \"We should prioritize...\" · \"The best option is...\"\n\n✓ Correct — \"This is mainly because...\" is a Cause & effect (formal) chunk: used to explain why something happened, in a more formal register.\nExample: \"This is mainly because the vendor missed their delivery date.\"\nOther ways to say it: \"Consequently...\" · \"This can be attributed to...\" · \"The reason for this is...\"\n\n✗ \"I see your point, but...\" belongs to Disagreeing politely — used to push back on an opinion without creating tension, not this context.\nOther ways to say it (same group): \"I'm not sure I agree.\" · \"That might be true, but...\" · \"I'm not convinced yet.\"\n\n✗ \"It depends on...\" belongs to Hedging / degree — used to soften a claim instead of stating it as absolute, not this context.\nOther ways to say it (same group): \"Generally speaking...\" · \"It's more complicated than it appears.\" · \"To some extent...\""
     }
   ]
 }
