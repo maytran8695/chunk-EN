@@ -1,0 +1,468 @@
+{
+  "examId": "storytelling",
+  "title": "Chunk Atlas — Real-Time Fluency: Conversational Storytelling",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You have a story you want to tell and need to signal you're about to take a longer turn, not just make small talk. Which chunk fits best?",
+      "options": {
+        "A": "...never spoken of again.",
+        "B": "You'll never guess what happened.",
+        "C": "Oh that's awful.",
+        "D": "...I've never lived it down."
+      },
+      "correct": "B",
+      "explanation": "✗ \"...never spoken of again.\" belongs to Ending the story with a punchline — used as a punchy closing line to finish a story instead of trailing off, not this context.\nSimilar chunks:\n- ...would not recommend.\n- ...anyway, I live here now.\n- ...still not over it.\n\n✓ Correct — \"You'll never guess what happened.\" is an Asking for the floor to tell a story chunk: used to signal you're about to take a longer turn and tell a story.\nExample: \"You'll never guess what happened at the airport on my way back.\"\nSimilar chunks:\n- Oh, this is a good one.\n- Did I tell you about...?\n- Right, so this happened yesterday...\n\n✗ \"Oh that's awful.\" belongs to Acknowledging their story before responding — used to react to someone's story before responding with anything of your own, not this context.\nSimilar chunks:\n- That's brilliant.\n\n✗ \"...I've never lived it down.\" belongs to Ending the story with a punchline — used as a punchy closing line to finish a story instead of trailing off, not this context.\nSimilar chunks:\n- ...and that was that.\n- ...and the rest is history.\n- ...still not over it."
+    },
+    {
+      "id": 2,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You have a story you want to tell and need to signal you're about to take a longer turn, not just make small talk. Which chunk fits best?",
+      "options": {
+        "A": "Something similar happened to me —",
+        "B": "Does that make sense so far?",
+        "C": "She literally...",
+        "D": "Right, so you know [X]?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Something similar happened to me —\" belongs to Sharing your own related story and handing the turn back — used to share a related story of your own, then hand the conversation back, not this context.\nSimilar chunks:\n- That's just like when I...\n- ...anyway, sorry — go on, what happened next?\n\n✗ \"Does that make sense so far?\" belongs to Checking the listener is following — used to check the listener is still following before you continue, not this context.\nSimilar chunks:\n- Are you with me?\n\n✗ \"She literally...\" belongs to Narrating the climax vividly — used to narrate a story's most dramatic moment vividly, often in present tense, not this context.\nSimilar chunks:\n- It completely...\n- So I walk in, and he's just standing there.\n- So there I am, [doing something]...\n\n✓ Correct — \"Right, so you know [X]?\" is an Asking for the floor to tell a story chunk: used to signal you're about to take a longer turn and tell a story.\nExample: \"Right, so you know our old manager? Well, you'll never guess who I ran into.\"\nSimilar chunks:\n- Right, so this happened yesterday...\n- Can I tell you something ridiculous?\n- Oh, this is a good one."
+    },
+    {
+      "id": 3,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You have a story you want to tell and need to signal you're about to take a longer turn, not just make small talk. Which chunk fits best?",
+      "options": {
+        "A": "...ten out of ten, no notes.",
+        "B": "Swear down.",
+        "C": "Wait, there's more.",
+        "D": "Can I tell you something ridiculous?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"...ten out of ten, no notes.\" belongs to Ending the story with a punchline — used as a punchy closing line to finish a story instead of trailing off, not this context.\nSimilar chunks:\n- ...would not recommend.\n- ...and the rest is history.\n- ...I've never lived it down.\n\n✗ \"Swear down.\" belongs to Emphasizing it's true — used to emphasize that a surprising story is genuinely true, not this context.\nSimilar chunks:\n- No word of a lie.\n- I swear.\n- Hand on heart.\n\n✗ \"Wait, there's more.\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- That's not even the best bit.\n- Guess what happened next.\n- And it gets worse.\n\n✓ Correct — \"Can I tell you something ridiculous?\" is an Asking for the floor to tell a story chunk: used to signal you're about to take a longer turn and tell a story.\nExample: \"Can I tell you something ridiculous that happened on my commute this morning?\"\nSimilar chunks:\n- Okay so picture this...\n- You'll never guess what happened.\n- Did I tell you about...?"
+    },
+    {
+      "id": 4,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You have a story you want to tell and need to signal you're about to take a longer turn, not just make small talk. Which chunk fits best?",
+      "options": {
+        "A": "Does that make sense so far?",
+        "B": "We're halfway through when...",
+        "C": "Right, so this happened yesterday...",
+        "D": "And it gets worse."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Does that make sense so far?\" belongs to Checking the listener is following — used to check the listener is still following before you continue, not this context.\nSimilar chunks:\n- Are you with me?\n\n✗ \"We're halfway through when...\" belongs to Setting the scene — used to establish the time, place, or situation before a story's action begins, not this context.\nSimilar chunks:\n- So I'm sat there...\n- Now, you have to picture this.\n- Bear in mind, this is at 6am.\n\n✓ Correct — \"Right, so this happened yesterday...\" is an Asking for the floor to tell a story chunk: used to signal you're about to take a longer turn and tell a story.\nExample: \"Right, so this happened yesterday, and I still can't quite believe it.\"\nSimilar chunks:\n- Right, so you know [X]?\n- The funniest thing happened yesterday.\n- So, funny story...\n\n✗ \"And it gets worse.\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- Wait, there's more.\n- That's not even the best bit.\n- Guess what happened next."
+    },
+    {
+      "id": 5,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're starting to tell a story and need to establish the time, place, or situation before the action begins. Which chunk fits best?",
+      "options": {
+        "A": "You'll never guess what happened.",
+        "B": "And she goes, \"...\"",
+        "C": "I thought it would be fine.",
+        "D": "So I'm sat there..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"You'll never guess what happened.\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- Oh, this is a good one.\n- Did I tell you about...?\n- So, funny story...\n\n✗ \"And she goes, \"...\"\" belongs to Quoting what people said — used to quote what someone actually said, to make a story vivid, not this context.\nSimilar chunks:\n- And I'm like, \"...\"\n- He turns round and says...\n\n✗ \"I thought it would be fine.\" belongs to Setting up an expectation before the twist — used to state what you expected, right before revealing it went differently, not this context.\nSimilar chunks:\n- I assumed...\n\n✓ Correct — \"So I'm sat there...\" is a Setting the scene chunk: used to establish the time, place, or situation before a story's action begins.\nExample: \"So I'm sat there, laptop open, completely unaware of what's coming.\"\nSimilar chunks:\n- It's about 6am and...\n- So basically...\n- Bear in mind, this is at 6am."
+    },
+    {
+      "id": 6,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're starting to tell a story and need to establish the time, place, or situation before the action begins. Which chunk fits best?",
+      "options": {
+        "A": "And then, out of nowhere...",
+        "B": "Hand on heart.",
+        "C": "So basically...",
+        "D": "...ten out of ten, no notes."
+      },
+      "correct": "C",
+      "explanation": "✗ \"And then, out of nowhere...\" belongs to Introducing the twist — used to mark the point in a story where everything suddenly changed, not this context.\nSimilar chunks:\n- And then...\n- Turns out...\n- Next thing I know...\n\n✗ \"Hand on heart.\" belongs to Emphasizing it's true — used to emphasize that a surprising story is genuinely true, not this context.\nSimilar chunks:\n- No word of a lie.\n- I swear.\n- I kid you not.\n\n✓ Correct — \"So basically...\" is a Setting the scene chunk: used to establish the time, place, or situation before a story's action begins.\nExample: \"So basically, I was the only one left in the office when the fire alarm went off.\"\nSimilar chunks:\n- It's about 6am and...\n- So I was at...\n- Bear in mind, this is at 6am.\n\n✗ \"...ten out of ten, no notes.\" belongs to Ending the story with a punchline — used as a punchy closing line to finish a story instead of trailing off, not this context.\nSimilar chunks:\n- ...and the rest is history.\n- ...so yeah, lesson learned.\n- ...never again."
+    },
+    {
+      "id": 7,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're starting to tell a story and need to establish the time, place, or situation before the action begins. Which chunk fits best?",
+      "options": {
+        "A": "This was back when...",
+        "B": "Right, so you know [X]?",
+        "C": "Turns out...",
+        "D": "You'll never guess what happened."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"This was back when...\" is a Setting the scene chunk: used to establish the time, place, or situation before a story's action begins.\nExample: \"This was back when we still used the old ticketing system.\"\nSimilar chunks:\n- It's about 6am and...\n- So basically...\n- So I'm sat there...\n\n✗ \"Right, so you know [X]?\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- Right, so this happened yesterday...\n- Something weird happened this morning.\n- Did I tell you about...?\n\n✗ \"Turns out...\" belongs to Introducing the twist — used to mark the point in a story where everything suddenly changed, not this context.\nSimilar chunks:\n- Next thing I know...\n- Long story short...\n- And then...\n\n✗ \"You'll never guess what happened.\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- Can I tell you something ridiculous?\n- Something weird happened this morning.\n- So, funny story..."
+    },
+    {
+      "id": 8,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're starting to tell a story and need to establish the time, place, or situation before the action begins. Which chunk fits best?",
+      "options": {
+        "A": "Hand on heart.",
+        "B": "Bear in mind, this is at 6am.",
+        "C": "And she goes, \"...\"",
+        "D": "He turns round and says..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Hand on heart.\" belongs to Emphasizing it's true — used to emphasize that a surprising story is genuinely true, not this context.\nSimilar chunks:\n- Swear down.\n- No word of a lie.\n- I kid you not.\n\n✓ Correct — \"Bear in mind, this is at 6am.\" is a Setting the scene chunk: used to establish the time, place, or situation before a story's action begins.\nExample: \"Bear in mind, this is at 6am, so nobody's brain was really working yet.\"\nSimilar chunks:\n- So I'm sat there...\n- This was back when...\n- We're halfway through when...\n\n✗ \"And she goes, \"...\"\" belongs to Quoting what people said — used to quote what someone actually said, to make a story vivid, not this context.\nSimilar chunks:\n- And I'm like, \"...\"\n- He turns round and says...\n\n✗ \"He turns round and says...\" belongs to Quoting what people said — used to quote what someone actually said, to make a story vivid, not this context.\nSimilar chunks:\n- And she goes, \"...\"\n- And I'm like, \"...\""
+    },
+    {
+      "id": 9,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're telling a story and want to state what you expected to happen, right before revealing it went differently. Which chunk fits best?",
+      "options": {
+        "A": "Wait, there's more.",
+        "B": "...still not over it.",
+        "C": "I assumed...",
+        "D": "You know what he said?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Wait, there's more.\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- And it gets worse.\n- You know what he said?\n- That's not even the best bit.\n\n✗ \"...still not over it.\" belongs to Ending the story with a punchline — used as a punchy closing line to finish a story instead of trailing off, not this context.\nSimilar chunks:\n- ...and the rest is history.\n- ...I've never lived it down.\n- ...ten out of ten, no notes.\n\n✓ Correct — \"I assumed...\" is a Setting up an expectation before the twist chunk: used to state what you expected, right before revealing it went differently.\nExample: \"I assumed the meeting had been cancelled, since nobody joined the call.\"\nSimilar chunks:\n- I thought it would be fine.\n\n✗ \"You know what he said?\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- Guess what happened next.\n- Wait, there's more.\n- And it gets worse."
+    },
+    {
+      "id": 10,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're telling a story and want to state what you expected to happen, right before revealing it went differently. Which chunk fits best?",
+      "options": {
+        "A": "That's not even the best bit.",
+        "B": "You know what he said?",
+        "C": "...anyway, sorry — go on, what happened next?",
+        "D": "I thought it would be fine."
+      },
+      "correct": "D",
+      "explanation": "✗ \"That's not even the best bit.\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- You know what he said?\n- Wait, there's more.\n- Guess what happened next.\n\n✗ \"You know what he said?\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- That's not even the best bit.\n- Wait, there's more.\n- Guess what happened next.\n\n✗ \"...anyway, sorry — go on, what happened next?\" belongs to Sharing your own related story and handing the turn back — used to share a related story of your own, then hand the conversation back, not this context.\nSimilar chunks:\n- That's just like when I...\n- Something similar happened to me —\n\n✓ Correct — \"I thought it would be fine.\" is a Setting up an expectation before the twist chunk: used to state what you expected, right before revealing it went differently.\nExample: \"I thought it would be fine — it was just meant to be a routine deployment.\"\nSimilar chunks:\n- I assumed..."
+    },
+    {
+      "id": 11,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're telling a story and have reached the point where everything suddenly changed. Which chunk fits best?",
+      "options": {
+        "A": "Are you with me?",
+        "B": "No word of a lie.",
+        "C": "So there I am, [doing something]...",
+        "D": "And then, out of nowhere..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Are you with me?\" belongs to Checking the listener is following — used to check the listener is still following before you continue, not this context.\nSimilar chunks:\n- Does that make sense so far?\n\n✗ \"No word of a lie.\" belongs to Emphasizing it's true — used to emphasize that a surprising story is genuinely true, not this context.\nSimilar chunks:\n- Hand on heart.\n- I swear.\n- I kid you not.\n\n✗ \"So there I am, [doing something]...\" belongs to Narrating the climax vividly — used to narrate a story's most dramatic moment vividly, often in present tense, not this context.\nSimilar chunks:\n- And he just...\n- It completely...\n- She literally...\n\n✓ Correct — \"And then, out of nowhere...\" is an Introducing the twist chunk: used to mark the point in a story where everything suddenly changed.\nExample: \"And then, out of nowhere, the CEO joined the call.\"\nSimilar chunks:\n- Long story short...\n- But here's the thing...\n- Next thing I know..."
+    },
+    {
+      "id": 12,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're telling a story and have reached the point where everything suddenly changed. Which chunk fits best?",
+      "options": {
+        "A": "The funniest thing happened yesterday.",
+        "B": "That's brilliant.",
+        "C": "But here's the thing...",
+        "D": "Okay so picture this..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"The funniest thing happened yesterday.\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- Can I tell you something ridiculous?\n- Right, so you know [X]?\n- Oh, this is a good one.\n\n✗ \"That's brilliant.\" belongs to Acknowledging their story before responding — used to react to someone's story before responding with anything of your own, not this context.\nSimilar chunks:\n- Oh that's awful.\n\n✓ Correct — \"But here's the thing...\" is an Introducing the twist chunk: used to mark the point in a story where everything suddenly changed.\nExample: \"But here's the thing — the bug had been sitting there for six months.\"\nSimilar chunks:\n- Turns out...\n- Long story short...\n- And then, out of nowhere...\n\n✗ \"Okay so picture this...\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- Can I tell you something ridiculous?\n- Right, so you know [X]?\n- The funniest thing happened yesterday."
+    },
+    {
+      "id": 13,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're telling a story and have reached the point where everything suddenly changed. Which chunk fits best?",
+      "options": {
+        "A": "Next thing I know...",
+        "B": "Something similar happened to me —",
+        "C": "So I'm sat there...",
+        "D": "This was back when..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Next thing I know...\" is an Introducing the twist chunk: used to mark the point in a story where everything suddenly changed.\nExample: \"Next thing I know, my laptop just shut itself off mid-demo.\"\nSimilar chunks:\n- But here's the thing...\n- And then...\n- Long story short...\n\n✗ \"Something similar happened to me —\" belongs to Sharing your own related story and handing the turn back — used to share a related story of your own, then hand the conversation back, not this context.\nSimilar chunks:\n- That's just like when I...\n- ...anyway, sorry — go on, what happened next?\n\n✗ \"So I'm sat there...\" belongs to Setting the scene — used to establish the time, place, or situation before a story's action begins, not this context.\nSimilar chunks:\n- We're halfway through when...\n- So I was at...\n- Bear in mind, this is at 6am.\n\n✗ \"This was back when...\" belongs to Setting the scene — used to establish the time, place, or situation before a story's action begins, not this context.\nSimilar chunks:\n- So I'm sat there...\n- Now, you have to picture this.\n- So I was at..."
+    },
+    {
+      "id": 14,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've reached the most dramatic moment of your story and want to narrate it as if it's happening right now. Which chunk fits best?",
+      "options": {
+        "A": "Guess what happened next.",
+        "B": "Next thing I know...",
+        "C": "...ten out of ten, no notes.",
+        "D": "So I walk in, and he's just standing there."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Guess what happened next.\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- And it gets worse.\n- Guess what she did.\n- You know what he said?\n\n✗ \"Next thing I know...\" belongs to Introducing the twist — used to mark the point in a story where everything suddenly changed, not this context.\nSimilar chunks:\n- And then...\n- Turns out...\n- But here's the thing...\n\n✗ \"...ten out of ten, no notes.\" belongs to Ending the story with a punchline — used as a punchy closing line to finish a story instead of trailing off, not this context.\nSimilar chunks:\n- ...and that was that.\n- ...and the rest is history.\n- ...would not recommend.\n\n✓ Correct — \"So I walk in, and he's just standing there.\" is a Narrating the climax vividly chunk: used to narrate a story's most dramatic moment vividly, often in present tense.\nExample: \"So I walk in, and he's just standing there, staring at a blank whiteboard.\"\nSimilar chunks:\n- She literally...\n- So there I am, [doing something]...\n- It completely..."
+    },
+    {
+      "id": 15,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've reached the most dramatic moment of your story and want to narrate it as if it's happening right now. Which chunk fits best?",
+      "options": {
+        "A": "...and the rest is history.",
+        "B": "Right, so you know [X]?",
+        "C": "And then, out of nowhere...",
+        "D": "She literally..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"...and the rest is history.\" belongs to Ending the story with a punchline — used as a punchy closing line to finish a story instead of trailing off, not this context.\nSimilar chunks:\n- ...and that's why I don't do that anymore.\n- ...anyway, I live here now.\n- ...and that was that.\n\n✗ \"Right, so you know [X]?\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- Okay so picture this...\n- Did I tell you about...?\n- The funniest thing happened yesterday.\n\n✗ \"And then, out of nowhere...\" belongs to Introducing the twist — used to mark the point in a story where everything suddenly changed, not this context.\nSimilar chunks:\n- And then...\n- Long story short...\n- Turns out...\n\n✓ Correct — \"She literally...\" is a Narrating the climax vividly chunk: used to narrate a story's most dramatic moment vividly, often in present tense.\nExample: \"She literally froze mid-sentence when she saw the numbers.\"\nSimilar chunks:\n- And he just...\n- So there I am, [doing something]...\n- So I walk in, and he's just standing there."
+    },
+    {
+      "id": 16,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're finishing a story and want a punchy closing line instead of just trailing off. Which chunk fits best?",
+      "options": {
+        "A": "Right, so you know [X]?",
+        "B": "So I'm sat there...",
+        "C": "You know what he said?",
+        "D": "...anyway, I live here now."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Right, so you know [X]?\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- Did I tell you about...?\n- Can I tell you something ridiculous?\n- Something weird happened this morning.\n\n✗ \"So I'm sat there...\" belongs to Setting the scene — used to establish the time, place, or situation before a story's action begins, not this context.\nSimilar chunks:\n- So basically...\n- It's about 6am and...\n- Now, you have to picture this.\n\n✗ \"You know what he said?\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- Guess what happened next.\n- And it gets worse.\n- Wait, there's more.\n\n✓ Correct — \"...anyway, I live here now.\" is an Ending the story with a punchline chunk: used as a punchy closing line to finish a story instead of trailing off.\nExample: \"I basically moved my whole desk setup into that meeting room — anyway, I live here now.\"\nSimilar chunks:\n- ...so yeah, lesson learned.\n- ...still not over it.\n- ...and the rest is history."
+    },
+    {
+      "id": 17,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're finishing a story and want a punchy closing line instead of just trailing off. Which chunk fits best?",
+      "options": {
+        "A": "Something similar happened to me —",
+        "B": "...and the rest is history.",
+        "C": "And I'm like, \"...\"",
+        "D": "Okay so picture this..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Something similar happened to me —\" belongs to Sharing your own related story and handing the turn back — used to share a related story of your own, then hand the conversation back, not this context.\nSimilar chunks:\n- That's just like when I...\n- ...anyway, sorry — go on, what happened next?\n\n✓ Correct — \"...and the rest is history.\" is an Ending the story with a punchline chunk: used as a punchy closing line to finish a story instead of trailing off.\nExample: \"We shipped the fix that same night, and the rest is history.\"\nSimilar chunks:\n- ...and that's why I don't do that anymore.\n- ...ten out of ten, no notes.\n- ...still not over it.\n\n✗ \"And I'm like, \"...\"\" belongs to Quoting what people said — used to quote what someone actually said, to make a story vivid, not this context.\nSimilar chunks:\n- He turns round and says...\n- And she goes, \"...\"\n\n✗ \"Okay so picture this...\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- Something weird happened this morning.\n- So, funny story...\n- Right, so you know [X]?"
+    },
+    {
+      "id": 18,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're finishing a story and want a punchy closing line instead of just trailing off. Which chunk fits best?",
+      "options": {
+        "A": "Long story short...",
+        "B": "I assumed...",
+        "C": "And I'm like, \"...\"",
+        "D": "...so yeah, lesson learned."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Long story short...\" belongs to Introducing the twist — used to mark the point in a story where everything suddenly changed, not this context.\nSimilar chunks:\n- Turns out...\n- And then, out of nowhere...\n- But here's the thing...\n\n✗ \"I assumed...\" belongs to Setting up an expectation before the twist — used to state what you expected, right before revealing it went differently, not this context.\nSimilar chunks:\n- I thought it would be fine.\n\n✗ \"And I'm like, \"...\"\" belongs to Quoting what people said — used to quote what someone actually said, to make a story vivid, not this context.\nSimilar chunks:\n- He turns round and says...\n- And she goes, \"...\"\n\n✓ Correct — \"...so yeah, lesson learned.\" is an Ending the story with a punchline chunk: used as a punchy closing line to finish a story instead of trailing off.\nExample: \"I triple-check my recipients now — so yeah, lesson learned.\"\nSimilar chunks:\n- ...and that was that.\n- ...anyway, I live here now.\n- ...I've never lived it down."
+    },
+    {
+      "id": 19,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're finishing a story and want a punchy closing line instead of just trailing off. Which chunk fits best?",
+      "options": {
+        "A": "Guess what she did.",
+        "B": "You know what he said?",
+        "C": "...I've never lived it down.",
+        "D": "Are you with me?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Guess what she did.\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- That's not even the best bit.\n- Guess what happened next.\n- You know what he said?\n\n✗ \"You know what he said?\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- And it gets worse.\n- Guess what she did.\n- That's not even the best bit.\n\n✓ Correct — \"...I've never lived it down.\" is an Ending the story with a punchline chunk: used as a punchy closing line to finish a story instead of trailing off.\nExample: \"They still bring it up in every retro — I've never lived it down.\"\nSimilar chunks:\n- ...still not over it.\n- ...and the rest is history.\n- ...anyway, I live here now.\n\n✗ \"Are you with me?\" belongs to Checking the listener is following — used to check the listener is still following before you continue, not this context.\nSimilar chunks:\n- Does that make sense so far?"
+    },
+    {
+      "id": 20,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're partway through a story or explanation and want to make sure the listener is still following before continuing. Which chunk fits best?",
+      "options": {
+        "A": "So, funny story...",
+        "B": "I thought it would be fine.",
+        "C": "Are you with me?",
+        "D": "...so yeah, lesson learned."
+      },
+      "correct": "C",
+      "explanation": "✗ \"So, funny story...\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- Did I tell you about...?\n- Oh, this is a good one.\n- The funniest thing happened yesterday.\n\n✗ \"I thought it would be fine.\" belongs to Setting up an expectation before the twist — used to state what you expected, right before revealing it went differently, not this context.\nSimilar chunks:\n- I assumed...\n\n✓ Correct — \"Are you with me?\" is a Checking the listener is following chunk: used to check the listener is still following before you continue.\nExample: \"That's the third handoff in the process — are you with me so far?\"\nSimilar chunks:\n- Does that make sense so far?\n\n✗ \"...so yeah, lesson learned.\" belongs to Ending the story with a punchline — used as a punchy closing line to finish a story instead of trailing off, not this context.\nSimilar chunks:\n- ...would not recommend.\n- ...never again.\n- ...and that's why I don't do that anymore."
+    },
+    {
+      "id": 21,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're partway through a story or explanation and want to make sure the listener is still following before continuing. Which chunk fits best?",
+      "options": {
+        "A": "...anyway, I live here now.",
+        "B": "Does that make sense so far?",
+        "C": "Guess what she did.",
+        "D": "Did I tell you about...?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"...anyway, I live here now.\" belongs to Ending the story with a punchline — used as a punchy closing line to finish a story instead of trailing off, not this context.\nSimilar chunks:\n- ...would not recommend.\n- ...never again.\n- ...so yeah, lesson learned.\n\n✓ Correct — \"Does that make sense so far?\" is a Checking the listener is following chunk: used to check the listener is still following before you continue.\nExample: \"We rerouted the whole request through the new service — does that make sense so far?\"\nSimilar chunks:\n- Are you with me?\n\n✗ \"Guess what she did.\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- Wait, there's more.\n- You know what he said?\n- Guess what happened next.\n\n✗ \"Did I tell you about...?\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- Oh, this is a good one.\n- The funniest thing happened yesterday.\n- Okay so picture this..."
+    },
+    {
+      "id": 22,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're telling a story and want to build suspense and pull the listener further in before the reveal. Which chunk fits best?",
+      "options": {
+        "A": "...never spoken of again.",
+        "B": "And it gets worse.",
+        "C": "Now, you have to picture this.",
+        "D": "Did I tell you about...?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"...never spoken of again.\" belongs to Ending the story with a punchline — used as a punchy closing line to finish a story instead of trailing off, not this context.\nSimilar chunks:\n- ...never again.\n- ...and that's why I don't do that anymore.\n- ...anyway, I live here now.\n\n✓ Correct — \"And it gets worse.\" is a Pulling the listener in / building suspense chunk: used to build suspense and pull the listener in before a reveal.\nExample: \"And it gets worse — the backup server was down too.\"\nSimilar chunks:\n- That's not even the best bit.\n- Guess what she did.\n- You know what he said?\n\n✗ \"Now, you have to picture this.\" belongs to Setting the scene — used to establish the time, place, or situation before a story's action begins, not this context.\nSimilar chunks:\n- So I'm sat there...\n- So basically...\n- We're halfway through when...\n\n✗ \"Did I tell you about...?\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- So, funny story...\n- Right, so this happened yesterday...\n- Right, so you know [X]?"
+    },
+    {
+      "id": 23,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're telling a story and want to build suspense and pull the listener further in before the reveal. Which chunk fits best?",
+      "options": {
+        "A": "Are you with me?",
+        "B": "...ten out of ten, no notes.",
+        "C": "Guess what happened next.",
+        "D": "And then..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Are you with me?\" belongs to Checking the listener is following — used to check the listener is still following before you continue, not this context.\nSimilar chunks:\n- Does that make sense so far?\n\n✗ \"...ten out of ten, no notes.\" belongs to Ending the story with a punchline — used as a punchy closing line to finish a story instead of trailing off, not this context.\nSimilar chunks:\n- ...still not over it.\n- ...so yeah, lesson learned.\n- ...never spoken of again.\n\n✓ Correct — \"Guess what happened next.\" is a Pulling the listener in / building suspense chunk: used to build suspense and pull the listener in before a reveal.\nExample: \"Guess what happened next — the client actually thanked us for the delay.\"\nSimilar chunks:\n- Guess what she did.\n- That's not even the best bit.\n- Wait, there's more.\n\n✗ \"And then...\" belongs to Introducing the twist — used to mark the point in a story where everything suddenly changed, not this context.\nSimilar chunks:\n- Next thing I know...\n- Turns out...\n- Long story short..."
+    },
+    {
+      "id": 24,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're telling a story and want to build suspense and pull the listener further in before the reveal. Which chunk fits best?",
+      "options": {
+        "A": "So I was at...",
+        "B": "Guess what she did.",
+        "C": "And she goes, \"...\"",
+        "D": "Next thing I know..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"So I was at...\" belongs to Setting the scene — used to establish the time, place, or situation before a story's action begins, not this context.\nSimilar chunks:\n- This was back when...\n- So basically...\n- Bear in mind, this is at 6am.\n\n✓ Correct — \"Guess what she did.\" is a Pulling the listener in / building suspense chunk: used to build suspense and pull the listener in before a reveal.\nExample: \"Guess what she did when she found out the ticket got reassigned.\"\nSimilar chunks:\n- Wait, there's more.\n- That's not even the best bit.\n- Guess what happened next.\n\n✗ \"And she goes, \"...\"\" belongs to Quoting what people said — used to quote what someone actually said, to make a story vivid, not this context.\nSimilar chunks:\n- He turns round and says...\n- And I'm like, \"...\"\n\n✗ \"Next thing I know...\" belongs to Introducing the twist — used to mark the point in a story where everything suddenly changed, not this context.\nSimilar chunks:\n- But here's the thing...\n- And then, out of nowhere...\n- And then..."
+    },
+    {
+      "id": 25,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're telling a story so surprising that you need to emphasize it's genuinely true. Which chunk fits best?",
+      "options": {
+        "A": "And then, out of nowhere...",
+        "B": "Swear down.",
+        "C": "Oh that's awful.",
+        "D": "So there I am, [doing something]..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"And then, out of nowhere...\" belongs to Introducing the twist — used to mark the point in a story where everything suddenly changed, not this context.\nSimilar chunks:\n- Long story short...\n- But here's the thing...\n- Next thing I know...\n\n✓ Correct — \"Swear down.\" is an Emphasizing it's true chunk: used to emphasize that a surprising story is genuinely true.\nExample: \"She predicted the exact bug before we even ran the tests, swear down.\"\nSimilar chunks:\n- I kid you not.\n- Honest to God.\n- I swear.\n\n✗ \"Oh that's awful.\" belongs to Acknowledging their story before responding — used to react to someone's story before responding with anything of your own, not this context.\nSimilar chunks:\n- That's brilliant.\n\n✗ \"So there I am, [doing something]...\" belongs to Narrating the climax vividly — used to narrate a story's most dramatic moment vividly, often in present tense, not this context.\nSimilar chunks:\n- So I walk in, and he's just standing there.\n- It completely...\n- She literally..."
+    },
+    {
+      "id": 26,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're telling a story so surprising that you need to emphasize it's genuinely true. Which chunk fits best?",
+      "options": {
+        "A": "...would not recommend.",
+        "B": "Guess what she did.",
+        "C": "No word of a lie.",
+        "D": "So I'm sat there..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"...would not recommend.\" belongs to Ending the story with a punchline — used as a punchy closing line to finish a story instead of trailing off, not this context.\nSimilar chunks:\n- ...ten out of ten, no notes.\n- ...still not over it.\n- ...I've never lived it down.\n\n✗ \"Guess what she did.\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- Wait, there's more.\n- Guess what happened next.\n- That's not even the best bit.\n\n✓ Correct — \"No word of a lie.\" is an Emphasizing it's true chunk: used to emphasize that a surprising story is genuinely true.\nExample: \"The whole system crashed the second I said 'it's stable' — no word of a lie.\"\nSimilar chunks:\n- Hand on heart.\n- I swear.\n- Honest to God.\n\n✗ \"So I'm sat there...\" belongs to Setting the scene — used to establish the time, place, or situation before a story's action begins, not this context.\nSimilar chunks:\n- It's about 6am and...\n- So basically...\n- We're halfway through when..."
+    },
+    {
+      "id": 27,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're telling a story so surprising that you need to emphasize it's genuinely true. Which chunk fits best?",
+      "options": {
+        "A": "I kid you not.",
+        "B": "Can I tell you something ridiculous?",
+        "C": "And it gets worse.",
+        "D": "Guess what happened next."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I kid you not.\" is an Emphasizing it's true chunk: used to emphasize that a surprising story is genuinely true.\nExample: \"The meeting ran for three hours — I kid you not.\"\nSimilar chunks:\n- Swear down.\n- Hand on heart.\n- No word of a lie.\n\n✗ \"Can I tell you something ridiculous?\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- You'll never guess what happened.\n- Did I tell you about...?\n- Something weird happened this morning.\n\n✗ \"And it gets worse.\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- Guess what happened next.\n- Guess what she did.\n- That's not even the best bit.\n\n✗ \"Guess what happened next.\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- Wait, there's more.\n- You know what he said?\n- And it gets worse."
+    },
+    {
+      "id": 28,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're retelling a conversation and want to quote what someone actually said, to make the story vivid. Which chunk fits best?",
+      "options": {
+        "A": "Did I tell you about...?",
+        "B": "This was back when...",
+        "C": "And I'm like, \"...\"",
+        "D": "That's not even the best bit."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Did I tell you about...?\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- Can I tell you something ridiculous?\n- Oh, this is a good one.\n- You'll never guess what happened.\n\n✗ \"This was back when...\" belongs to Setting the scene — used to establish the time, place, or situation before a story's action begins, not this context.\nSimilar chunks:\n- Bear in mind, this is at 6am.\n- So basically...\n- So I was at...\n\n✓ Correct — \"And I'm like, \"...\"\" is a Quoting what people said chunk: used to quote what someone actually said, to make a story vivid.\nExample: \"And I'm like, \"please tell me you're joking.\"\"\nSimilar chunks:\n- He turns round and says...\n- And she goes, \"...\"\n\n✗ \"That's not even the best bit.\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- You know what he said?\n- Guess what happened next.\n- Wait, there's more."
+    },
+    {
+      "id": 29,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're retelling a conversation and want to quote what someone actually said, to make the story vivid. Which chunk fits best?",
+      "options": {
+        "A": "So I'm sat there...",
+        "B": "He turns round and says...",
+        "C": "Did I tell you about...?",
+        "D": "So I walk in, and he's just standing there."
+      },
+      "correct": "B",
+      "explanation": "✗ \"So I'm sat there...\" belongs to Setting the scene — used to establish the time, place, or situation before a story's action begins, not this context.\nSimilar chunks:\n- Bear in mind, this is at 6am.\n- So I was at...\n- Now, you have to picture this.\n\n✓ Correct — \"He turns round and says...\" is a Quoting what people said chunk: used to quote what someone actually said, to make a story vivid.\nExample: \"He turns round and says, \"I thought you were handling that.\"\"\nSimilar chunks:\n- And she goes, \"...\"\n- And I'm like, \"...\"\n\n✗ \"Did I tell you about...?\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- So, funny story...\n- Something weird happened this morning.\n- Okay so picture this...\n\n✗ \"So I walk in, and he's just standing there.\" belongs to Narrating the climax vividly — used to narrate a story's most dramatic moment vividly, often in present tense, not this context.\nSimilar chunks:\n- And he just...\n- It completely...\n- She literally..."
+    },
+    {
+      "id": 30,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "A colleague just finished telling you a story and you need to react before saying anything about yourself. Which chunk fits best?",
+      "options": {
+        "A": "That's brilliant.",
+        "B": "And then, out of nowhere...",
+        "C": "We're halfway through when...",
+        "D": "That's not even the best bit."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"That's brilliant.\" is an Acknowledging their story before responding chunk: used to react to someone's story before responding with anything of your own.\nExample: \"That's brilliant — I can't believe he actually said yes.\"\nSimilar chunks:\n- Oh that's awful.\n\n✗ \"And then, out of nowhere...\" belongs to Introducing the twist — used to mark the point in a story where everything suddenly changed, not this context.\nSimilar chunks:\n- Turns out...\n- Long story short...\n- And then...\n\n✗ \"We're halfway through when...\" belongs to Setting the scene — used to establish the time, place, or situation before a story's action begins, not this context.\nSimilar chunks:\n- So I'm sat there...\n- Bear in mind, this is at 6am.\n- So basically...\n\n✗ \"That's not even the best bit.\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- Wait, there's more.\n- And it gets worse.\n- Guess what happened next."
+    },
+    {
+      "id": 31,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "A colleague just finished telling you a story and you need to react before saying anything about yourself. Which chunk fits best?",
+      "options": {
+        "A": "Bear in mind, this is at 6am.",
+        "B": "Oh that's awful.",
+        "C": "Oh, this is a good one.",
+        "D": "And then, out of nowhere..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Bear in mind, this is at 6am.\" belongs to Setting the scene — used to establish the time, place, or situation before a story's action begins, not this context.\nSimilar chunks:\n- So I was at...\n- Now, you have to picture this.\n- So I'm sat there...\n\n✓ Correct — \"Oh that's awful.\" is an Acknowledging their story before responding chunk: used to react to someone's story before responding with anything of your own.\nExample: \"Oh that's awful, no wonder you were exhausted after that call.\"\nSimilar chunks:\n- That's brilliant.\n\n✗ \"Oh, this is a good one.\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- Can I tell you something ridiculous?\n- You'll never guess what happened.\n- Did I tell you about...?\n\n✗ \"And then, out of nowhere...\" belongs to Introducing the twist — used to mark the point in a story where everything suddenly changed, not this context.\nSimilar chunks:\n- Turns out...\n- Next thing I know...\n- Long story short..."
+    },
+    {
+      "id": 32,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just told you a story and you want to share a similar one of your own, then hand the conversation back to them. Which chunk fits best?",
+      "options": {
+        "A": "You know what he said?",
+        "B": "The funniest thing happened yesterday.",
+        "C": "That's just like when I...",
+        "D": "Honest to God."
+      },
+      "correct": "C",
+      "explanation": "✗ \"You know what he said?\" belongs to Pulling the listener in / building suspense — used to build suspense and pull the listener in before a reveal, not this context.\nSimilar chunks:\n- Guess what happened next.\n- And it gets worse.\n- Guess what she did.\n\n✗ \"The funniest thing happened yesterday.\" belongs to Asking for the floor to tell a story — used to signal you're about to take a longer turn and tell a story, not this context.\nSimilar chunks:\n- Something weird happened this morning.\n- Right, so this happened yesterday...\n- So, funny story...\n\n✓ Correct — \"That's just like when I...\" is a Sharing your own related story and handing the turn back chunk: used to share a related story of your own, then hand the conversation back.\nExample: \"That's just like when I locked myself out of the deployment pipeline.\"\nSimilar chunks:\n- Something similar happened to me —\n- ...anyway, sorry — go on, what happened next?\n\n✗ \"Honest to God.\" belongs to Emphasizing it's true — used to emphasize that a surprising story is genuinely true, not this context.\nSimilar chunks:\n- Hand on heart.\n- Swear down.\n- No word of a lie."
+    },
+    {
+      "id": 33,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just told you a story and you want to share a similar one of your own, then hand the conversation back to them. Which chunk fits best?",
+      "options": {
+        "A": "Are you with me?",
+        "B": "We're halfway through when...",
+        "C": "...anyway, sorry — go on, what happened next?",
+        "D": "No word of a lie."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Are you with me?\" belongs to Checking the listener is following — used to check the listener is still following before you continue, not this context.\nSimilar chunks:\n- Does that make sense so far?\n\n✗ \"We're halfway through when...\" belongs to Setting the scene — used to establish the time, place, or situation before a story's action begins, not this context.\nSimilar chunks:\n- So I was at...\n- This was back when...\n- It's about 6am and...\n\n✓ Correct — \"...anyway, sorry — go on, what happened next?\" is a Sharing your own related story and handing the turn back chunk: used to share a related story of your own, then hand the conversation back.\nExample: \"...anyway, sorry — go on, what happened next with the client?\"\nSimilar chunks:\n- That's just like when I...\n- Something similar happened to me —\n\n✗ \"No word of a lie.\" belongs to Emphasizing it's true — used to emphasize that a surprising story is genuinely true, not this context.\nSimilar chunks:\n- Swear down.\n- Hand on heart.\n- Honest to God."
+    }
+  ]
+}

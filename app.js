@@ -1,8 +1,32 @@
 (() => {
   "use strict";
 
-  const SET_FILES = { core: "data/core-patterns.json" };
-  const SET_LABELS = { core: "Core Patterns" };
+  // Topic catalog — tierLabel groups topics for display; SET_FILES/SET_LABELS
+  // are derived from this so there's a single source of truth to extend when
+  // more topics are added later.
+  const TOPICS = [
+    { id: "core", label: "Core Patterns", tier: "Situations" },
+    { id: "meetings-collaboration", label: "Meetings & Collaboration", tier: "Situations" },
+    { id: "presentations-demos", label: "Presentations & Demos", tier: "Situations" },
+    { id: "persuasion-debate", label: "Persuasion & High-Stakes Debate", tier: "Situations" },
+    { id: "collaboration-levels", label: "Collaboration Across Levels", tier: "Situations" },
+    { id: "feedback-difficult", label: "Feedback & Difficult Conversations", tier: "Situations" },
+    { id: "everyday-social", label: "Everyday & Social", tier: "Situations" },
+    { id: "nuance-delivery", label: "Nuance, Delivery & Written Register", tier: "Situations" },
+    { id: "fluency-hesitation", label: "Fluency & Hesitation Management", tier: "Real-Time Fluency" },
+    { id: "words-fail", label: "When Words Fail", tier: "Real-Time Fluency" },
+    { id: "self-repair", label: "Self-Repair & Recovery", tier: "Real-Time Fluency" },
+    { id: "adjacency-pairs", label: "Adjacency Pairs & Preference Design", tier: "Real-Time Fluency" },
+    { id: "response-tokens", label: "Response Tokens & Active Listenership", tier: "Real-Time Fluency" },
+    { id: "topic-management", label: "Topic Management", tier: "Real-Time Fluency" },
+    { id: "storytelling", label: "Conversational Storytelling", tier: "Real-Time Fluency" },
+    { id: "mid-sentence-breakdown", label: "Mid-Sentence Breakdown", tier: "Real-Time Fluency" },
+    { id: "misunderstanding", label: "Misunderstanding, Both Ways", tier: "Real-Time Fluency" },
+    { id: "under-fire", label: "Under Fire: Pressure Situations", tier: "Real-Time Fluency" },
+    { id: "damage-control", label: "Damage Control", tier: "Real-Time Fluency" },
+  ];
+  const SET_FILES = Object.fromEntries(TOPICS.map(t => [t.id, `data/${t.id}.json`]));
+  const SET_LABELS = Object.fromEntries(TOPICS.map(t => [t.id, t.label]));
   const SECONDS_PER_QUESTION = 45; // chunk MCQs are shorter than CBAP scenario questions, so less time/question
 
   const LS_BOOKMARKS = "chunkatlas_bookmarks";
@@ -46,10 +70,35 @@
       const countEl = document.getElementById(`count-${examId}`);
       if (countEl) countEl.textContent = `(${data.questions.length} questions)`;
     }
+    renderSourceSelect();
     renderKaSelect();
   }
 
   // ---------- home screen ----------
+  function renderSourceSelect() {
+    // Grouped-by-tier topic picker, built dynamically from TOPICS + loaded
+    // question counts, plus a "mix everything" option — same idea as CBAP's
+    // Standard/Advanced/Expert/Mix radios, just generated instead of hard-coded
+    // since Chunk Atlas has many more topics than CBAP has exam sets.
+    const tiers = [...new Set(TOPICS.map(t => t.tier))];
+    let html = "";
+    for (const tier of tiers) {
+      const tierTopics = TOPICS.filter(t => t.tier === tier);
+      html += `<div class="source-tier-label">${escapeHtml(tier)}</div>`;
+      html += `<div class="option-grid">`;
+      html += tierTopics.map(t => {
+        const count = DATA[t.id] ? DATA[t.id].questions.length : 0;
+        const checked = t.id === "core" ? "checked" : "";
+        return `<label class="pill-radio"><input type="radio" name="source" value="${t.id}" ${checked}><span>${escapeHtml(t.label)} <small>(${count} questions)</small></span></label>`;
+      }).join("");
+      html += `</div>`;
+    }
+    const totalQuestions = Object.values(QUESTIONS_BY_UID).length;
+    html += `<div class="source-tier-label">All topics</div>`;
+    html += `<div class="option-grid"><label class="pill-radio"><input type="radio" name="source" value="mixed"><span>Mix everything <small>(${totalQuestions} questions)</small></span></label></div>`;
+    document.getElementById("source-select").innerHTML = html;
+  }
+
   function renderKaSelect() {
     // Build the tab (ka) checklist dynamically from loaded data, instead of hard-coding
     // like CBAP (fixed KA3..KA8) — Chunk Atlas will grow more tiers/topics over time.

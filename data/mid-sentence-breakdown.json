@@ -1,0 +1,216 @@
+{
+  "examId": "mid-sentence-breakdown",
+  "title": "Chunk Atlas — Real-Time Fluency: Mid-Sentence Breakdown",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've completely lost your train of thought mid-sentence and your mind has gone blank. Which chunk fits best?",
+      "options": {
+        "A": "Hang on, I'm arguing against myself. Let me be clearer.",
+        "B": "...anyway, the point I'm making is: [conclusion].",
+        "C": "I had a point, and it's gone. Give me a second.",
+        "D": "Am I answering your question, or did you mean something else?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Hang on, I'm arguing against myself. Let me be clearer.\" belongs to Correcting yourself after contradicting your own point — used when you realize what you're saying contradicts something you said moments ago, not this context.\nSimilar chunks:\n- Actually, that contradicts what I said earlier — let me think.\n- Let me correct myself: earlier I said X, but actually Y.\n- I've just talked myself out of my own point.\n\n✗ \"...anyway, the point I'm making is: [conclusion].\" belongs to Recovering your train of thought — used when you've lost track of the point you were building toward and need to find your way back, not this context.\nSimilar chunks:\n- The reason I bring this up is...\n- Sorry, I went off on a tangent. Back to [topic].\n- Hold on — what was I getting at?\n\n✓ Correct — \"I had a point, and it's gone. Give me a second.\" is a Blanking out mid-sentence chunk: used when your mind goes blank mid-sentence and you need to name it and buy time.\nExample: \"I had a point about the timeline, and it's gone. Give me a second.\"\nSimilar chunks:\n- My brain just went blank. Bear with me.\n- What was the question again?\n- It's gone.\n\n✗ \"Am I answering your question, or did you mean something else?\" belongs to Cutting a rambling answer short — used to cut a rambling answer short before you lose the listener, not this context.\nSimilar chunks:\n- Sorry — long answer to a short question. The answer is [X].\n- Let me land this: [conclusion].\n- ...I'll stop there. The headline is [X]."
+    },
+    {
+      "id": 2,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've completely lost your train of thought mid-sentence and your mind has gone blank. Which chunk fits best?",
+      "options": {
+        "A": "Where was I?",
+        "B": "Basically: ...",
+        "C": "I think I misspoke earlier. To be accurate: [X].",
+        "D": "Sorry, that sentence got away from me. Let me try again."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Where was I?\" is a Blanking out mid-sentence chunk: used when your mind goes blank mid-sentence and you need to name it and buy time.\nExample: \"Where was I? Right, the budget numbers.\"\nSimilar chunks:\n- What was I saying?\n- It'll come back to me.\n- Sorry — I've completely lost my train of thought.\n\n✗ \"Basically: ...\" belongs to Untangling a sentence that's gone wrong — used when a sentence has gotten too tangled to finish, so you simplify and restart, not this context.\nSimilar chunks:\n- Sorry, that sentence got away from me. Let me try again.\n- In one sentence: ...\n- That came out more complicated than it needed to be.\n\n✗ \"I think I misspoke earlier. To be accurate: [X].\" belongs to Correcting yourself after contradicting your own point — used when you realize what you're saying contradicts something you said moments ago, not this context.\nSimilar chunks:\n- Hang on, I'm arguing against myself. Let me be clearer.\n- I've just talked myself out of my own point.\n- Let me correct myself: earlier I said X, but actually Y.\n\n✗ \"Sorry, that sentence got away from me. Let me try again.\" belongs to Untangling a sentence that's gone wrong — used when a sentence has gotten too tangled to finish, so you simplify and restart, not this context.\nSimilar chunks:\n- Let me start that sentence again.\n- Basically: ...\n- ...I'm tangling myself up. Simply put: [short sentence]."
+    },
+    {
+      "id": 3,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've completely lost your train of thought mid-sentence and your mind has gone blank. Which chunk fits best?",
+      "options": {
+        "A": "I think I misspoke earlier. To be accurate: [X].",
+        "B": "Let me start that sentence again.",
+        "C": "Sorry, that sentence got away from me. Let me try again.",
+        "D": "What was the question again?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"I think I misspoke earlier. To be accurate: [X].\" belongs to Correcting yourself after contradicting your own point — used when you realize what you're saying contradicts something you said moments ago, not this context.\nSimilar chunks:\n- Hang on, I'm arguing against myself. Let me be clearer.\n- Actually, that contradicts what I said earlier — let me think.\n- I've just talked myself out of my own point.\n\n✗ \"Let me start that sentence again.\" belongs to Untangling a sentence that's gone wrong — used when a sentence has gotten too tangled to finish, so you simplify and restart, not this context.\nSimilar chunks:\n- Sorry, that sentence got away from me. Let me try again.\n- ...I'm tangling myself up. Simply put: [short sentence].\n- ...anyway, you get the idea — basically [short sentence].\n\n✗ \"Sorry, that sentence got away from me. Let me try again.\" belongs to Untangling a sentence that's gone wrong — used when a sentence has gotten too tangled to finish, so you simplify and restart, not this context.\nSimilar chunks:\n- That came out more complicated than it needed to be.\n- Let me start that sentence again.\n- ...anyway, you get the idea — basically [short sentence].\n\n✓ Correct — \"What was the question again?\" is a Blanking out mid-sentence chunk: used when your mind goes blank mid-sentence and you need to name it and buy time.\nExample: \"Sorry, what was the question again? I lost it halfway through answering.\"\nSimilar chunks:\n- It's gone.\n- I've lost my thread.\n- It'll come back to me."
+    },
+    {
+      "id": 4,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've completely lost your train of thought mid-sentence and your mind has gone blank. Which chunk fits best?",
+      "options": {
+        "A": "Sorry — long answer to a short question. The answer is [X].",
+        "B": "It's gone.",
+        "C": "Let me correct myself: earlier I said X, but actually Y.",
+        "D": "...I'm tangling myself up. Simply put: [short sentence]."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Sorry — long answer to a short question. The answer is [X].\" belongs to Cutting a rambling answer short — used to cut a rambling answer short before you lose the listener, not this context.\nSimilar chunks:\n- Am I answering your question, or did you mean something else?\n- Let me land this: [conclusion].\n- ...I'll stop there. The headline is [X].\n\n✓ Correct — \"It's gone.\" is a Blanking out mid-sentence chunk: used when your mind goes blank mid-sentence and you need to name it and buy time.\nExample: \"It's gone. I had the number in my head a second ago and now it's just gone.\"\nSimilar chunks:\n- Sorry — I've completely lost my train of thought.\n- What was I saying?\n- Where was I?\n\n✗ \"Let me correct myself: earlier I said X, but actually Y.\" belongs to Correcting yourself after contradicting your own point — used when you realize what you're saying contradicts something you said moments ago, not this context.\nSimilar chunks:\n- Actually, that contradicts what I said earlier — let me think.\n- I've just talked myself out of my own point.\n- I think I misspoke earlier. To be accurate: [X].\n\n✗ \"...I'm tangling myself up. Simply put: [short sentence].\" belongs to Untangling a sentence that's gone wrong — used when a sentence has gotten too tangled to finish, so you simplify and restart, not this context.\nSimilar chunks:\n- Sorry, that sentence got away from me. Let me try again.\n- That came out more complicated than it needed to be.\n- ...anyway, you get the idea — basically [short sentence]."
+    },
+    {
+      "id": 5,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You started a sentence that's grammatically gotten too complicated to finish cleanly. Which chunk fits best?",
+      "options": {
+        "A": "It's gone.",
+        "B": "...anyway, you get the idea — basically [short sentence].",
+        "C": "My brain just went blank. Bear with me.",
+        "D": "It'll come back to me."
+      },
+      "correct": "B",
+      "explanation": "✗ \"It's gone.\" belongs to Blanking out mid-sentence — used when your mind goes blank mid-sentence and you need to name it and buy time, not this context.\nSimilar chunks:\n- It'll come back to me.\n- Where was I?\n- Sorry — I've completely lost my train of thought.\n\n✓ Correct — \"...anyway, you get the idea — basically [short sentence].\" is an Untangling a sentence that's gone wrong chunk: used when a sentence has gotten too tangled to finish, so you simplify and restart.\nExample: \"...anyway, you get the idea — basically, the fix isn't ready yet.\"\nSimilar chunks:\n- Sorry, that sentence got away from me. Let me try again.\n- Basically: ...\n- ...I'm tangling myself up. Simply put: [short sentence].\n\n✗ \"My brain just went blank. Bear with me.\" belongs to Blanking out mid-sentence — used when your mind goes blank mid-sentence and you need to name it and buy time, not this context.\nSimilar chunks:\n- Where was I?\n- I had a point, and it's gone. Give me a second.\n- What was I saying?\n\n✗ \"It'll come back to me.\" belongs to Blanking out mid-sentence — used when your mind goes blank mid-sentence and you need to name it and buy time, not this context.\nSimilar chunks:\n- Where was I?\n- What was I saying?\n- It's gone."
+    },
+    {
+      "id": 6,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You started a sentence that's grammatically gotten too complicated to finish cleanly. Which chunk fits best?",
+      "options": {
+        "A": "...I'm tangling myself up. Simply put: [short sentence].",
+        "B": "It'll come back to me.",
+        "C": "The reason I bring this up is...",
+        "D": "Where were we?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"...I'm tangling myself up. Simply put: [short sentence].\" is an Untangling a sentence that's gone wrong chunk: used when a sentence has gotten too tangled to finish, so you simplify and restart.\nExample: \"...I'm tangling myself up. Simply put: the API is returning stale data.\"\nSimilar chunks:\n- Let me start that sentence again.\n- In one sentence: ...\n- Sorry, that sentence got away from me. Let me try again.\n\n✗ \"It'll come back to me.\" belongs to Blanking out mid-sentence — used when your mind goes blank mid-sentence and you need to name it and buy time, not this context.\nSimilar chunks:\n- What was I saying?\n- I've lost my thread.\n- Where was I?\n\n✗ \"The reason I bring this up is...\" belongs to Recovering your train of thought — used when you've lost track of the point you were building toward and need to find your way back, not this context.\nSimilar chunks:\n- ...anyway, the point I'm making is: [conclusion].\n- I'm going somewhere with this, I promise.\n- Sorry, I went off on a tangent. Back to [topic].\n\n✗ \"Where were we?\" belongs to Signaling you're moving on after a recovery — used right after a recovery, to signal you're back on track and moving forward, not this context.\nSimilar chunks:\n- Moving on.\n- Anyway.\n- Back to it."
+    },
+    {
+      "id": 7,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You started a sentence that's grammatically gotten too complicated to finish cleanly. Which chunk fits best?",
+      "options": {
+        "A": "Sorry, that sentence got away from me. Let me try again.",
+        "B": "Sorry — long answer to a short question. The answer is [X].",
+        "C": "Sorry, I went off on a tangent. Back to [topic].",
+        "D": "Sorry — I've completely lost my train of thought."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Sorry, that sentence got away from me. Let me try again.\" is an Untangling a sentence that's gone wrong chunk: used when a sentence has gotten too tangled to finish, so you simplify and restart.\nExample: \"Sorry, that sentence got away from me. Let me try again: we need two more days.\"\nSimilar chunks:\n- Basically: ...\n- Let me start that sentence again.\n- In one sentence: ...\n\n✗ \"Sorry — long answer to a short question. The answer is [X].\" belongs to Cutting a rambling answer short — used to cut a rambling answer short before you lose the listener, not this context.\nSimilar chunks:\n- Let me land this: [conclusion].\n- ...I'll stop there. The headline is [X].\n- Am I answering your question, or did you mean something else?\n\n✗ \"Sorry, I went off on a tangent. Back to [topic].\" belongs to Recovering your train of thought — used when you've lost track of the point you were building toward and need to find your way back, not this context.\nSimilar chunks:\n- ...anyway, the point I'm making is: [conclusion].\n- I'm going somewhere with this, I promise.\n- Hold on — what was I getting at?\n\n✗ \"Sorry — I've completely lost my train of thought.\" belongs to Blanking out mid-sentence — used when your mind goes blank mid-sentence and you need to name it and buy time, not this context.\nSimilar chunks:\n- I had a point, and it's gone. Give me a second.\n- My brain just went blank. Bear with me.\n- It'll come back to me."
+    },
+    {
+      "id": 8,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've lost track of the point you were building toward and need to find your way back. Which chunk fits best?",
+      "options": {
+        "A": "In one sentence: ...",
+        "B": "I had a point, and it's gone. Give me a second.",
+        "C": "What was the question again?",
+        "D": "Sorry, I went off on a tangent. Back to [topic]."
+      },
+      "correct": "D",
+      "explanation": "✗ \"In one sentence: ...\" belongs to Untangling a sentence that's gone wrong — used when a sentence has gotten too tangled to finish, so you simplify and restart, not this context.\nSimilar chunks:\n- Sorry, that sentence got away from me. Let me try again.\n- ...anyway, you get the idea — basically [short sentence].\n- That came out more complicated than it needed to be.\n\n✗ \"I had a point, and it's gone. Give me a second.\" belongs to Blanking out mid-sentence — used when your mind goes blank mid-sentence and you need to name it and buy time, not this context.\nSimilar chunks:\n- Where was I?\n- It'll come back to me.\n- What was I saying?\n\n✗ \"What was the question again?\" belongs to Blanking out mid-sentence — used when your mind goes blank mid-sentence and you need to name it and buy time, not this context.\nSimilar chunks:\n- My brain just went blank. Bear with me.\n- It's gone.\n- What was I saying?\n\n✓ Correct — \"Sorry, I went off on a tangent. Back to [topic].\" is a Recovering your train of thought chunk: used when you've lost track of the point you were building toward and need to find your way back.\nExample: \"Sorry, I went off on a tangent. Back to the deployment plan.\"\nSimilar chunks:\n- ...anyway, the point I'm making is: [conclusion].\n- The reason I bring this up is...\n- I'm going somewhere with this, I promise."
+    },
+    {
+      "id": 9,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've lost track of the point you were building toward and need to find your way back. Which chunk fits best?",
+      "options": {
+        "A": "Sorry, that sentence got away from me. Let me try again.",
+        "B": "Let me correct myself: earlier I said X, but actually Y.",
+        "C": "Hold on — what was I getting at?",
+        "D": "Hang on, I'm arguing against myself. Let me be clearer."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Sorry, that sentence got away from me. Let me try again.\" belongs to Untangling a sentence that's gone wrong — used when a sentence has gotten too tangled to finish, so you simplify and restart, not this context.\nSimilar chunks:\n- That came out more complicated than it needed to be.\n- Basically: ...\n- ...I'm tangling myself up. Simply put: [short sentence].\n\n✗ \"Let me correct myself: earlier I said X, but actually Y.\" belongs to Correcting yourself after contradicting your own point — used when you realize what you're saying contradicts something you said moments ago, not this context.\nSimilar chunks:\n- Actually, that contradicts what I said earlier — let me think.\n- I've just talked myself out of my own point.\n- I think I misspoke earlier. To be accurate: [X].\n\n✓ Correct — \"Hold on — what was I getting at?\" is a Recovering your train of thought chunk: used when you've lost track of the point you were building toward and need to find your way back.\nExample: \"Hold on — what was I getting at? Sorry, I lost the thread there.\"\nSimilar chunks:\n- Sorry, I went off on a tangent. Back to [topic].\n- The reason I bring this up is...\n- I'm going somewhere with this, I promise.\n\n✗ \"Hang on, I'm arguing against myself. Let me be clearer.\" belongs to Correcting yourself after contradicting your own point — used when you realize what you're saying contradicts something you said moments ago, not this context.\nSimilar chunks:\n- Actually, that contradicts what I said earlier — let me think.\n- I've just talked myself out of my own point.\n- I think I misspoke earlier. To be accurate: [X]."
+    },
+    {
+      "id": 10,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've been talking for a while and realize you need to wrap up your answer before you lose the listener. Which chunk fits best?",
+      "options": {
+        "A": "I think I misspoke earlier. To be accurate: [X].",
+        "B": "Let me correct myself: earlier I said X, but actually Y.",
+        "C": "Hang on, I'm arguing against myself. Let me be clearer.",
+        "D": "Am I answering your question, or did you mean something else?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"I think I misspoke earlier. To be accurate: [X].\" belongs to Correcting yourself after contradicting your own point — used when you realize what you're saying contradicts something you said moments ago, not this context.\nSimilar chunks:\n- Actually, that contradicts what I said earlier — let me think.\n- Hang on, I'm arguing against myself. Let me be clearer.\n- Let me correct myself: earlier I said X, but actually Y.\n\n✗ \"Let me correct myself: earlier I said X, but actually Y.\" belongs to Correcting yourself after contradicting your own point — used when you realize what you're saying contradicts something you said moments ago, not this context.\nSimilar chunks:\n- Actually, that contradicts what I said earlier — let me think.\n- I think I misspoke earlier. To be accurate: [X].\n- Hang on, I'm arguing against myself. Let me be clearer.\n\n✗ \"Hang on, I'm arguing against myself. Let me be clearer.\" belongs to Correcting yourself after contradicting your own point — used when you realize what you're saying contradicts something you said moments ago, not this context.\nSimilar chunks:\n- Let me correct myself: earlier I said X, but actually Y.\n- I think I misspoke earlier. To be accurate: [X].\n- Actually, that contradicts what I said earlier — let me think.\n\n✓ Correct — \"Am I answering your question, or did you mean something else?\" is a Cutting a rambling answer short chunk: used to cut a rambling answer short before you lose the listener.\nExample: \"Am I answering your question, or did you mean something else by 'scope'?\"\nSimilar chunks:\n- Let me land this: [conclusion].\n- ...but I'm rambling. In short: [one sentence].\n- ...I'll stop there. The headline is [X]."
+    },
+    {
+      "id": 11,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've been talking for a while and realize you need to wrap up your answer before you lose the listener. Which chunk fits best?",
+      "options": {
+        "A": "What was I saying?",
+        "B": "Hold on — what was I getting at?",
+        "C": "In one sentence: ...",
+        "D": "...I'll stop there. The headline is [X]."
+      },
+      "correct": "D",
+      "explanation": "✗ \"What was I saying?\" belongs to Blanking out mid-sentence — used when your mind goes blank mid-sentence and you need to name it and buy time, not this context.\nSimilar chunks:\n- I had a point, and it's gone. Give me a second.\n- What was the question again?\n- Where was I?\n\n✗ \"Hold on — what was I getting at?\" belongs to Recovering your train of thought — used when you've lost track of the point you were building toward and need to find your way back, not this context.\nSimilar chunks:\n- I'm going somewhere with this, I promise.\n- ...anyway, the point I'm making is: [conclusion].\n- The reason I bring this up is...\n\n✗ \"In one sentence: ...\" belongs to Untangling a sentence that's gone wrong — used when a sentence has gotten too tangled to finish, so you simplify and restart, not this context.\nSimilar chunks:\n- Let me start that sentence again.\n- That came out more complicated than it needed to be.\n- ...anyway, you get the idea — basically [short sentence].\n\n✓ Correct — \"...I'll stop there. The headline is [X].\" is a Cutting a rambling answer short chunk: used to cut a rambling answer short before you lose the listener.\nExample: \"...I'll stop there. The headline is: the migration is delayed by a week.\"\nSimilar chunks:\n- Sorry — long answer to a short question. The answer is [X].\n- Am I answering your question, or did you mean something else?\n- ...but I'm rambling. In short: [one sentence]."
+    },
+    {
+      "id": 12,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just realized what you're saying now contradicts what you said a moment ago. Which chunk fits best?",
+      "options": {
+        "A": "Sorry, I went off on a tangent. Back to [topic].",
+        "B": "Actually, that contradicts what I said earlier — let me think.",
+        "C": "I had a point, and it's gone. Give me a second.",
+        "D": "Sorry — I've completely lost my train of thought."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Sorry, I went off on a tangent. Back to [topic].\" belongs to Recovering your train of thought — used when you've lost track of the point you were building toward and need to find your way back, not this context.\nSimilar chunks:\n- ...anyway, the point I'm making is: [conclusion].\n- I'm going somewhere with this, I promise.\n- Hold on — what was I getting at?\n\n✓ Correct — \"Actually, that contradicts what I said earlier — let me think.\" is a Correcting yourself after contradicting your own point chunk: used when you realize what you're saying contradicts something you said moments ago.\nExample: \"Actually, that contradicts what I said earlier about the timeline — let me think.\"\nSimilar chunks:\n- I think I misspoke earlier. To be accurate: [X].\n- Hang on, I'm arguing against myself. Let me be clearer.\n- I've just talked myself out of my own point.\n\n✗ \"I had a point, and it's gone. Give me a second.\" belongs to Blanking out mid-sentence — used when your mind goes blank mid-sentence and you need to name it and buy time, not this context.\nSimilar chunks:\n- My brain just went blank. Bear with me.\n- Sorry — I've completely lost my train of thought.\n- It's gone.\n\n✗ \"Sorry — I've completely lost my train of thought.\" belongs to Blanking out mid-sentence — used when your mind goes blank mid-sentence and you need to name it and buy time, not this context.\nSimilar chunks:\n- My brain just went blank. Bear with me.\n- I had a point, and it's gone. Give me a second.\n- It's gone."
+    },
+    {
+      "id": 13,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just realized what you're saying now contradicts what you said a moment ago. Which chunk fits best?",
+      "options": {
+        "A": "It'll come back to me.",
+        "B": "I've just talked myself out of my own point.",
+        "C": "What was the question again?",
+        "D": "I had a point, and it's gone. Give me a second."
+      },
+      "correct": "B",
+      "explanation": "✗ \"It'll come back to me.\" belongs to Blanking out mid-sentence — used when your mind goes blank mid-sentence and you need to name it and buy time, not this context.\nSimilar chunks:\n- Where was I?\n- What was I saying?\n- I've lost my thread.\n\n✓ Correct — \"I've just talked myself out of my own point.\" is a Correcting yourself after contradicting your own point chunk: used when you realize what you're saying contradicts something you said moments ago.\nExample: \"I've just talked myself out of my own point — maybe we shouldn't rush this after all.\"\nSimilar chunks:\n- I think I misspoke earlier. To be accurate: [X].\n- Hang on, I'm arguing against myself. Let me be clearer.\n- Let me correct myself: earlier I said X, but actually Y.\n\n✗ \"What was the question again?\" belongs to Blanking out mid-sentence — used when your mind goes blank mid-sentence and you need to name it and buy time, not this context.\nSimilar chunks:\n- My brain just went blank. Bear with me.\n- It's gone.\n- It'll come back to me.\n\n✗ \"I had a point, and it's gone. Give me a second.\" belongs to Blanking out mid-sentence — used when your mind goes blank mid-sentence and you need to name it and buy time, not this context.\nSimilar chunks:\n- Sorry — I've completely lost my train of thought.\n- It's gone.\n- I've lost my thread."
+    },
+    {
+      "id": 14,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've just recovered from a stumble and want to signal you're back on track and moving forward. Which chunk fits best?",
+      "options": {
+        "A": "Basically: ...",
+        "B": "Hang on, I'm arguing against myself. Let me be clearer.",
+        "C": "My brain just went blank. Bear with me.",
+        "D": "Back to it."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Basically: ...\" belongs to Untangling a sentence that's gone wrong — used when a sentence has gotten too tangled to finish, so you simplify and restart, not this context.\nSimilar chunks:\n- ...anyway, you get the idea — basically [short sentence].\n- Let me start that sentence again.\n- ...I'm tangling myself up. Simply put: [short sentence].\n\n✗ \"Hang on, I'm arguing against myself. Let me be clearer.\" belongs to Correcting yourself after contradicting your own point — used when you realize what you're saying contradicts something you said moments ago, not this context.\nSimilar chunks:\n- I've just talked myself out of my own point.\n- Actually, that contradicts what I said earlier — let me think.\n- Let me correct myself: earlier I said X, but actually Y.\n\n✗ \"My brain just went blank. Bear with me.\" belongs to Blanking out mid-sentence — used when your mind goes blank mid-sentence and you need to name it and buy time, not this context.\nSimilar chunks:\n- What was I saying?\n- I've lost my thread.\n- Where was I?\n\n✓ Correct — \"Back to it.\" is a Signaling you're moving on after a recovery chunk: used right after a recovery, to signal you're back on track and moving forward.\nExample: \"Back to it — sorry about that detour.\"\nSimilar chunks:\n- Moving on.\n- Anyway.\n- Where were we?"
+    },
+    {
+      "id": 15,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've just recovered from a stumble and want to signal you're back on track and moving forward. Which chunk fits best?",
+      "options": {
+        "A": "...anyway, the point I'm making is: [conclusion].",
+        "B": "Let me correct myself: earlier I said X, but actually Y.",
+        "C": "Where were we?",
+        "D": "It's gone."
+      },
+      "correct": "C",
+      "explanation": "✗ \"...anyway, the point I'm making is: [conclusion].\" belongs to Recovering your train of thought — used when you've lost track of the point you were building toward and need to find your way back, not this context.\nSimilar chunks:\n- Sorry, I went off on a tangent. Back to [topic].\n- Hold on — what was I getting at?\n- I'm going somewhere with this, I promise.\n\n✗ \"Let me correct myself: earlier I said X, but actually Y.\" belongs to Correcting yourself after contradicting your own point — used when you realize what you're saying contradicts something you said moments ago, not this context.\nSimilar chunks:\n- Actually, that contradicts what I said earlier — let me think.\n- Hang on, I'm arguing against myself. Let me be clearer.\n- I've just talked myself out of my own point.\n\n✓ Correct — \"Where were we?\" is a Signaling you're moving on after a recovery chunk: used right after a recovery, to signal you're back on track and moving forward.\nExample: \"Where were we? Right, the Q3 numbers.\"\nSimilar chunks:\n- Back to it.\n- Anyway.\n- Moving on.\n\n✗ \"It's gone.\" belongs to Blanking out mid-sentence — used when your mind goes blank mid-sentence and you need to name it and buy time, not this context.\nSimilar chunks:\n- My brain just went blank. Bear with me.\n- It'll come back to me.\n- Sorry — I've completely lost my train of thought."
+    }
+  ]
+}

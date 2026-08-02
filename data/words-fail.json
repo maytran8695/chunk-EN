@@ -1,0 +1,300 @@
+{
+  "examId": "words-fail",
+  "title": "Chunk Atlas — Real-Time Fluency: When Words Fail: Communication Strategies",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You can't remember the English word for something, so you need to describe it instead. Which chunk fits best?",
+      "options": {
+        "A": "...what I'm trying to say is...",
+        "B": "Is there a word for that?",
+        "C": "I don't know the exact word, but it's basically...",
+        "D": "the stuff we use for..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"...what I'm trying to say is...\" belongs to Never Abandon the Message — used to land a collapsing sentence and keep going, instead of trailing off into silence, not this context.\nSimilar chunks:\n- ...but you get the idea.\n- ...I'm not explaining this well. Let me start again.\n- ...anyway, the point is...\n\n✗ \"Is there a word for that?\" belongs to Appealing for Help Professionally — used to ask the other person for a missing word without sounding lost or embarrassed, not this context.\nSimilar chunks:\n- You know the one?\n- What do you call it again?\n- Right — exactly.\n\n✓ Correct — \"I don't know the exact word, but it's basically...\" is a Circumlocution — Describing What You Mean chunk: used to describe or work around a word you can't remember, instead of freezing.\nExample: \"I don't know the exact word, but it's basically a formal complaint you file with HR.\"\nSimilar chunks:\n- It's like a... but...\n- It's the word for when someone...\n- It's a kind of...\n\n✗ \"the stuff we use for...\" belongs to Approximation & All-Purpose Words — used as a generic, rough substitute for a precise word you can't recall, not this context.\nSimilar chunks:\n- stuff\n- thing\n- sort of"
+    },
+    {
+      "id": 2,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You can't remember the English word for something, so you need to describe it instead. Which chunk fits best?",
+      "options": {
+        "A": "You know when...? That.",
+        "B": "Help me out here — the thing that...",
+        "C": "It's the thing that...",
+        "D": "Think... but smaller."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"You know when...? That.\" is a Circumlocution — Describing What You Mean chunk: used to describe or work around a word you can't remember, instead of freezing.\nExample: \"You know when you forward an email to the wrong person? That.\"\nSimilar chunks:\n- It's the thing you use to...\n- I don't know the exact word, but it's basically...\n- It's like a... but...\n\n✗ \"Help me out here — the thing that...\" belongs to Appealing for Help Professionally — used to ask the other person for a missing word without sounding lost or embarrassed, not this context.\nSimilar chunks:\n- What's the word I'm looking for?\n- Is there a word for that?\n- You know the one?\n\n✗ \"It's the thing that...\" belongs to More Circumlocution Frames — used as another framing device to describe something you can't name, not this context.\nSimilar chunks:\n- There's a word for it — I can't think of it.\n- It's like a... but for...\n- It's what you call it when...\n\n✗ \"Think... but smaller.\" belongs to More Circumlocution Frames — used as another framing device to describe something you can't name, not this context.\nSimilar chunks:\n- It's similar to...\n- It's what you call it when...\n- It's for when you need to..."
+    },
+    {
+      "id": 3,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You can't remember the English word for something, so you need to describe it instead. Which chunk fits best?",
+      "options": {
+        "A": "Help me out.",
+        "B": "It's a kind of...",
+        "C": "...but you get the idea.",
+        "D": "...I'm not explaining this well. Let me start again."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Help me out.\" belongs to More Ways to Ask for Help & Move On — used to quickly ask for a missing word and keep the conversation moving without losing the floor, not this context.\nSimilar chunks:\n- Let me say it in simpler terms.\n- What's the word?\n- What do you call it?\n\n✓ Correct — \"It's a kind of...\" is a Circumlocution — Describing What You Mean chunk: used to describe or work around a word you can't remember, instead of freezing.\nExample: \"It's a kind of... device that boosts the wifi signal, I think it's called a repeater.\"\nSimilar chunks:\n- It's like a... but...\n- It's the word for when someone...\n- You know when...? That.\n\n✗ \"...but you get the idea.\" belongs to Never Abandon the Message — used to land a collapsing sentence and keep going, instead of trailing off into silence, not this context.\nSimilar chunks:\n- ...I'm not explaining this well. Let me start again.\n- ...what I'm trying to say is...\n- ...anyway, the point is...\n\n✗ \"...I'm not explaining this well. Let me start again.\" belongs to Never Abandon the Message — used to land a collapsing sentence and keep going, instead of trailing off into silence, not this context.\nSimilar chunks:\n- ...what I'm trying to say is...\n- ...but you get the idea.\n- ...anyway, the point is..."
+    },
+    {
+      "id": 4,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You can't think of the precise word, so you reach for a rough substitute or a generic filler word instead of freezing. Which chunk fits best?",
+      "options": {
+        "A": "It's like a... but...",
+        "B": "What's the word I'm looking for?",
+        "C": "stuff",
+        "D": "Is there a word for that?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"It's like a... but...\" belongs to Circumlocution — Describing What You Mean — used to describe or work around a word you can't remember, instead of freezing, not this context.\nSimilar chunks:\n- I don't know the exact word, but it's basically...\n- You know when...? That.\n- It's the word for when someone...\n\n✗ \"What's the word I'm looking for?\" belongs to Appealing for Help Professionally — used to ask the other person for a missing word without sounding lost or embarrassed, not this context.\nSimilar chunks:\n- Is there a word for that?\n- You know the one?\n- What do you call it again?\n\n✓ Correct — \"stuff\" is an Approximation & All-Purpose Words chunk: used as a generic, rough substitute for a precise word you can't recall.\nExample: \"We still need to sort out the stuff for the client presentation.\"\nSimilar chunks:\n- the stuff we use for...\n- sort of\n- or whatever the technical term is\n\n✗ \"Is there a word for that?\" belongs to Appealing for Help Professionally — used to ask the other person for a missing word without sounding lost or embarrassed, not this context.\nSimilar chunks:\n- How do you say it in English?\n- What do you call it again?\n- You know the one?"
+    },
+    {
+      "id": 5,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You can't think of the precise word, so you reach for a rough substitute or a generic filler word instead of freezing. Which chunk fits best?",
+      "options": {
+        "A": "one of those...",
+        "B": "Help me out.",
+        "C": "Help me out here — the thing that...",
+        "D": "Think... but smaller."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"one of those...\" is an Approximation & All-Purpose Words chunk: used as a generic, rough substitute for a precise word you can't recall.\nExample: \"It's one of those... forms you fill out before traveling for work.\"\nSimilar chunks:\n- stuff\n- a kind of\n- thing\n\n✗ \"Help me out.\" belongs to More Ways to Ask for Help & Move On — used to quickly ask for a missing word and keep the conversation moving without losing the floor, not this context.\nSimilar chunks:\n- What do you call it?\n- Let me say it in simpler terms.\n- What's the word?\n\n✗ \"Help me out here — the thing that...\" belongs to Appealing for Help Professionally — used to ask the other person for a missing word without sounding lost or embarrassed, not this context.\nSimilar chunks:\n- Is there a word for that?\n- What do you call it again?\n- How do you say it in English?\n\n✗ \"Think... but smaller.\" belongs to More Circumlocution Frames — used as another framing device to describe something you can't name, not this context.\nSimilar chunks:\n- It's like a... but for...\n- It's for when you need to...\n- It's what you call it when..."
+    },
+    {
+      "id": 6,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You can't think of the precise word, so you reach for a rough substitute or a generic filler word instead of freezing. Which chunk fits best?",
+      "options": {
+        "A": "It's the thing you use to...",
+        "B": "There's a word for it — I can't think of it.",
+        "C": "What do you call it again?",
+        "D": "thing"
+      },
+      "correct": "D",
+      "explanation": "✗ \"It's the thing you use to...\" belongs to Circumlocution — Describing What You Mean — used to describe or work around a word you can't remember, instead of freezing, not this context.\nSimilar chunks:\n- You know when...? That.\n- It's the word for when someone...\n- It's what happens when...\n\n✗ \"There's a word for it — I can't think of it.\" belongs to More Circumlocution Frames — used as another framing device to describe something you can't name, not this context.\nSimilar chunks:\n- It's for when you need to...\n- It's similar to...\n- You use it to...\n\n✗ \"What do you call it again?\" belongs to Appealing for Help Professionally — used to ask the other person for a missing word without sounding lost or embarrassed, not this context.\nSimilar chunks:\n- Right — exactly.\n- What's the word I'm looking for?\n- You know the one?\n\n✓ Correct — \"thing\" is an Approximation & All-Purpose Words chunk: used as a generic, rough substitute for a precise word you can't recall.\nExample: \"Can you pass me that thing — the one that holds the papers together?\"\nSimilar chunks:\n- or whatever the technical term is\n- the thing that...\n- something along those lines"
+    },
+    {
+      "id": 7,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You can't think of the precise word, so you reach for a rough substitute or a generic filler word instead of freezing. Which chunk fits best?",
+      "options": {
+        "A": "It's what happens when...",
+        "B": "Right — exactly.",
+        "C": "doodah",
+        "D": "or whatever the technical term is"
+      },
+      "correct": "D",
+      "explanation": "✗ \"It's what happens when...\" belongs to Circumlocution — Describing What You Mean — used to describe or work around a word you can't remember, instead of freezing, not this context.\nSimilar chunks:\n- You know when...? That.\n- It's like a... but...\n- I don't know the exact word, but it's basically...\n\n✗ \"Right — exactly.\" belongs to Appealing for Help Professionally — used to ask the other person for a missing word without sounding lost or embarrassed, not this context.\nSimilar chunks:\n- Is there a word for that?\n- You know what I mean?\n- Help me out here — the thing that...\n\n✗ \"doodah\" belongs to Informal All-Purpose Words (UK/Casual) — used casually, especially in British English, as a placeholder for a word you can't recall, not this context.\nSimilar chunks:\n- thingy\n- whatsit\n\n✓ Correct — \"or whatever the technical term is\" is an Approximation & All-Purpose Words chunk: used as a generic, rough substitute for a precise word you can't recall.\nExample: \"We need to update the firmware, or whatever the technical term is.\"\nSimilar chunks:\n- something along those lines\n- a kind of\n- thing"
+    },
+    {
+      "id": 8,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've hit a word you don't know and want to ask the other person for it, without losing your confidence. Which chunk fits best?",
+      "options": {
+        "A": "one of those...",
+        "B": "...what I'm trying to say is...",
+        "C": "How do you say it in English?",
+        "D": "You use it to..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"one of those...\" belongs to Approximation & All-Purpose Words — used as a generic, rough substitute for a precise word you can't recall, not this context.\nSimilar chunks:\n- the stuff we use for...\n- something along those lines\n- sort of\n\n✗ \"...what I'm trying to say is...\" belongs to Never Abandon the Message — used to land a collapsing sentence and keep going, instead of trailing off into silence, not this context.\nSimilar chunks:\n- ...anyway, the point is...\n- ...I'm not explaining this well. Let me start again.\n- ...but you get the idea.\n\n✓ Correct — \"How do you say it in English?\" is an Appealing for Help Professionally chunk: used to ask the other person for a missing word without sounding lost or embarrassed.\nExample: \"How do you say it in English? We just call it 'nhậu' in Vietnamese.\"\nSimilar chunks:\n- Is there a word for that?\n- Right — exactly.\n- What do you call it again?\n\n✗ \"You use it to...\" belongs to More Circumlocution Frames — used as another framing device to describe something you can't name, not this context.\nSimilar chunks:\n- It's like a... but for...\n- It's for when you need to...\n- Think... but smaller."
+    },
+    {
+      "id": 9,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've hit a word you don't know and want to ask the other person for it, without losing your confidence. Which chunk fits best?",
+      "options": {
+        "A": "Let me say it in simpler terms.",
+        "B": "Is there a word for that?",
+        "C": "or whatever the technical term is",
+        "D": "the thing that..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Let me say it in simpler terms.\" belongs to More Ways to Ask for Help & Move On — used to quickly ask for a missing word and keep the conversation moving without losing the floor, not this context.\nSimilar chunks:\n- Help me out.\n- What's the word?\n- What do you call it?\n\n✓ Correct — \"Is there a word for that?\" is an Appealing for Help Professionally chunk: used to ask the other person for a missing word without sounding lost or embarrassed.\nExample: \"Is there a word for that — when a meeting could've been an email?\"\nSimilar chunks:\n- What do you call it again?\n- Help me out here — the thing that...\n- Right — exactly.\n\n✗ \"or whatever the technical term is\" belongs to Approximation & All-Purpose Words — used as a generic, rough substitute for a precise word you can't recall, not this context.\nSimilar chunks:\n- something along those lines\n- a kind of\n- sort of\n\n✗ \"the thing that...\" belongs to Approximation & All-Purpose Words — used as a generic, rough substitute for a precise word you can't recall, not this context.\nSimilar chunks:\n- stuff\n- one of those...\n- a kind of"
+    },
+    {
+      "id": 10,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've hit a word you don't know and want to ask the other person for it, without losing your confidence. Which chunk fits best?",
+      "options": {
+        "A": "Right — exactly.",
+        "B": "There's a word for it — I can't think of it.",
+        "C": "...I'm not explaining this well. Let me start again.",
+        "D": "What's the word?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Right — exactly.\" is an Appealing for Help Professionally chunk: used to ask the other person for a missing word without sounding lost or embarrassed.\nExample: \"\"Deprecated?\" \"Right — exactly, that's the word I was looking for.\"\"\nSimilar chunks:\n- What's the word I'm looking for?\n- Help me out here — the thing that...\n- You know the one?\n\n✗ \"There's a word for it — I can't think of it.\" belongs to More Circumlocution Frames — used as another framing device to describe something you can't name, not this context.\nSimilar chunks:\n- It's for when you need to...\n- Think... but smaller.\n- It's the thing that...\n\n✗ \"...I'm not explaining this well. Let me start again.\" belongs to Never Abandon the Message — used to land a collapsing sentence and keep going, instead of trailing off into silence, not this context.\nSimilar chunks:\n- ...what I'm trying to say is...\n- ...but you get the idea.\n- ...anyway, the point is...\n\n✗ \"What's the word?\" belongs to More Ways to Ask for Help & Move On — used to quickly ask for a missing word and keep the conversation moving without losing the floor, not this context.\nSimilar chunks:\n- Let me say it in simpler terms.\n- Help me out.\n- What do you call it?"
+    },
+    {
+      "id": 11,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've hit a word you don't know and want to ask the other person for it, without losing your confidence. Which chunk fits best?",
+      "options": {
+        "A": "What do you call it again?",
+        "B": "...anyway, the point is...",
+        "C": "It's like a... but for...",
+        "D": "It's for when you need to..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What do you call it again?\" is an Appealing for Help Professionally chunk: used to ask the other person for a missing word without sounding lost or embarrassed.\nExample: \"What do you call it again — the thing you swipe to unlock the door?\"\nSimilar chunks:\n- You know what I mean?\n- What's the word I'm looking for?\n- Is there a word for that?\n\n✗ \"...anyway, the point is...\" belongs to Never Abandon the Message — used to land a collapsing sentence and keep going, instead of trailing off into silence, not this context.\nSimilar chunks:\n- ...what I'm trying to say is...\n- ...but you get the idea.\n- ...I'm not explaining this well. Let me start again.\n\n✗ \"It's like a... but for...\" belongs to More Circumlocution Frames — used as another framing device to describe something you can't name, not this context.\nSimilar chunks:\n- There's a word for it — I can't think of it.\n- Think... but smaller.\n- It's for when you need to...\n\n✗ \"It's for when you need to...\" belongs to More Circumlocution Frames — used as another framing device to describe something you can't name, not this context.\nSimilar chunks:\n- You use it to...\n- It's like a... but for...\n- Think... but smaller."
+    },
+    {
+      "id": 12,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're mid-sentence, the sentence is falling apart, and you need to land it somehow instead of trailing off. Which chunk fits best?",
+      "options": {
+        "A": "It's for when you need to...",
+        "B": "stuff",
+        "C": "something along those lines",
+        "D": "...I'm not explaining this well. Let me start again."
+      },
+      "correct": "D",
+      "explanation": "✗ \"It's for when you need to...\" belongs to More Circumlocution Frames — used as another framing device to describe something you can't name, not this context.\nSimilar chunks:\n- You use it to...\n- Think... but smaller.\n- It's what you call it when...\n\n✗ \"stuff\" belongs to Approximation & All-Purpose Words — used as a generic, rough substitute for a precise word you can't recall, not this context.\nSimilar chunks:\n- or whatever the technical term is\n- the thing that...\n- something along those lines\n\n✗ \"something along those lines\" belongs to Approximation & All-Purpose Words — used as a generic, rough substitute for a precise word you can't recall, not this context.\nSimilar chunks:\n- or whatever the technical term is\n- stuff\n- one of those...\n\n✓ Correct — \"...I'm not explaining this well. Let me start again.\" is a Never Abandon the Message chunk: used to land a collapsing sentence and keep going, instead of trailing off into silence.\nExample: \"...I'm not explaining this well. Let me start again from the beginning.\"\nSimilar chunks:\n- ...what I'm trying to say is...\n- ...but you get the idea.\n- ...anyway, the point is..."
+    },
+    {
+      "id": 13,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're mid-sentence, the sentence is falling apart, and you need to land it somehow instead of trailing off. Which chunk fits best?",
+      "options": {
+        "A": "I'll come back to the word. Anyway —...",
+        "B": "or whatever the technical term is",
+        "C": "...but you get the idea.",
+        "D": "It's a kind of..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I'll come back to the word. Anyway —...\" belongs to More Ways to Ask for Help & Move On — used to quickly ask for a missing word and keep the conversation moving without losing the floor, not this context.\nSimilar chunks:\n- What do you call it?\n- What's the word?\n- Help me out.\n\n✗ \"or whatever the technical term is\" belongs to Approximation & All-Purpose Words — used as a generic, rough substitute for a precise word you can't recall, not this context.\nSimilar chunks:\n- stuff\n- a kind of\n- thing\n\n✓ Correct — \"...but you get the idea.\" is a Never Abandon the Message chunk: used to land a collapsing sentence and keep going, instead of trailing off into silence.\nExample: \"It's kind of like a stripped-down version of the old system, but you get the idea.\"\nSimilar chunks:\n- ...what I'm trying to say is...\n- ...anyway, the point is...\n- ...I'm not explaining this well. Let me start again.\n\n✗ \"It's a kind of...\" belongs to Circumlocution — Describing What You Mean — used to describe or work around a word you can't remember, instead of freezing, not this context.\nSimilar chunks:\n- It's the thing you use to...\n- I don't know the exact word, but it's basically...\n- You know when...? That."
+    },
+    {
+      "id": 14,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need another way to describe something you can't name, without pausing too long. Which chunk fits best?",
+      "options": {
+        "A": "It's the thing you use to...",
+        "B": "Think... but smaller.",
+        "C": "...anyway, the point is...",
+        "D": "I'll come back to the word. Anyway —..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"It's the thing you use to...\" belongs to Circumlocution — Describing What You Mean — used to describe or work around a word you can't remember, instead of freezing, not this context.\nSimilar chunks:\n- It's like a... but...\n- You know when...? That.\n- It's the word for when someone...\n\n✓ Correct — \"Think... but smaller.\" is a More Circumlocution Frames chunk: used as another framing device to describe something you can't name.\nExample: \"Think a full audit... but smaller — more like a quick sanity check.\"\nSimilar chunks:\n- It's similar to...\n- It's like a... but for...\n- It's what you call it when...\n\n✗ \"...anyway, the point is...\" belongs to Never Abandon the Message — used to land a collapsing sentence and keep going, instead of trailing off into silence, not this context.\nSimilar chunks:\n- ...but you get the idea.\n- ...what I'm trying to say is...\n- ...I'm not explaining this well. Let me start again.\n\n✗ \"I'll come back to the word. Anyway —...\" belongs to More Ways to Ask for Help & Move On — used to quickly ask for a missing word and keep the conversation moving without losing the floor, not this context.\nSimilar chunks:\n- What do you call it?\n- What's the word?\n- Help me out."
+    },
+    {
+      "id": 15,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need another way to describe something you can't name, without pausing too long. Which chunk fits best?",
+      "options": {
+        "A": "I'll come back to the word. Anyway —...",
+        "B": "It's the thing that...",
+        "C": "You know the one?",
+        "D": "...what I'm trying to say is..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'll come back to the word. Anyway —...\" belongs to More Ways to Ask for Help & Move On — used to quickly ask for a missing word and keep the conversation moving without losing the floor, not this context.\nSimilar chunks:\n- Let me say it in simpler terms.\n- What do you call it?\n- What's the word?\n\n✓ Correct — \"It's the thing that...\" is a More Circumlocution Frames chunk: used as another framing device to describe something you can't name.\nExample: \"It's the thing that... reminds you when a meeting's about to start.\"\nSimilar chunks:\n- You use it to...\n- There's a word for it — I can't think of it.\n- Think... but smaller.\n\n✗ \"You know the one?\" belongs to Appealing for Help Professionally — used to ask the other person for a missing word without sounding lost or embarrassed, not this context.\nSimilar chunks:\n- What do you call it again?\n- Right — exactly.\n- What's the word I'm looking for?\n\n✗ \"...what I'm trying to say is...\" belongs to Never Abandon the Message — used to land a collapsing sentence and keep going, instead of trailing off into silence, not this context.\nSimilar chunks:\n- ...anyway, the point is...\n- ...I'm not explaining this well. Let me start again.\n- ...but you get the idea."
+    },
+    {
+      "id": 16,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need another way to describe something you can't name, without pausing too long. Which chunk fits best?",
+      "options": {
+        "A": "sort of",
+        "B": "You know what I mean?",
+        "C": "It's similar to...",
+        "D": "You know the one?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"sort of\" belongs to Approximation & All-Purpose Words — used as a generic, rough substitute for a precise word you can't recall, not this context.\nSimilar chunks:\n- or whatever the technical term is\n- stuff\n- a kind of\n\n✗ \"You know what I mean?\" belongs to Appealing for Help Professionally — used to ask the other person for a missing word without sounding lost or embarrassed, not this context.\nSimilar chunks:\n- You know the one?\n- Right — exactly.\n- How do you say it in English?\n\n✓ Correct — \"It's similar to...\" is a More Circumlocution Frames chunk: used as another framing device to describe something you can't name.\nExample: \"It's similar to... a checklist, but it's automated.\"\nSimilar chunks:\n- It's the thing that...\n- It's for when you need to...\n- Think... but smaller.\n\n✗ \"You know the one?\" belongs to Appealing for Help Professionally — used to ask the other person for a missing word without sounding lost or embarrassed, not this context.\nSimilar chunks:\n- Right — exactly.\n- Help me out here — the thing that...\n- What do you call it again?"
+    },
+    {
+      "id": 17,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need another way to describe something you can't name, without pausing too long. Which chunk fits best?",
+      "options": {
+        "A": "It's like a... but for...",
+        "B": "Let me say it in simpler terms.",
+        "C": "It's the word for when someone...",
+        "D": "Help me out here — the thing that..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"It's like a... but for...\" is a More Circumlocution Frames chunk: used as another framing device to describe something you can't name.\nExample: \"It's like a... calendar, but for tracking who's out of the office.\"\nSimilar chunks:\n- You use it to...\n- It's similar to...\n- There's a word for it — I can't think of it.\n\n✗ \"Let me say it in simpler terms.\" belongs to More Ways to Ask for Help & Move On — used to quickly ask for a missing word and keep the conversation moving without losing the floor, not this context.\nSimilar chunks:\n- Help me out.\n- What's the word?\n- I'll come back to the word. Anyway —...\n\n✗ \"It's the word for when someone...\" belongs to Circumlocution — Describing What You Mean — used to describe or work around a word you can't remember, instead of freezing, not this context.\nSimilar chunks:\n- It's a kind of...\n- It's like a... but...\n- You know when...? That.\n\n✗ \"Help me out here — the thing that...\" belongs to Appealing for Help Professionally — used to ask the other person for a missing word without sounding lost or embarrassed, not this context.\nSimilar chunks:\n- You know the one?\n- You know what I mean?\n- How do you say it in English?"
+    },
+    {
+      "id": 18,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're stuck on a word mid-conversation and want a quick way to ask for it and keep the conversation moving. Which chunk fits best?",
+      "options": {
+        "A": "You know what I mean?",
+        "B": "Let me say it in simpler terms.",
+        "C": "the thing that...",
+        "D": "How do you say it in English?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"You know what I mean?\" belongs to Appealing for Help Professionally — used to ask the other person for a missing word without sounding lost or embarrassed, not this context.\nSimilar chunks:\n- Right — exactly.\n- What's the word I'm looking for?\n- What do you call it again?\n\n✓ Correct — \"Let me say it in simpler terms.\" is a More Ways to Ask for Help & Move On chunk: used to quickly ask for a missing word and keep the conversation moving without losing the floor.\nExample: \"Let me say it in simpler terms: we're spending more than we make.\"\nSimilar chunks:\n- Help me out.\n- What do you call it?\n- What's the word?\n\n✗ \"the thing that...\" belongs to Approximation & All-Purpose Words — used as a generic, rough substitute for a precise word you can't recall, not this context.\nSimilar chunks:\n- the stuff we use for...\n- stuff\n- a kind of\n\n✗ \"How do you say it in English?\" belongs to Appealing for Help Professionally — used to ask the other person for a missing word without sounding lost or embarrassed, not this context.\nSimilar chunks:\n- You know what I mean?\n- Right — exactly.\n- Is there a word for that?"
+    },
+    {
+      "id": 19,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're stuck on a word mid-conversation and want a quick way to ask for it and keep the conversation moving. Which chunk fits best?",
+      "options": {
+        "A": "stuff",
+        "B": "...I'm not explaining this well. Let me start again.",
+        "C": "What's the word?",
+        "D": "something along those lines"
+      },
+      "correct": "C",
+      "explanation": "✗ \"stuff\" belongs to Approximation & All-Purpose Words — used as a generic, rough substitute for a precise word you can't recall, not this context.\nSimilar chunks:\n- the thing that...\n- sort of\n- thing\n\n✗ \"...I'm not explaining this well. Let me start again.\" belongs to Never Abandon the Message — used to land a collapsing sentence and keep going, instead of trailing off into silence, not this context.\nSimilar chunks:\n- ...anyway, the point is...\n- ...but you get the idea.\n- ...what I'm trying to say is...\n\n✓ Correct — \"What's the word?\" is a More Ways to Ask for Help & Move On chunk: used to quickly ask for a missing word and keep the conversation moving without losing the floor.\nExample: \"What's the word... for someone who always finds a reason to complain?\"\nSimilar chunks:\n- I'll come back to the word. Anyway —...\n- Help me out.\n- Let me say it in simpler terms.\n\n✗ \"something along those lines\" belongs to Approximation & All-Purpose Words — used as a generic, rough substitute for a precise word you can't recall, not this context.\nSimilar chunks:\n- the thing that...\n- thing\n- stuff"
+    },
+    {
+      "id": 20,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're in a casual conversation and can't recall the exact word, so you reach for a light, informal placeholder. Which chunk fits best?",
+      "options": {
+        "A": "I don't know the exact word, but it's basically...",
+        "B": "doodah",
+        "C": "You use it to...",
+        "D": "...but you get the idea."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I don't know the exact word, but it's basically...\" belongs to Circumlocution — Describing What You Mean — used to describe or work around a word you can't remember, instead of freezing, not this context.\nSimilar chunks:\n- It's what happens when...\n- It's like a... but...\n- It's a kind of...\n\n✓ Correct — \"doodah\" is an Informal All-Purpose Words (UK/Casual) chunk: used casually, especially in British English, as a placeholder for a word you can't recall.\nExample: \"Where's the little doodah that connects to the projector?\"\nSimilar chunks:\n- thingy\n- whatsit\n\n✗ \"You use it to...\" belongs to More Circumlocution Frames — used as another framing device to describe something you can't name, not this context.\nSimilar chunks:\n- There's a word for it — I can't think of it.\n- It's similar to...\n- Think... but smaller.\n\n✗ \"...but you get the idea.\" belongs to Never Abandon the Message — used to land a collapsing sentence and keep going, instead of trailing off into silence, not this context.\nSimilar chunks:\n- ...anyway, the point is...\n- ...I'm not explaining this well. Let me start again.\n- ...what I'm trying to say is..."
+    },
+    {
+      "id": 21,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're in a casual conversation and can't recall the exact word, so you reach for a light, informal placeholder. Which chunk fits best?",
+      "options": {
+        "A": "...anyway, the point is...",
+        "B": "How do you say it in English?",
+        "C": "whatsit",
+        "D": "or whatever the technical term is"
+      },
+      "correct": "C",
+      "explanation": "✗ \"...anyway, the point is...\" belongs to Never Abandon the Message — used to land a collapsing sentence and keep going, instead of trailing off into silence, not this context.\nSimilar chunks:\n- ...I'm not explaining this well. Let me start again.\n- ...but you get the idea.\n- ...what I'm trying to say is...\n\n✗ \"How do you say it in English?\" belongs to Appealing for Help Professionally — used to ask the other person for a missing word without sounding lost or embarrassed, not this context.\nSimilar chunks:\n- Right — exactly.\n- What do you call it again?\n- You know what I mean?\n\n✓ Correct — \"whatsit\" is an Informal All-Purpose Words (UK/Casual) chunk: used casually, especially in British English, as a placeholder for a word you can't recall.\nExample: \"Can you grab the whatsit — the thing that holds the cables together?\"\nSimilar chunks:\n- thingy\n- doodah\n\n✗ \"or whatever the technical term is\" belongs to Approximation & All-Purpose Words — used as a generic, rough substitute for a precise word you can't recall, not this context.\nSimilar chunks:\n- stuff\n- the thing that...\n- the stuff we use for..."
+    }
+  ]
+}

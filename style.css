@@ -154,7 +154,19 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   gap: 10px;
+  margin-bottom: 14px;
 }
+.option-grid:last-child { margin-bottom: 0; }
+
+.source-tier-label {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+  margin: 4px 0 8px;
+}
+.source-tier-label:first-child { margin-top: 0; }
 
 .pill-radio {
   display: flex;

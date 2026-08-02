@@ -1,0 +1,412 @@
+{
+  "examId": "collaboration-levels",
+  "title": "Chunk Atlas — Situations: Collaboration Across Levels",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're chatting informally with a close peer or teammate and need to express something naturally, without sounding stiff or overly formal. Which chunk fits best?",
+      "options": {
+        "A": "I'd recommend we pivot — here's the one reason why.",
+        "B": "We've got two competing views on the table — let me summarize both fairly.",
+        "C": "That's a really good point — I hadn't thought about it that way.",
+        "D": "Hmm, I'm not sold on that — feels a bit risky to me."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'd recommend we pivot — here's the one reason why.\" belongs to Speaking to Senior Leadership (Executive Register) — used with senior leadership or C-level audiences — short, outcome-focused, light on process detail, not this context.\nSimilar chunks:\n- I'll have a considered answer by tomorrow morning rather than a rushed one now.\n- This moves the needle. Nicely done.\n- Before we commit, I'd flag one risk: [X]. Worth a look?\n\n✗ \"We've got two competing views on the table — let me summarize both fairly.\" belongs to Facilitating & Synthesizing a Discussion — used by a facilitator to pull ideas together, draw out quieter voices, and land on a shared conclusion, not this context.\nSimilar chunks:\n- Great discussion — let's land the plane. What's the one decision we're making?\n- So where does that leave us? Let me play back what I think we've agreed.\n- I want to make sure we hear from everyone — [name], you've been quiet, what's your take?\n\n✗ \"That's a really good point — I hadn't thought about it that way.\" belongs to Active Listening — used to show the other person you've genuinely understood and value what they said, not this context.\nSimilar chunks:\n- What I'm hearing underneath that is... — am I close?\n- That makes sense. And what would you want to see happen instead?\n- Let me make sure I've got this right — you're saying that...\n\n✓ Correct — \"Hmm, I'm not sold on that — feels a bit risky to me.\" is a Speaking Casually With a Peer (Register) chunk: used in casual, peer-to-peer conversation — relaxed wording appropriate for someone you know well.\nExample: \"Hmm, I'm not sold on that — feels a bit risky to me. Can we look at another option?\"\nSimilar chunks:\n- Wait, you lost me — run that by me again?\n- Honestly, I think we should scrap this and rethink.\n- Okay this is actually really good."
+    },
+    {
+      "id": 2,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're chatting informally with a close peer or teammate and need to express something naturally, without sounding stiff or overly formal. Which chunk fits best?",
+      "options": {
+        "A": "If we solve this together, it makes both our lives easier down the line.",
+        "B": "What I'm hearing underneath that is... — am I close?",
+        "C": "Just so you're not caught off guard in the meeting: here's the headline.",
+        "D": "Wait, you lost me — run that by me again?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"If we solve this together, it makes both our lives easier down the line.\" belongs to Influencing Without Authority — used to get cooperation from someone who doesn't report to you, through persuasion rather than authority, not this context.\nSimilar chunks:\n- You've got more context here than I do — where do you think this should land?\n- What would it take to get this on your radar?\n- I'll own the coordination if you can own the technical call — deal?\n\n✗ \"What I'm hearing underneath that is... — am I close?\" belongs to Active Listening — used to show the other person you've genuinely understood and value what they said, not this context.\nSimilar chunks:\n- So if I'm hearing you correctly, the core concern is...\n- That makes sense. And what would you want to see happen instead?\n- Say more about that — I want to understand where you're coming from.\n\n✗ \"Just so you're not caught off guard in the meeting: here's the headline.\" belongs to Managing Up — used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast, not this context.\nSimilar chunks:\n- I don't need you to solve this, I just need a quick steer on direction.\n- Here's the situation, here's my recommendation, and here's what I need from you.\n- This is going well — here's the one thing I'd want your help unblocking.\n\n✓ Correct — \"Wait, you lost me — run that by me again?\" is a Speaking Casually With a Peer (Register) chunk: used in casual, peer-to-peer conversation — relaxed wording appropriate for someone you know well.\nExample: \"Wait, you lost me — run that by me again? I zoned out on the last part.\"\nSimilar chunks:\n- Honestly, I think we should scrap this and rethink.\n- Hmm, I'm not sold on that — feels a bit risky to me.\n- Can you give me till tomorrow? Brain's fried today."
+    },
+    {
+      "id": 3,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're talking with someone from another team or a client — not a close friend, but not a senior executive either — and need a professional but approachable tone. Which chunk fits best?",
+      "options": {
+        "A": "I'll have a considered answer by tomorrow morning rather than a rushed one now.",
+        "B": "So where does that leave us? Let me play back what I think we've agreed.",
+        "C": "I have some reservations about this approach — can I share a concern?",
+        "D": "I'd recommend we pivot — here's the one reason why."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I'll have a considered answer by tomorrow morning rather than a rushed one now.\" belongs to Speaking to Senior Leadership (Executive Register) — used with senior leadership or C-level audiences — short, outcome-focused, light on process detail, not this context.\nSimilar chunks:\n- Help me understand the reasoning here — I want to make sure I'm aligned before we move.\n- This moves the needle. Nicely done.\n- Before we commit, I'd flag one risk: [X]. Worth a look?\n\n✗ \"So where does that leave us? Let me play back what I think we've agreed.\" belongs to Facilitating & Synthesizing a Discussion — used by a facilitator to pull ideas together, draw out quieter voices, and land on a shared conclusion, not this context.\nSimilar chunks:\n- Great discussion — let's land the plane. What's the one decision we're making?\n- Building on what [name] just said...\n- I want to make sure we hear from everyone — [name], you've been quiet, what's your take?\n\n✓ Correct — \"I have some reservations about this approach — can I share a concern?\" is a Speaking Neutrally With a Client or Cross-Team Peer (Register) chunk: used in neutral, professional register — appropriate for clients or people outside your immediate team.\nExample: \"I have some reservations about this approach — can I share a concern before we finalize the design?\"\nSimilar chunks:\n- I want to make sure I follow — could you walk me through that once more?\n- I'd like to give this the attention it deserves — could I come back to you by tomorrow?\n- This is strong work — the structure especially.\n\n✗ \"I'd recommend we pivot — here's the one reason why.\" belongs to Speaking to Senior Leadership (Executive Register) — used with senior leadership or C-level audiences — short, outcome-focused, light on process detail, not this context.\nSimilar chunks:\n- Help me understand the reasoning here — I want to make sure I'm aligned before we move.\n- I'll have a considered answer by tomorrow morning rather than a rushed one now.\n- This moves the needle. Nicely done."
+    },
+    {
+      "id": 4,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're talking with someone from another team or a client — not a close friend, but not a senior executive either — and need a professional but approachable tone. Which chunk fits best?",
+      "options": {
+        "A": "Wait, you lost me — run that by me again?",
+        "B": "Great discussion — let's land the plane. What's the one decision we're making?",
+        "C": "This is strong work — the structure especially.",
+        "D": "Just so you're not caught off guard in the meeting: here's the headline."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Wait, you lost me — run that by me again?\" belongs to Speaking Casually With a Peer (Register) — used in casual, peer-to-peer conversation — relaxed wording appropriate for someone you know well, not this context.\nSimilar chunks:\n- Okay this is actually really good.\n- Hmm, I'm not sold on that — feels a bit risky to me.\n- Honestly, I think we should scrap this and rethink.\n\n✗ \"Great discussion — let's land the plane. What's the one decision we're making?\" belongs to Facilitating & Synthesizing a Discussion — used by a facilitator to pull ideas together, draw out quieter voices, and land on a shared conclusion, not this context.\nSimilar chunks:\n- So where does that leave us? Let me play back what I think we've agreed.\n- We've got two competing views on the table — let me summarize both fairly.\n- Let's capture that and keep moving — we can go deeper offline.\n\n✓ Correct — \"This is strong work — the structure especially.\" is a Speaking Neutrally With a Client or Cross-Team Peer (Register) chunk: used in neutral, professional register — appropriate for clients or people outside your immediate team.\nExample: \"This is strong work — the structure especially made the proposal easy to follow.\"\nSimilar chunks:\n- I have some reservations about this approach — can I share a concern?\n- I'd like to give this the attention it deserves — could I come back to you by tomorrow?\n- I want to make sure I follow — could you walk me through that once more?\n\n✗ \"Just so you're not caught off guard in the meeting: here's the headline.\" belongs to Managing Up — used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast, not this context.\nSimilar chunks:\n- I don't need you to solve this, I just need a quick steer on direction.\n- This is going well — here's the one thing I'd want your help unblocking.\n- Here's the situation, here's my recommendation, and here's what I need from you."
+    },
+    {
+      "id": 5,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're addressing a senior leader or C-level executive and need to be brief, outcome-focused, and light on process detail. Which chunk fits best?",
+      "options": {
+        "A": "I could really use your expertise on this — you know this system better than anyone.",
+        "B": "This moves the needle. Nicely done.",
+        "C": "No pressure to have the answer right now — just thinking out loud together.",
+        "D": "You've got more context here than I do — where do you think this should land?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"I could really use your expertise on this — you know this system better than anyone.\" belongs to Influencing Without Authority — used to get cooperation from someone who doesn't report to you, through persuasion rather than authority, not this context.\nSimilar chunks:\n- If we solve this together, it makes both our lives easier down the line.\n- I'm not trying to add to your plate — I'm trying to save us both a headache later.\n- What would it take to get this on your radar?\n\n✓ Correct — \"This moves the needle. Nicely done.\" is a Speaking to Senior Leadership (Executive Register) chunk: used with senior leadership or C-level audiences — short, outcome-focused, light on process detail.\nExample: \"This moves the needle. Nicely done — this is the kind of result the board wants to see.\"\nSimilar chunks:\n- I'll have a considered answer by tomorrow morning rather than a rushed one now.\n- Help me understand the reasoning here — I want to make sure I'm aligned before we move.\n- Before we commit, I'd flag one risk: [X]. Worth a look?\n\n✗ \"No pressure to have the answer right now — just thinking out loud together.\" belongs to Building Rapport & Psychological Safety — used to create a safe, open atmosphere where people feel comfortable speaking up or disagreeing, not this context.\nSimilar chunks:\n- Thanks for being candid — that's exactly the kind of input I was hoping for.\n- What am I missing? I'd genuinely rather hear it now.\n- Feel free to jump in anytime — this works better as a conversation than a monologue.\n\n✗ \"You've got more context here than I do — where do you think this should land?\" belongs to Influencing Without Authority — used to get cooperation from someone who doesn't report to you, through persuasion rather than authority, not this context.\nSimilar chunks:\n- I'm not trying to add to your plate — I'm trying to save us both a headache later.\n- I'll own the coordination if you can own the technical call — deal?\n- If we solve this together, it makes both our lives easier down the line."
+    },
+    {
+      "id": 6,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're addressing a senior leader or C-level executive and need to be brief, outcome-focused, and light on process detail. Which chunk fits best?",
+      "options": {
+        "A": "So if I'm hearing you correctly, the core concern is...",
+        "B": "I've been meaning to reach out — I really enjoyed your talk on [topic].",
+        "C": "I'll have a considered answer by tomorrow morning rather than a rushed one now.",
+        "D": "This is going well — here's the one thing I'd want your help unblocking."
+      },
+      "correct": "C",
+      "explanation": "✗ \"So if I'm hearing you correctly, the core concern is...\" belongs to Active Listening — used to show the other person you've genuinely understood and value what they said, not this context.\nSimilar chunks:\n- That makes sense. And what would you want to see happen instead?\n- Say more about that — I want to understand where you're coming from.\n- What I'm hearing underneath that is... — am I close?\n\n✗ \"I've been meaning to reach out — I really enjoyed your talk on [topic].\" belongs to Networking & Warm Relationship-Building — used to reconnect with a professional contact and build the relationship, without any transactional ask, not this context.\nSimilar chunks:\n- I thought of you when I saw this — figured it might be useful.\n- Let's stay in touch — I have a feeling our paths will cross again.\n- I'd love to pick your brain on something whenever you have a spare fifteen minutes.\n\n✓ Correct — \"I'll have a considered answer by tomorrow morning rather than a rushed one now.\" is a Speaking to Senior Leadership (Executive Register) chunk: used with senior leadership or C-level audiences — short, outcome-focused, light on process detail.\nExample: \"I'll have a considered answer by tomorrow morning rather than a rushed one now — I'd rather get the numbers right.\"\nSimilar chunks:\n- Before we commit, I'd flag one risk: [X]. Worth a look?\n- Help me understand the reasoning here — I want to make sure I'm aligned before we move.\n- I'd recommend we pivot — here's the one reason why.\n\n✗ \"This is going well — here's the one thing I'd want your help unblocking.\" belongs to Managing Up — used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast, not this context.\nSimilar chunks:\n- Here's the situation, here's my recommendation, and here's what I need from you.\n- Just so you're not caught off guard in the meeting: here's the headline.\n- I want to flag this early rather than surprise you later."
+    },
+    {
+      "id": 7,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're leading a discussion and want people to feel safe speaking up, disagreeing, or admitting confusion. Which chunk fits best?",
+      "options": {
+        "A": "That's a really good point — I hadn't thought about it that way.",
+        "B": "I hear you. Here's where I land.",
+        "C": "I want to flag this early rather than surprise you later.",
+        "D": "No pressure to have the answer right now — just thinking out loud together."
+      },
+      "correct": "D",
+      "explanation": "✗ \"That's a really good point — I hadn't thought about it that way.\" belongs to Active Listening — used to show the other person you've genuinely understood and value what they said, not this context.\nSimilar chunks:\n- That makes sense. And what would you want to see happen instead?\n- Say more about that — I want to understand where you're coming from.\n- Let me make sure I've got this right — you're saying that...\n\n✗ \"I hear you. Here's where I land.\" belongs to Calm, Confident Everyday Presence — used to respond to small everyday moments — questions, mistakes, pushback — with calm, confident presence instead of over-explaining, not this context.\nSimilar chunks:\n- Let me think about that for a moment.\n- That's fair. I've changed my mind.\n- When you have a moment, could you...?\n\n✗ \"I want to flag this early rather than surprise you later.\" belongs to Managing Up — used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast, not this context.\nSimilar chunks:\n- Here's the situation, here's my recommendation, and here's what I need from you.\n- What's the best way for me to keep you updated on this without over-communicating?\n- I don't need you to solve this, I just need a quick steer on direction.\n\n✓ Correct — \"No pressure to have the answer right now — just thinking out loud together.\" is a Building Rapport & Psychological Safety chunk: used to create a safe, open atmosphere where people feel comfortable speaking up or disagreeing.\nExample: \"No pressure to have the answer right now — just thinking out loud together to see where this goes.\"\nSimilar chunks:\n- There are no bad questions here — if it's unclear to you, it's probably unclear to others too.\n- Let's make this a safe space to disagree.\n- Thanks for being candid — that's exactly the kind of input I was hoping for."
+    },
+    {
+      "id": 8,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're leading a discussion and want people to feel safe speaking up, disagreeing, or admitting confusion. Which chunk fits best?",
+      "options": {
+        "A": "This is your call, but here's what I'm seeing from my side.",
+        "B": "Let's stay in touch — I have a feeling our paths will cross again.",
+        "C": "Wait, you lost me — run that by me again?",
+        "D": "Thanks for being candid — that's exactly the kind of input I was hoping for."
+      },
+      "correct": "D",
+      "explanation": "✗ \"This is your call, but here's what I'm seeing from my side.\" belongs to Influencing Without Authority — used to get cooperation from someone who doesn't report to you, through persuasion rather than authority, not this context.\nSimilar chunks:\n- If we solve this together, it makes both our lives easier down the line.\n- You've got more context here than I do — where do you think this should land?\n- What would it take to get this on your radar?\n\n✗ \"Let's stay in touch — I have a feeling our paths will cross again.\" belongs to Networking & Warm Relationship-Building — used to reconnect with a professional contact and build the relationship, without any transactional ask, not this context.\nSimilar chunks:\n- I'd love to pick your brain on something whenever you have a spare fifteen minutes.\n- Congratulations on the new role — really well deserved.\n- No agenda, just wanted to catch up and see how things are going on your end.\n\n✗ \"Wait, you lost me — run that by me again?\" belongs to Speaking Casually With a Peer (Register) — used in casual, peer-to-peer conversation — relaxed wording appropriate for someone you know well, not this context.\nSimilar chunks:\n- Hmm, I'm not sold on that — feels a bit risky to me.\n- Okay this is actually really good.\n- Can you give me till tomorrow? Brain's fried today.\n\n✓ Correct — \"Thanks for being candid — that's exactly the kind of input I was hoping for.\" is a Building Rapport & Psychological Safety chunk: used to create a safe, open atmosphere where people feel comfortable speaking up or disagreeing.\nExample: \"Thanks for being candid — that's exactly the kind of input I was hoping for on the pricing proposal.\"\nSimilar chunks:\n- No pressure to have the answer right now — just thinking out loud together.\n- There are no bad questions here — if it's unclear to you, it's probably unclear to others too.\n- Feel free to jump in anytime — this works better as a conversation than a monologue."
+    },
+    {
+      "id": 9,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're leading a discussion and want people to feel safe speaking up, disagreeing, or admitting confusion. Which chunk fits best?",
+      "options": {
+        "A": "I hear you. Here's where I land.",
+        "B": "Let's not overcomplicate this.",
+        "C": "When you have a moment, could you...?",
+        "D": "What am I missing? I'd genuinely rather hear it now."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I hear you. Here's where I land.\" belongs to Calm, Confident Everyday Presence — used to respond to small everyday moments — questions, mistakes, pushback — with calm, confident presence instead of over-explaining, not this context.\nSimilar chunks:\n- When you have a moment, could you...?\n- Let me think about that for a moment.\n- That's fair. I've changed my mind.\n\n✗ \"Let's not overcomplicate this.\" belongs to Calm, Confident Everyday Presence — used to respond to small everyday moments — questions, mistakes, pushback — with calm, confident presence instead of over-explaining, not this context.\nSimilar chunks:\n- Let me think about that for a moment.\n- I'd rather get it right than get it fast.\n- Good question. I don't know — but I'll find out.\n\n✗ \"When you have a moment, could you...?\" belongs to Calm, Confident Everyday Presence — used to respond to small everyday moments — questions, mistakes, pushback — with calm, confident presence instead of over-explaining, not this context.\nSimilar chunks:\n- Let's not overcomplicate this.\n- I hear you. Here's where I land.\n- I'd suggest we...\n\n✓ Correct — \"What am I missing? I'd genuinely rather hear it now.\" is a Building Rapport & Psychological Safety chunk: used to create a safe, open atmosphere where people feel comfortable speaking up or disagreeing.\nExample: \"What am I missing? I'd genuinely rather hear it now than find out after we've shipped it.\"\nSimilar chunks:\n- I might be wrong on this, so push back if something doesn't land.\n- There are no bad questions here — if it's unclear to you, it's probably unclear to others too.\n- Feel free to jump in anytime — this works better as a conversation than a monologue."
+    },
+    {
+      "id": 10,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "The other person just shared something important, and you want to show them you genuinely understood and value what they said. Which chunk fits best?",
+      "options": {
+        "A": "Say more about that — I want to understand where you're coming from.",
+        "B": "I'd like to give this the attention it deserves — could I come back to you by tomorrow?",
+        "C": "How can I make this easier for you?",
+        "D": "Two options — I'm leaning towards the first, but wanted your read."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Say more about that — I want to understand where you're coming from.\" is an Active Listening chunk: used to show the other person you've genuinely understood and value what they said.\nExample: \"Say more about that — I want to understand where you're coming from on the timeline concern.\"\nSimilar chunks:\n- What I'm hearing underneath that is... — am I close?\n- Before I respond, I want to make sure I've fully understood you.\n- That makes sense. And what would you want to see happen instead?\n\n✗ \"I'd like to give this the attention it deserves — could I come back to you by tomorrow?\" belongs to Speaking Neutrally With a Client or Cross-Team Peer (Register) — used in neutral, professional register — appropriate for clients or people outside your immediate team, not this context.\nSimilar chunks:\n- This is strong work — the structure especially.\n- I have some reservations about this approach — can I share a concern?\n- I'm wondering if it's worth stepping back and reconsidering the approach.\n\n✗ \"How can I make this easier for you?\" belongs to Influencing Without Authority — used to get cooperation from someone who doesn't report to you, through persuasion rather than authority, not this context.\nSimilar chunks:\n- You've got more context here than I do — where do you think this should land?\n- I'm not trying to add to your plate — I'm trying to save us both a headache later.\n- I could really use your expertise on this — you know this system better than anyone.\n\n✗ \"Two options — I'm leaning towards the first, but wanted your read.\" belongs to Managing Up — used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast, not this context.\nSimilar chunks:\n- Here's the situation, here's my recommendation, and here's what I need from you.\n- This is going well — here's the one thing I'd want your help unblocking.\n- What's the best way for me to keep you updated on this without over-communicating?"
+    },
+    {
+      "id": 11,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "The other person just shared something important, and you want to show them you genuinely understood and value what they said. Which chunk fits best?",
+      "options": {
+        "A": "Let me make sure I've got this right — you're saying that...",
+        "B": "You've got more context here than I do — where do you think this should land?",
+        "C": "I could really use your expertise on this — you know this system better than anyone.",
+        "D": "I don't need you to solve this, I just need a quick steer on direction."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Let me make sure I've got this right — you're saying that...\" is an Active Listening chunk: used to show the other person you've genuinely understood and value what they said.\nExample: \"Let me make sure I've got this right — you're saying that the delay started with the vendor, not our team?\"\nSimilar chunks:\n- That's a really good point — I hadn't thought about it that way.\n- Before I respond, I want to make sure I've fully understood you.\n- Say more about that — I want to understand where you're coming from.\n\n✗ \"You've got more context here than I do — where do you think this should land?\" belongs to Influencing Without Authority — used to get cooperation from someone who doesn't report to you, through persuasion rather than authority, not this context.\nSimilar chunks:\n- I'll own the coordination if you can own the technical call — deal?\n- I could really use your expertise on this — you know this system better than anyone.\n- If we solve this together, it makes both our lives easier down the line.\n\n✗ \"I could really use your expertise on this — you know this system better than anyone.\" belongs to Influencing Without Authority — used to get cooperation from someone who doesn't report to you, through persuasion rather than authority, not this context.\nSimilar chunks:\n- You've got more context here than I do — where do you think this should land?\n- I'm not trying to add to your plate — I'm trying to save us both a headache later.\n- This is your call, but here's what I'm seeing from my side.\n\n✗ \"I don't need you to solve this, I just need a quick steer on direction.\" belongs to Managing Up — used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast, not this context.\nSimilar chunks:\n- What's the best way for me to keep you updated on this without over-communicating?\n- Just so you're not caught off guard in the meeting: here's the headline.\n- This is going well — here's the one thing I'd want your help unblocking."
+    },
+    {
+      "id": 12,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "The other person just shared something important, and you want to show them you genuinely understood and value what they said. Which chunk fits best?",
+      "options": {
+        "A": "I'm wondering if it's worth stepping back and reconsidering the approach.",
+        "B": "Before I respond, I want to make sure I've fully understood you.",
+        "C": "So where does that leave us? Let me play back what I think we've agreed.",
+        "D": "Great discussion — let's land the plane. What's the one decision we're making?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'm wondering if it's worth stepping back and reconsidering the approach.\" belongs to Speaking Neutrally With a Client or Cross-Team Peer (Register) — used in neutral, professional register — appropriate for clients or people outside your immediate team, not this context.\nSimilar chunks:\n- I want to make sure I follow — could you walk me through that once more?\n- I have some reservations about this approach — can I share a concern?\n- I'd like to give this the attention it deserves — could I come back to you by tomorrow?\n\n✓ Correct — \"Before I respond, I want to make sure I've fully understood you.\" is an Active Listening chunk: used to show the other person you've genuinely understood and value what they said.\nExample: \"Before I respond, I want to make sure I've fully understood you — can you repeat the last part?\"\nSimilar chunks:\n- Let me make sure I've got this right — you're saying that...\n- That makes sense. And what would you want to see happen instead?\n- Say more about that — I want to understand where you're coming from.\n\n✗ \"So where does that leave us? Let me play back what I think we've agreed.\" belongs to Facilitating & Synthesizing a Discussion — used by a facilitator to pull ideas together, draw out quieter voices, and land on a shared conclusion, not this context.\nSimilar chunks:\n- Let's capture that and keep moving — we can go deeper offline.\n- I want to make sure we hear from everyone — [name], you've been quiet, what's your take?\n- Building on what [name] just said...\n\n✗ \"Great discussion — let's land the plane. What's the one decision we're making?\" belongs to Facilitating & Synthesizing a Discussion — used by a facilitator to pull ideas together, draw out quieter voices, and land on a shared conclusion, not this context.\nSimilar chunks:\n- Let me pull the threads together — it sounds like we're converging on...\n- We've got two competing views on the table — let me summarize both fairly.\n- So where does that leave us? Let me play back what I think we've agreed."
+    },
+    {
+      "id": 13,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need someone who doesn't report to you to prioritize your request, and you have to persuade rather than instruct them. Which chunk fits best?",
+      "options": {
+        "A": "I'd suggest we...",
+        "B": "This is your call, but here's what I'm seeing from my side.",
+        "C": "When you have a moment, could you...?",
+        "D": "It's been too long — we should grab a coffee sometime soon."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'd suggest we...\" belongs to Calm, Confident Everyday Presence — used to respond to small everyday moments — questions, mistakes, pushback — with calm, confident presence instead of over-explaining, not this context.\nSimilar chunks:\n- I'd rather get it right than get it fast.\n- When you have a moment, could you...?\n- Let me think about that for a moment.\n\n✓ Correct — \"This is your call, but here's what I'm seeing from my side.\" is an Influencing Without Authority chunk: used to get cooperation from someone who doesn't report to you, through persuasion rather than authority.\nExample: \"This is your call, but here's what I'm seeing from my side: the current schema will block next quarter's feature.\"\nSimilar chunks:\n- How can I make this easier for you?\n- I could really use your expertise on this — you know this system better than anyone.\n- If we solve this together, it makes both our lives easier down the line.\n\n✗ \"When you have a moment, could you...?\" belongs to Calm, Confident Everyday Presence — used to respond to small everyday moments — questions, mistakes, pushback — with calm, confident presence instead of over-explaining, not this context.\nSimilar chunks:\n- Let's not overcomplicate this.\n- That's fair. I've changed my mind.\n- What questions do you have?\n\n✗ \"It's been too long — we should grab a coffee sometime soon.\" belongs to Networking & Warm Relationship-Building — used to reconnect with a professional contact and build the relationship, without any transactional ask, not this context.\nSimilar chunks:\n- No agenda, just wanted to catch up and see how things are going on your end.\n- I thought of you when I saw this — figured it might be useful.\n- Let's stay in touch — I have a feeling our paths will cross again."
+    },
+    {
+      "id": 14,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need someone who doesn't report to you to prioritize your request, and you have to persuade rather than instruct them. Which chunk fits best?",
+      "options": {
+        "A": "No pressure to have the answer right now — just thinking out loud together.",
+        "B": "I'm not trying to add to your plate — I'm trying to save us both a headache later.",
+        "C": "Here's the situation, here's my recommendation, and here's what I need from you.",
+        "D": "I want to make sure I follow — could you walk me through that once more?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"No pressure to have the answer right now — just thinking out loud together.\" belongs to Building Rapport & Psychological Safety — used to create a safe, open atmosphere where people feel comfortable speaking up or disagreeing, not this context.\nSimilar chunks:\n- There are no bad questions here — if it's unclear to you, it's probably unclear to others too.\n- Thanks for being candid — that's exactly the kind of input I was hoping for.\n- Let's make this a safe space to disagree.\n\n✓ Correct — \"I'm not trying to add to your plate — I'm trying to save us both a headache later.\" is an Influencing Without Authority chunk: used to get cooperation from someone who doesn't report to you, through persuasion rather than authority.\nExample: \"I'm not trying to add to your plate — I'm trying to save us both a headache later when the audit comes around.\"\nSimilar chunks:\n- This is your call, but here's what I'm seeing from my side.\n- You've got more context here than I do — where do you think this should land?\n- What would it take to get this on your radar?\n\n✗ \"Here's the situation, here's my recommendation, and here's what I need from you.\" belongs to Managing Up — used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast, not this context.\nSimilar chunks:\n- What's the best way for me to keep you updated on this without over-communicating?\n- Two options — I'm leaning towards the first, but wanted your read.\n- Just so you're not caught off guard in the meeting: here's the headline.\n\n✗ \"I want to make sure I follow — could you walk me through that once more?\" belongs to Speaking Neutrally With a Client or Cross-Team Peer (Register) — used in neutral, professional register — appropriate for clients or people outside your immediate team, not this context.\nSimilar chunks:\n- I have some reservations about this approach — can I share a concern?\n- I'd like to give this the attention it deserves — could I come back to you by tomorrow?\n- This is strong work — the structure especially."
+    },
+    {
+      "id": 15,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need someone who doesn't report to you to prioritize your request, and you have to persuade rather than instruct them. Which chunk fits best?",
+      "options": {
+        "A": "What would it take to get this on your radar?",
+        "B": "What's the best way for me to keep you updated on this without over-communicating?",
+        "C": "I want to make sure I follow — could you walk me through that once more?",
+        "D": "We've got two competing views on the table — let me summarize both fairly."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What would it take to get this on your radar?\" is an Influencing Without Authority chunk: used to get cooperation from someone who doesn't report to you, through persuasion rather than authority.\nExample: \"What would it take to get this on your radar before the end of the sprint?\"\nSimilar chunks:\n- This is your call, but here's what I'm seeing from my side.\n- How can I make this easier for you?\n- I'm not trying to add to your plate — I'm trying to save us both a headache later.\n\n✗ \"What's the best way for me to keep you updated on this without over-communicating?\" belongs to Managing Up — used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast, not this context.\nSimilar chunks:\n- This is going well — here's the one thing I'd want your help unblocking.\n- I want to flag this early rather than surprise you later.\n- Here's the situation, here's my recommendation, and here's what I need from you.\n\n✗ \"I want to make sure I follow — could you walk me through that once more?\" belongs to Speaking Neutrally With a Client or Cross-Team Peer (Register) — used in neutral, professional register — appropriate for clients or people outside your immediate team, not this context.\nSimilar chunks:\n- This is strong work — the structure especially.\n- I'm wondering if it's worth stepping back and reconsidering the approach.\n- I'd like to give this the attention it deserves — could I come back to you by tomorrow?\n\n✗ \"We've got two competing views on the table — let me summarize both fairly.\" belongs to Facilitating & Synthesizing a Discussion — used by a facilitator to pull ideas together, draw out quieter voices, and land on a shared conclusion, not this context.\nSimilar chunks:\n- Let me pull the threads together — it sounds like we're converging on...\n- I want to make sure we hear from everyone — [name], you've been quiet, what's your take?\n- Great discussion — let's land the plane. What's the one decision we're making?"
+    },
+    {
+      "id": 16,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need someone who doesn't report to you to prioritize your request, and you have to persuade rather than instruct them. Which chunk fits best?",
+      "options": {
+        "A": "I'm wondering if it's worth stepping back and reconsidering the approach.",
+        "B": "Hmm, I'm not sold on that — feels a bit risky to me.",
+        "C": "If we solve this together, it makes both our lives easier down the line.",
+        "D": "Before we commit, I'd flag one risk: [X]. Worth a look?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"I'm wondering if it's worth stepping back and reconsidering the approach.\" belongs to Speaking Neutrally With a Client or Cross-Team Peer (Register) — used in neutral, professional register — appropriate for clients or people outside your immediate team, not this context.\nSimilar chunks:\n- I'd like to give this the attention it deserves — could I come back to you by tomorrow?\n- I want to make sure I follow — could you walk me through that once more?\n- I have some reservations about this approach — can I share a concern?\n\n✗ \"Hmm, I'm not sold on that — feels a bit risky to me.\" belongs to Speaking Casually With a Peer (Register) — used in casual, peer-to-peer conversation — relaxed wording appropriate for someone you know well, not this context.\nSimilar chunks:\n- Okay this is actually really good.\n- Wait, you lost me — run that by me again?\n- Honestly, I think we should scrap this and rethink.\n\n✓ Correct — \"If we solve this together, it makes both our lives easier down the line.\" is an Influencing Without Authority chunk: used to get cooperation from someone who doesn't report to you, through persuasion rather than authority.\nExample: \"If we solve this together, it makes both our lives easier down the line, once the integration goes live.\"\nSimilar chunks:\n- I'm not trying to add to your plate — I'm trying to save us both a headache later.\n- How can I make this easier for you?\n- I could really use your expertise on this — you know this system better than anyone.\n\n✗ \"Before we commit, I'd flag one risk: [X]. Worth a look?\" belongs to Speaking to Senior Leadership (Executive Register) — used with senior leadership or C-level audiences — short, outcome-focused, light on process detail, not this context.\nSimilar chunks:\n- This moves the needle. Nicely done.\n- I'd recommend we pivot — here's the one reason why.\n- I'll have a considered answer by tomorrow morning rather than a rushed one now."
+    },
+    {
+      "id": 17,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're updating your manager or a senior stakeholder and want to bring solutions, not just problems, and help them decide quickly. Which chunk fits best?",
+      "options": {
+        "A": "What's the best way for me to keep you updated on this without over-communicating?",
+        "B": "That makes sense. And what would you want to see happen instead?",
+        "C": "I have some reservations about this approach — can I share a concern?",
+        "D": "How can I make this easier for you?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What's the best way for me to keep you updated on this without over-communicating?\" is a Managing Up chunk: used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast.\nExample: \"What's the best way for me to keep you updated on this without over-communicating — weekly email, or just flag exceptions?\"\nSimilar chunks:\n- Here's the situation, here's my recommendation, and here's what I need from you.\n- Just so you're not caught off guard in the meeting: here's the headline.\n- I want to flag this early rather than surprise you later.\n\n✗ \"That makes sense. And what would you want to see happen instead?\" belongs to Active Listening — used to show the other person you've genuinely understood and value what they said, not this context.\nSimilar chunks:\n- What I'm hearing underneath that is... — am I close?\n- That's a really good point — I hadn't thought about it that way.\n- Say more about that — I want to understand where you're coming from.\n\n✗ \"I have some reservations about this approach — can I share a concern?\" belongs to Speaking Neutrally With a Client or Cross-Team Peer (Register) — used in neutral, professional register — appropriate for clients or people outside your immediate team, not this context.\nSimilar chunks:\n- I'd like to give this the attention it deserves — could I come back to you by tomorrow?\n- This is strong work — the structure especially.\n- I'm wondering if it's worth stepping back and reconsidering the approach.\n\n✗ \"How can I make this easier for you?\" belongs to Influencing Without Authority — used to get cooperation from someone who doesn't report to you, through persuasion rather than authority, not this context.\nSimilar chunks:\n- This is your call, but here's what I'm seeing from my side.\n- I could really use your expertise on this — you know this system better than anyone.\n- If we solve this together, it makes both our lives easier down the line."
+    },
+    {
+      "id": 18,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're updating your manager or a senior stakeholder and want to bring solutions, not just problems, and help them decide quickly. Which chunk fits best?",
+      "options": {
+        "A": "This moves the needle. Nicely done.",
+        "B": "How can I make this easier for you?",
+        "C": "I'd love to pick your brain on something whenever you have a spare fifteen minutes.",
+        "D": "Two options — I'm leaning towards the first, but wanted your read."
+      },
+      "correct": "D",
+      "explanation": "✗ \"This moves the needle. Nicely done.\" belongs to Speaking to Senior Leadership (Executive Register) — used with senior leadership or C-level audiences — short, outcome-focused, light on process detail, not this context.\nSimilar chunks:\n- I'll have a considered answer by tomorrow morning rather than a rushed one now.\n- Help me understand the reasoning here — I want to make sure I'm aligned before we move.\n- Before we commit, I'd flag one risk: [X]. Worth a look?\n\n✗ \"How can I make this easier for you?\" belongs to Influencing Without Authority — used to get cooperation from someone who doesn't report to you, through persuasion rather than authority, not this context.\nSimilar chunks:\n- This is your call, but here's what I'm seeing from my side.\n- I'm not trying to add to your plate — I'm trying to save us both a headache later.\n- If we solve this together, it makes both our lives easier down the line.\n\n✗ \"I'd love to pick your brain on something whenever you have a spare fifteen minutes.\" belongs to Networking & Warm Relationship-Building — used to reconnect with a professional contact and build the relationship, without any transactional ask, not this context.\nSimilar chunks:\n- I thought of you when I saw this — figured it might be useful.\n- I've been meaning to reach out — I really enjoyed your talk on [topic].\n- No agenda, just wanted to catch up and see how things are going on your end.\n\n✓ Correct — \"Two options — I'm leaning towards the first, but wanted your read.\" is a Managing Up chunk: used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast.\nExample: \"Two options — I'm leaning towards the first, but wanted your read before I commit to a vendor.\"\nSimilar chunks:\n- I want to flag this early rather than surprise you later.\n- Here's the situation, here's my recommendation, and here's what I need from you.\n- This is going well — here's the one thing I'd want your help unblocking."
+    },
+    {
+      "id": 19,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're updating your manager or a senior stakeholder and want to bring solutions, not just problems, and help them decide quickly. Which chunk fits best?",
+      "options": {
+        "A": "So if I'm hearing you correctly, the core concern is...",
+        "B": "I could really use your expertise on this — you know this system better than anyone.",
+        "C": "Let's stay in touch — I have a feeling our paths will cross again.",
+        "D": "Here's the situation, here's my recommendation, and here's what I need from you."
+      },
+      "correct": "D",
+      "explanation": "✗ \"So if I'm hearing you correctly, the core concern is...\" belongs to Active Listening — used to show the other person you've genuinely understood and value what they said, not this context.\nSimilar chunks:\n- Say more about that — I want to understand where you're coming from.\n- Let me make sure I've got this right — you're saying that...\n- That's a really good point — I hadn't thought about it that way.\n\n✗ \"I could really use your expertise on this — you know this system better than anyone.\" belongs to Influencing Without Authority — used to get cooperation from someone who doesn't report to you, through persuasion rather than authority, not this context.\nSimilar chunks:\n- I'll own the coordination if you can own the technical call — deal?\n- You've got more context here than I do — where do you think this should land?\n- What would it take to get this on your radar?\n\n✗ \"Let's stay in touch — I have a feeling our paths will cross again.\" belongs to Networking & Warm Relationship-Building — used to reconnect with a professional contact and build the relationship, without any transactional ask, not this context.\nSimilar chunks:\n- I'd love to pick your brain on something whenever you have a spare fifteen minutes.\n- It's been too long — we should grab a coffee sometime soon.\n- No agenda, just wanted to catch up and see how things are going on your end.\n\n✓ Correct — \"Here's the situation, here's my recommendation, and here's what I need from you.\" is a Managing Up chunk: used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast.\nExample: \"Here's the situation, here's my recommendation, and here's what I need from you: sign-off by Friday.\"\nSimilar chunks:\n- What's the best way for me to keep you updated on this without over-communicating?\n- I want to flag this early rather than surprise you later.\n- I don't need you to solve this, I just need a quick steer on direction."
+    },
+    {
+      "id": 20,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're facilitating a meeting where multiple viewpoints are on the table, and you want to pull the threads together and make sure quieter voices are heard. Which chunk fits best?",
+      "options": {
+        "A": "Can you give me till tomorrow? Brain's fried today.",
+        "B": "This moves the needle. Nicely done.",
+        "C": "Two options — I'm leaning towards the first, but wanted your read.",
+        "D": "We've got two competing views on the table — let me summarize both fairly."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Can you give me till tomorrow? Brain's fried today.\" belongs to Speaking Casually With a Peer (Register) — used in casual, peer-to-peer conversation — relaxed wording appropriate for someone you know well, not this context.\nSimilar chunks:\n- Wait, you lost me — run that by me again?\n- Honestly, I think we should scrap this and rethink.\n- Okay this is actually really good.\n\n✗ \"This moves the needle. Nicely done.\" belongs to Speaking to Senior Leadership (Executive Register) — used with senior leadership or C-level audiences — short, outcome-focused, light on process detail, not this context.\nSimilar chunks:\n- Help me understand the reasoning here — I want to make sure I'm aligned before we move.\n- Before we commit, I'd flag one risk: [X]. Worth a look?\n- I'll have a considered answer by tomorrow morning rather than a rushed one now.\n\n✗ \"Two options — I'm leaning towards the first, but wanted your read.\" belongs to Managing Up — used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast, not this context.\nSimilar chunks:\n- Here's the situation, here's my recommendation, and here's what I need from you.\n- I don't need you to solve this, I just need a quick steer on direction.\n- What's the best way for me to keep you updated on this without over-communicating?\n\n✓ Correct — \"We've got two competing views on the table — let me summarize both fairly.\" is a Facilitating & Synthesizing a Discussion chunk: used by a facilitator to pull ideas together, draw out quieter voices, and land on a shared conclusion.\nExample: \"We've got two competing views on the table — let me summarize both fairly before we vote.\"\nSimilar chunks:\n- Let's capture that and keep moving — we can go deeper offline.\n- Building on what [name] just said...\n- Great discussion — let's land the plane. What's the one decision we're making?"
+    },
+    {
+      "id": 21,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're facilitating a meeting where multiple viewpoints are on the table, and you want to pull the threads together and make sure quieter voices are heard. Which chunk fits best?",
+      "options": {
+        "A": "Let's capture that and keep moving — we can go deeper offline.",
+        "B": "I want to make sure I follow — could you walk me through that once more?",
+        "C": "I'd rather get it right than get it fast.",
+        "D": "It's been too long — we should grab a coffee sometime soon."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Let's capture that and keep moving — we can go deeper offline.\" is a Facilitating & Synthesizing a Discussion chunk: used by a facilitator to pull ideas together, draw out quieter voices, and land on a shared conclusion.\nExample: \"Let's capture that and keep moving — we can go deeper offline on the API design specifics.\"\nSimilar chunks:\n- Building on what [name] just said...\n- We've got two competing views on the table — let me summarize both fairly.\n- Let me pull the threads together — it sounds like we're converging on...\n\n✗ \"I want to make sure I follow — could you walk me through that once more?\" belongs to Speaking Neutrally With a Client or Cross-Team Peer (Register) — used in neutral, professional register — appropriate for clients or people outside your immediate team, not this context.\nSimilar chunks:\n- I'd like to give this the attention it deserves — could I come back to you by tomorrow?\n- I'm wondering if it's worth stepping back and reconsidering the approach.\n- I have some reservations about this approach — can I share a concern?\n\n✗ \"I'd rather get it right than get it fast.\" belongs to Calm, Confident Everyday Presence — used to respond to small everyday moments — questions, mistakes, pushback — with calm, confident presence instead of over-explaining, not this context.\nSimilar chunks:\n- I'd suggest we...\n- Let's not overcomplicate this.\n- Let me think about that for a moment.\n\n✗ \"It's been too long — we should grab a coffee sometime soon.\" belongs to Networking & Warm Relationship-Building — used to reconnect with a professional contact and build the relationship, without any transactional ask, not this context.\nSimilar chunks:\n- I've been meaning to reach out — I really enjoyed your talk on [topic].\n- I'd love to pick your brain on something whenever you have a spare fifteen minutes.\n- I thought of you when I saw this — figured it might be useful."
+    },
+    {
+      "id": 22,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're facilitating a meeting where multiple viewpoints are on the table, and you want to pull the threads together and make sure quieter voices are heard. Which chunk fits best?",
+      "options": {
+        "A": "I'll own the coordination if you can own the technical call — deal?",
+        "B": "Let me pull the threads together — it sounds like we're converging on...",
+        "C": "This is going well — here's the one thing I'd want your help unblocking.",
+        "D": "Honestly, I think we should scrap this and rethink."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'll own the coordination if you can own the technical call — deal?\" belongs to Influencing Without Authority — used to get cooperation from someone who doesn't report to you, through persuasion rather than authority, not this context.\nSimilar chunks:\n- If we solve this together, it makes both our lives easier down the line.\n- What would it take to get this on your radar?\n- I'm not trying to add to your plate — I'm trying to save us both a headache later.\n\n✓ Correct — \"Let me pull the threads together — it sounds like we're converging on...\" is a Facilitating & Synthesizing a Discussion chunk: used by a facilitator to pull ideas together, draw out quieter voices, and land on a shared conclusion.\nExample: \"Let me pull the threads together — it sounds like we're converging on a phased rollout instead of a big-bang launch.\"\nSimilar chunks:\n- Building on what [name] just said...\n- We've got two competing views on the table — let me summarize both fairly.\n- So where does that leave us? Let me play back what I think we've agreed.\n\n✗ \"This is going well — here's the one thing I'd want your help unblocking.\" belongs to Managing Up — used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast, not this context.\nSimilar chunks:\n- Two options — I'm leaning towards the first, but wanted your read.\n- Here's the situation, here's my recommendation, and here's what I need from you.\n- Just so you're not caught off guard in the meeting: here's the headline.\n\n✗ \"Honestly, I think we should scrap this and rethink.\" belongs to Speaking Casually With a Peer (Register) — used in casual, peer-to-peer conversation — relaxed wording appropriate for someone you know well, not this context.\nSimilar chunks:\n- Wait, you lost me — run that by me again?\n- Can you give me till tomorrow? Brain's fried today.\n- Okay this is actually really good."
+    },
+    {
+      "id": 23,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're reaching out to someone in your professional network to reconnect or build the relationship, with no immediate work request attached. Which chunk fits best?",
+      "options": {
+        "A": "You've got more context here than I do — where do you think this should land?",
+        "B": "Help me understand the reasoning here — I want to make sure I'm aligned before we move.",
+        "C": "That's fair. I've changed my mind.",
+        "D": "No agenda, just wanted to catch up and see how things are going on your end."
+      },
+      "correct": "D",
+      "explanation": "✗ \"You've got more context here than I do — where do you think this should land?\" belongs to Influencing Without Authority — used to get cooperation from someone who doesn't report to you, through persuasion rather than authority, not this context.\nSimilar chunks:\n- I'll own the coordination if you can own the technical call — deal?\n- What would it take to get this on your radar?\n- If we solve this together, it makes both our lives easier down the line.\n\n✗ \"Help me understand the reasoning here — I want to make sure I'm aligned before we move.\" belongs to Speaking to Senior Leadership (Executive Register) — used with senior leadership or C-level audiences — short, outcome-focused, light on process detail, not this context.\nSimilar chunks:\n- Before we commit, I'd flag one risk: [X]. Worth a look?\n- I'll have a considered answer by tomorrow morning rather than a rushed one now.\n- This moves the needle. Nicely done.\n\n✗ \"That's fair. I've changed my mind.\" belongs to Calm, Confident Everyday Presence — used to respond to small everyday moments — questions, mistakes, pushback — with calm, confident presence instead of over-explaining, not this context.\nSimilar chunks:\n- I'd suggest we...\n- When you have a moment, could you...?\n- I hear you. Here's where I land.\n\n✓ Correct — \"No agenda, just wanted to catch up and see how things are going on your end.\" is a Networking & Warm Relationship-Building chunk: used to reconnect with a professional contact and build the relationship, without any transactional ask.\nExample: \"No agenda, just wanted to catch up and see how things are going on your end since you switched teams.\"\nSimilar chunks:\n- It's been too long — we should grab a coffee sometime soon.\n- I'd love to pick your brain on something whenever you have a spare fifteen minutes.\n- Congratulations on the new role — really well deserved."
+    },
+    {
+      "id": 24,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're reaching out to someone in your professional network to reconnect or build the relationship, with no immediate work request attached. Which chunk fits best?",
+      "options": {
+        "A": "Here's the situation, here's my recommendation, and here's what I need from you.",
+        "B": "It's been too long — we should grab a coffee sometime soon.",
+        "C": "What I'm hearing underneath that is... — am I close?",
+        "D": "Can you give me till tomorrow? Brain's fried today."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Here's the situation, here's my recommendation, and here's what I need from you.\" belongs to Managing Up — used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast, not this context.\nSimilar chunks:\n- Just so you're not caught off guard in the meeting: here's the headline.\n- I don't need you to solve this, I just need a quick steer on direction.\n- What's the best way for me to keep you updated on this without over-communicating?\n\n✓ Correct — \"It's been too long — we should grab a coffee sometime soon.\" is a Networking & Warm Relationship-Building chunk: used to reconnect with a professional contact and build the relationship, without any transactional ask.\nExample: \"It's been too long — we should grab a coffee sometime soon, maybe next week?\"\nSimilar chunks:\n- Let's stay in touch — I have a feeling our paths will cross again.\n- I'd love to pick your brain on something whenever you have a spare fifteen minutes.\n- Congratulations on the new role — really well deserved.\n\n✗ \"What I'm hearing underneath that is... — am I close?\" belongs to Active Listening — used to show the other person you've genuinely understood and value what they said, not this context.\nSimilar chunks:\n- That makes sense. And what would you want to see happen instead?\n- Say more about that — I want to understand where you're coming from.\n- That's a really good point — I hadn't thought about it that way.\n\n✗ \"Can you give me till tomorrow? Brain's fried today.\" belongs to Speaking Casually With a Peer (Register) — used in casual, peer-to-peer conversation — relaxed wording appropriate for someone you know well, not this context.\nSimilar chunks:\n- Hmm, I'm not sold on that — feels a bit risky to me.\n- Honestly, I think we should scrap this and rethink.\n- Wait, you lost me — run that by me again?"
+    },
+    {
+      "id": 25,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're reaching out to someone in your professional network to reconnect or build the relationship, with no immediate work request attached. Which chunk fits best?",
+      "options": {
+        "A": "I've been meaning to reach out — I really enjoyed your talk on [topic].",
+        "B": "What's the best way for me to keep you updated on this without over-communicating?",
+        "C": "What would it take to get this on your radar?",
+        "D": "I'd like to give this the attention it deserves — could I come back to you by tomorrow?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I've been meaning to reach out — I really enjoyed your talk on [topic].\" is a Networking & Warm Relationship-Building chunk: used to reconnect with a professional contact and build the relationship, without any transactional ask.\nExample: \"I've been meaning to reach out — I really enjoyed your talk on remote team culture at the conference.\"\nSimilar chunks:\n- Let's stay in touch — I have a feeling our paths will cross again.\n- No agenda, just wanted to catch up and see how things are going on your end.\n- It's been too long — we should grab a coffee sometime soon.\n\n✗ \"What's the best way for me to keep you updated on this without over-communicating?\" belongs to Managing Up — used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast, not this context.\nSimilar chunks:\n- Just so you're not caught off guard in the meeting: here's the headline.\n- I want to flag this early rather than surprise you later.\n- This is going well — here's the one thing I'd want your help unblocking.\n\n✗ \"What would it take to get this on your radar?\" belongs to Influencing Without Authority — used to get cooperation from someone who doesn't report to you, through persuasion rather than authority, not this context.\nSimilar chunks:\n- How can I make this easier for you?\n- This is your call, but here's what I'm seeing from my side.\n- You've got more context here than I do — where do you think this should land?\n\n✗ \"I'd like to give this the attention it deserves — could I come back to you by tomorrow?\" belongs to Speaking Neutrally With a Client or Cross-Team Peer (Register) — used in neutral, professional register — appropriate for clients or people outside your immediate team, not this context.\nSimilar chunks:\n- I'm wondering if it's worth stepping back and reconsidering the approach.\n- This is strong work — the structure especially.\n- I want to make sure I follow — could you walk me through that once more?"
+    },
+    {
+      "id": 26,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're put on the spot in a small, everyday moment — an unexpected question or a mistake — and want to respond with calm, confident presence instead of over-explaining or apologizing. Which chunk fits best?",
+      "options": {
+        "A": "There are no bad questions here — if it's unclear to you, it's probably unclear to others too.",
+        "B": "I'd suggest we...",
+        "C": "Let's make this a safe space to disagree.",
+        "D": "You've got more context here than I do — where do you think this should land?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"There are no bad questions here — if it's unclear to you, it's probably unclear to others too.\" belongs to Building Rapport & Psychological Safety — used to create a safe, open atmosphere where people feel comfortable speaking up or disagreeing, not this context.\nSimilar chunks:\n- Thanks for being candid — that's exactly the kind of input I was hoping for.\n- Feel free to jump in anytime — this works better as a conversation than a monologue.\n- I might be wrong on this, so push back if something doesn't land.\n\n✓ Correct — \"I'd suggest we...\" is a Calm, Confident Everyday Presence chunk: used to respond to small everyday moments — questions, mistakes, pushback — with calm, confident presence instead of over-explaining.\nExample: \"I'd suggest we run a two-week pilot before rolling this out to the whole team.\"\nSimilar chunks:\n- I'd rather get it right than get it fast.\n- What questions do you have?\n- When you have a moment, could you...?\n\n✗ \"Let's make this a safe space to disagree.\" belongs to Building Rapport & Psychological Safety — used to create a safe, open atmosphere where people feel comfortable speaking up or disagreeing, not this context.\nSimilar chunks:\n- There are no bad questions here — if it's unclear to you, it's probably unclear to others too.\n- Thanks for being candid — that's exactly the kind of input I was hoping for.\n- What am I missing? I'd genuinely rather hear it now.\n\n✗ \"You've got more context here than I do — where do you think this should land?\" belongs to Influencing Without Authority — used to get cooperation from someone who doesn't report to you, through persuasion rather than authority, not this context.\nSimilar chunks:\n- I'll own the coordination if you can own the technical call — deal?\n- I could really use your expertise on this — you know this system better than anyone.\n- I'm not trying to add to your plate — I'm trying to save us both a headache later."
+    },
+    {
+      "id": 27,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're put on the spot in a small, everyday moment — an unexpected question or a mistake — and want to respond with calm, confident presence instead of over-explaining or apologizing. Which chunk fits best?",
+      "options": {
+        "A": "It's been too long — we should grab a coffee sometime soon.",
+        "B": "This moves the needle. Nicely done.",
+        "C": "This is strong work — the structure especially.",
+        "D": "That's fair. I've changed my mind."
+      },
+      "correct": "D",
+      "explanation": "✗ \"It's been too long — we should grab a coffee sometime soon.\" belongs to Networking & Warm Relationship-Building — used to reconnect with a professional contact and build the relationship, without any transactional ask, not this context.\nSimilar chunks:\n- No agenda, just wanted to catch up and see how things are going on your end.\n- Let's stay in touch — I have a feeling our paths will cross again.\n- I'd love to pick your brain on something whenever you have a spare fifteen minutes.\n\n✗ \"This moves the needle. Nicely done.\" belongs to Speaking to Senior Leadership (Executive Register) — used with senior leadership or C-level audiences — short, outcome-focused, light on process detail, not this context.\nSimilar chunks:\n- Before we commit, I'd flag one risk: [X]. Worth a look?\n- Help me understand the reasoning here — I want to make sure I'm aligned before we move.\n- I'll have a considered answer by tomorrow morning rather than a rushed one now.\n\n✗ \"This is strong work — the structure especially.\" belongs to Speaking Neutrally With a Client or Cross-Team Peer (Register) — used in neutral, professional register — appropriate for clients or people outside your immediate team, not this context.\nSimilar chunks:\n- I'd like to give this the attention it deserves — could I come back to you by tomorrow?\n- I'm wondering if it's worth stepping back and reconsidering the approach.\n- I have some reservations about this approach — can I share a concern?\n\n✓ Correct — \"That's fair. I've changed my mind.\" is a Calm, Confident Everyday Presence chunk: used to respond to small everyday moments — questions, mistakes, pushback — with calm, confident presence instead of over-explaining.\nExample: \"That's fair. I've changed my mind — your point about onboarding friction convinced me.\"\nSimilar chunks:\n- I'd rather get it right than get it fast.\n- Good question. I don't know — but I'll find out.\n- Let's not overcomplicate this."
+    },
+    {
+      "id": 28,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're put on the spot in a small, everyday moment — an unexpected question or a mistake — and want to respond with calm, confident presence instead of over-explaining or apologizing. Which chunk fits best?",
+      "options": {
+        "A": "I have some reservations about this approach — can I share a concern?",
+        "B": "What questions do you have?",
+        "C": "I'll own the coordination if you can own the technical call — deal?",
+        "D": "I might be wrong on this, so push back if something doesn't land."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I have some reservations about this approach — can I share a concern?\" belongs to Speaking Neutrally With a Client or Cross-Team Peer (Register) — used in neutral, professional register — appropriate for clients or people outside your immediate team, not this context.\nSimilar chunks:\n- I want to make sure I follow — could you walk me through that once more?\n- I'd like to give this the attention it deserves — could I come back to you by tomorrow?\n- This is strong work — the structure especially.\n\n✓ Correct — \"What questions do you have?\" is a Calm, Confident Everyday Presence chunk: used to respond to small everyday moments — questions, mistakes, pushback — with calm, confident presence instead of over-explaining.\nExample: \"What questions do you have? I want to make sure this is actually clear, not just quiet agreement.\"\nSimilar chunks:\n- Good question. I don't know — but I'll find out.\n- That's fair. I've changed my mind.\n- I'd rather get it right than get it fast.\n\n✗ \"I'll own the coordination if you can own the technical call — deal?\" belongs to Influencing Without Authority — used to get cooperation from someone who doesn't report to you, through persuasion rather than authority, not this context.\nSimilar chunks:\n- I could really use your expertise on this — you know this system better than anyone.\n- What would it take to get this on your radar?\n- If we solve this together, it makes both our lives easier down the line.\n\n✗ \"I might be wrong on this, so push back if something doesn't land.\" belongs to Building Rapport & Psychological Safety — used to create a safe, open atmosphere where people feel comfortable speaking up or disagreeing, not this context.\nSimilar chunks:\n- Let's make this a safe space to disagree.\n- Feel free to jump in anytime — this works better as a conversation than a monologue.\n- There are no bad questions here — if it's unclear to you, it's probably unclear to others too."
+    },
+    {
+      "id": 29,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're put on the spot in a small, everyday moment — an unexpected question or a mistake — and want to respond with calm, confident presence instead of over-explaining or apologizing. Which chunk fits best?",
+      "options": {
+        "A": "Hmm, I'm not sold on that — feels a bit risky to me.",
+        "B": "I hear you. Here's where I land.",
+        "C": "Before we commit, I'd flag one risk: [X]. Worth a look?",
+        "D": "Here's the situation, here's my recommendation, and here's what I need from you."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Hmm, I'm not sold on that — feels a bit risky to me.\" belongs to Speaking Casually With a Peer (Register) — used in casual, peer-to-peer conversation — relaxed wording appropriate for someone you know well, not this context.\nSimilar chunks:\n- Okay this is actually really good.\n- Wait, you lost me — run that by me again?\n- Honestly, I think we should scrap this and rethink.\n\n✓ Correct — \"I hear you. Here's where I land.\" is a Calm, Confident Everyday Presence chunk: used to respond to small everyday moments — questions, mistakes, pushback — with calm, confident presence instead of over-explaining.\nExample: \"I hear you. Here's where I land: we ship the smaller fix this week and revisit the bigger one next sprint.\"\nSimilar chunks:\n- What questions do you have?\n- I'd rather get it right than get it fast.\n- That's fair. I've changed my mind.\n\n✗ \"Before we commit, I'd flag one risk: [X]. Worth a look?\" belongs to Speaking to Senior Leadership (Executive Register) — used with senior leadership or C-level audiences — short, outcome-focused, light on process detail, not this context.\nSimilar chunks:\n- I'll have a considered answer by tomorrow morning rather than a rushed one now.\n- Help me understand the reasoning here — I want to make sure I'm aligned before we move.\n- This moves the needle. Nicely done.\n\n✗ \"Here's the situation, here's my recommendation, and here's what I need from you.\" belongs to Managing Up — used when updating a manager or senior stakeholder — leads with solutions, not just problems, and helps them decide fast, not this context.\nSimilar chunks:\n- I want to flag this early rather than surprise you later.\n- What's the best way for me to keep you updated on this without over-communicating?\n- Just so you're not caught off guard in the meeting: here's the headline."
+    }
+  ]
+}

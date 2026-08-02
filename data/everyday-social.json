@@ -1,0 +1,958 @@
+{
+  "examId": "everyday-social",
+  "title": "Chunk Atlas — Situations: Everyday & Social",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're about to tell a friend or coworker a story from your day and need a natural way to kick it off. Which chunk fits best?",
+      "options": {
+        "A": "I ended up...",
+        "B": "My social battery is dead.",
+        "C": "Perfect.",
+        "D": "It all started when..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I ended up...\" belongs to Golden Native Storytelling Chunks — used as an idiomatic way to describe an action or feeling inside a casual story, not this context.\nSimilar chunks:\n- I totally blanked.\n- That threw me off.\n- I had a feeling...\n\n✗ \"My social battery is dead.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I need to recharge.\n- Today is not my day.\n- I'm just trying to survive.\n\n✗ \"Perfect.\" belongs to Low-Energy Sarcasm — used to react to something annoying with dry, low-energy sarcasm, not this context.\nSimilar chunks:\n- This is fine.\n- Sounds about right.\n- Love that for me.\n\n✓ Correct — \"It all started when...\" is a Storytelling Openers chunk: used to kick off a casual story, before the details come out.\nExample: \"It all started when I offered to walk my neighbor's dog for the weekend.\"\nSimilar chunks:\n- Little did I know...\n- Everything was going fine until...\n- At first, I thought..."
+    },
+    {
+      "id": 2,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're about to tell a friend or coworker a story from your day and need a natural way to kick it off. Which chunk fits best?",
+      "options": {
+        "A": "I was trying to act normal.",
+        "B": "So basically...",
+        "C": "I'm trying to keep up.",
+        "D": "The canoe ride takes longer than expected."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I was trying to act normal.\" belongs to Narrating Inner Thoughts — used to share what you were privately thinking during a story, not what you said out loud, not this context.\nSimilar chunks:\n- I pretended everything was fine.\n- I figured I could get away with it.\n- I was hoping nobody noticed.\n\n✓ Correct — \"So basically...\" is a Storytelling Openers chunk: used to kick off a casual story, before the details come out.\nExample: \"So basically, I woke up late and missed the whole first hour of the workshop.\"\nSimilar chunks:\n- Little did I know...\n- It all started when...\n- At first, I thought...\n\n✗ \"I'm trying to keep up.\" belongs to Workplace-Friendly Casual Chunks — used to talk casually about a work mix-up, without sounding overly formal, not this context.\nSimilar chunks:\n- I'm still figuring it out.\n- I got carried away.\n- I completely overlooked that.\n\n✗ \"The canoe ride takes longer than expected.\" belongs to Casual Travel & Food Small Talk — used for casual small talk while showing a guest around, cooking, or planning a trip together, not this context.\nSimilar chunks:\n- I'll show them how to prepare it step by step: first, we'll lay down fresh herbs, then add meat, and some toppings like cucumber or slices of mango.\n- Should we leave earlier to watch the sunset?\n- Do you have everything you need, or should we pick up something before we go?"
+    },
+    {
+      "id": 3,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're about to tell a friend or coworker a story from your day and need a natural way to kick it off. Which chunk fits best?",
+      "options": {
+        "A": "That was a huge mistake.",
+        "B": "Perfect.",
+        "C": "Technically...",
+        "D": "At first, I thought..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"That was a huge mistake.\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- Before I knew it...\n- I should've seen that coming.\n- That's where everything fell apart.\n\n✗ \"Perfect.\" belongs to Low-Energy Sarcasm — used to react to something annoying with dry, low-energy sarcasm, not this context.\nSimilar chunks:\n- Great. Just great.\n- Sounds about right.\n- Could this day get any worse?\n\n✗ \"Technically...\" belongs to Excuses & Self-Defense — used to explain yourself lightly, without sounding overly defensive, not this context.\nSimilar chunks:\n- I can explain.\n- It wasn't entirely my fault.\n- To be fair...\n\n✓ Correct — \"At first, I thought...\" is a Storytelling Openers chunk: used to kick off a casual story, before the details come out.\nExample: \"At first, I thought it was just a typo in the invitation.\"\nSimilar chunks:\n- Little did I know...\n- It all started when...\n- I honestly didn't think much of it."
+    },
+    {
+      "id": 4,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're about to tell a friend or coworker a story from your day and need a natural way to kick it off. Which chunk fits best?",
+      "options": {
+        "A": "I didn't want to look stupid.",
+        "B": "Seriously?",
+        "C": "That's when things got weird.",
+        "D": "That's a story for another day."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I didn't want to look stupid.\" belongs to Describing Social Anxiety — used to describe feeling self-conscious or anxious in a social situation, not this context.\nSimilar chunks:\n- I was overthinking everything.\n- I was trying to keep a low profile.\n- I didn't want to make things awkward.\n\n✗ \"Seriously?\" belongs to Casual Reactions of Disbelief or Frustration — used as a casual, low-stakes reaction to something surprising or mildly frustrating, not this context.\nSimilar chunks:\n- Just my luck.\n- Come on.\n- This can't be happening.\n\n✓ Correct — \"That's when things got weird.\" is a Storytelling Openers chunk: used to kick off a casual story, before the details come out.\nExample: \"That's when things got weird — my phone just kept ringing with no one there.\"\nSimilar chunks:\n- It all started when...\n- Everything was going fine until...\n- At first, I thought...\n\n✗ \"That's a story for another day.\" belongs to Wrapping Up a Story — used to wrap up a casual story naturally at the end, not this context.\nSimilar chunks:\n- Lesson learned.\n- Needless to say, I learned my lesson.\n- Looking back now, it was actually pretty funny."
+    },
+    {
+      "id": 5,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're telling someone about a plan that fell apart and want to mark the point where it started going wrong. Which chunk fits best?",
+      "options": {
+        "A": "Classic me.",
+        "B": "I was trying to X, but...",
+        "C": "Things went downhill fast.",
+        "D": "This is fine."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Classic me.\" belongs to Self-Deprecating Humor — used to poke fun at your own mistake or shortcoming, lightly, not this context.\nSimilar chunks:\n- I'm not exactly good at this.\n- I totally overestimated myself.\n- That sounded better in my head.\n\n✗ \"I was trying to X, but...\" belongs to Storytelling Twist Patterns — used as a template to set up an expectation right before the twist in a story, not this context.\nSimilar chunks:\n- I thought X... turns out Y.\n- At that point...\n\n✓ Correct — \"Things went downhill fast.\" is a Narrating Things Going Wrong chunk: used to mark the point in a casual story where things started going wrong.\nExample: \"Things went downhill fast once we realized we'd booked the wrong hotel.\"\nSimilar chunks:\n- That's where everything fell apart.\n- Before I knew it...\n- Needless to say, it was a disaster.\n\n✗ \"This is fine.\" belongs to Low-Energy Sarcasm — used to react to something annoying with dry, low-energy sarcasm, not this context.\nSimilar chunks:\n- Great. Just great.\n- Could this day get any worse?\n- Well, that was helpful."
+    },
+    {
+      "id": 6,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're telling someone about a plan that fell apart and want to mark the point where it started going wrong. Which chunk fits best?",
+      "options": {
+        "A": "I can't catch a break.",
+        "B": "I had no clue what I was doing.",
+        "C": "I'm just trying to survive.",
+        "D": "It backfired instantly."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I can't catch a break.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I got in my own head.\n- I can't people today.\n- I'm barely functioning.\n\n✗ \"I had no clue what I was doing.\" belongs to Self-Deprecating Humor — used to poke fun at your own mistake or shortcoming, lightly, not this context.\nSimilar chunks:\n- I'm not exactly good at this.\n- Classic me.\n- My brain just stopped working.\n\n✗ \"I'm just trying to survive.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- My social battery is dead.\n- I'm hanging in there.\n- I'm running on zero sleep.\n\n✓ Correct — \"It backfired instantly.\" is a Narrating Things Going Wrong chunk: used to mark the point in a casual story where things started going wrong.\nExample: \"I tried to surprise her with breakfast in bed — it backfired instantly when the smoke alarm went off.\"\nSimilar chunks:\n- That's where everything fell apart.\n- I should've seen that coming.\n- Somehow, things got even worse."
+    },
+    {
+      "id": 7,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're telling someone about a plan that fell apart and want to mark the point where it started going wrong. Which chunk fits best?",
+      "options": {
+        "A": "I've never recovered from that.",
+        "B": "Looking back now, it was actually pretty funny.",
+        "C": "Before I knew it...",
+        "D": "I'll take it."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I've never recovered from that.\" belongs to Funny Exaggeration — used to exaggerate for comic effect while telling a casual story, not this context.\nSimilar chunks:\n- It felt like forever.\n- It was absolute chaos.\n- That aged me ten years.\n\n✗ \"Looking back now, it was actually pretty funny.\" belongs to Wrapping Up a Story — used to wrap up a casual story naturally at the end, not this context.\nSimilar chunks:\n- Never doing that again.\n- Not my proudest moment.\n- Needless to say, I learned my lesson.\n\n✓ Correct — \"Before I knew it...\" is a Narrating Things Going Wrong chunk: used to mark the point in a casual story where things started going wrong.\nExample: \"Before I knew it, I'd agreed to host Thanksgiving for fifteen people.\"\nSimilar chunks:\n- Things went downhill fast.\n- Somehow, things got even worse.\n- One thing led to another...\n\n✗ \"I'll take it.\" belongs to Extremely Native Mini-Chunks — used as a very short, native-sounding way to casually acknowledge something, not this context.\nSimilar chunks:\n- Makes sense.\n- That checks out.\n- My bad."
+    },
+    {
+      "id": 8,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're telling someone about a plan that fell apart and want to mark the point where it started going wrong. Which chunk fits best?",
+      "options": {
+        "A": "That's not what it looked like.",
+        "B": "I should've seen that coming.",
+        "C": "I completely overlooked that.",
+        "D": "Today is not my day."
+      },
+      "correct": "B",
+      "explanation": "✗ \"That's not what it looked like.\" belongs to Excuses & Self-Defense — used to explain yourself lightly, without sounding overly defensive, not this context.\nSimilar chunks:\n- In my defense...\n- To be fair...\n- It wasn't entirely my fault.\n\n✓ Correct — \"I should've seen that coming.\" is a Narrating Things Going Wrong chunk: used to mark the point in a casual story where things started going wrong.\nExample: \"I should've seen that coming — the dog always chews shoes left by the door.\"\nSimilar chunks:\n- Needless to say, it was a disaster.\n- Things went downhill fast.\n- It backfired instantly.\n\n✗ \"I completely overlooked that.\" belongs to Workplace-Friendly Casual Chunks — used to talk casually about a work mix-up, without sounding overly formal, not this context.\nSimilar chunks:\n- I got carried away.\n- I probably misunderstood the requirement.\n- I'm still figuring it out.\n\n✗ \"Today is not my day.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I'm running on zero sleep.\n- I need to recharge.\n- I can't people today."
+    },
+    {
+      "id": 9,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're describing an embarrassing moment to a friend and want to capture how uncomfortable it felt. Which chunk fits best?",
+      "options": {
+        "A": "Could this day get any worse?",
+        "B": "My bad.",
+        "C": "Everybody was staring at me.",
+        "D": "It backfired instantly."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Could this day get any worse?\" belongs to Low-Energy Sarcasm — used to react to something annoying with dry, low-energy sarcasm, not this context.\nSimilar chunks:\n- Perfect.\n- This is fine.\n- Great. Just great.\n\n✗ \"My bad.\" belongs to Extremely Native Mini-Chunks — used as a very short, native-sounding way to casually acknowledge something, not this context.\nSimilar chunks:\n- Could be worse.\n- That tracks.\n- Not ideal.\n\n✓ Correct — \"Everybody was staring at me.\" is a Describing Awkward or Embarrassing Moments chunk: used to describe how uncomfortable or embarrassed you felt in a moment.\nExample: \"My phone alarm went off mid-presentation and everybody was staring at me.\"\nSimilar chunks:\n- I didn't know where to look.\n- I instantly knew I messed up.\n- It was painfully awkward.\n\n✗ \"It backfired instantly.\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- One thing led to another...\n- Somehow, things got even worse.\n- Things went downhill fast."
+    },
+    {
+      "id": 10,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're describing an embarrassing moment to a friend and want to capture how uncomfortable it felt. Which chunk fits best?",
+      "options": {
+        "A": "Things went downhill fast.",
+        "B": "I was kinda annoyed.",
+        "C": "I wanted to disappear.",
+        "D": "That escalated quickly."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Things went downhill fast.\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- Somehow, things got even worse.\n- That's where everything fell apart.\n- One thing led to another...\n\n✗ \"I was kinda annoyed.\" belongs to Softening Negative Emotions — used to describe a negative feeling in a softer, less dramatic way than saying you were 'angry', not this context.\nSimilar chunks:\n- I wasn't thrilled about it.\n- I was a little upset.\n- It bothered me a bit.\n\n✓ Correct — \"I wanted to disappear.\" is a Describing Awkward or Embarrassing Moments chunk: used to describe how uncomfortable or embarrassed you felt in a moment.\nExample: \"I called my boss 'mom' by accident on the call — I wanted to disappear.\"\nSimilar chunks:\n- I panicked.\n- I instantly knew I messed up.\n- I completely embarrassed myself.\n\n✗ \"That escalated quickly.\" belongs to Workplace-Friendly Casual Chunks — used to talk casually about a work mix-up, without sounding overly formal, not this context.\nSimilar chunks:\n- That caught me off guard.\n- I need a minute to process this.\n- I probably misunderstood the requirement."
+    },
+    {
+      "id": 11,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're describing an embarrassing moment to a friend and want to capture how uncomfortable it felt. Which chunk fits best?",
+      "options": {
+        "A": "I totally overestimated myself.",
+        "B": "I knew it.",
+        "C": "It all started when...",
+        "D": "I instantly knew I messed up."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I totally overestimated myself.\" belongs to Self-Deprecating Humor — used to poke fun at your own mistake or shortcoming, lightly, not this context.\nSimilar chunks:\n- My brain just stopped working.\n- Classic me.\n- That sounded better in my head.\n\n✗ \"I knew it.\" belongs to Casual Reactions of Disbelief or Frustration — used as a casual, low-stakes reaction to something surprising or mildly frustrating, not this context.\nSimilar chunks:\n- You've gotta be kidding me.\n- Give me a break.\n- This can't be happening.\n\n✗ \"It all started when...\" belongs to Storytelling Openers — used to kick off a casual story, before the details come out, not this context.\nSimilar chunks:\n- Everything was going fine until...\n- At first, I thought...\n- At the time, it seemed like a good idea.\n\n✓ Correct — \"I instantly knew I messed up.\" is a Describing Awkward or Embarrassing Moments chunk: used to describe how uncomfortable or embarrassed you felt in a moment.\nExample: \"The second I hit send on that email, I instantly knew I messed up.\"\nSimilar chunks:\n- I was dying inside.\n- That was not a good look.\n- I didn't know where to look."
+    },
+    {
+      "id": 12,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're describing an embarrassing moment to a friend and want to capture how uncomfortable it felt. Which chunk fits best?",
+      "options": {
+        "A": "I didn't want to make things awkward.",
+        "B": "I totally blanked.",
+        "C": "Seriously?",
+        "D": "That was not a good look."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I didn't want to make things awkward.\" belongs to Describing Social Anxiety — used to describe feeling self-conscious or anxious in a social situation, not this context.\nSimilar chunks:\n- I didn't want to look stupid.\n- I tried to play it cool.\n- I was overthinking everything.\n\n✗ \"I totally blanked.\" belongs to Golden Native Storytelling Chunks — used as an idiomatic way to describe an action or feeling inside a casual story, not this context.\nSimilar chunks:\n- That threw me off.\n- I ended up...\n- I talked myself into it.\n\n✗ \"Seriously?\" belongs to Casual Reactions of Disbelief or Frustration — used as a casual, low-stakes reaction to something surprising or mildly frustrating, not this context.\nSimilar chunks:\n- Just my luck.\n- Give me a break.\n- Come on.\n\n✓ Correct — \"That was not a good look.\" is a Describing Awkward or Embarrassing Moments chunk: used to describe how uncomfortable or embarrassed you felt in a moment.\nExample: \"Falling asleep on the train and drooling on a stranger's shoulder — that was not a good look.\"\nSimilar chunks:\n- I didn't know where to look.\n- I froze.\n- It was painfully awkward."
+    },
+    {
+      "id": 13,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're joking about your own mistake or shortcoming in a light, self-deprecating way. Which chunk fits best?",
+      "options": {
+        "A": "I pretended everything was fine.",
+        "B": "I'm trying to keep up.",
+        "C": "So basically...",
+        "D": "Classic me."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I pretended everything was fine.\" belongs to Narrating Inner Thoughts — used to share what you were privately thinking during a story, not what you said out loud, not this context.\nSimilar chunks:\n- For a second, I thought...\n- I was trying to act normal.\n- I figured I could get away with it.\n\n✗ \"I'm trying to keep up.\" belongs to Workplace-Friendly Casual Chunks — used to talk casually about a work mix-up, without sounding overly formal, not this context.\nSimilar chunks:\n- That escalated quickly.\n- That caught me off guard.\n- I probably misunderstood the requirement.\n\n✗ \"So basically...\" belongs to Storytelling Openers — used to kick off a casual story, before the details come out, not this context.\nSimilar chunks:\n- It all started when...\n- Everything was going fine until...\n- Little did I know...\n\n✓ Correct — \"Classic me.\" is a Self-Deprecating Humor chunk: used to poke fun at your own mistake or shortcoming, lightly.\nExample: \"Forgot my own umbrella on the one rainy day this week. Classic me.\"\nSimilar chunks:\n- I had no clue what I was doing.\n- I totally overestimated myself.\n- My brain just stopped working."
+    },
+    {
+      "id": 14,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're joking about your own mistake or shortcoming in a light, self-deprecating way. Which chunk fits best?",
+      "options": {
+        "A": "I'm still figuring it out.",
+        "B": "I had no clue what I was doing.",
+        "C": "I can't catch a break.",
+        "D": "One thing led to another..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'm still figuring it out.\" belongs to Workplace-Friendly Casual Chunks — used to talk casually about a work mix-up, without sounding overly formal, not this context.\nSimilar chunks:\n- I completely overlooked that.\n- That caught me off guard.\n- I need a minute to process this.\n\n✓ Correct — \"I had no clue what I was doing.\" is a Self-Deprecating Humor chunk: used to poke fun at your own mistake or shortcoming, lightly.\nExample: \"I said yes to hosting the trivia night, but I had no clue what I was doing.\"\nSimilar chunks:\n- I totally overestimated myself.\n- That sounded better in my head.\n- I was just winging it.\n\n✗ \"I can't catch a break.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I can't people today.\n- I'm running on zero sleep.\n- I'm hanging in there.\n\n✗ \"One thing led to another...\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- Somehow, things got even worse.\n- That was a huge mistake.\n- Needless to say, it was a disaster."
+    },
+    {
+      "id": 15,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're joking about your own mistake or shortcoming in a light, self-deprecating way. Which chunk fits best?",
+      "options": {
+        "A": "Whoops — wrong tab. Give me two seconds.",
+        "B": "It all started when...",
+        "C": "Should we leave earlier to watch the sunset?",
+        "D": "I totally overestimated myself."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Whoops — wrong tab. Give me two seconds.\" belongs to Handling Video-Call Mishaps — used to handle an unexpected mishap or glitch on a video call, casually and without stress, not this context.\nSimilar chunks:\n- Got your message — let me simplify: it's basically X does Y. Make sense?\n- Let's switch to phone. My number's...\n- Looks like Zoom died. I'll restart — call you back?\n\n✗ \"It all started when...\" belongs to Storytelling Openers — used to kick off a casual story, before the details come out, not this context.\nSimilar chunks:\n- That's when things got weird.\n- So basically...\n- Little did I know...\n\n✗ \"Should we leave earlier to watch the sunset?\" belongs to Casual Travel & Food Small Talk — used for casual small talk while showing a guest around, cooking, or planning a trip together, not this context.\nSimilar chunks:\n- The fresh ingredients are mild, and the sauce really boosts the flavor.\n- I'll show them how to prepare it step by step: first, we'll lay down fresh herbs, then add meat, and some toppings like cucumber or slices of mango.\n- The canoe ride takes longer than expected.\n\n✓ Correct — \"I totally overestimated myself.\" is a Self-Deprecating Humor chunk: used to poke fun at your own mistake or shortcoming, lightly.\nExample: \"I signed up for the 10k thinking it'd be easy — I totally overestimated myself.\"\nSimilar chunks:\n- I had no clue what I was doing.\n- That sounded better in my head.\n- I'm not exactly good at this."
+    },
+    {
+      "id": 16,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Something mildly annoying or surprising just happened, and you want to react casually, without making a big deal of it. Which chunk fits best?",
+      "options": {
+        "A": "It felt like forever.",
+        "B": "I knew it.",
+        "C": "Today is not my day.",
+        "D": "I mean..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"It felt like forever.\" belongs to Funny Exaggeration — used to exaggerate for comic effect while telling a casual story, not this context.\nSimilar chunks:\n- That aged me ten years.\n- My soul left my body.\n- I nearly died.\n\n✓ Correct — \"I knew it.\" is a Casual Reactions of Disbelief or Frustration chunk: used as a casual, low-stakes reaction to something surprising or mildly frustrating.\nExample: \"I knew it — the 'quick call' turned into an hour-long meeting.\"\nSimilar chunks:\n- No way.\n- You've gotta be kidding me.\n- This can't be happening.\n\n✗ \"Today is not my day.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I'm just trying to survive.\n- I got in my own head.\n- I was spiraling.\n\n✗ \"I mean...\" belongs to Natural Conversation Fillers — used as a natural conversational filler when easing into the next point, not this context.\nSimilar chunks:\n- At this point...\n- Basically...\n- Apparently..."
+    },
+    {
+      "id": 17,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Something mildly annoying or surprising just happened, and you want to react casually, without making a big deal of it. Which chunk fits best?",
+      "options": {
+        "A": "I can't people today.",
+        "B": "I was dying inside.",
+        "C": "Sounds about right.",
+        "D": "You've gotta be kidding me."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I can't people today.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I'm hanging in there.\n- I'm barely functioning.\n- I overthink everything.\n\n✗ \"I was dying inside.\" belongs to Describing Awkward or Embarrassing Moments — used to describe how uncomfortable or embarrassed you felt in a moment, not this context.\nSimilar chunks:\n- I completely embarrassed myself.\n- It was painfully awkward.\n- I froze.\n\n✗ \"Sounds about right.\" belongs to Low-Energy Sarcasm — used to react to something annoying with dry, low-energy sarcasm, not this context.\nSimilar chunks:\n- This is fine.\n- Great. Just great.\n- Perfect.\n\n✓ Correct — \"You've gotta be kidding me.\" is a Casual Reactions of Disbelief or Frustration chunk: used as a casual, low-stakes reaction to something surprising or mildly frustrating.\nExample: \"The parking garage is full again? You've gotta be kidding me.\"\nSimilar chunks:\n- I knew it.\n- No way.\n- Give me a break."
+    },
+    {
+      "id": 18,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Something mildly annoying or surprising just happened, and you want to react casually, without making a big deal of it. Which chunk fits best?",
+      "options": {
+        "A": "Technically...",
+        "B": "Come on.",
+        "C": "It wasn't entirely my fault.",
+        "D": "I need to recharge."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Technically...\" belongs to Excuses & Self-Defense — used to explain yourself lightly, without sounding overly defensive, not this context.\nSimilar chunks:\n- I can explain.\n- To be fair...\n- It wasn't entirely my fault.\n\n✓ Correct — \"Come on.\" is a Casual Reactions of Disbelief or Frustration chunk: used as a casual, low-stakes reaction to something surprising or mildly frustrating.\nExample: \"Come on, you can't be out of coffee again.\"\nSimilar chunks:\n- Seriously?\n- You've gotta be kidding me.\n- No way.\n\n✗ \"It wasn't entirely my fault.\" belongs to Excuses & Self-Defense — used to explain yourself lightly, without sounding overly defensive, not this context.\nSimilar chunks:\n- To be fair...\n- That's not what it looked like.\n- I can explain.\n\n✗ \"I need to recharge.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I'm just trying to survive.\n- I can't people today.\n- I overthink everything."
+    },
+    {
+      "id": 19,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Something mildly annoying or surprising just happened, and you want to react casually, without making a big deal of it. Which chunk fits best?",
+      "options": {
+        "A": "That tracks.",
+        "B": "I'm barely functioning.",
+        "C": "Yeah, loud and clear. You good?",
+        "D": "Seriously?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"That tracks.\" belongs to Extremely Native Mini-Chunks — used as a very short, native-sounding way to casually acknowledge something, not this context.\nSimilar chunks:\n- I'll take it.\n- That checks out.\n- Makes sense.\n\n✗ \"I'm barely functioning.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I got in my own head.\n- I'm running on zero sleep.\n- I'm just trying to survive.\n\n✗ \"Yeah, loud and clear. You good?\" belongs to Handling Video-Call Mishaps — used to handle an unexpected mishap or glitch on a video call, casually and without stress, not this context.\nSimilar chunks:\n- Whoops — wrong tab. Give me two seconds.\n- Hey — sounds like someone's excited. Want me to wait?\n- Looks like Zoom died. I'll restart — call you back?\n\n✓ Correct — \"Seriously?\" is a Casual Reactions of Disbelief or Frustration chunk: used as a casual, low-stakes reaction to something surprising or mildly frustrating.\nExample: \"They cancelled the trip the night before we were supposed to leave. Seriously?\"\nSimilar chunks:\n- Come on.\n- Just my luck.\n- No way."
+    },
+    {
+      "id": 20,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're telling a story and want to share what you were secretly thinking at the time, not what you actually said. Which chunk fits best?",
+      "options": {
+        "A": "At that point...",
+        "B": "I figured I could get away with it.",
+        "C": "So basically...",
+        "D": "I mean..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"At that point...\" belongs to Storytelling Twist Patterns — used as a template to set up an expectation right before the twist in a story, not this context.\nSimilar chunks:\n- I thought X... turns out Y.\n- I was trying to X, but...\n\n✓ Correct — \"I figured I could get away with it.\" is a Narrating Inner Thoughts chunk: used to share what you were privately thinking during a story, not what you said out loud.\nExample: \"I skipped the warm-up, figured I could get away with it.\"\nSimilar chunks:\n- In my head...\n- For a second, I thought...\n- At that point, I just wanted to go home.\n\n✗ \"So basically...\" belongs to Storytelling Openers — used to kick off a casual story, before the details come out, not this context.\nSimilar chunks:\n- At the time, it seemed like a good idea.\n- That's when things got weird.\n- I honestly didn't think much of it.\n\n✗ \"I mean...\" belongs to Natural Conversation Fillers — used as a natural conversational filler when easing into the next point, not this context.\nSimilar chunks:\n- Basically...\n- Apparently...\n- You know..."
+    },
+    {
+      "id": 21,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're telling a story and want to share what you were secretly thinking at the time, not what you actually said. Which chunk fits best?",
+      "options": {
+        "A": "My soul left my body.",
+        "B": "Not my proudest moment.",
+        "C": "I pretended everything was fine.",
+        "D": "I wasn't thrilled about it."
+      },
+      "correct": "C",
+      "explanation": "✗ \"My soul left my body.\" belongs to Funny Exaggeration — used to exaggerate for comic effect while telling a casual story, not this context.\nSimilar chunks:\n- It was absolute chaos.\n- I nearly died.\n- I've never recovered from that.\n\n✗ \"Not my proudest moment.\" belongs to Wrapping Up a Story — used to wrap up a casual story naturally at the end, not this context.\nSimilar chunks:\n- Lesson learned.\n- Looking back now, it was actually pretty funny.\n- Needless to say, I learned my lesson.\n\n✓ Correct — \"I pretended everything was fine.\" is a Narrating Inner Thoughts chunk: used to share what you were privately thinking during a story, not what you said out loud.\nExample: \"The call dropped mid-sentence and I pretended everything was fine when it reconnected.\"\nSimilar chunks:\n- For a second, I thought...\n- In my head...\n- At that point, I just wanted to go home.\n\n✗ \"I wasn't thrilled about it.\" belongs to Softening Negative Emotions — used to describe a negative feeling in a softer, less dramatic way than saying you were 'angry', not this context.\nSimilar chunks:\n- It bothered me a bit.\n- I was a little upset.\n- I was kinda annoyed."
+    },
+    {
+      "id": 22,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're telling a story and want to share what you were secretly thinking at the time, not what you actually said. Which chunk fits best?",
+      "options": {
+        "A": "Whoops — wrong tab. Give me two seconds.",
+        "B": "I panicked.",
+        "C": "That's where everything fell apart.",
+        "D": "At that point, I just wanted to go home."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Whoops — wrong tab. Give me two seconds.\" belongs to Handling Video-Call Mishaps — used to handle an unexpected mishap or glitch on a video call, casually and without stress, not this context.\nSimilar chunks:\n- Okay, fixed. Sorry — my desktop's a warzone.\n- Yeah, loud and clear. You good?\n- Let's switch to phone. My number's...\n\n✗ \"I panicked.\" belongs to Describing Awkward or Embarrassing Moments — used to describe how uncomfortable or embarrassed you felt in a moment, not this context.\nSimilar chunks:\n- Everybody was staring at me.\n- It was painfully awkward.\n- I instantly knew I messed up.\n\n✗ \"That's where everything fell apart.\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- One thing led to another...\n- Somehow, things got even worse.\n- It backfired instantly.\n\n✓ Correct — \"At that point, I just wanted to go home.\" is a Narrating Inner Thoughts chunk: used to share what you were privately thinking during a story, not what you said out loud.\nExample: \"By hour three of the meeting, at that point, I just wanted to go home.\"\nSimilar chunks:\n- For a second, I thought...\n- I was trying to act normal.\n- In my head..."
+    },
+    {
+      "id": 23,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're explaining to a friend how self-conscious or anxious you felt in a social situation. Which chunk fits best?",
+      "options": {
+        "A": "I overthink everything.",
+        "B": "I was trying to keep a low profile.",
+        "C": "At that point, I just wanted to go home.",
+        "D": "Hey — sounds like someone's excited. Want me to wait?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"I overthink everything.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- Today is not my day.\n- I'm just trying to survive.\n- I was spiraling.\n\n✓ Correct — \"I was trying to keep a low profile.\" is a Describing Social Anxiety chunk: used to describe feeling self-conscious or anxious in a social situation.\nExample: \"After showing up late, I was trying to keep a low profile for the rest of the meeting.\"\nSimilar chunks:\n- I tried to play it cool.\n- I was hoping someone else would say something.\n- I was overthinking everything.\n\n✗ \"At that point, I just wanted to go home.\" belongs to Narrating Inner Thoughts — used to share what you were privately thinking during a story, not what you said out loud, not this context.\nSimilar chunks:\n- For a second, I thought...\n- I was hoping nobody noticed.\n- In my head...\n\n✗ \"Hey — sounds like someone's excited. Want me to wait?\" belongs to Handling Video-Call Mishaps — used to handle an unexpected mishap or glitch on a video call, casually and without stress, not this context.\nSimilar chunks:\n- Looks like Zoom died. I'll restart — call you back?\n- Got your message — let me simplify: it's basically X does Y. Make sense?\n- No big deal — kids are kids. We can pause."
+    },
+    {
+      "id": 24,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're explaining to a friend how self-conscious or anxious you felt in a social situation. Which chunk fits best?",
+      "options": {
+        "A": "I instantly knew I messed up.",
+        "B": "I totally overestimated myself.",
+        "C": "I tried to play it cool.",
+        "D": "I should've seen that coming."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I instantly knew I messed up.\" belongs to Describing Awkward or Embarrassing Moments — used to describe how uncomfortable or embarrassed you felt in a moment, not this context.\nSimilar chunks:\n- It was painfully awkward.\n- I panicked.\n- I froze.\n\n✗ \"I totally overestimated myself.\" belongs to Self-Deprecating Humor — used to poke fun at your own mistake or shortcoming, lightly, not this context.\nSimilar chunks:\n- My brain just stopped working.\n- I'm not exactly good at this.\n- I had no clue what I was doing.\n\n✓ Correct — \"I tried to play it cool.\" is a Describing Social Anxiety chunk: used to describe feeling self-conscious or anxious in a social situation.\nExample: \"My name got mispronounced for the third time and I tried to play it cool.\"\nSimilar chunks:\n- I didn't want to make things awkward.\n- I didn't want to look stupid.\n- I was hoping someone else would say something.\n\n✗ \"I should've seen that coming.\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- That's where everything fell apart.\n- Before I knew it...\n- Needless to say, it was a disaster."
+    },
+    {
+      "id": 25,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're explaining to a friend how self-conscious or anxious you felt in a social situation. Which chunk fits best?",
+      "options": {
+        "A": "My bad.",
+        "B": "I got carried away.",
+        "C": "I should've seen that coming.",
+        "D": "I didn't want to look stupid."
+      },
+      "correct": "D",
+      "explanation": "✗ \"My bad.\" belongs to Extremely Native Mini-Chunks — used as a very short, native-sounding way to casually acknowledge something, not this context.\nSimilar chunks:\n- That's on me.\n- That tracks.\n- Fair enough.\n\n✗ \"I got carried away.\" belongs to Workplace-Friendly Casual Chunks — used to talk casually about a work mix-up, without sounding overly formal, not this context.\nSimilar chunks:\n- I'm trying to keep up.\n- I need a minute to process this.\n- That caught me off guard.\n\n✗ \"I should've seen that coming.\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- One thing led to another...\n- That was a huge mistake.\n- Somehow, things got even worse.\n\n✓ Correct — \"I didn't want to look stupid.\" is a Describing Social Anxiety chunk: used to describe feeling self-conscious or anxious in a social situation.\nExample: \"I nodded along even though I didn't understand, because I didn't want to look stupid.\"\nSimilar chunks:\n- I didn't want to make things awkward.\n- I was trying to keep a low profile.\n- I was overthinking everything."
+    },
+    {
+      "id": 26,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to exaggerate for comic effect while telling a story, rather than describe things literally. Which chunk fits best?",
+      "options": {
+        "A": "Perfect.",
+        "B": "Today is not my day.",
+        "C": "It felt like forever.",
+        "D": "That tracks."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Perfect.\" belongs to Low-Energy Sarcasm — used to react to something annoying with dry, low-energy sarcasm, not this context.\nSimilar chunks:\n- Well, that was helpful.\n- This is fine.\n- Great. Just great.\n\n✗ \"Today is not my day.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I'm barely functioning.\n- I got in my own head.\n- I overthink everything.\n\n✓ Correct — \"It felt like forever.\" is a Funny Exaggeration chunk: used to exaggerate for comic effect while telling a casual story.\nExample: \"The elevator was stuck for maybe two minutes, but it felt like forever.\"\nSimilar chunks:\n- It was absolute chaos.\n- My soul left my body.\n- That aged me ten years.\n\n✗ \"That tracks.\" belongs to Extremely Native Mini-Chunks — used as a very short, native-sounding way to casually acknowledge something, not this context.\nSimilar chunks:\n- Could be worse.\n- That checks out.\n- Makes sense."
+    },
+    {
+      "id": 27,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to exaggerate for comic effect while telling a story, rather than describe things literally. Which chunk fits best?",
+      "options": {
+        "A": "Honestly...",
+        "B": "I totally blanked.",
+        "C": "I was trying to keep a low profile.",
+        "D": "It was absolute chaos."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Honestly...\" belongs to Natural Conversation Fillers — used as a natural conversational filler when easing into the next point, not this context.\nSimilar chunks:\n- Basically...\n- Apparently...\n- To make matters worse...\n\n✗ \"I totally blanked.\" belongs to Golden Native Storytelling Chunks — used as an idiomatic way to describe an action or feeling inside a casual story, not this context.\nSimilar chunks:\n- I ended up...\n- That threw me off.\n- I had a feeling...\n\n✗ \"I was trying to keep a low profile.\" belongs to Describing Social Anxiety — used to describe feeling self-conscious or anxious in a social situation, not this context.\nSimilar chunks:\n- I was hoping someone else would say something.\n- I was overthinking everything.\n- I tried to play it cool.\n\n✓ Correct — \"It was absolute chaos.\" is a Funny Exaggeration chunk: used to exaggerate for comic effect while telling a casual story.\nExample: \"Three deliveries arrived at once while the dog was loose — it was absolute chaos.\"\nSimilar chunks:\n- I nearly died.\n- I've never recovered from that.\n- My soul left my body."
+    },
+    {
+      "id": 28,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to exaggerate for comic effect while telling a story, rather than describe things literally. Which chunk fits best?",
+      "options": {
+        "A": "Today is not my day.",
+        "B": "The canoe ride takes longer than expected.",
+        "C": "I mean...",
+        "D": "I've never recovered from that."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Today is not my day.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I'm running on zero sleep.\n- I was spiraling.\n- I can't people today.\n\n✗ \"The canoe ride takes longer than expected.\" belongs to Casual Travel & Food Small Talk — used for casual small talk while showing a guest around, cooking, or planning a trip together, not this context.\nSimilar chunks:\n- Do you have everything you need, or should we pick up something before we go?\n- Do you get motion sickness easily? If you do, let me know, and we can take a break or go a bit slower.\n- The fresh ingredients are mild, and the sauce really boosts the flavor.\n\n✗ \"I mean...\" belongs to Natural Conversation Fillers — used as a natural conversational filler when easing into the next point, not this context.\nSimilar chunks:\n- For some reason...\n- To make matters worse...\n- You know...\n\n✓ Correct — \"I've never recovered from that.\" is a Funny Exaggeration chunk: used to exaggerate for comic effect while telling a casual story.\nExample: \"I still think about that karaoke performance — I've never recovered from that.\"\nSimilar chunks:\n- My soul left my body.\n- That aged me ten years.\n- I nearly died."
+    },
+    {
+      "id": 29,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're being lightly called out for something and want to explain yourself without sounding too defensive. Which chunk fits best?",
+      "options": {
+        "A": "I ended up...",
+        "B": "At that point, I just wanted to go home.",
+        "C": "To be fair...",
+        "D": "Seriously?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"I ended up...\" belongs to Golden Native Storytelling Chunks — used as an idiomatic way to describe an action or feeling inside a casual story, not this context.\nSimilar chunks:\n- I had a feeling...\n- I totally blanked.\n- I talked myself into it.\n\n✗ \"At that point, I just wanted to go home.\" belongs to Narrating Inner Thoughts — used to share what you were privately thinking during a story, not what you said out loud, not this context.\nSimilar chunks:\n- I pretended everything was fine.\n- In my head...\n- I figured I could get away with it.\n\n✓ Correct — \"To be fair...\" is an Excuses & Self-Defense chunk: used to explain yourself lightly, without sounding overly defensive.\nExample: \"To be fair, nobody told me the meeting moved to 9am.\"\nSimilar chunks:\n- It wasn't entirely my fault.\n- That's not what it looked like.\n- In my defense...\n\n✗ \"Seriously?\" belongs to Casual Reactions of Disbelief or Frustration — used as a casual, low-stakes reaction to something surprising or mildly frustrating, not this context.\nSimilar chunks:\n- You've gotta be kidding me.\n- Give me a break.\n- Just my luck."
+    },
+    {
+      "id": 30,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're being lightly called out for something and want to explain yourself without sounding too defensive. Which chunk fits best?",
+      "options": {
+        "A": "That was not a good look.",
+        "B": "I wasn't thrilled about it.",
+        "C": "Could this day get any worse?",
+        "D": "In my defense..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"That was not a good look.\" belongs to Describing Awkward or Embarrassing Moments — used to describe how uncomfortable or embarrassed you felt in a moment, not this context.\nSimilar chunks:\n- It was painfully awkward.\n- Everybody was staring at me.\n- I completely embarrassed myself.\n\n✗ \"I wasn't thrilled about it.\" belongs to Softening Negative Emotions — used to describe a negative feeling in a softer, less dramatic way than saying you were 'angry', not this context.\nSimilar chunks:\n- I was a little upset.\n- I was kinda annoyed.\n- It bothered me a bit.\n\n✗ \"Could this day get any worse?\" belongs to Low-Energy Sarcasm — used to react to something annoying with dry, low-energy sarcasm, not this context.\nSimilar chunks:\n- This is fine.\n- Perfect.\n- Great. Just great.\n\n✓ Correct — \"In my defense...\" is an Excuses & Self-Defense chunk: used to explain yourself lightly, without sounding overly defensive.\nExample: \"In my defense, the instructions were genuinely confusing.\"\nSimilar chunks:\n- I can explain.\n- That's not what it looked like.\n- It wasn't entirely my fault."
+    },
+    {
+      "id": 31,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're being lightly called out for something and want to explain yourself without sounding too defensive. Which chunk fits best?",
+      "options": {
+        "A": "It was absolute chaos.",
+        "B": "Technically...",
+        "C": "I should've seen that coming.",
+        "D": "I didn't want to make things awkward."
+      },
+      "correct": "B",
+      "explanation": "✗ \"It was absolute chaos.\" belongs to Funny Exaggeration — used to exaggerate for comic effect while telling a casual story, not this context.\nSimilar chunks:\n- I've never recovered from that.\n- That aged me ten years.\n- It felt like forever.\n\n✓ Correct — \"Technically...\" is an Excuses & Self-Defense chunk: used to explain yourself lightly, without sounding overly defensive.\nExample: \"Technically, I did reply to the email, just from the wrong account.\"\nSimilar chunks:\n- It wasn't entirely my fault.\n- I can explain.\n- To be fair...\n\n✗ \"I should've seen that coming.\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- Before I knew it...\n- That was a huge mistake.\n- One thing led to another...\n\n✗ \"I didn't want to make things awkward.\" belongs to Describing Social Anxiety — used to describe feeling self-conscious or anxious in a social situation, not this context.\nSimilar chunks:\n- I was trying to keep a low profile.\n- I was hoping someone else would say something.\n- I tried to play it cool."
+    },
+    {
+      "id": 32,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're chatting casually and need a natural filler to ease into your next sentence. Which chunk fits best?",
+      "options": {
+        "A": "At this point...",
+        "B": "I was trying to act normal.",
+        "C": "That's a story for another day.",
+        "D": "I was dying inside."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"At this point...\" is a Natural Conversation Fillers chunk: used as a natural conversational filler when easing into the next point.\nExample: \"At this point, I've given up trying to fix the printer myself.\"\nSimilar chunks:\n- Honestly...\n- Apparently...\n- I mean...\n\n✗ \"I was trying to act normal.\" belongs to Narrating Inner Thoughts — used to share what you were privately thinking during a story, not what you said out loud, not this context.\nSimilar chunks:\n- I pretended everything was fine.\n- At that point, I just wanted to go home.\n- In my head...\n\n✗ \"That's a story for another day.\" belongs to Wrapping Up a Story — used to wrap up a casual story naturally at the end, not this context.\nSimilar chunks:\n- Lesson learned.\n- So yeah, that was fun.\n- Not my proudest moment.\n\n✗ \"I was dying inside.\" belongs to Describing Awkward or Embarrassing Moments — used to describe how uncomfortable or embarrassed you felt in a moment, not this context.\nSimilar chunks:\n- I completely embarrassed myself.\n- Everybody was staring at me.\n- It was painfully awkward."
+    },
+    {
+      "id": 33,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're chatting casually and need a natural filler to ease into your next sentence. Which chunk fits best?",
+      "options": {
+        "A": "For some reason...",
+        "B": "Not ideal.",
+        "C": "Needless to say, I learned my lesson.",
+        "D": "I didn't know where to look."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"For some reason...\" is a Natural Conversation Fillers chunk: used as a natural conversational filler when easing into the next point.\nExample: \"For some reason, my phone kept autocorrecting his name all week.\"\nSimilar chunks:\n- Basically...\n- At this point...\n- I mean...\n\n✗ \"Not ideal.\" belongs to Extremely Native Mini-Chunks — used as a very short, native-sounding way to casually acknowledge something, not this context.\nSimilar chunks:\n- That tracks.\n- Fair enough.\n- That checks out.\n\n✗ \"Needless to say, I learned my lesson.\" belongs to Wrapping Up a Story — used to wrap up a casual story naturally at the end, not this context.\nSimilar chunks:\n- Looking back now, it was actually pretty funny.\n- So yeah, that was fun.\n- Never doing that again.\n\n✗ \"I didn't know where to look.\" belongs to Describing Awkward or Embarrassing Moments — used to describe how uncomfortable or embarrassed you felt in a moment, not this context.\nSimilar chunks:\n- I instantly knew I messed up.\n- I completely embarrassed myself.\n- That was not a good look."
+    },
+    {
+      "id": 34,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're chatting casually and need a natural filler to ease into your next sentence. Which chunk fits best?",
+      "options": {
+        "A": "I had no clue what I was doing.",
+        "B": "I totally overestimated myself.",
+        "C": "I mean...",
+        "D": "I figured I could get away with it."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I had no clue what I was doing.\" belongs to Self-Deprecating Humor — used to poke fun at your own mistake or shortcoming, lightly, not this context.\nSimilar chunks:\n- That sounded better in my head.\n- My brain just stopped working.\n- I totally overestimated myself.\n\n✗ \"I totally overestimated myself.\" belongs to Self-Deprecating Humor — used to poke fun at your own mistake or shortcoming, lightly, not this context.\nSimilar chunks:\n- Classic me.\n- I'm not exactly good at this.\n- I was just winging it.\n\n✓ Correct — \"I mean...\" is a Natural Conversation Fillers chunk: used as a natural conversational filler when easing into the next point.\nExample: \"I mean, it's not the worst idea, just not my favorite.\"\nSimilar chunks:\n- Turns out...\n- At this point...\n- Honestly...\n\n✗ \"I figured I could get away with it.\" belongs to Narrating Inner Thoughts — used to share what you were privately thinking during a story, not what you said out loud, not this context.\nSimilar chunks:\n- In my head...\n- I pretended everything was fine.\n- I was trying to act normal."
+    },
+    {
+      "id": 35,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're chatting casually and need a natural filler to ease into your next sentence. Which chunk fits best?",
+      "options": {
+        "A": "Before I knew it...",
+        "B": "No big deal — kids are kids. We can pause.",
+        "C": "I can't people today.",
+        "D": "You know..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Before I knew it...\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- One thing led to another...\n- That's where everything fell apart.\n- Things went downhill fast.\n\n✗ \"No big deal — kids are kids. We can pause.\" belongs to Handling Video-Call Mishaps — used to handle an unexpected mishap or glitch on a video call, casually and without stress, not this context.\nSimilar chunks:\n- Let's switch to phone. My number's...\n- Okay, fixed. Sorry — my desktop's a warzone.\n- Yeah, loud and clear. You good?\n\n✗ \"I can't people today.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- My social battery is dead.\n- I was spiraling.\n- Today is not my day.\n\n✓ Correct — \"You know...\" is a Natural Conversation Fillers chunk: used as a natural conversational filler when easing into the next point.\nExample: \"You know, I never actually liked pineapple on pizza.\"\nSimilar chunks:\n- I mean...\n- For some reason...\n- At this point..."
+    },
+    {
+      "id": 36,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're talking to a coworker casually about a mix-up at work and want to sound natural, not overly formal. Which chunk fits best?",
+      "options": {
+        "A": "Great. Just great.",
+        "B": "I need a minute to process this.",
+        "C": "Fair enough.",
+        "D": "The canoe ride takes longer than expected."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Great. Just great.\" belongs to Low-Energy Sarcasm — used to react to something annoying with dry, low-energy sarcasm, not this context.\nSimilar chunks:\n- This is fine.\n- Love that for me.\n- Well, that was helpful.\n\n✓ Correct — \"I need a minute to process this.\" is a Workplace-Friendly Casual Chunks chunk: used to talk casually about a work mix-up, without sounding overly formal.\nExample: \"That's a lot of new information — I need a minute to process this.\"\nSimilar chunks:\n- I'm still figuring it out.\n- I completely overlooked that.\n- That escalated quickly.\n\n✗ \"Fair enough.\" belongs to Extremely Native Mini-Chunks — used as a very short, native-sounding way to casually acknowledge something, not this context.\nSimilar chunks:\n- Not ideal.\n- Could be worse.\n- I'll take it.\n\n✗ \"The canoe ride takes longer than expected.\" belongs to Casual Travel & Food Small Talk — used for casual small talk while showing a guest around, cooking, or planning a trip together, not this context.\nSimilar chunks:\n- Do you have everything you need, or should we pick up something before we go?\n- Do you get motion sickness easily? If you do, let me know, and we can take a break or go a bit slower.\n- Should we leave earlier to watch the sunset?"
+    },
+    {
+      "id": 37,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're talking to a coworker casually about a mix-up at work and want to sound natural, not overly formal. Which chunk fits best?",
+      "options": {
+        "A": "Honestly...",
+        "B": "In my head...",
+        "C": "That was a huge mistake.",
+        "D": "I completely overlooked that."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Honestly...\" belongs to Natural Conversation Fillers — used as a natural conversational filler when easing into the next point, not this context.\nSimilar chunks:\n- Turns out...\n- At this point...\n- Apparently...\n\n✗ \"In my head...\" belongs to Narrating Inner Thoughts — used to share what you were privately thinking during a story, not what you said out loud, not this context.\nSimilar chunks:\n- I was hoping nobody noticed.\n- I figured I could get away with it.\n- I pretended everything was fine.\n\n✗ \"That was a huge mistake.\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- That's where everything fell apart.\n- Before I knew it...\n- I should've seen that coming.\n\n✓ Correct — \"I completely overlooked that.\" is a Workplace-Friendly Casual Chunks chunk: used to talk casually about a work mix-up, without sounding overly formal.\nExample: \"I completely overlooked that the form needed a manager's signature.\"\nSimilar chunks:\n- That caught me off guard.\n- That escalated quickly.\n- I probably misunderstood the requirement."
+    },
+    {
+      "id": 38,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're talking to a coworker casually about a mix-up at work and want to sound natural, not overly formal. Which chunk fits best?",
+      "options": {
+        "A": "I didn't want to make things awkward.",
+        "B": "Everybody was staring at me.",
+        "C": "That caught me off guard.",
+        "D": "No way."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I didn't want to make things awkward.\" belongs to Describing Social Anxiety — used to describe feeling self-conscious or anxious in a social situation, not this context.\nSimilar chunks:\n- I didn't want to look stupid.\n- I was overthinking everything.\n- I was hoping someone else would say something.\n\n✗ \"Everybody was staring at me.\" belongs to Describing Awkward or Embarrassing Moments — used to describe how uncomfortable or embarrassed you felt in a moment, not this context.\nSimilar chunks:\n- I panicked.\n- That was not a good look.\n- I wanted to disappear.\n\n✓ Correct — \"That caught me off guard.\" is a Workplace-Friendly Casual Chunks chunk: used to talk casually about a work mix-up, without sounding overly formal.\nExample: \"The client's question about pricing really caught me off guard.\"\nSimilar chunks:\n- I got carried away.\n- I probably misunderstood the requirement.\n- I'm still figuring it out.\n\n✗ \"No way.\" belongs to Casual Reactions of Disbelief or Frustration — used as a casual, low-stakes reaction to something surprising or mildly frustrating, not this context.\nSimilar chunks:\n- This can't be happening.\n- Come on.\n- I knew it."
+    },
+    {
+      "id": 39,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're talking to a coworker casually about a mix-up at work and want to sound natural, not overly formal. Which chunk fits best?",
+      "options": {
+        "A": "Everything was going fine until...",
+        "B": "I tried to play it cool.",
+        "C": "That's where everything fell apart.",
+        "D": "I probably misunderstood the requirement."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Everything was going fine until...\" belongs to Storytelling Openers — used to kick off a casual story, before the details come out, not this context.\nSimilar chunks:\n- So basically...\n- At first, I thought...\n- At the time, it seemed like a good idea.\n\n✗ \"I tried to play it cool.\" belongs to Describing Social Anxiety — used to describe feeling self-conscious or anxious in a social situation, not this context.\nSimilar chunks:\n- I was trying to keep a low profile.\n- I was hoping someone else would say something.\n- I didn't want to make things awkward.\n\n✗ \"That's where everything fell apart.\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- That was a huge mistake.\n- Before I knew it...\n- Things went downhill fast.\n\n✓ Correct — \"I probably misunderstood the requirement.\" is a Workplace-Friendly Casual Chunks chunk: used to talk casually about a work mix-up, without sounding overly formal.\nExample: \"I probably misunderstood the requirement — I thought we only needed the summary slide.\"\nSimilar chunks:\n- That escalated quickly.\n- I need a minute to process this.\n- I got carried away."
+    },
+    {
+      "id": 40,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just finished telling a story and want to wrap it up naturally. Which chunk fits best?",
+      "options": {
+        "A": "I'll take it.",
+        "B": "Technically...",
+        "C": "Needless to say, I learned my lesson.",
+        "D": "I talked myself into it."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I'll take it.\" belongs to Extremely Native Mini-Chunks — used as a very short, native-sounding way to casually acknowledge something, not this context.\nSimilar chunks:\n- That checks out.\n- That's on me.\n- Not ideal.\n\n✗ \"Technically...\" belongs to Excuses & Self-Defense — used to explain yourself lightly, without sounding overly defensive, not this context.\nSimilar chunks:\n- I can explain.\n- In my defense...\n- It wasn't entirely my fault.\n\n✓ Correct — \"Needless to say, I learned my lesson.\" is a Wrapping Up a Story chunk: used to wrap up a casual story naturally at the end.\nExample: \"Needless to say, I learned my lesson about packing the night before a flight.\"\nSimilar chunks:\n- That's a story for another day.\n- Never doing that again.\n- Lesson learned.\n\n✗ \"I talked myself into it.\" belongs to Golden Native Storytelling Chunks — used as an idiomatic way to describe an action or feeling inside a casual story, not this context.\nSimilar chunks:\n- I couldn't help but...\n- I ended up...\n- I talked myself out of it."
+    },
+    {
+      "id": 41,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just finished telling a story and want to wrap it up naturally. Which chunk fits best?",
+      "options": {
+        "A": "So yeah, that was fun.",
+        "B": "It felt like forever.",
+        "C": "I was hoping someone else would say something.",
+        "D": "Hey — sounds like someone's excited. Want me to wait?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"So yeah, that was fun.\" is a Wrapping Up a Story chunk: used to wrap up a casual story naturally at the end.\nExample: \"So yeah, that was fun — never again doing a potluck with no RSVPs.\"\nSimilar chunks:\n- Looking back now, it was actually pretty funny.\n- Lesson learned.\n- Not my proudest moment.\n\n✗ \"It felt like forever.\" belongs to Funny Exaggeration — used to exaggerate for comic effect while telling a casual story, not this context.\nSimilar chunks:\n- I've never recovered from that.\n- My soul left my body.\n- I nearly died.\n\n✗ \"I was hoping someone else would say something.\" belongs to Describing Social Anxiety — used to describe feeling self-conscious or anxious in a social situation, not this context.\nSimilar chunks:\n- I didn't want to make things awkward.\n- I was trying to keep a low profile.\n- I was overthinking everything.\n\n✗ \"Hey — sounds like someone's excited. Want me to wait?\" belongs to Handling Video-Call Mishaps — used to handle an unexpected mishap or glitch on a video call, casually and without stress, not this context.\nSimilar chunks:\n- Let's switch to phone. My number's...\n- Looks like Zoom died. I'll restart — call you back?\n- Okay, fixed. Sorry — my desktop's a warzone."
+    },
+    {
+      "id": 42,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just finished telling a story and want to wrap it up naturally. Which chunk fits best?",
+      "options": {
+        "A": "No big deal — kids are kids. We can pause.",
+        "B": "Not my proudest moment.",
+        "C": "I need to recharge.",
+        "D": "That escalated quickly."
+      },
+      "correct": "B",
+      "explanation": "✗ \"No big deal — kids are kids. We can pause.\" belongs to Handling Video-Call Mishaps — used to handle an unexpected mishap or glitch on a video call, casually and without stress, not this context.\nSimilar chunks:\n- Yeah, loud and clear. You good?\n- Whoops — wrong tab. Give me two seconds.\n- Got your message — let me simplify: it's basically X does Y. Make sense?\n\n✓ Correct — \"Not my proudest moment.\" is a Wrapping Up a Story chunk: used to wrap up a casual story naturally at the end.\nExample: \"Falling asleep during the movie I picked — not my proudest moment.\"\nSimilar chunks:\n- Needless to say, I learned my lesson.\n- Lesson learned.\n- Looking back now, it was actually pretty funny.\n\n✗ \"I need to recharge.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I can't catch a break.\n- I'm just trying to survive.\n- I'm running on zero sleep.\n\n✗ \"That escalated quickly.\" belongs to Workplace-Friendly Casual Chunks — used to talk casually about a work mix-up, without sounding overly formal, not this context.\nSimilar chunks:\n- I'm still figuring it out.\n- That caught me off guard.\n- I got carried away."
+    },
+    {
+      "id": 43,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're telling a casual story and need an idiomatic way to describe what you did or how you felt in the moment. Which chunk fits best?",
+      "options": {
+        "A": "Fair enough.",
+        "B": "Before I knew it...",
+        "C": "I got stuck...",
+        "D": "I should've seen that coming."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Fair enough.\" belongs to Extremely Native Mini-Chunks — used as a very short, native-sounding way to casually acknowledge something, not this context.\nSimilar chunks:\n- I'll take it.\n- That's on me.\n- Makes sense.\n\n✗ \"Before I knew it...\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- One thing led to another...\n- Needless to say, it was a disaster.\n- I should've seen that coming.\n\n✓ Correct — \"I got stuck...\" is a Golden Native Storytelling Chunks chunk: used as an idiomatic way to describe an action or feeling inside a casual story.\nExample: \"I got stuck explaining the joke, which made it even less funny.\"\nSimilar chunks:\n- I wasn't about to...\n- That threw me off.\n- I talked myself into it.\n\n✗ \"I should've seen that coming.\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- Before I knew it...\n- One thing led to another...\n- Things went downhill fast."
+    },
+    {
+      "id": 44,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're telling a casual story and need an idiomatic way to describe what you did or how you felt in the moment. Which chunk fits best?",
+      "options": {
+        "A": "No big deal — kids are kids. We can pause.",
+        "B": "My brain just stopped working.",
+        "C": "I totally blanked.",
+        "D": "I was hoping someone else would say something."
+      },
+      "correct": "C",
+      "explanation": "✗ \"No big deal — kids are kids. We can pause.\" belongs to Handling Video-Call Mishaps — used to handle an unexpected mishap or glitch on a video call, casually and without stress, not this context.\nSimilar chunks:\n- Whoops — wrong tab. Give me two seconds.\n- Looks like Zoom died. I'll restart — call you back?\n- Hey — sounds like someone's excited. Want me to wait?\n\n✗ \"My brain just stopped working.\" belongs to Self-Deprecating Humor — used to poke fun at your own mistake or shortcoming, lightly, not this context.\nSimilar chunks:\n- I was just winging it.\n- I'm not exactly good at this.\n- Classic me.\n\n✓ Correct — \"I totally blanked.\" is a Golden Native Storytelling Chunks chunk: used as an idiomatic way to describe an action or feeling inside a casual story.\nExample: \"She asked my order and I totally blanked on what I wanted.\"\nSimilar chunks:\n- I got stuck...\n- I talked myself into it.\n- That threw me off.\n\n✗ \"I was hoping someone else would say something.\" belongs to Describing Social Anxiety — used to describe feeling self-conscious or anxious in a social situation, not this context.\nSimilar chunks:\n- I tried to play it cool.\n- I was trying to keep a low profile.\n- I didn't want to make things awkward."
+    },
+    {
+      "id": 45,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're telling a casual story and need an idiomatic way to describe what you did or how you felt in the moment. Which chunk fits best?",
+      "options": {
+        "A": "Seriously?",
+        "B": "Could be worse.",
+        "C": "I talked myself out of it.",
+        "D": "I figured I could get away with it."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Seriously?\" belongs to Casual Reactions of Disbelief or Frustration — used as a casual, low-stakes reaction to something surprising or mildly frustrating, not this context.\nSimilar chunks:\n- Give me a break.\n- I knew it.\n- You've gotta be kidding me.\n\n✗ \"Could be worse.\" belongs to Extremely Native Mini-Chunks — used as a very short, native-sounding way to casually acknowledge something, not this context.\nSimilar chunks:\n- That checks out.\n- I'll take it.\n- Fair enough.\n\n✓ Correct — \"I talked myself out of it.\" is a Golden Native Storytelling Chunks chunk: used as an idiomatic way to describe an action or feeling inside a casual story.\nExample: \"I almost texted him back immediately, then talked myself out of it.\"\nSimilar chunks:\n- I couldn't help but...\n- I got stuck...\n- I wasn't about to...\n\n✗ \"I figured I could get away with it.\" belongs to Narrating Inner Thoughts — used to share what you were privately thinking during a story, not what you said out loud, not this context.\nSimilar chunks:\n- At that point, I just wanted to go home.\n- For a second, I thought...\n- I was hoping nobody noticed."
+    },
+    {
+      "id": 46,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're telling a casual story and need an idiomatic way to describe what you did or how you felt in the moment. Which chunk fits best?",
+      "options": {
+        "A": "Things went downhill fast.",
+        "B": "I talked myself into it.",
+        "C": "You know...",
+        "D": "Should we leave earlier to watch the sunset?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Things went downhill fast.\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- Somehow, things got even worse.\n- I should've seen that coming.\n- One thing led to another...\n\n✓ Correct — \"I talked myself into it.\" is a Golden Native Storytelling Chunks chunk: used as an idiomatic way to describe an action or feeling inside a casual story.\nExample: \"I wasn't going to sign up for the marathon, but I talked myself into it.\"\nSimilar chunks:\n- I talked myself out of it.\n- I totally blanked.\n- I ended up...\n\n✗ \"You know...\" belongs to Natural Conversation Fillers — used as a natural conversational filler when easing into the next point, not this context.\nSimilar chunks:\n- Basically...\n- I mean...\n- Apparently...\n\n✗ \"Should we leave earlier to watch the sunset?\" belongs to Casual Travel & Food Small Talk — used for casual small talk while showing a guest around, cooking, or planning a trip together, not this context.\nSimilar chunks:\n- The fresh ingredients are mild, and the sauce really boosts the flavor.\n- I'll show them how to prepare it step by step: first, we'll lay down fresh herbs, then add meat, and some toppings like cucumber or slices of mango.\n- The canoe ride takes longer than expected."
+    },
+    {
+      "id": 47,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're telling a story and need a template to set up an expectation right before revealing what actually happened. Which chunk fits best?",
+      "options": {
+        "A": "I talked myself into it.",
+        "B": "Makes sense.",
+        "C": "Perfect.",
+        "D": "At that point..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I talked myself into it.\" belongs to Golden Native Storytelling Chunks — used as an idiomatic way to describe an action or feeling inside a casual story, not this context.\nSimilar chunks:\n- I couldn't help but...\n- I had a feeling...\n- I wasn't about to...\n\n✗ \"Makes sense.\" belongs to Extremely Native Mini-Chunks — used as a very short, native-sounding way to casually acknowledge something, not this context.\nSimilar chunks:\n- I'll take it.\n- Fair enough.\n- That tracks.\n\n✗ \"Perfect.\" belongs to Low-Energy Sarcasm — used to react to something annoying with dry, low-energy sarcasm, not this context.\nSimilar chunks:\n- Great. Just great.\n- Well, that was helpful.\n- Sounds about right.\n\n✓ Correct — \"At that point...\" is a Storytelling Twist Patterns chunk: used as a template to set up an expectation right before the twist in a story.\nExample: \"At that point, I just accepted my fate.\"\nSimilar chunks:\n- I thought X... turns out Y.\n- I was trying to X, but..."
+    },
+    {
+      "id": 48,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're telling a story and need a template to set up an expectation right before revealing what actually happened. Which chunk fits best?",
+      "options": {
+        "A": "The canoe ride takes longer than expected.",
+        "B": "I need to recharge.",
+        "C": "I'm not exactly good at this.",
+        "D": "I thought X... turns out Y."
+      },
+      "correct": "D",
+      "explanation": "✗ \"The canoe ride takes longer than expected.\" belongs to Casual Travel & Food Small Talk — used for casual small talk while showing a guest around, cooking, or planning a trip together, not this context.\nSimilar chunks:\n- The fresh ingredients are mild, and the sauce really boosts the flavor.\n- Should we leave earlier to watch the sunset?\n- Do you get motion sickness easily? If you do, let me know, and we can take a break or go a bit slower.\n\n✗ \"I need to recharge.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I'm just trying to survive.\n- Today is not my day.\n- I was spiraling.\n\n✗ \"I'm not exactly good at this.\" belongs to Self-Deprecating Humor — used to poke fun at your own mistake or shortcoming, lightly, not this context.\nSimilar chunks:\n- I had no clue what I was doing.\n- That sounded better in my head.\n- My brain just stopped working.\n\n✓ Correct — \"I thought X... turns out Y.\" is a Storytelling Twist Patterns chunk: used as a template to set up an expectation right before the twist in a story.\nExample: \"I thought the meeting would be quick. Turns out it lasted three hours.\"\nSimilar chunks:\n- At that point...\n- I was trying to X, but..."
+    },
+    {
+      "id": 49,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A friend asks how you're doing, and honestly, you're overwhelmed or exhausted — you want to say so casually. Which chunk fits best?",
+      "options": {
+        "A": "I was spiraling.",
+        "B": "I knew it.",
+        "C": "I was trying to act normal.",
+        "D": "Come on."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I was spiraling.\" is a Modern Everyday Overwhelm chunk: used to casually describe feeling overwhelmed, tired, or burnt out.\nExample: \"One bad review and I was spiraling for the rest of the day.\"\nSimilar chunks:\n- I need to recharge.\n- I overthink everything.\n- I got in my own head.\n\n✗ \"I knew it.\" belongs to Casual Reactions of Disbelief or Frustration — used as a casual, low-stakes reaction to something surprising or mildly frustrating, not this context.\nSimilar chunks:\n- Just my luck.\n- Come on.\n- Seriously?\n\n✗ \"I was trying to act normal.\" belongs to Narrating Inner Thoughts — used to share what you were privately thinking during a story, not what you said out loud, not this context.\nSimilar chunks:\n- I pretended everything was fine.\n- At that point, I just wanted to go home.\n- In my head...\n\n✗ \"Come on.\" belongs to Casual Reactions of Disbelief or Frustration — used as a casual, low-stakes reaction to something surprising or mildly frustrating, not this context.\nSimilar chunks:\n- You've gotta be kidding me.\n- This can't be happening.\n- Just my luck."
+    },
+    {
+      "id": 50,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A friend asks how you're doing, and honestly, you're overwhelmed or exhausted — you want to say so casually. Which chunk fits best?",
+      "options": {
+        "A": "Got your message — let me simplify: it's basically X does Y. Make sense?",
+        "B": "I need to recharge.",
+        "C": "I was kinda annoyed.",
+        "D": "Love that for me."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Got your message — let me simplify: it's basically X does Y. Make sense?\" belongs to Handling Video-Call Mishaps — used to handle an unexpected mishap or glitch on a video call, casually and without stress, not this context.\nSimilar chunks:\n- Yeah, loud and clear. You good?\n- No big deal — kids are kids. We can pause.\n- Hey — sounds like someone's excited. Want me to wait?\n\n✓ Correct — \"I need to recharge.\" is a Modern Everyday Overwhelm chunk: used to casually describe feeling overwhelmed, tired, or burnt out.\nExample: \"I'm skipping the after-work drinks — I need to recharge.\"\nSimilar chunks:\n- I'm running on zero sleep.\n- Today is not my day.\n- I was spiraling.\n\n✗ \"I was kinda annoyed.\" belongs to Softening Negative Emotions — used to describe a negative feeling in a softer, less dramatic way than saying you were 'angry', not this context.\nSimilar chunks:\n- It bothered me a bit.\n- I was a little upset.\n- I wasn't thrilled about it.\n\n✗ \"Love that for me.\" belongs to Low-Energy Sarcasm — used to react to something annoying with dry, low-energy sarcasm, not this context.\nSimilar chunks:\n- Could this day get any worse?\n- Great. Just great.\n- Sounds about right."
+    },
+    {
+      "id": 51,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A friend asks how you're doing, and honestly, you're overwhelmed or exhausted — you want to say so casually. Which chunk fits best?",
+      "options": {
+        "A": "One thing led to another...",
+        "B": "Needless to say, I learned my lesson.",
+        "C": "I'm running on zero sleep.",
+        "D": "I was dying inside."
+      },
+      "correct": "C",
+      "explanation": "✗ \"One thing led to another...\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- That was a huge mistake.\n- Things went downhill fast.\n- I should've seen that coming.\n\n✗ \"Needless to say, I learned my lesson.\" belongs to Wrapping Up a Story — used to wrap up a casual story naturally at the end, not this context.\nSimilar chunks:\n- Not my proudest moment.\n- Lesson learned.\n- Looking back now, it was actually pretty funny.\n\n✓ Correct — \"I'm running on zero sleep.\" is a Modern Everyday Overwhelm chunk: used to casually describe feeling overwhelmed, tired, or burnt out.\nExample: \"The baby was up all night, so I'm running on zero sleep.\"\nSimilar chunks:\n- I was spiraling.\n- My social battery is dead.\n- I need to recharge.\n\n✗ \"I was dying inside.\" belongs to Describing Awkward or Embarrassing Moments — used to describe how uncomfortable or embarrassed you felt in a moment, not this context.\nSimilar chunks:\n- I instantly knew I messed up.\n- That was not a good look.\n- I completely embarrassed myself."
+    },
+    {
+      "id": 52,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A friend asks how you're doing, and honestly, you're overwhelmed or exhausted — you want to say so casually. Which chunk fits best?",
+      "options": {
+        "A": "That aged me ten years.",
+        "B": "Seriously?",
+        "C": "No way.",
+        "D": "My social battery is dead."
+      },
+      "correct": "D",
+      "explanation": "✗ \"That aged me ten years.\" belongs to Funny Exaggeration — used to exaggerate for comic effect while telling a casual story, not this context.\nSimilar chunks:\n- My soul left my body.\n- I nearly died.\n- It was absolute chaos.\n\n✗ \"Seriously?\" belongs to Casual Reactions of Disbelief or Frustration — used as a casual, low-stakes reaction to something surprising or mildly frustrating, not this context.\nSimilar chunks:\n- This can't be happening.\n- Just my luck.\n- No way.\n\n✗ \"No way.\" belongs to Casual Reactions of Disbelief or Frustration — used as a casual, low-stakes reaction to something surprising or mildly frustrating, not this context.\nSimilar chunks:\n- I knew it.\n- You've gotta be kidding me.\n- Just my luck.\n\n✓ Correct — \"My social battery is dead.\" is a Modern Everyday Overwhelm chunk: used to casually describe feeling overwhelmed, tired, or burnt out.\nExample: \"After three back-to-back calls, my social battery is dead.\"\nSimilar chunks:\n- I need to recharge.\n- I'm running on zero sleep.\n- I can't catch a break."
+    },
+    {
+      "id": 53,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Something annoying just happened and you want to react with dry, low-energy sarcasm instead of getting visibly upset. Which chunk fits best?",
+      "options": {
+        "A": "Seriously?",
+        "B": "Great. Just great.",
+        "C": "At that point...",
+        "D": "So yeah, that was fun."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Seriously?\" belongs to Casual Reactions of Disbelief or Frustration — used as a casual, low-stakes reaction to something surprising or mildly frustrating, not this context.\nSimilar chunks:\n- I knew it.\n- No way.\n- Come on.\n\n✓ Correct — \"Great. Just great.\" is a Low-Energy Sarcasm chunk: used to react to something annoying with dry, low-energy sarcasm.\nExample: \"The printer's out of toner again. Great. Just great.\"\nSimilar chunks:\n- Perfect.\n- Love that for me.\n- Sounds about right.\n\n✗ \"At that point...\" belongs to Storytelling Twist Patterns — used as a template to set up an expectation right before the twist in a story, not this context.\nSimilar chunks:\n- I was trying to X, but...\n- I thought X... turns out Y.\n\n✗ \"So yeah, that was fun.\" belongs to Wrapping Up a Story — used to wrap up a casual story naturally at the end, not this context.\nSimilar chunks:\n- Needless to say, I learned my lesson.\n- That's a story for another day.\n- Lesson learned."
+    },
+    {
+      "id": 54,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Something annoying just happened and you want to react with dry, low-energy sarcasm instead of getting visibly upset. Which chunk fits best?",
+      "options": {
+        "A": "I panicked.",
+        "B": "I ended up...",
+        "C": "Well, that was helpful.",
+        "D": "I'll take it."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I panicked.\" belongs to Describing Awkward or Embarrassing Moments — used to describe how uncomfortable or embarrassed you felt in a moment, not this context.\nSimilar chunks:\n- I completely embarrassed myself.\n- I froze.\n- That was not a good look.\n\n✗ \"I ended up...\" belongs to Golden Native Storytelling Chunks — used as an idiomatic way to describe an action or feeling inside a casual story, not this context.\nSimilar chunks:\n- I totally blanked.\n- That threw me off.\n- I talked myself into it.\n\n✓ Correct — \"Well, that was helpful.\" is a Low-Energy Sarcasm chunk: used to react to something annoying with dry, low-energy sarcasm.\nExample: \"The instructions just said 'figure it out.' Well, that was helpful.\"\nSimilar chunks:\n- Great. Just great.\n- This is fine.\n- Love that for me.\n\n✗ \"I'll take it.\" belongs to Extremely Native Mini-Chunks — used as a very short, native-sounding way to casually acknowledge something, not this context.\nSimilar chunks:\n- Could be worse.\n- Makes sense.\n- That checks out."
+    },
+    {
+      "id": 55,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Something annoying just happened and you want to react with dry, low-energy sarcasm instead of getting visibly upset. Which chunk fits best?",
+      "options": {
+        "A": "My soul left my body.",
+        "B": "This is fine.",
+        "C": "No big deal — kids are kids. We can pause.",
+        "D": "Technically..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"My soul left my body.\" belongs to Funny Exaggeration — used to exaggerate for comic effect while telling a casual story, not this context.\nSimilar chunks:\n- I nearly died.\n- I've never recovered from that.\n- It felt like forever.\n\n✓ Correct — \"This is fine.\" is a Low-Energy Sarcasm chunk: used to react to something annoying with dry, low-energy sarcasm.\nExample: \"The laptop's overheating and the deadline's in an hour — this is fine.\"\nSimilar chunks:\n- Love that for me.\n- Sounds about right.\n- Great. Just great.\n\n✗ \"No big deal — kids are kids. We can pause.\" belongs to Handling Video-Call Mishaps — used to handle an unexpected mishap or glitch on a video call, casually and without stress, not this context.\nSimilar chunks:\n- Whoops — wrong tab. Give me two seconds.\n- Yeah, loud and clear. You good?\n- Okay, fixed. Sorry — my desktop's a warzone.\n\n✗ \"Technically...\" belongs to Excuses & Self-Defense — used to explain yourself lightly, without sounding overly defensive, not this context.\nSimilar chunks:\n- It wasn't entirely my fault.\n- In my defense...\n- That's not what it looked like."
+    },
+    {
+      "id": 56,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to casually acknowledge something in as few words as possible, the way a native speaker would. Which chunk fits best?",
+      "options": {
+        "A": "Classic me.",
+        "B": "Could be worse.",
+        "C": "I didn't want to make things awkward.",
+        "D": "Before I knew it..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Classic me.\" belongs to Self-Deprecating Humor — used to poke fun at your own mistake or shortcoming, lightly, not this context.\nSimilar chunks:\n- I'm not exactly good at this.\n- I was just winging it.\n- That sounded better in my head.\n\n✓ Correct — \"Could be worse.\" is an Extremely Native Mini-Chunks chunk: used as a very short, native-sounding way to casually acknowledge something.\nExample: \"We missed the train, but could be worse — the next one's in ten minutes.\"\nSimilar chunks:\n- Fair enough.\n- I'll take it.\n- Not ideal.\n\n✗ \"I didn't want to make things awkward.\" belongs to Describing Social Anxiety — used to describe feeling self-conscious or anxious in a social situation, not this context.\nSimilar chunks:\n- I was overthinking everything.\n- I was hoping someone else would say something.\n- I was trying to keep a low profile.\n\n✗ \"Before I knew it...\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- I should've seen that coming.\n- That's where everything fell apart.\n- It backfired instantly."
+    },
+    {
+      "id": 57,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to casually acknowledge something in as few words as possible, the way a native speaker would. Which chunk fits best?",
+      "options": {
+        "A": "That caught me off guard.",
+        "B": "Do you get motion sickness easily? If you do, let me know, and we can take a break or go a bit slower.",
+        "C": "It backfired instantly.",
+        "D": "That's on me."
+      },
+      "correct": "D",
+      "explanation": "✗ \"That caught me off guard.\" belongs to Workplace-Friendly Casual Chunks — used to talk casually about a work mix-up, without sounding overly formal, not this context.\nSimilar chunks:\n- I completely overlooked that.\n- I probably misunderstood the requirement.\n- I'm trying to keep up.\n\n✗ \"Do you get motion sickness easily? If you do, let me know, and we can take a break or go a bit slower.\" belongs to Casual Travel & Food Small Talk — used for casual small talk while showing a guest around, cooking, or planning a trip together, not this context.\nSimilar chunks:\n- Should we leave earlier to watch the sunset?\n- I'll show them how to prepare it step by step: first, we'll lay down fresh herbs, then add meat, and some toppings like cucumber or slices of mango.\n- Do you have everything you need, or should we pick up something before we go?\n\n✗ \"It backfired instantly.\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- That's where everything fell apart.\n- Somehow, things got even worse.\n- Before I knew it...\n\n✓ Correct — \"That's on me.\" is an Extremely Native Mini-Chunks chunk: used as a very short, native-sounding way to casually acknowledge something.\nExample: \"I forgot to send the invite — that's on me.\"\nSimilar chunks:\n- My bad.\n- That checks out.\n- Could be worse."
+    },
+    {
+      "id": 58,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to casually acknowledge something in as few words as possible, the way a native speaker would. Which chunk fits best?",
+      "options": {
+        "A": "In my head...",
+        "B": "It all started when...",
+        "C": "Just my luck.",
+        "D": "I'll take it."
+      },
+      "correct": "D",
+      "explanation": "✗ \"In my head...\" belongs to Narrating Inner Thoughts — used to share what you were privately thinking during a story, not what you said out loud, not this context.\nSimilar chunks:\n- I was trying to act normal.\n- At that point, I just wanted to go home.\n- I was hoping nobody noticed.\n\n✗ \"It all started when...\" belongs to Storytelling Openers — used to kick off a casual story, before the details come out, not this context.\nSimilar chunks:\n- Little did I know...\n- At the time, it seemed like a good idea.\n- That's when things got weird.\n\n✗ \"Just my luck.\" belongs to Casual Reactions of Disbelief or Frustration — used as a casual, low-stakes reaction to something surprising or mildly frustrating, not this context.\nSimilar chunks:\n- This can't be happening.\n- You've gotta be kidding me.\n- Give me a break.\n\n✓ Correct — \"I'll take it.\" is an Extremely Native Mini-Chunks chunk: used as a very short, native-sounding way to casually acknowledge something.\nExample: \"It's not the answer I wanted, but I'll take it.\"\nSimilar chunks:\n- My bad.\n- Could be worse.\n- Fair enough."
+    },
+    {
+      "id": 59,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to casually acknowledge something in as few words as possible, the way a native speaker would. Which chunk fits best?",
+      "options": {
+        "A": "I wasn't about to...",
+        "B": "I wasn't thrilled about it.",
+        "C": "That was a huge mistake.",
+        "D": "My bad."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I wasn't about to...\" belongs to Golden Native Storytelling Chunks — used as an idiomatic way to describe an action or feeling inside a casual story, not this context.\nSimilar chunks:\n- I totally blanked.\n- I got stuck...\n- I talked myself into it.\n\n✗ \"I wasn't thrilled about it.\" belongs to Softening Negative Emotions — used to describe a negative feeling in a softer, less dramatic way than saying you were 'angry', not this context.\nSimilar chunks:\n- I was a little upset.\n- It bothered me a bit.\n- I was kinda annoyed.\n\n✗ \"That was a huge mistake.\" belongs to Narrating Things Going Wrong — used to mark the point in a casual story where things started going wrong, not this context.\nSimilar chunks:\n- Needless to say, it was a disaster.\n- I should've seen that coming.\n- That's where everything fell apart.\n\n✓ Correct — \"My bad.\" is an Extremely Native Mini-Chunks chunk: used as a very short, native-sounding way to casually acknowledge something.\nExample: \"Wrong group chat, my bad.\"\nSimilar chunks:\n- Could be worse.\n- That checks out.\n- Fair enough."
+    },
+    {
+      "id": 60,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You felt genuinely angry about something, but want to describe it in a softer, less dramatic way. Which chunk fits best?",
+      "options": {
+        "A": "I was kinda annoyed.",
+        "B": "Do you have everything you need, or should we pick up something before we go?",
+        "C": "Seriously?",
+        "D": "Okay, fixed. Sorry — my desktop's a warzone."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I was kinda annoyed.\" is a Softening Negative Emotions chunk: used to describe a negative feeling in a softer, less dramatic way than saying you were 'angry'.\nExample: \"When they cancelled last minute, I was kinda annoyed, honestly.\"\nSimilar chunks:\n- It bothered me a bit.\n- I was a little upset.\n- I wasn't thrilled about it.\n\n✗ \"Do you have everything you need, or should we pick up something before we go?\" belongs to Casual Travel & Food Small Talk — used for casual small talk while showing a guest around, cooking, or planning a trip together, not this context.\nSimilar chunks:\n- The canoe ride takes longer than expected.\n- Should we leave earlier to watch the sunset?\n- Do you get motion sickness easily? If you do, let me know, and we can take a break or go a bit slower.\n\n✗ \"Seriously?\" belongs to Casual Reactions of Disbelief or Frustration — used as a casual, low-stakes reaction to something surprising or mildly frustrating, not this context.\nSimilar chunks:\n- This can't be happening.\n- You've gotta be kidding me.\n- Come on.\n\n✗ \"Okay, fixed. Sorry — my desktop's a warzone.\" belongs to Handling Video-Call Mishaps — used to handle an unexpected mishap or glitch on a video call, casually and without stress, not this context.\nSimilar chunks:\n- Let's switch to phone. My number's...\n- Whoops — wrong tab. Give me two seconds.\n- Hey — sounds like someone's excited. Want me to wait?"
+    },
+    {
+      "id": 61,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You felt genuinely angry about something, but want to describe it in a softer, less dramatic way. Which chunk fits best?",
+      "options": {
+        "A": "It bothered me a bit.",
+        "B": "My social battery is dead.",
+        "C": "That caught me off guard.",
+        "D": "Hey — sounds like someone's excited. Want me to wait?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"It bothered me a bit.\" is a Softening Negative Emotions chunk: used to describe a negative feeling in a softer, less dramatic way than saying you were 'angry'.\nExample: \"He read my message and didn't reply for two days — it bothered me a bit.\"\nSimilar chunks:\n- I wasn't thrilled about it.\n- I was kinda annoyed.\n- I was a little upset.\n\n✗ \"My social battery is dead.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I'm barely functioning.\n- I was spiraling.\n- Today is not my day.\n\n✗ \"That caught me off guard.\" belongs to Workplace-Friendly Casual Chunks — used to talk casually about a work mix-up, without sounding overly formal, not this context.\nSimilar chunks:\n- I need a minute to process this.\n- I'm still figuring it out.\n- I probably misunderstood the requirement.\n\n✗ \"Hey — sounds like someone's excited. Want me to wait?\" belongs to Handling Video-Call Mishaps — used to handle an unexpected mishap or glitch on a video call, casually and without stress, not this context.\nSimilar chunks:\n- Okay, fixed. Sorry — my desktop's a warzone.\n- Whoops — wrong tab. Give me two seconds.\n- Let's switch to phone. My number's..."
+    },
+    {
+      "id": 62,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Something unexpected just happened on a video call — a mishap, a technical glitch, an interruption — and you need a natural, easygoing way to handle it. Which chunk fits best?",
+      "options": {
+        "A": "I was trying to X, but...",
+        "B": "Fair enough.",
+        "C": "I need to recharge.",
+        "D": "No big deal — kids are kids. We can pause."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I was trying to X, but...\" belongs to Storytelling Twist Patterns — used as a template to set up an expectation right before the twist in a story, not this context.\nSimilar chunks:\n- I thought X... turns out Y.\n- At that point...\n\n✗ \"Fair enough.\" belongs to Extremely Native Mini-Chunks — used as a very short, native-sounding way to casually acknowledge something, not this context.\nSimilar chunks:\n- Not ideal.\n- Makes sense.\n- Could be worse.\n\n✗ \"I need to recharge.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I was spiraling.\n- Today is not my day.\n- My social battery is dead.\n\n✓ Correct — \"No big deal — kids are kids. We can pause.\" is a Handling Video-Call Mishaps chunk: used to handle an unexpected mishap or glitch on a video call, casually and without stress.\nExample: \"Her toddler wandered into frame, so I told her, 'No big deal — kids are kids. We can pause.'\"\nSimilar chunks:\n- Got your message — let me simplify: it's basically X does Y. Make sense?\n- Let's switch to phone. My number's...\n- Looks like Zoom died. I'll restart — call you back?"
+    },
+    {
+      "id": 63,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Something unexpected just happened on a video call — a mishap, a technical glitch, an interruption — and you need a natural, easygoing way to handle it. Which chunk fits best?",
+      "options": {
+        "A": "I was overthinking everything.",
+        "B": "Let's switch to phone. My number's...",
+        "C": "In my head...",
+        "D": "I wanted to disappear."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I was overthinking everything.\" belongs to Describing Social Anxiety — used to describe feeling self-conscious or anxious in a social situation, not this context.\nSimilar chunks:\n- I didn't want to make things awkward.\n- I was trying to keep a low profile.\n- I didn't want to look stupid.\n\n✓ Correct — \"Let's switch to phone. My number's...\" is a Handling Video-Call Mishaps chunk: used to handle an unexpected mishap or glitch on a video call, casually and without stress.\nExample: \"Since the video kept cutting out, I said, 'Let's switch to phone. My number's 555-0148.'\"\nSimilar chunks:\n- Okay, fixed. Sorry — my desktop's a warzone.\n- Looks like Zoom died. I'll restart — call you back?\n- Yeah, loud and clear. You good?\n\n✗ \"In my head...\" belongs to Narrating Inner Thoughts — used to share what you were privately thinking during a story, not what you said out loud, not this context.\nSimilar chunks:\n- I pretended everything was fine.\n- At that point, I just wanted to go home.\n- I figured I could get away with it.\n\n✗ \"I wanted to disappear.\" belongs to Describing Awkward or Embarrassing Moments — used to describe how uncomfortable or embarrassed you felt in a moment, not this context.\nSimilar chunks:\n- That was not a good look.\n- It was painfully awkward.\n- I froze."
+    },
+    {
+      "id": 64,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Something unexpected just happened on a video call — a mishap, a technical glitch, an interruption — and you need a natural, easygoing way to handle it. Which chunk fits best?",
+      "options": {
+        "A": "For a second, I thought...",
+        "B": "Hey — sounds like someone's excited. Want me to wait?",
+        "C": "That checks out.",
+        "D": "My social battery is dead."
+      },
+      "correct": "B",
+      "explanation": "✗ \"For a second, I thought...\" belongs to Narrating Inner Thoughts — used to share what you were privately thinking during a story, not what you said out loud, not this context.\nSimilar chunks:\n- In my head...\n- I was hoping nobody noticed.\n- I pretended everything was fine.\n\n✓ Correct — \"Hey — sounds like someone's excited. Want me to wait?\" is a Handling Video-Call Mishaps chunk: used to handle an unexpected mishap or glitch on a video call, casually and without stress.\nExample: \"When his dog started barking on camera, I just said, 'Hey — sounds like someone's excited. Want me to wait?'\"\nSimilar chunks:\n- Let's switch to phone. My number's...\n- Whoops — wrong tab. Give me two seconds.\n- Got your message — let me simplify: it's basically X does Y. Make sense?\n\n✗ \"That checks out.\" belongs to Extremely Native Mini-Chunks — used as a very short, native-sounding way to casually acknowledge something, not this context.\nSimilar chunks:\n- Fair enough.\n- I'll take it.\n- That's on me.\n\n✗ \"My social battery is dead.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I'm hanging in there.\n- I'm barely functioning.\n- I can't people today."
+    },
+    {
+      "id": 65,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Something unexpected just happened on a video call — a mishap, a technical glitch, an interruption — and you need a natural, easygoing way to handle it. Which chunk fits best?",
+      "options": {
+        "A": "Looking back now, it was actually pretty funny.",
+        "B": "Looks like Zoom died. I'll restart — call you back?",
+        "C": "It was painfully awkward.",
+        "D": "I can't catch a break."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Looking back now, it was actually pretty funny.\" belongs to Wrapping Up a Story — used to wrap up a casual story naturally at the end, not this context.\nSimilar chunks:\n- Lesson learned.\n- Not my proudest moment.\n- Needless to say, I learned my lesson.\n\n✓ Correct — \"Looks like Zoom died. I'll restart — call you back?\" is a Handling Video-Call Mishaps chunk: used to handle an unexpected mishap or glitch on a video call, casually and without stress.\nExample: \"The call froze completely, so I typed, 'Looks like Zoom died. I'll restart — call you back?'\"\nSimilar chunks:\n- Hey — sounds like someone's excited. Want me to wait?\n- Yeah, loud and clear. You good?\n- Got your message — let me simplify: it's basically X does Y. Make sense?\n\n✗ \"It was painfully awkward.\" belongs to Describing Awkward or Embarrassing Moments — used to describe how uncomfortable or embarrassed you felt in a moment, not this context.\nSimilar chunks:\n- I panicked.\n- I instantly knew I messed up.\n- That was not a good look.\n\n✗ \"I can't catch a break.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- My social battery is dead.\n- I'm running on zero sleep.\n- I'm just trying to survive."
+    },
+    {
+      "id": 66,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're spending casual time with a guest or friend — showing them around, cooking together, or planning an outing — and want to chat naturally about it. Which chunk fits best?",
+      "options": {
+        "A": "Do you get motion sickness easily? If you do, let me know, and we can take a break or go a bit slower.",
+        "B": "That caught me off guard.",
+        "C": "I need to recharge.",
+        "D": "Basically..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Do you get motion sickness easily? If you do, let me know, and we can take a break or go a bit slower.\" is a Casual Travel & Food Small Talk chunk: used for casual small talk while showing a guest around, cooking, or planning a trip together.\nExample: \"Before we head out on the boat, do you get motion sickness easily? If you do, let me know, and we can take a break or go a bit slower.\"\nSimilar chunks:\n- I'll show them how to prepare it step by step: first, we'll lay down fresh herbs, then add meat, and some toppings like cucumber or slices of mango.\n- The canoe ride takes longer than expected.\n- Do you have everything you need, or should we pick up something before we go?\n\n✗ \"That caught me off guard.\" belongs to Workplace-Friendly Casual Chunks — used to talk casually about a work mix-up, without sounding overly formal, not this context.\nSimilar chunks:\n- That escalated quickly.\n- I probably misunderstood the requirement.\n- I completely overlooked that.\n\n✗ \"I need to recharge.\" belongs to Modern Everyday Overwhelm — used to casually describe feeling overwhelmed, tired, or burnt out, not this context.\nSimilar chunks:\n- I'm running on zero sleep.\n- Today is not my day.\n- I'm barely functioning.\n\n✗ \"Basically...\" belongs to Natural Conversation Fillers — used as a natural conversational filler when easing into the next point, not this context.\nSimilar chunks:\n- Honestly...\n- To make matters worse...\n- I mean..."
+    },
+    {
+      "id": 67,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're spending casual time with a guest or friend — showing them around, cooking together, or planning an outing — and want to chat naturally about it. Which chunk fits best?",
+      "options": {
+        "A": "That's when things got weird.",
+        "B": "It bothered me a bit.",
+        "C": "I probably misunderstood the requirement.",
+        "D": "Do you have everything you need, or should we pick up something before we go?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"That's when things got weird.\" belongs to Storytelling Openers — used to kick off a casual story, before the details come out, not this context.\nSimilar chunks:\n- Little did I know...\n- It all started when...\n- So basically...\n\n✗ \"It bothered me a bit.\" belongs to Softening Negative Emotions — used to describe a negative feeling in a softer, less dramatic way than saying you were 'angry', not this context.\nSimilar chunks:\n- I was kinda annoyed.\n- I was a little upset.\n- I wasn't thrilled about it.\n\n✗ \"I probably misunderstood the requirement.\" belongs to Workplace-Friendly Casual Chunks — used to talk casually about a work mix-up, without sounding overly formal, not this context.\nSimilar chunks:\n- That caught me off guard.\n- I'm trying to keep up.\n- I got carried away.\n\n✓ Correct — \"Do you have everything you need, or should we pick up something before we go?\" is a Casual Travel & Food Small Talk chunk: used for casual small talk while showing a guest around, cooking, or planning a trip together.\nExample: \"Do you have everything you need, or should we pick up something before we go — sunscreen, snacks, anything?\"\nSimilar chunks:\n- The canoe ride takes longer than expected.\n- The fresh ingredients are mild, and the sauce really boosts the flavor.\n- I'll show them how to prepare it step by step: first, we'll lay down fresh herbs, then add meat, and some toppings like cucumber or slices of mango."
+    },
+    {
+      "id": 68,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're spending casual time with a guest or friend — showing them around, cooking together, or planning an outing — and want to chat naturally about it. Which chunk fits best?",
+      "options": {
+        "A": "The canoe ride takes longer than expected.",
+        "B": "I honestly didn't think much of it.",
+        "C": "I instantly knew I messed up.",
+        "D": "Everybody was staring at me."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"The canoe ride takes longer than expected.\" is a Casual Travel & Food Small Talk chunk: used for casual small talk while showing a guest around, cooking, or planning a trip together.\nExample: \"Heads up, the canoe ride takes longer than expected, so bring some water.\"\nSimilar chunks:\n- Do you have everything you need, or should we pick up something before we go?\n- The fresh ingredients are mild, and the sauce really boosts the flavor.\n- I'll show them how to prepare it step by step: first, we'll lay down fresh herbs, then add meat, and some toppings like cucumber or slices of mango.\n\n✗ \"I honestly didn't think much of it.\" belongs to Storytelling Openers — used to kick off a casual story, before the details come out, not this context.\nSimilar chunks:\n- At first, I thought...\n- Everything was going fine until...\n- Little did I know...\n\n✗ \"I instantly knew I messed up.\" belongs to Describing Awkward or Embarrassing Moments — used to describe how uncomfortable or embarrassed you felt in a moment, not this context.\nSimilar chunks:\n- That was not a good look.\n- I didn't know where to look.\n- Everybody was staring at me.\n\n✗ \"Everybody was staring at me.\" belongs to Describing Awkward or Embarrassing Moments — used to describe how uncomfortable or embarrassed you felt in a moment, not this context.\nSimilar chunks:\n- It was painfully awkward.\n- I was dying inside.\n- I froze."
+    }
+  ]
+}

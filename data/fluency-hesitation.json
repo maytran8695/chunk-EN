@@ -1,0 +1,384 @@
+{
+  "examId": "fluency-hesitation",
+  "title": "Chunk Atlas — Real-Time Fluency: Fluency & Hesitation Management",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're mid-sentence, searching for your next word, and want to avoid a bare \"um\" or \"uh\". Which chunk fits best?",
+      "options": {
+        "A": "My starting point would be...",
+        "B": "Interesting question.",
+        "C": "I mean...",
+        "D": "I'm thinking out loud here..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"My starting point would be...\" belongs to Buying Time — Extra Framing & Thinking Out Loud — used to show you're actively working through a question in real time, rather than staying silent, not this context.\nSimilar chunks:\n- It depends on...\n- There are two ways to look at this.\n- Let me start with what I know.\n\n✗ \"Interesting question.\" belongs to Buying Time — Acknowledging the Question — used to acknowledge a tough question and buy a moment before answering it properly, not this context.\nSimilar chunks:\n- That's an interesting way to put it.\n- I want to make sure I answer that properly.\n- Good question.\n\n✓ Correct — \"I mean...\" is a Fillers Instead of Um (Mid-Utterance) chunk: used mid-utterance to hold the floor naturally while you find your next word, instead of a bare \"um\".\nExample: \"It's — I mean... it's not really about the budget, it's about trust.\"\nSimilar chunks:\n- let's see...\n- right...\n- you know...\n\n✗ \"I'm thinking out loud here...\" belongs to Buying Time — Extra Framing & Thinking Out Loud — used to show you're actively working through a question in real time, rather than staying silent, not this context.\nSimilar chunks:\n- Let me work through this...\n- Let me start with what I know.\n- It depends on..."
+    },
+    {
+      "id": 2,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're mid-sentence, searching for your next word, and want to avoid a bare \"um\" or \"uh\". Which chunk fits best?",
+      "options": {
+        "A": "let's see...",
+        "B": "I'm thinking out loud here...",
+        "C": "Well, ...",
+        "D": "Interesting question."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"let's see...\" is a Fillers Instead of Um (Mid-Utterance) chunk: used mid-utterance to hold the floor naturally while you find your next word, instead of a bare \"um\".\nExample: \"The number we need is, let's see... around twelve thousand.\"\nSimilar chunks:\n- you know...\n- how do I put this...\n- right...\n\n✗ \"I'm thinking out loud here...\" belongs to Buying Time — Extra Framing & Thinking Out Loud — used to show you're actively working through a question in real time, rather than staying silent, not this context.\nSimilar chunks:\n- Let me start with what I know.\n- There are two ways to look at this.\n- Short answer or long answer?\n\n✗ \"Well, ...\" belongs to Sentence-Opening Fillers — used as a natural opener to buy a half-second before the sentence itself begins, not this context.\nSimilar chunks:\n- So, ...\n- Actually, ...\n- Look, ...\n\n✗ \"Interesting question.\" belongs to Buying Time — Acknowledging the Question — used to acknowledge a tough question and buy a moment before answering it properly, not this context.\nSimilar chunks:\n- That's an interesting way to put it.\n- That's a really good question.\n- I want to give you a proper answer, not a quick one."
+    },
+    {
+      "id": 3,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need a beat before you even start your sentence, without opening with a bare \"um\". Which chunk fits best?",
+      "options": {
+        "A": "right...",
+        "B": "Well, ...",
+        "C": "It depends on...",
+        "D": "Funnily enough, I was thinking about this the other day."
+      },
+      "correct": "B",
+      "explanation": "✗ \"right...\" belongs to Fillers Instead of Um (Mid-Utterance) — used mid-utterance to hold the floor naturally while you find your next word, instead of a bare \"um\", not this context.\nSimilar chunks:\n- I mean...\n- how do I put this...\n- you know...\n\n✓ Correct — \"Well, ...\" is a Sentence-Opening Fillers chunk: used as a natural opener to buy a half-second before the sentence itself begins.\nExample: \"Well, I think we should just push the deadline back a week.\"\nSimilar chunks:\n- So, ...\n- Actually, ...\n- Look, ...\n\n✗ \"It depends on...\" belongs to Buying Time — Extra Framing & Thinking Out Loud — used to show you're actively working through a question in real time, rather than staying silent, not this context.\nSimilar chunks:\n- My starting point would be...\n- Let me start with what I know.\n- Let me work through this...\n\n✗ \"Funnily enough, I was thinking about this the other day.\" belongs to Buying Time — Framing the Answer's Structure — used to signal you're structuring your answer before actually giving it, not this context.\nSimilar chunks:\n- Let me break that into two parts.\n- Can I come at that from a different angle?\n- So there are two things going on here."
+    },
+    {
+      "id": 4,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need a beat before you even start your sentence, without opening with a bare \"um\". Which chunk fits best?",
+      "options": {
+        "A": "Hold that thought.",
+        "B": "Let me think.",
+        "C": "It's... a really good question.",
+        "D": "So, ..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Hold that thought.\" belongs to Asking for More Time — used to directly ask for a few extra seconds mid-conversation, not this context.\nSimilar chunks:\n- Let me think.\n- Give me a sec.\n- Hang on a moment.\n\n✗ \"Let me think.\" belongs to Asking for More Time — used to directly ask for a few extra seconds mid-conversation, not this context.\nSimilar chunks:\n- Hold that thought.\n- Bear with me.\n- Give me a second.\n\n✗ \"It's... a really good question.\" belongs to Stalling by Elongation & Repetition — used to draw out a word or briefly repeat it to buy thinking time without resorting to \"um\", not this context.\nSimilar chunks:\n- I think — I think what matters is...\n\n✓ Correct — \"So, ...\" is a Sentence-Opening Fillers chunk: used as a natural opener to buy a half-second before the sentence itself begins.\nExample: \"So, the short version is: the vendor missed the deadline again.\"\nSimilar chunks:\n- Look, ...\n- Actually, ...\n- Well, ..."
+    },
+    {
+      "id": 5,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need an extra second mid-sentence and want to stall smoothly, without breaking your flow. Which chunk fits best?",
+      "options": {
+        "A": "I think — I think what matters is...",
+        "B": "What specifically are you asking about?",
+        "C": "right...",
+        "D": "There are a couple of ways to look at it."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I think — I think what matters is...\" is a Stalling by Elongation & Repetition chunk: used to draw out a word or briefly repeat it to buy thinking time without resorting to \"um\".\nExample: \"I think — I think what matters is whether the client trusts us again.\"\nSimilar chunks:\n- It's... a really good question.\n\n✗ \"What specifically are you asking about?\" belongs to Deferring, Clarifying & Coming Back to It — used to defer an answer briefly, or narrow down a broad question, without losing the floor, not this context.\nSimilar chunks:\n- I'm getting there.\n- In what context?\n- Let me finish the thought.\n\n✗ \"right...\" belongs to Fillers Instead of Um (Mid-Utterance) — used mid-utterance to hold the floor naturally while you find your next word, instead of a bare \"um\", not this context.\nSimilar chunks:\n- you know...\n- I mean...\n- let's see...\n\n✗ \"There are a couple of ways to look at it.\" belongs to Buying Time — Framing the Answer's Structure — used to signal you're structuring your answer before actually giving it, not this context.\nSimilar chunks:\n- Funnily enough, I was thinking about this the other day.\n- Before I answer that, let me just say...\n- Let me break that into two parts."
+    },
+    {
+      "id": 6,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need an extra second mid-sentence and want to stall smoothly, without breaking your flow. Which chunk fits best?",
+      "options": {
+        "A": "Short answer or long answer?",
+        "B": "It's... a really good question.",
+        "C": "Can I come back to that?",
+        "D": "I'm getting there."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Short answer or long answer?\" belongs to Buying Time — Extra Framing & Thinking Out Loud — used to show you're actively working through a question in real time, rather than staying silent, not this context.\nSimilar chunks:\n- Let me work through this...\n- There are two ways to look at this.\n- Let me start with what I know.\n\n✓ Correct — \"It's... a really good question.\" is a Stalling by Elongation & Repetition chunk: used to draw out a word or briefly repeat it to buy thinking time without resorting to \"um\".\nExample: \"It's... a really good question. Give me a second to think it through.\"\nSimilar chunks:\n- I think — I think what matters is...\n\n✗ \"Can I come back to that?\" belongs to Deferring, Clarifying & Coming Back to It — used to defer an answer briefly, or narrow down a broad question, without losing the floor, not this context.\nSimilar chunks:\n- What specifically are you asking about?\n- In what context?\n- I'm getting there.\n\n✗ \"I'm getting there.\" belongs to Deferring, Clarifying & Coming Back to It — used to defer an answer briefly, or narrow down a broad question, without losing the floor, not this context.\nSimilar chunks:\n- What specifically are you asking about?\n- Let me finish the thought.\n- In what context?"
+    },
+    {
+      "id": 7,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've just been asked a tough question and want a beat before diving into the actual answer. Which chunk fits best?",
+      "options": {
+        "A": "how do I put this...",
+        "B": "It depends on...",
+        "C": "What specifically are you asking about?",
+        "D": "Let me get this right."
+      },
+      "correct": "D",
+      "explanation": "✗ \"how do I put this...\" belongs to Fillers Instead of Um (Mid-Utterance) — used mid-utterance to hold the floor naturally while you find your next word, instead of a bare \"um\", not this context.\nSimilar chunks:\n- I mean...\n- you know...\n- right...\n\n✗ \"It depends on...\" belongs to Buying Time — Extra Framing & Thinking Out Loud — used to show you're actively working through a question in real time, rather than staying silent, not this context.\nSimilar chunks:\n- My starting point would be...\n- Let me work through this...\n- Short answer or long answer?\n\n✗ \"What specifically are you asking about?\" belongs to Deferring, Clarifying & Coming Back to It — used to defer an answer briefly, or narrow down a broad question, without losing the floor, not this context.\nSimilar chunks:\n- Let me park that and think.\n- I'm getting there.\n- In what context?\n\n✓ Correct — \"Let me get this right.\" is a Buying Time — Acknowledging the Question chunk: used to acknowledge a tough question and buy a moment before answering it properly.\nExample: \"Let me get this right before I respond — you're asking about the whole team, not just my project?\"\nSimilar chunks:\n- I want to give you a proper answer, not a quick one.\n- Good question.\n- Interesting question."
+    },
+    {
+      "id": 8,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've just been asked a tough question and want a beat before diving into the actual answer. Which chunk fits best?",
+      "options": {
+        "A": "Give me a sec.",
+        "B": "If it were up to me, ...",
+        "C": "That's a really good question.",
+        "D": "It depends, really."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Give me a sec.\" belongs to Asking for More Time — used to directly ask for a few extra seconds mid-conversation, not this context.\nSimilar chunks:\n- Hang on a moment.\n- Hold that thought.\n- Let me think.\n\n✗ \"If it were up to me, ...\" belongs to Automatic Frames — Personal Take — used as a ready-made opener to launch straight into a personal opinion, not this context.\nSimilar chunks:\n- If I had to pick, ...\n- What I'd say is, ...\n- The way I see it, ...\n\n✓ Correct — \"That's a really good question.\" is a Buying Time — Acknowledging the Question chunk: used to acknowledge a tough question and buy a moment before answering it properly.\nExample: \"That's a really good question — let me think about how to explain it.\"\nSimilar chunks:\n- That's an interesting way to put it.\n- I want to make sure I answer that properly.\n- Interesting question.\n\n✗ \"It depends, really.\" belongs to Buying Time — Framing the Answer's Structure — used to signal you're structuring your answer before actually giving it, not this context.\nSimilar chunks:\n- Can I come at that from a different angle?\n- Let me break that into two parts.\n- There are a couple of ways to look at it."
+    },
+    {
+      "id": 9,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've just been asked a tough question and want a beat before diving into the actual answer. Which chunk fits best?",
+      "options": {
+        "A": "The thing is, ...",
+        "B": "That's an interesting way to put it.",
+        "C": "I think — I think what matters is...",
+        "D": "let's see..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"The thing is, ...\" belongs to Automatic Frames — Personal Take — used as a ready-made opener to launch straight into a personal opinion, not this context.\nSimilar chunks:\n- If it were up to me, ...\n- If I'm honest, ...\n- What I'd say is, ...\n\n✓ Correct — \"That's an interesting way to put it.\" is a Buying Time — Acknowledging the Question chunk: used to acknowledge a tough question and buy a moment before answering it properly.\nExample: \"That's an interesting way to put it. Let me answer that properly.\"\nSimilar chunks:\n- Good question.\n- Interesting question.\n- That's a really good question.\n\n✗ \"I think — I think what matters is...\" belongs to Stalling by Elongation & Repetition — used to draw out a word or briefly repeat it to buy thinking time without resorting to \"um\", not this context.\nSimilar chunks:\n- It's... a really good question.\n\n✗ \"let's see...\" belongs to Fillers Instead of Um (Mid-Utterance) — used mid-utterance to hold the floor naturally while you find your next word, instead of a bare \"um\", not this context.\nSimilar chunks:\n- how do I put this...\n- I mean...\n- you know..."
+    },
+    {
+      "id": 10,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You want to show you're organizing your thoughts before you actually deliver the answer. Which chunk fits best?",
+      "options": {
+        "A": "Funnily enough, I was thinking about this the other day.",
+        "B": "Give me a sec.",
+        "C": "It's... a really good question.",
+        "D": "Actually, ..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Funnily enough, I was thinking about this the other day.\" is a Buying Time — Framing the Answer's Structure chunk: used to signal you're structuring your answer before actually giving it.\nExample: \"Funnily enough, I was thinking about this the other day, after our last call.\"\nSimilar chunks:\n- There are a couple of ways to look at it.\n- Before I answer that, let me just say...\n- So there are two things going on here.\n\n✗ \"Give me a sec.\" belongs to Asking for More Time — used to directly ask for a few extra seconds mid-conversation, not this context.\nSimilar chunks:\n- Let me think.\n- Give me a second.\n- Hang on a moment.\n\n✗ \"It's... a really good question.\" belongs to Stalling by Elongation & Repetition — used to draw out a word or briefly repeat it to buy thinking time without resorting to \"um\", not this context.\nSimilar chunks:\n- I think — I think what matters is...\n\n✗ \"Actually, ...\" belongs to Sentence-Opening Fillers — used as a natural opener to buy a half-second before the sentence itself begins, not this context.\nSimilar chunks:\n- So, ...\n- Well, ...\n- Look, ..."
+    },
+    {
+      "id": 11,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You want to show you're organizing your thoughts before you actually deliver the answer. Which chunk fits best?",
+      "options": {
+        "A": "Let me park that and think.",
+        "B": "It's a bit like...",
+        "C": "Let me finish the thought.",
+        "D": "It depends, really."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let me park that and think.\" belongs to Deferring, Clarifying & Coming Back to It — used to defer an answer briefly, or narrow down a broad question, without losing the floor, not this context.\nSimilar chunks:\n- Can I come back to that?\n- Let me finish the thought.\n- In what context?\n\n✗ \"It's a bit like...\" belongs to Automatic Frames — Explaining & Hedging — used to launch into an explanation or illustration while signaling some uncertainty, not this context.\nSimilar chunks:\n- Think of it this way: ...\n- To give you an example, ...\n- I'd have to check, but I think...\n\n✗ \"Let me finish the thought.\" belongs to Deferring, Clarifying & Coming Back to It — used to defer an answer briefly, or narrow down a broad question, without losing the floor, not this context.\nSimilar chunks:\n- I'm getting there.\n- Can I come back to that?\n- Let me park that and think.\n\n✓ Correct — \"It depends, really.\" is a Buying Time — Framing the Answer's Structure chunk: used to signal you're structuring your answer before actually giving it.\nExample: \"It depends, really — on whether finance approves the extra budget.\"\nSimilar chunks:\n- Before I answer that, let me just say...\n- Funnily enough, I was thinking about this the other day.\n- Can I come at that from a different angle?"
+    },
+    {
+      "id": 12,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You want to show you're organizing your thoughts before you actually deliver the answer. Which chunk fits best?",
+      "options": {
+        "A": "So there are two things going on here.",
+        "B": "If I'm honest, ...",
+        "C": "Actually, ...",
+        "D": "Give me a sec."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"So there are two things going on here.\" is a Buying Time — Framing the Answer's Structure chunk: used to signal you're structuring your answer before actually giving it.\nExample: \"So there are two things going on here: the delay, and who's responsible for it.\"\nSimilar chunks:\n- There are a couple of ways to look at it.\n- Before I answer that, let me just say...\n- It depends, really.\n\n✗ \"If I'm honest, ...\" belongs to Automatic Frames — Personal Take — used as a ready-made opener to launch straight into a personal opinion, not this context.\nSimilar chunks:\n- If it were up to me, ...\n- If I had to pick, ...\n- The thing is, ...\n\n✗ \"Actually, ...\" belongs to Sentence-Opening Fillers — used as a natural opener to buy a half-second before the sentence itself begins, not this context.\nSimilar chunks:\n- So, ...\n- Look, ...\n- Well, ...\n\n✗ \"Give me a sec.\" belongs to Asking for More Time — used to directly ask for a few extra seconds mid-conversation, not this context.\nSimilar chunks:\n- Give me a second.\n- Bear with me.\n- Hang on a moment."
+    },
+    {
+      "id": 13,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're working through a question in real time and want the listener to follow your thinking as you go. Which chunk fits best?",
+      "options": {
+        "A": "There are two ways to look at this.",
+        "B": "Funnily enough, I was thinking about this the other day.",
+        "C": "To give you an example, ...",
+        "D": "Good question."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"There are two ways to look at this.\" is a Buying Time — Extra Framing & Thinking Out Loud chunk: used to show you're actively working through a question in real time, rather than staying silent.\nExample: \"There are two ways to look at this — from the client's side and from ours.\"\nSimilar chunks:\n- Short answer or long answer?\n- It depends on...\n- Let me work through this...\n\n✗ \"Funnily enough, I was thinking about this the other day.\" belongs to Buying Time — Framing the Answer's Structure — used to signal you're structuring your answer before actually giving it, not this context.\nSimilar chunks:\n- Let me break that into two parts.\n- Can I come at that from a different angle?\n- So there are two things going on here.\n\n✗ \"To give you an example, ...\" belongs to Automatic Frames — Explaining & Hedging — used to launch into an explanation or illustration while signaling some uncertainty, not this context.\nSimilar chunks:\n- Think of it this way: ...\n- There's a short answer and a long answer. The short one is...\n- I'd have to check, but I think...\n\n✗ \"Good question.\" belongs to Buying Time — Acknowledging the Question — used to acknowledge a tough question and buy a moment before answering it properly, not this context.\nSimilar chunks:\n- I want to give you a proper answer, not a quick one.\n- Interesting question.\n- I want to make sure I answer that properly."
+    },
+    {
+      "id": 14,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're working through a question in real time and want the listener to follow your thinking as you go. Which chunk fits best?",
+      "options": {
+        "A": "I want to make sure I answer that properly.",
+        "B": "Let me start with what I know.",
+        "C": "Let me break that into two parts.",
+        "D": "There's a short answer and a long answer. The short one is..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I want to make sure I answer that properly.\" belongs to Buying Time — Acknowledging the Question — used to acknowledge a tough question and buy a moment before answering it properly, not this context.\nSimilar chunks:\n- Let me get this right.\n- That's an interesting way to put it.\n- Interesting question.\n\n✓ Correct — \"Let me start with what I know.\" is a Buying Time — Extra Framing & Thinking Out Loud chunk: used to show you're actively working through a question in real time, rather than staying silent.\nExample: \"Let me start with what I know, and I'll flag anything I'm unsure of.\"\nSimilar chunks:\n- Let me work through this...\n- It depends on...\n- There are two ways to look at this.\n\n✗ \"Let me break that into two parts.\" belongs to Buying Time — Framing the Answer's Structure — used to signal you're structuring your answer before actually giving it, not this context.\nSimilar chunks:\n- Can I come at that from a different angle?\n- So there are two things going on here.\n- There are a couple of ways to look at it.\n\n✗ \"There's a short answer and a long answer. The short one is...\" belongs to Automatic Frames — Explaining & Hedging — used to launch into an explanation or illustration while signaling some uncertainty, not this context.\nSimilar chunks:\n- I'd have to check, but I think...\n- It's a bit like...\n- Think of it this way: ..."
+    },
+    {
+      "id": 15,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're working through a question in real time and want the listener to follow your thinking as you go. Which chunk fits best?",
+      "options": {
+        "A": "I think — I think what matters is...",
+        "B": "If I'm honest, ...",
+        "C": "What specifically are you asking about?",
+        "D": "Short answer or long answer?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"I think — I think what matters is...\" belongs to Stalling by Elongation & Repetition — used to draw out a word or briefly repeat it to buy thinking time without resorting to \"um\", not this context.\nSimilar chunks:\n- It's... a really good question.\n\n✗ \"If I'm honest, ...\" belongs to Automatic Frames — Personal Take — used as a ready-made opener to launch straight into a personal opinion, not this context.\nSimilar chunks:\n- The way I see it, ...\n- If it were up to me, ...\n- What I'd say is, ...\n\n✗ \"What specifically are you asking about?\" belongs to Deferring, Clarifying & Coming Back to It — used to defer an answer briefly, or narrow down a broad question, without losing the floor, not this context.\nSimilar chunks:\n- Let me finish the thought.\n- I'm getting there.\n- In what context?\n\n✓ Correct — \"Short answer or long answer?\" is a Buying Time — Extra Framing & Thinking Out Loud chunk: used to show you're actively working through a question in real time, rather than staying silent.\nExample: \"Short answer or long answer? Because the long one has a lot of caveats.\"\nSimilar chunks:\n- My starting point would be...\n- It depends on...\n- There are two ways to look at this."
+    },
+    {
+      "id": 16,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're about to give your personal opinion and want a ready-made phrase to launch straight into it. Which chunk fits best?",
+      "options": {
+        "A": "Let me finish the thought.",
+        "B": "how do I put this...",
+        "C": "I want to make sure I answer that properly.",
+        "D": "If I had to pick, ..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let me finish the thought.\" belongs to Deferring, Clarifying & Coming Back to It — used to defer an answer briefly, or narrow down a broad question, without losing the floor, not this context.\nSimilar chunks:\n- Let me park that and think.\n- In what context?\n- What specifically are you asking about?\n\n✗ \"how do I put this...\" belongs to Fillers Instead of Um (Mid-Utterance) — used mid-utterance to hold the floor naturally while you find your next word, instead of a bare \"um\", not this context.\nSimilar chunks:\n- right...\n- let's see...\n- you know...\n\n✗ \"I want to make sure I answer that properly.\" belongs to Buying Time — Acknowledging the Question — used to acknowledge a tough question and buy a moment before answering it properly, not this context.\nSimilar chunks:\n- That's an interesting way to put it.\n- That's a really good question.\n- I want to give you a proper answer, not a quick one.\n\n✓ Correct — \"If I had to pick, ...\" is an Automatic Frames — Personal Take chunk: used as a ready-made opener to launch straight into a personal opinion.\nExample: \"If I had to pick, I'd go with the cheaper vendor.\"\nSimilar chunks:\n- The thing is, ...\n- If it were up to me, ...\n- The way I see it, ..."
+    },
+    {
+      "id": 17,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're about to give your personal opinion and want a ready-made phrase to launch straight into it. Which chunk fits best?",
+      "options": {
+        "A": "Actually, ...",
+        "B": "Give me a second.",
+        "C": "To give you an example, ...",
+        "D": "If it were up to me, ..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Actually, ...\" belongs to Sentence-Opening Fillers — used as a natural opener to buy a half-second before the sentence itself begins, not this context.\nSimilar chunks:\n- Well, ...\n- So, ...\n- Look, ...\n\n✗ \"Give me a second.\" belongs to Asking for More Time — used to directly ask for a few extra seconds mid-conversation, not this context.\nSimilar chunks:\n- Bear with me.\n- Hang on a moment.\n- Hold that thought.\n\n✗ \"To give you an example, ...\" belongs to Automatic Frames — Explaining & Hedging — used to launch into an explanation or illustration while signaling some uncertainty, not this context.\nSimilar chunks:\n- I'm not sure, but my sense is...\n- It's a bit like...\n- There's a short answer and a long answer. The short one is...\n\n✓ Correct — \"If it were up to me, ...\" is an Automatic Frames — Personal Take chunk: used as a ready-made opener to launch straight into a personal opinion.\nExample: \"If it were up to me, we'd cancel the feature entirely.\"\nSimilar chunks:\n- The thing is, ...\n- If I had to pick, ...\n- What I'd say is, ..."
+    },
+    {
+      "id": 18,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're about to give your personal opinion and want a ready-made phrase to launch straight into it. Which chunk fits best?",
+      "options": {
+        "A": "Look, ...",
+        "B": "In what context?",
+        "C": "Hang on a moment.",
+        "D": "What I'd say is, ..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Look, ...\" belongs to Sentence-Opening Fillers — used as a natural opener to buy a half-second before the sentence itself begins, not this context.\nSimilar chunks:\n- So, ...\n- Actually, ...\n- Well, ...\n\n✗ \"In what context?\" belongs to Deferring, Clarifying & Coming Back to It — used to defer an answer briefly, or narrow down a broad question, without losing the floor, not this context.\nSimilar chunks:\n- What specifically are you asking about?\n- I'm getting there.\n- Let me finish the thought.\n\n✗ \"Hang on a moment.\" belongs to Asking for More Time — used to directly ask for a few extra seconds mid-conversation, not this context.\nSimilar chunks:\n- Bear with me.\n- Give me a sec.\n- Let me think.\n\n✓ Correct — \"What I'd say is, ...\" is an Automatic Frames — Personal Take chunk: used as a ready-made opener to launch straight into a personal opinion.\nExample: \"What I'd say is, the risk is small compared to the upside.\"\nSimilar chunks:\n- The thing is, ...\n- The way I see it, ...\n- If it were up to me, ..."
+    },
+    {
+      "id": 19,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You want to illustrate or explain something but aren't fully certain yet, and need a launching frame. Which chunk fits best?",
+      "options": {
+        "A": "I'd have to check, but I think...",
+        "B": "Let me work through this...",
+        "C": "What specifically are you asking about?",
+        "D": "The thing is, ..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I'd have to check, but I think...\" is an Automatic Frames — Explaining & Hedging chunk: used to launch into an explanation or illustration while signaling some uncertainty.\nExample: \"I'd have to check, but I think the contract renews in October.\"\nSimilar chunks:\n- To give you an example, ...\n- There's a short answer and a long answer. The short one is...\n- Think of it this way: ...\n\n✗ \"Let me work through this...\" belongs to Buying Time — Extra Framing & Thinking Out Loud — used to show you're actively working through a question in real time, rather than staying silent, not this context.\nSimilar chunks:\n- It depends on...\n- Let me start with what I know.\n- Short answer or long answer?\n\n✗ \"What specifically are you asking about?\" belongs to Deferring, Clarifying & Coming Back to It — used to defer an answer briefly, or narrow down a broad question, without losing the floor, not this context.\nSimilar chunks:\n- Can I come back to that?\n- I'm getting there.\n- Let me park that and think.\n\n✗ \"The thing is, ...\" belongs to Automatic Frames — Personal Take — used as a ready-made opener to launch straight into a personal opinion, not this context.\nSimilar chunks:\n- If I had to pick, ...\n- The way I see it, ...\n- If I'm honest, ..."
+    },
+    {
+      "id": 20,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You want to illustrate or explain something but aren't fully certain yet, and need a launching frame. Which chunk fits best?",
+      "options": {
+        "A": "Bear with me.",
+        "B": "It's a bit like...",
+        "C": "Let me start with what I know.",
+        "D": "I want to make sure I answer that properly."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Bear with me.\" belongs to Asking for More Time — used to directly ask for a few extra seconds mid-conversation, not this context.\nSimilar chunks:\n- Hang on a moment.\n- Let me think.\n- Hold that thought.\n\n✓ Correct — \"It's a bit like...\" is an Automatic Frames — Explaining & Hedging chunk: used to launch into an explanation or illustration while signaling some uncertainty.\nExample: \"It's a bit like debugging blind — you don't know what's wrong until you dig in.\"\nSimilar chunks:\n- There's a short answer and a long answer. The short one is...\n- To give you an example, ...\n- I'm not sure, but my sense is...\n\n✗ \"Let me start with what I know.\" belongs to Buying Time — Extra Framing & Thinking Out Loud — used to show you're actively working through a question in real time, rather than staying silent, not this context.\nSimilar chunks:\n- It depends on...\n- I'm thinking out loud here...\n- My starting point would be...\n\n✗ \"I want to make sure I answer that properly.\" belongs to Buying Time — Acknowledging the Question — used to acknowledge a tough question and buy a moment before answering it properly, not this context.\nSimilar chunks:\n- I want to give you a proper answer, not a quick one.\n- Let me get this right.\n- Interesting question."
+    },
+    {
+      "id": 21,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You want to illustrate or explain something but aren't fully certain yet, and need a launching frame. Which chunk fits best?",
+      "options": {
+        "A": "Before I answer that, let me just say...",
+        "B": "If I had to pick, ...",
+        "C": "Give me a sec.",
+        "D": "There's a short answer and a long answer. The short one is..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Before I answer that, let me just say...\" belongs to Buying Time — Framing the Answer's Structure — used to signal you're structuring your answer before actually giving it, not this context.\nSimilar chunks:\n- Funnily enough, I was thinking about this the other day.\n- Let me break that into two parts.\n- Can I come at that from a different angle?\n\n✗ \"If I had to pick, ...\" belongs to Automatic Frames — Personal Take — used as a ready-made opener to launch straight into a personal opinion, not this context.\nSimilar chunks:\n- If I'm honest, ...\n- What I'd say is, ...\n- If it were up to me, ...\n\n✗ \"Give me a sec.\" belongs to Asking for More Time — used to directly ask for a few extra seconds mid-conversation, not this context.\nSimilar chunks:\n- Bear with me.\n- Hang on a moment.\n- Let me think.\n\n✓ Correct — \"There's a short answer and a long answer. The short one is...\" is an Automatic Frames — Explaining & Hedging chunk: used to launch into an explanation or illustration while signaling some uncertainty.\nExample: \"There's a short answer and a long answer. The short one is: not yet.\"\nSimilar chunks:\n- I'd have to check, but I think...\n- Think of it this way: ...\n- To give you an example, ..."
+    },
+    {
+      "id": 22,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You genuinely need a few extra seconds mid-conversation and want to ask for them directly. Which chunk fits best?",
+      "options": {
+        "A": "Give me a second.",
+        "B": "how do I put this...",
+        "C": "I want to make sure I answer that properly.",
+        "D": "Think of it this way: ..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Give me a second.\" is an Asking for More Time chunk: used to directly ask for a few extra seconds mid-conversation.\nExample: \"Give me a second — I want to check the numbers before I answer.\"\nSimilar chunks:\n- Hold that thought.\n- Give me a sec.\n- Bear with me.\n\n✗ \"how do I put this...\" belongs to Fillers Instead of Um (Mid-Utterance) — used mid-utterance to hold the floor naturally while you find your next word, instead of a bare \"um\", not this context.\nSimilar chunks:\n- you know...\n- I mean...\n- let's see...\n\n✗ \"I want to make sure I answer that properly.\" belongs to Buying Time — Acknowledging the Question — used to acknowledge a tough question and buy a moment before answering it properly, not this context.\nSimilar chunks:\n- Let me get this right.\n- Interesting question.\n- I want to give you a proper answer, not a quick one.\n\n✗ \"Think of it this way: ...\" belongs to Automatic Frames — Explaining & Hedging — used to launch into an explanation or illustration while signaling some uncertainty, not this context.\nSimilar chunks:\n- I'd have to check, but I think...\n- It's a bit like...\n- To give you an example, ..."
+    },
+    {
+      "id": 23,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You genuinely need a few extra seconds mid-conversation and want to ask for them directly. Which chunk fits best?",
+      "options": {
+        "A": "I'm not sure, but my sense is...",
+        "B": "I'm getting there.",
+        "C": "If it were up to me, ...",
+        "D": "Bear with me."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'm not sure, but my sense is...\" belongs to Automatic Frames — Explaining & Hedging — used to launch into an explanation or illustration while signaling some uncertainty, not this context.\nSimilar chunks:\n- It's a bit like...\n- To give you an example, ...\n- I'd have to check, but I think...\n\n✗ \"I'm getting there.\" belongs to Deferring, Clarifying & Coming Back to It — used to defer an answer briefly, or narrow down a broad question, without losing the floor, not this context.\nSimilar chunks:\n- What specifically are you asking about?\n- Let me park that and think.\n- Let me finish the thought.\n\n✗ \"If it were up to me, ...\" belongs to Automatic Frames — Personal Take — used as a ready-made opener to launch straight into a personal opinion, not this context.\nSimilar chunks:\n- If I'm honest, ...\n- If I had to pick, ...\n- The thing is, ...\n\n✓ Correct — \"Bear with me.\" is an Asking for More Time chunk: used to directly ask for a few extra seconds mid-conversation.\nExample: \"Bear with me, I'm trying to remember exactly how we phrased it.\"\nSimilar chunks:\n- Hang on a moment.\n- Give me a sec.\n- Let me think."
+    },
+    {
+      "id": 24,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You genuinely need a few extra seconds mid-conversation and want to ask for them directly. Which chunk fits best?",
+      "options": {
+        "A": "Good question.",
+        "B": "Let me finish the thought.",
+        "C": "Hang on a moment.",
+        "D": "I want to make sure I answer that properly."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Good question.\" belongs to Buying Time — Acknowledging the Question — used to acknowledge a tough question and buy a moment before answering it properly, not this context.\nSimilar chunks:\n- That's an interesting way to put it.\n- That's a really good question.\n- Interesting question.\n\n✗ \"Let me finish the thought.\" belongs to Deferring, Clarifying & Coming Back to It — used to defer an answer briefly, or narrow down a broad question, without losing the floor, not this context.\nSimilar chunks:\n- I'm getting there.\n- What specifically are you asking about?\n- Can I come back to that?\n\n✓ Correct — \"Hang on a moment.\" is an Asking for More Time chunk: used to directly ask for a few extra seconds mid-conversation.\nExample: \"Hang on a moment, I want to get this exactly right.\"\nSimilar chunks:\n- Bear with me.\n- Give me a second.\n- Give me a sec.\n\n✗ \"I want to make sure I answer that properly.\" belongs to Buying Time — Acknowledging the Question — used to acknowledge a tough question and buy a moment before answering it properly, not this context.\nSimilar chunks:\n- Let me get this right.\n- Interesting question.\n- That's an interesting way to put it."
+    },
+    {
+      "id": 25,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're being rushed for an answer, or the question is too broad to answer immediately. Which chunk fits best?",
+      "options": {
+        "A": "What specifically are you asking about?",
+        "B": "That's an interesting way to put it.",
+        "C": "you know...",
+        "D": "I want to make sure I answer that properly."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What specifically are you asking about?\" is a Deferring, Clarifying & Coming Back to It chunk: used to defer an answer briefly, or narrow down a broad question, without losing the floor.\nExample: \"What specifically are you asking about — the timeline, or the budget?\"\nSimilar chunks:\n- Let me park that and think.\n- Can I come back to that?\n- Let me finish the thought.\n\n✗ \"That's an interesting way to put it.\" belongs to Buying Time — Acknowledging the Question — used to acknowledge a tough question and buy a moment before answering it properly, not this context.\nSimilar chunks:\n- Let me get this right.\n- Interesting question.\n- Good question.\n\n✗ \"you know...\" belongs to Fillers Instead of Um (Mid-Utterance) — used mid-utterance to hold the floor naturally while you find your next word, instead of a bare \"um\", not this context.\nSimilar chunks:\n- I mean...\n- how do I put this...\n- right...\n\n✗ \"I want to make sure I answer that properly.\" belongs to Buying Time — Acknowledging the Question — used to acknowledge a tough question and buy a moment before answering it properly, not this context.\nSimilar chunks:\n- Let me get this right.\n- That's a really good question.\n- Good question."
+    },
+    {
+      "id": 26,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're being rushed for an answer, or the question is too broad to answer immediately. Which chunk fits best?",
+      "options": {
+        "A": "I'd have to check, but I think...",
+        "B": "Let me break that into two parts.",
+        "C": "Can I come back to that?",
+        "D": "So there are two things going on here."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I'd have to check, but I think...\" belongs to Automatic Frames — Explaining & Hedging — used to launch into an explanation or illustration while signaling some uncertainty, not this context.\nSimilar chunks:\n- To give you an example, ...\n- I'm not sure, but my sense is...\n- It's a bit like...\n\n✗ \"Let me break that into two parts.\" belongs to Buying Time — Framing the Answer's Structure — used to signal you're structuring your answer before actually giving it, not this context.\nSimilar chunks:\n- So there are two things going on here.\n- It depends, really.\n- Can I come at that from a different angle?\n\n✓ Correct — \"Can I come back to that?\" is a Deferring, Clarifying & Coming Back to It chunk: used to defer an answer briefly, or narrow down a broad question, without losing the floor.\nExample: \"Can I come back to that once I've checked the actual figures?\"\nSimilar chunks:\n- Let me park that and think.\n- What specifically are you asking about?\n- I'm getting there.\n\n✗ \"So there are two things going on here.\" belongs to Buying Time — Framing the Answer's Structure — used to signal you're structuring your answer before actually giving it, not this context.\nSimilar chunks:\n- Let me break that into two parts.\n- Funnily enough, I was thinking about this the other day.\n- It depends, really."
+    },
+    {
+      "id": 27,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're being rushed for an answer, or the question is too broad to answer immediately. Which chunk fits best?",
+      "options": {
+        "A": "If I had to pick, ...",
+        "B": "That's an interesting way to put it.",
+        "C": "Let me think.",
+        "D": "I'm getting there."
+      },
+      "correct": "D",
+      "explanation": "✗ \"If I had to pick, ...\" belongs to Automatic Frames — Personal Take — used as a ready-made opener to launch straight into a personal opinion, not this context.\nSimilar chunks:\n- If I'm honest, ...\n- What I'd say is, ...\n- If it were up to me, ...\n\n✗ \"That's an interesting way to put it.\" belongs to Buying Time — Acknowledging the Question — used to acknowledge a tough question and buy a moment before answering it properly, not this context.\nSimilar chunks:\n- That's a really good question.\n- Let me get this right.\n- Interesting question.\n\n✗ \"Let me think.\" belongs to Asking for More Time — used to directly ask for a few extra seconds mid-conversation, not this context.\nSimilar chunks:\n- Hold that thought.\n- Give me a sec.\n- Give me a second.\n\n✓ Correct — \"I'm getting there.\" is a Deferring, Clarifying & Coming Back to It chunk: used to defer an answer briefly, or narrow down a broad question, without losing the floor.\nExample: \"I'm getting there — just laying out the context first.\"\nSimilar chunks:\n- Can I come back to that?\n- What specifically are you asking about?\n- In what context?"
+    }
+  ]
+}

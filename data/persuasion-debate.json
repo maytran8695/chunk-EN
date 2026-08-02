@@ -1,0 +1,874 @@
+{
+  "examId": "persuasion-debate",
+  "title": "Chunk Atlas — Situations: Persuasion & High-Stakes Debate",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to project total confidence and control in a high-stakes negotiation, without appearing arrogant. Which chunk fits best?",
+      "options": {
+        "A": "If we're doing this, we're doing it correctly. No shortcuts.",
+        "B": "We have three minutes left on this topic — let's make sure we land somewhere concrete.",
+        "C": "Six months from now, looking back, what would make you glad we made this call?",
+        "D": "I don't take cases I can't win. This is one I can win."
+      },
+      "correct": "D",
+      "explanation": "✗ \"If we're doing this, we're doing it correctly. No shortcuts.\" belongs to Setting boundaries & requiring respect — used to draw a firm, non-negotiable boundary in a negotiation without sounding hostile, not this context.\nSimilar chunks:\n- I will not agree to something I haven't fully reviewed.\n- These are my terms. They are not flexible.\n- I want what I was promised. Nothing more, nothing less.\n\n✗ \"We have three minutes left on this topic — let's make sure we land somewhere concrete.\" belongs to Controlling the room — used to firmly steer a drifting high-stakes meeting back toward a decision, not this context.\nSimilar chunks:\n- Before we go further, can we align on what decision we actually need to leave this room with?\n- Let's park that thread and come back to it — I don't want to lose the main decision we need today.\n- I'll take the ownership question offline so we can keep moving.\n\n✗ \"Six months from now, looking back, what would make you glad we made this call?\" belongs to Persuading with calibrated questions — used to guide someone toward a conclusion through open, calibrated questions rather than direct argument, not this context.\nSimilar chunks:\n- How does this compare to the alternative you're currently leaning towards?\n- What's the cost of waiting another quarter to decide?\n- What would need to happen for you to say yes to this?\n\n✓ Correct — \"I don't take cases I can't win. This is one I can win.\" is an Assertive positioning & control chunk: used to project confidence and control in a high-stakes negotiation.\nExample: \"I don't take deals I can't win. This one, with the right terms, is one we can win.\"\nSimilar chunks:\n- Stop thinking about what could go wrong. Think about what needs to go right.\n- Confidence isn't arrogance. It's preparation.\n- Here's what's going to happen."
+    },
+    {
+      "id": 2,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to project total confidence and control in a high-stakes negotiation, without appearing arrogant. Which chunk fits best?",
+      "options": {
+        "A": "Can we separate the decision from the person who proposed it?",
+        "B": "If you walk in that room looking nervous, you've already lost.",
+        "C": "Let's find the 80% we agree on before we argue about the 20% we don't.",
+        "D": "Help me understand the limitation — what's negotiable?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Can we separate the decision from the person who proposed it?\" belongs to Reframing the issue — used to redirect a debate toward the question that actually matters, not this context.\nSimilar chunks:\n- So far we've been treating this as a binary choice — but there might be a third option we haven't named yet.\n- Rather than asking 'should we do this,' I think the more useful question is 'what would need to be true for this to work.'\n- Before we debate the solution, can we agree on what problem we're solving?\n\n✓ Correct — \"If you walk in that room looking nervous, you've already lost.\" is an Assertive positioning & control chunk: used to project confidence and control in a high-stakes negotiation.\nExample: \"If you walk into that boardroom looking nervous, you've already lost half the argument.\"\nSimilar chunks:\n- I don't take cases I can't win. This is one I can win.\n- My track record speaks for itself.\n- When you're the best in the room, you don't need to prove it.\n\n✗ \"Let's find the 80% we agree on before we argue about the 20% we don't.\" belongs to De-escalating & finding common ground — used to defuse tension in a heated discussion by naming the shared underlying goal, not this context.\nSimilar chunks:\n- Can we agree on the goal first, and debate the method second?\n- It sounds like we're both trying to protect the same thing, just from different angles.\n- I think we actually want the same outcome here — we just disagree on the path.\n\n✗ \"Help me understand the limitation — what's negotiable?\" belongs to Clarifying scope & negotiating constraints — used to negotiate scope and clarify what constraints are actually fixed versus flexible, not this context.\nSimilar chunks:\n- I agree simplicity is important. The challenge is that the 'simple way' doesn't cover these risks. What I'm proposing is the simplest option that still meets compliance.\n- That's a valid idea, but it's outside the current scope.\n- Understood. Let's clarify whether it's a hard constraint or a design choice."
+    },
+    {
+      "id": 3,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to project total confidence and control in a high-stakes negotiation, without appearing arrogant. Which chunk fits best?",
+      "options": {
+        "A": "Don't bring me problems without solutions.",
+        "B": "Here's what's going to happen.",
+        "C": "Let me manage that relationship for you. You focus on the deal.",
+        "D": "Have you considered what happens if we're wrong about that?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Don't bring me problems without solutions.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- Think two moves ahead. Always.\n- I've made the call. Now we execute.\n- Every decision we make has to serve the bigger picture.\n\n✓ Correct — \"Here's what's going to happen.\" is an Assertive positioning & control chunk: used to project confidence and control in a high-stakes negotiation.\nExample: \"Here's what's going to happen: we present the revised terms Monday, and we hold firm on the deadline.\"\nSimilar chunks:\n- Stop thinking about what could go wrong. Think about what needs to go right.\n- I don't take cases I can't win. This is one I can win.\n- If you walk in that room looking nervous, you've already lost.\n\n✗ \"Let me manage that relationship for you. You focus on the deal.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- Something is off about this. I don't know what yet, but I'll find out.\n- I'm going to stop you right there.\n- You might want to rethink that before it becomes a problem.\n\n✗ \"Have you considered what happens if we're wrong about that?\" belongs to Persuading through logic & analysis — used to persuade someone by walking them through data and reasoning, step by step, not this context.\nSimilar chunks:\n- That argument works in theory, but not in practice.\n- I've thought about this carefully and I stand by it.\n- If you look at it from a different angle, here's what you see."
+    },
+    {
+      "id": 4,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to project total confidence and control in a high-stakes negotiation, without appearing arrogant. Which chunk fits best?",
+      "options": {
+        "A": "I noticed we're treating this as certain — how confident are we, really?",
+        "B": "If I put myself in the customer's shoes, this is what concerns me.",
+        "C": "You're not here to be liked. You're here to be effective.",
+        "D": "I want what I was promised. Nothing more, nothing less."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I noticed we're treating this as certain — how confident are we, really?\" belongs to Challenging assumptions — used to test an unverified assumption underlying a plan before the group commits to it, not this context.\nSimilar chunks:\n- What would have to change for that assumption to no longer hold?\n- What has to be true for this plan to succeed?\n- Is that a fact, or is that something we're assuming because it's always been done that way?\n\n✗ \"If I put myself in the customer's shoes, this is what concerns me.\" belongs to Steelmanning the other side — used to present an opposing view in its strongest, fairest form before countering it, not this context.\nSimilar chunks:\n- Let's look at this from the board's perspective for a moment.\n- If I were arguing your side, I'd say...\n- What would someone who disagrees with me say right now?\n\n✓ Correct — \"You're not here to be liked. You're here to be effective.\" is an Assertive positioning & control chunk: used to project confidence and control in a high-stakes negotiation.\nExample: \"You're not here to be liked in this negotiation. You're here to be effective.\"\nSimilar chunks:\n- I don't take cases I can't win. This is one I can win.\n- The moment you blink, you've lost.\n- If you walk in that room looking nervous, you've already lost.\n\n✗ \"I want what I was promised. Nothing more, nothing less.\" belongs to Setting boundaries & requiring respect — used to draw a firm, non-negotiable boundary in a negotiation without sounding hostile, not this context.\nSimilar chunks:\n- I will not agree to something I haven't fully reviewed.\n- If we're doing this, we're doing it correctly. No shortcuts.\n- These are my terms. They are not flexible."
+    },
+    {
+      "id": 5,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to win an argument by walking someone through the data and reasoning, step by step. Which chunk fits best?",
+      "options": {
+        "A": "If you look at it from a different angle, here's what you see.",
+        "B": "We have three minutes left on this topic — let's make sure we land somewhere concrete.",
+        "C": "Who owns the next step, and by when?",
+        "D": "Let's find the 80% we agree on before we argue about the 20% we don't."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"If you look at it from a different angle, here's what you see.\" is a Persuading through logic & analysis chunk: used to persuade someone by walking them through data and reasoning, step by step.\nExample: \"If you look at it from a different angle, here's what you see: the delay actually saved us from a bigger recall.\"\nSimilar chunks:\n- That's a fair point — but consider this.\n- With all due respect, I think we're looking at the wrong problem.\n- I've thought about this carefully and I stand by it.\n\n✗ \"We have three minutes left on this topic — let's make sure we land somewhere concrete.\" belongs to Controlling the room — used to firmly steer a drifting high-stakes meeting back toward a decision, not this context.\nSimilar chunks:\n- I want to make sure every voice gets heard on this — what's your take?\n- Let's park that thread and come back to it — I don't want to lose the main decision we need today.\n- Let's not let the exception drive the whole policy.\n\n✗ \"Who owns the next step, and by when?\" belongs to Closing & gaining commitment — used to push a high-stakes discussion toward an actual, committed decision, not this context.\nSimilar chunks:\n- So it sounds like we're aligned on direction — can we call this decided?\n- What would you need to see to be comfortable signing off today rather than next week?\n- If there's no objection in the next thirty seconds, I'll take that as agreement.\n\n✗ \"Let's find the 80% we agree on before we argue about the 20% we don't.\" belongs to De-escalating & finding common ground — used to defuse tension in a heated discussion by naming the shared underlying goal, not this context.\nSimilar chunks:\n- I think we actually want the same outcome here — we just disagree on the path.\n- Neither of us is wrong here — we're optimizing for different things.\n- I don't think this needs to be a zero-sum conversation."
+    },
+    {
+      "id": 6,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to win an argument by walking someone through the data and reasoning, step by step. Which chunk fits best?",
+      "options": {
+        "A": "I'll look into it. That's the best I can offer you right now.",
+        "B": "That's a fair challenge — let me walk you through the reasoning, and please push back where it doesn't hold.",
+        "C": "The moment you blink, you've lost.",
+        "D": "Before we go any further, I need to flag something important."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'll look into it. That's the best I can offer you right now.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- You might want to rethink that before it becomes a problem.\n- That's not going to happen, but here's what I can do instead.\n- Let's handle this quietly before it becomes loud.\n\n✗ \"That's a fair challenge — let me walk you through the reasoning, and please push back where it doesn't hold.\" belongs to Handling senior pushback — used to respond to a senior leader's pushback with confidence, without becoming defensive, not this context.\nSimilar chunks:\n- I hear the concern. Let me address it directly rather than around it.\n- You're right that there's real risk here — here's how we're planning to mitigate it.\n- I'd rather surface the weak points myself than have them surface later — here's the biggest one.\n\n✗ \"The moment you blink, you've lost.\" belongs to Assertive positioning & control — used to project confidence and control in a high-stakes negotiation, not this context.\nSimilar chunks:\n- Here's what's going to happen.\n- You're not here to be liked. You're here to be effective.\n- My track record speaks for itself.\n\n✓ Correct — \"Before we go any further, I need to flag something important.\" is a Persuading through logic & analysis chunk: used to persuade someone by walking them through data and reasoning, step by step.\nExample: \"Before we go any further, I need to flag something important about the contract's termination clause.\"\nSimilar chunks:\n- That's a fair point — but consider this.\n- What if we approach this from a completely different direction?\n- With all due respect, I think we're looking at the wrong problem."
+    },
+    {
+      "id": 7,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to win an argument by walking someone through the data and reasoning, step by step. Which chunk fits best?",
+      "options": {
+        "A": "I'll separate facts from assumptions here.",
+        "B": "Before we bring this to the wider group, I wanted to get your read on it first.",
+        "C": "I agree simplicity is important. The challenge is that the 'simple way' doesn't cover these risks. What I'm proposing is the simplest option that still meets compliance.",
+        "D": "What if we approach this from a completely different direction?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'll separate facts from assumptions here.\" belongs to Confirming decisions & next steps — used to lock in a decision and assign clear owners before ending a business discussion, not this context.\nSimilar chunks:\n- Yes, based on current data and constraints, this is the most balanced option. That said, I'm open to adjusting if new information comes in.\n- Next steps are clear: X owns A, Y owns B.\n- What problem are we trying to solve first?\n\n✗ \"Before we bring this to the wider group, I wanted to get your read on it first.\" belongs to Pre-wiring & building coalition — used to quietly line up support and surface objections before a high-stakes meeting, not this context.\nSimilar chunks:\n- I'd like to socialize this idea with a few people before it goes to committee.\n- I want to walk in aligned, not debate this live in front of the board.\n- Is there anything in here that would be a hard no for you? I'd rather know now than in the room.\n\n✗ \"I agree simplicity is important. The challenge is that the 'simple way' doesn't cover these risks. What I'm proposing is the simplest option that still meets compliance.\" belongs to Clarifying scope & negotiating constraints — used to negotiate scope and clarify what constraints are actually fixed versus flexible, not this context.\nSimilar chunks:\n- That's a valid idea, but it's outside the current scope.\n- Can we explore an alternative that still meets compliance?\n- Understood. Let's clarify whether it's a hard constraint or a design choice.\n\n✓ Correct — \"What if we approach this from a completely different direction?\" is a Persuading through logic & analysis chunk: used to persuade someone by walking them through data and reasoning, step by step.\nExample: \"What if we approach this from a completely different direction — license the technology instead of building it?\"\nSimilar chunks:\n- That's a fair point — but consider this.\n- That argument works in theory, but not in practice.\n- If you look at it from a different angle, here's what you see."
+    },
+    {
+      "id": 8,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to win an argument by walking someone through the data and reasoning, step by step. Which chunk fits best?",
+      "options": {
+        "A": "Let me walk you through the numbers on this.",
+        "B": "What's the one thing that would change your mind here?",
+        "C": "That's not going to happen, but here's what I can do instead.",
+        "D": "Every decision we make has to serve the bigger picture."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Let me walk you through the numbers on this.\" is a Persuading through logic & analysis chunk: used to persuade someone by walking them through data and reasoning, step by step.\nExample: \"Let me walk you through the numbers on this before you decide — churn actually dropped after the price increase.\"\nSimilar chunks:\n- I've thought about this carefully and I stand by it.\n- Before we go any further, I need to flag something important.\n- That's a fair point — but consider this.\n\n✗ \"What's the one thing that would change your mind here?\" belongs to Persuading with calibrated questions — used to guide someone toward a conclusion through open, calibrated questions rather than direct argument, not this context.\nSimilar chunks:\n- What would need to happen for you to say yes to this?\n- What's the cost of waiting another quarter to decide?\n- How does this compare to the alternative you're currently leaning towards?\n\n✗ \"That's not going to happen, but here's what I can do instead.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- Let's handle this quietly before it becomes loud.\n- I've already handled it. You're welcome.\n- Something is off about this. I don't know what yet, but I'll find out.\n\n✗ \"Every decision we make has to serve the bigger picture.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- I've made the call. Now we execute.\n- We are not playing catch-up. We are setting the pace.\n- Don't win the battle and lose the war."
+    },
+    {
+      "id": 9,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to handle a sensitive situation with tact, reading between the lines without escalating it. Which chunk fits best?",
+      "options": {
+        "A": "Before we debate the solution, can we agree on what problem we're solving?",
+        "B": "I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day.",
+        "C": "Let's handle this quietly before it becomes loud.",
+        "D": "This firm does not react. This firm leads."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Before we debate the solution, can we agree on what problem we're solving?\" belongs to Reframing the issue — used to redirect a debate toward the question that actually matters, not this context.\nSimilar chunks:\n- Rather than asking 'should we do this,' I think the more useful question is 'what would need to be true for this to work.'\n- Can we separate the decision from the person who proposed it?\n- So far we've been treating this as a binary choice — but there might be a third option we haven't named yet.\n\n✗ \"I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day.\" belongs to Confirming decisions & next steps — used to lock in a decision and assign clear owners before ending a business discussion, not this context.\nSimilar chunks:\n- If there's no objection, we'll proceed with this.\n- What problem are we trying to solve first?\n- Next steps are clear: X owns A, Y owns B.\n\n✓ Correct — \"Let's handle this quietly before it becomes loud.\" is a Reading the room & tactful handling chunk: used to handle a sensitive situation with tact, without escalating it.\nExample: \"Let's handle this client complaint quietly before it becomes loud on social media.\"\nSimilar chunks:\n- I'll look into it. That's the best I can offer you right now.\n- I appreciate you asking. The answer is still no.\n- Let me manage that relationship for you. You focus on the deal.\n\n✗ \"This firm does not react. This firm leads.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- Every decision we make has to serve the bigger picture.\n- Don't win the battle and lose the war.\n- Think two moves ahead. Always."
+    },
+    {
+      "id": 10,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to handle a sensitive situation with tact, reading between the lines without escalating it. Which chunk fits best?",
+      "options": {
+        "A": "What would have to change for that assumption to no longer hold?",
+        "B": "Every decision we make has to serve the bigger picture.",
+        "C": "You're right that there's real risk here — here's how we're planning to mitigate it.",
+        "D": "Something is off about this. I don't know what yet, but I'll find out."
+      },
+      "correct": "D",
+      "explanation": "✗ \"What would have to change for that assumption to no longer hold?\" belongs to Challenging assumptions — used to test an unverified assumption underlying a plan before the group commits to it, not this context.\nSimilar chunks:\n- What has to be true for this plan to succeed?\n- Where does that number actually come from?\n- If we're wrong about that one assumption, does the whole plan fall apart?\n\n✗ \"Every decision we make has to serve the bigger picture.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- I've made the call. Now we execute.\n- Don't win the battle and lose the war.\n- We are not playing catch-up. We are setting the pace.\n\n✗ \"You're right that there's real risk here — here's how we're planning to mitigate it.\" belongs to Handling senior pushback — used to respond to a senior leader's pushback with confidence, without becoming defensive, not this context.\nSimilar chunks:\n- I hear the concern. Let me address it directly rather than around it.\n- I don't have a perfect answer, but here's the most defensible one given what we know today.\n- If you had to bet, what would make you more confident in this direction?\n\n✓ Correct — \"Something is off about this. I don't know what yet, but I'll find out.\" is a Reading the room & tactful handling chunk: used to handle a sensitive situation with tact, without escalating it.\nExample: \"Something is off about this vendor's numbers. I don't know what yet, but I'll find out before we sign.\"\nSimilar chunks:\n- I've already handled it. You're welcome.\n- Let's handle this quietly before it becomes loud.\n- I'm going to stop you right there."
+    },
+    {
+      "id": 11,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to handle a sensitive situation with tact, reading between the lines without escalating it. Which chunk fits best?",
+      "options": {
+        "A": "Here's what's going to happen.",
+        "B": "I want what I was promised. Nothing more, nothing less.",
+        "C": "We are not playing catch-up. We are setting the pace.",
+        "D": "The optics on this matter more than you think."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Here's what's going to happen.\" belongs to Assertive positioning & control — used to project confidence and control in a high-stakes negotiation, not this context.\nSimilar chunks:\n- My track record speaks for itself.\n- You're not here to be liked. You're here to be effective.\n- Stop thinking about what could go wrong. Think about what needs to go right.\n\n✗ \"I want what I was promised. Nothing more, nothing less.\" belongs to Setting boundaries & requiring respect — used to draw a firm, non-negotiable boundary in a negotiation without sounding hostile, not this context.\nSimilar chunks:\n- If we're doing this, we're doing it correctly. No shortcuts.\n- These are my terms. They are not flexible.\n- Don't ask me to cut corners on something this important.\n\n✗ \"We are not playing catch-up. We are setting the pace.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- This firm does not react. This firm leads.\n- Don't win the battle and lose the war.\n- Think two moves ahead. Always.\n\n✓ Correct — \"The optics on this matter more than you think.\" is a Reading the room & tactful handling chunk: used to handle a sensitive situation with tact, without escalating it.\nExample: \"The optics on laying off the team right after the bonus announcement matter more than you think.\"\nSimilar chunks:\n- I'm going to stop you right there.\n- I'll look into it. That's the best I can offer you right now.\n- I've already handled it. You're welcome."
+    },
+    {
+      "id": 12,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to handle a sensitive situation with tact, reading between the lines without escalating it. Which chunk fits best?",
+      "options": {
+        "A": "We are not playing catch-up. We are setting the pace.",
+        "B": "Don't bring me problems without solutions.",
+        "C": "I appreciate you asking. The answer is still no.",
+        "D": "I'm not asking you to trust me. I'm asking you to trust the analysis."
+      },
+      "correct": "C",
+      "explanation": "✗ \"We are not playing catch-up. We are setting the pace.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- Every decision we make has to serve the bigger picture.\n- Don't win the battle and lose the war.\n- Don't bring me problems without solutions.\n\n✗ \"Don't bring me problems without solutions.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- Don't win the battle and lose the war.\n- I've made the call. Now we execute.\n- Think two moves ahead. Always.\n\n✓ Correct — \"I appreciate you asking. The answer is still no.\" is a Reading the room & tactful handling chunk: used to handle a sensitive situation with tact, without escalating it.\nExample: \"I appreciate you asking again about the exception. The answer is still no.\"\nSimilar chunks:\n- Something is off about this. I don't know what yet, but I'll find out.\n- Let me manage that relationship for you. You focus on the deal.\n- I'm going to stop you right there.\n\n✗ \"I'm not asking you to trust me. I'm asking you to trust the analysis.\" belongs to Persuading through logic & analysis — used to persuade someone by walking them through data and reasoning, step by step, not this context.\nSimilar chunks:\n- Before we go any further, I need to flag something important.\n- I've thought about this carefully and I stand by it.\n- Technically speaking, you're right — but practically, it doesn't hold."
+    },
+    {
+      "id": 13,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're negotiating terms and need to draw a firm, non-negotiable line without sounding hostile. Which chunk fits best?",
+      "options": {
+        "A": "This firm does not react. This firm leads.",
+        "B": "So it sounds like we're aligned on direction — can we call this decided?",
+        "C": "I'm going to stop you right there.",
+        "D": "If we're doing this, we're doing it correctly. No shortcuts."
+      },
+      "correct": "D",
+      "explanation": "✗ \"This firm does not react. This firm leads.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- Think two moves ahead. Always.\n- Don't bring me problems without solutions.\n- I've made the call. Now we execute.\n\n✗ \"So it sounds like we're aligned on direction — can we call this decided?\" belongs to Closing & gaining commitment — used to push a high-stakes discussion toward an actual, committed decision, not this context.\nSimilar chunks:\n- Can we commit to this as the working plan, with a checkpoint in [timeframe] to revisit if needed?\n- Let's not let perfect be the enemy of good here — are we comfortable moving forward with 80% confidence?\n- I want to leave this room with a decision, not just a good discussion.\n\n✗ \"I'm going to stop you right there.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- Let's handle this quietly before it becomes loud.\n- Let me manage that relationship for you. You focus on the deal.\n- Something is off about this. I don't know what yet, but I'll find out.\n\n✓ Correct — \"If we're doing this, we're doing it correctly. No shortcuts.\" is a Setting boundaries & requiring respect chunk: used to draw a firm, non-negotiable boundary in a negotiation without sounding hostile.\nExample: \"If we're doing this integration, we're doing it correctly. No shortcuts on the security review.\"\nSimilar chunks:\n- I will not agree to something I haven't fully reviewed.\n- These are my terms. They are not flexible.\n- Don't ask me to cut corners on something this important."
+    },
+    {
+      "id": 14,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're negotiating terms and need to draw a firm, non-negotiable line without sounding hostile. Which chunk fits best?",
+      "options": {
+        "A": "I understand the technical constraint. From a business standpoint, the risk is...",
+        "B": "If there's no objection, we'll proceed with this.",
+        "C": "When you're the best in the room, you don't need to prove it.",
+        "D": "I need people on my team who want to be excellent, not just adequate."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I understand the technical constraint. From a business standpoint, the risk is...\" belongs to Framing business context & trade-offs — used to frame a decision's business trade-offs clearly for a mixed technical/business audience, not this context.\nSimilar chunks:\n- Let me set the baseline so we're aligned.\n- On the surface it looks small, but it impacts logic, testing, and timelines.\n- The trade-off here is between speed and accuracy.\n\n✗ \"If there's no objection, we'll proceed with this.\" belongs to Confirming decisions & next steps — used to lock in a decision and assign clear owners before ending a business discussion, not this context.\nSimilar chunks:\n- I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day.\n- I'll separate facts from assumptions here.\n- Let's prioritize based on business value.\n\n✗ \"When you're the best in the room, you don't need to prove it.\" belongs to Assertive positioning & control — used to project confidence and control in a high-stakes negotiation, not this context.\nSimilar chunks:\n- If you walk in that room looking nervous, you've already lost.\n- I don't take cases I can't win. This is one I can win.\n- You're not here to be liked. You're here to be effective.\n\n✓ Correct — \"I need people on my team who want to be excellent, not just adequate.\" is a Setting boundaries & requiring respect chunk: used to draw a firm, non-negotiable boundary in a negotiation without sounding hostile.\nExample: \"I need people on my team who want to be excellent, not just adequate, on this launch.\"\nSimilar chunks:\n- I will not agree to something I haven't fully reviewed.\n- These are my terms. They are not flexible.\n- Let's be clear about what each of us is bringing to this arrangement."
+    },
+    {
+      "id": 15,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're negotiating terms and need to draw a firm, non-negotiable line without sounding hostile. Which chunk fits best?",
+      "options": {
+        "A": "I think we actually want the same outcome here — we just disagree on the path.",
+        "B": "I will not agree to something I haven't fully reviewed.",
+        "C": "When you're the best in the room, you don't need to prove it.",
+        "D": "If I put myself in the customer's shoes, this is what concerns me."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I think we actually want the same outcome here — we just disagree on the path.\" belongs to De-escalating & finding common ground — used to defuse tension in a heated discussion by naming the shared underlying goal, not this context.\nSimilar chunks:\n- Neither of us is wrong here — we're optimizing for different things.\n- Let's find the 80% we agree on before we argue about the 20% we don't.\n- It sounds like we're both trying to protect the same thing, just from different angles.\n\n✓ Correct — \"I will not agree to something I haven't fully reviewed.\" is a Setting boundaries & requiring respect chunk: used to draw a firm, non-negotiable boundary in a negotiation without sounding hostile.\nExample: \"I will not agree to the new SLA terms — I haven't fully reviewed the penalty clauses yet.\"\nSimilar chunks:\n- I need people on my team who want to be excellent, not just adequate.\n- If we're doing this, we're doing it correctly. No shortcuts.\n- Don't ask me to cut corners on something this important.\n\n✗ \"When you're the best in the room, you don't need to prove it.\" belongs to Assertive positioning & control — used to project confidence and control in a high-stakes negotiation, not this context.\nSimilar chunks:\n- You're not here to be liked. You're here to be effective.\n- Here's what's going to happen.\n- If you walk in that room looking nervous, you've already lost.\n\n✗ \"If I put myself in the customer's shoes, this is what concerns me.\" belongs to Steelmanning the other side — used to present an opposing view in its strongest, fairest form before countering it, not this context.\nSimilar chunks:\n- If I were arguing your side, I'd say...\n- Steelmanning your point for a second — the strongest version of that argument is...\n- I actually think there's a stronger case for your position than what you've laid out, which is..."
+    },
+    {
+      "id": 16,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "As a leader, you need to make a hard call and rally the team behind it with conviction. Which chunk fits best?",
+      "options": {
+        "A": "Think two moves ahead. Always.",
+        "B": "I don't have a perfect answer, but here's the most defensible one given what we know today.",
+        "C": "I've thought about this carefully and I stand by it.",
+        "D": "Who else needs to be comfortable with this before we present it?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Think two moves ahead. Always.\" is a Decisive leadership & vision chunk: used by a leader to make a hard call and rally the team behind it with conviction.\nExample: \"Think two moves ahead, always — what does the competitor do if we cut prices tomorrow?\"\nSimilar chunks:\n- This firm does not react. This firm leads.\n- Don't bring me problems without solutions.\n- I've made the call. Now we execute.\n\n✗ \"I don't have a perfect answer, but here's the most defensible one given what we know today.\" belongs to Handling senior pushback — used to respond to a senior leader's pushback with confidence, without becoming defensive, not this context.\nSimilar chunks:\n- That's a valid concern. Can I take that away and come back with a sharper answer by Friday?\n- If you had to bet, what would make you more confident in this direction?\n- I'd rather surface the weak points myself than have them surface later — here's the biggest one.\n\n✗ \"I've thought about this carefully and I stand by it.\" belongs to Persuading through logic & analysis — used to persuade someone by walking them through data and reasoning, step by step, not this context.\nSimilar chunks:\n- If you look at it from a different angle, here's what you see.\n- Before we go any further, I need to flag something important.\n- With all due respect, I think we're looking at the wrong problem.\n\n✗ \"Who else needs to be comfortable with this before we present it?\" belongs to Pre-wiring & building coalition — used to quietly line up support and surface objections before a high-stakes meeting, not this context.\nSimilar chunks:\n- Before we bring this to the wider group, I wanted to get your read on it first.\n- Is there anything in here that would be a hard no for you? I'd rather know now than in the room.\n- Can I get five minutes with you before Thursday's meeting to preview this?"
+    },
+    {
+      "id": 17,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "As a leader, you need to make a hard call and rally the team behind it with conviction. Which chunk fits best?",
+      "options": {
+        "A": "From a business perspective, this impacts...",
+        "B": "Is that a fact, or is that something we're assuming because it's always been done that way?",
+        "C": "I've made the call. Now we execute.",
+        "D": "Who else needs to be comfortable with this before we present it?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"From a business perspective, this impacts...\" belongs to Framing business context & trade-offs — used to frame a decision's business trade-offs clearly for a mixed technical/business audience, not this context.\nSimilar chunks:\n- The objective of today's discussion is...\n- Let me set the baseline so we're aligned.\n- On the surface it looks small, but it impacts logic, testing, and timelines.\n\n✗ \"Is that a fact, or is that something we're assuming because it's always been done that way?\" belongs to Challenging assumptions — used to test an unverified assumption underlying a plan before the group commits to it, not this context.\nSimilar chunks:\n- What would have to change for that assumption to no longer hold?\n- What has to be true for this plan to succeed?\n- I noticed we're treating this as certain — how confident are we, really?\n\n✓ Correct — \"I've made the call. Now we execute.\" is a Decisive leadership & vision chunk: used by a leader to make a hard call and rally the team behind it with conviction.\nExample: \"I've made the call to delay the launch by two weeks. Now we execute.\"\nSimilar chunks:\n- This firm does not react. This firm leads.\n- Every decision we make has to serve the bigger picture.\n- We are not playing catch-up. We are setting the pace.\n\n✗ \"Who else needs to be comfortable with this before we present it?\" belongs to Pre-wiring & building coalition — used to quietly line up support and surface objections before a high-stakes meeting, not this context.\nSimilar chunks:\n- I want to walk in aligned, not debate this live in front of the board.\n- Is there anything in here that would be a hard no for you? I'd rather know now than in the room.\n- Before we bring this to the wider group, I wanted to get your read on it first."
+    },
+    {
+      "id": 18,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "As a leader, you need to make a hard call and rally the team behind it with conviction. Which chunk fits best?",
+      "options": {
+        "A": "I understand the technical constraint. From a business standpoint, the risk is...",
+        "B": "That argument works in theory, but not in practice.",
+        "C": "Every decision we make has to serve the bigger picture.",
+        "D": "I don't take cases I can't win. This is one I can win."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I understand the technical constraint. From a business standpoint, the risk is...\" belongs to Framing business context & trade-offs — used to frame a decision's business trade-offs clearly for a mixed technical/business audience, not this context.\nSimilar chunks:\n- Let me set the baseline so we're aligned.\n- That works technically, but it creates this user impact.\n- On the surface it looks small, but it impacts logic, testing, and timelines.\n\n✗ \"That argument works in theory, but not in practice.\" belongs to Persuading through logic & analysis — used to persuade someone by walking them through data and reasoning, step by step, not this context.\nSimilar chunks:\n- I'm not asking you to trust me. I'm asking you to trust the analysis.\n- I've thought about this carefully and I stand by it.\n- If you look at it from a different angle, here's what you see.\n\n✓ Correct — \"Every decision we make has to serve the bigger picture.\" is a Decisive leadership & vision chunk: used by a leader to make a hard call and rally the team behind it with conviction.\nExample: \"Every decision we make this quarter has to serve the bigger picture: becoming the category leader.\"\nSimilar chunks:\n- Short-term loss, long-term position. That's the trade-off I'm willing to make.\n- I've made the call. Now we execute.\n- Don't win the battle and lose the war.\n\n✗ \"I don't take cases I can't win. This is one I can win.\" belongs to Assertive positioning & control — used to project confidence and control in a high-stakes negotiation, not this context.\nSimilar chunks:\n- You're not here to be liked. You're here to be effective.\n- My track record speaks for itself.\n- When you're the best in the room, you don't need to prove it."
+    },
+    {
+      "id": 19,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "As a leader, you need to make a hard call and rally the team behind it with conviction. Which chunk fits best?",
+      "options": {
+        "A": "I'm going to stop you right there.",
+        "B": "That's one explanation — what's another one that also fits the data?",
+        "C": "This firm does not react. This firm leads.",
+        "D": "I'm not asking you to trust me. I'm asking you to trust the analysis."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I'm going to stop you right there.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- I appreciate you asking. The answer is still no.\n- That's not going to happen, but here's what I can do instead.\n- Something is off about this. I don't know what yet, but I'll find out.\n\n✗ \"That's one explanation — what's another one that also fits the data?\" belongs to Exposing logic gaps without attacking — used to surface a gap in someone's argument without putting them on the defensive, not this context.\nSimilar chunks:\n- Where do you see the biggest risk in this argument?\n- Walk me through how that would actually play out in practice.\n- That logic works at a high level — does it still hold when you apply it to [specific case]?\n\n✓ Correct — \"This firm does not react. This firm leads.\" is a Decisive leadership & vision chunk: used by a leader to make a hard call and rally the team behind it with conviction.\nExample: \"This company does not react to every competitor move. This company leads.\"\nSimilar chunks:\n- Think two moves ahead. Always.\n- Don't bring me problems without solutions.\n- We are not playing catch-up. We are setting the pace.\n\n✗ \"I'm not asking you to trust me. I'm asking you to trust the analysis.\" belongs to Persuading through logic & analysis — used to persuade someone by walking them through data and reasoning, step by step, not this context.\nSimilar chunks:\n- Let me walk you through the numbers on this.\n- That argument works in theory, but not in practice.\n- Before we go any further, I need to flag something important."
+    },
+    {
+      "id": 20,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting a business decision and need to frame the trade-offs clearly for a mixed technical and business audience. Which chunk fits best?",
+      "options": {
+        "A": "From a business perspective, this impacts...",
+        "B": "Six months from now, looking back, what would make you glad we made this call?",
+        "C": "If I were arguing your side, I'd say...",
+        "D": "I want to make sure every voice gets heard on this — what's your take?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"From a business perspective, this impacts...\" is a Framing business context & trade-offs chunk: used to frame a decision's business trade-offs clearly for a mixed technical/business audience.\nExample: \"From a business perspective, this delay impacts our ability to close the enterprise deal this quarter.\"\nSimilar chunks:\n- Let me set the baseline so we're aligned.\n- On the surface it looks small, but it impacts logic, testing, and timelines.\n- I understand the technical constraint. From a business standpoint, the risk is...\n\n✗ \"Six months from now, looking back, what would make you glad we made this call?\" belongs to Persuading with calibrated questions — used to guide someone toward a conclusion through open, calibrated questions rather than direct argument, not this context.\nSimilar chunks:\n- How does this compare to the alternative you're currently leaning towards?\n- What would need to happen for you to say yes to this?\n- What's the one thing that would change your mind here?\n\n✗ \"If I were arguing your side, I'd say...\" belongs to Steelmanning the other side — used to present an opposing view in its strongest, fairest form before countering it, not this context.\nSimilar chunks:\n- What would someone who disagrees with me say right now?\n- Let me make sure I'm representing your position fairly: you're saying that...\n- Steelmanning your point for a second — the strongest version of that argument is...\n\n✗ \"I want to make sure every voice gets heard on this — what's your take?\" belongs to Controlling the room — used to firmly steer a drifting high-stakes meeting back toward a decision, not this context.\nSimilar chunks:\n- Before we go further, can we align on what decision we actually need to leave this room with?\n- That's an important point, but a different decision — can we capture it separately and stay focused here?\n- Let's not let the exception drive the whole policy."
+    },
+    {
+      "id": 21,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting a business decision and need to frame the trade-offs clearly for a mixed technical and business audience. Which chunk fits best?",
+      "options": {
+        "A": "I understand the technical constraint. From a business standpoint, the risk is...",
+        "B": "The optics on this matter more than you think.",
+        "C": "I don't take cases I can't win. This is one I can win.",
+        "D": "Confidence isn't arrogance. It's preparation."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I understand the technical constraint. From a business standpoint, the risk is...\" is a Framing business context & trade-offs chunk: used to frame a decision's business trade-offs clearly for a mixed technical/business audience.\nExample: \"I understand the technical constraint on real-time sync. From a business standpoint, the risk is losing customers who expect instant updates.\"\nSimilar chunks:\n- The objective of today's discussion is...\n- Let me set the baseline so we're aligned.\n- From a business perspective, this impacts...\n\n✗ \"The optics on this matter more than you think.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- Let me manage that relationship for you. You focus on the deal.\n- I'm going to stop you right there.\n- That's not going to happen, but here's what I can do instead.\n\n✗ \"I don't take cases I can't win. This is one I can win.\" belongs to Assertive positioning & control — used to project confidence and control in a high-stakes negotiation, not this context.\nSimilar chunks:\n- When you're the best in the room, you don't need to prove it.\n- You're not here to be liked. You're here to be effective.\n- Confidence isn't arrogance. It's preparation.\n\n✗ \"Confidence isn't arrogance. It's preparation.\" belongs to Assertive positioning & control — used to project confidence and control in a high-stakes negotiation, not this context.\nSimilar chunks:\n- Stop thinking about what could go wrong. Think about what needs to go right.\n- The moment you blink, you've lost.\n- Here's what's going to happen."
+    },
+    {
+      "id": 22,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting a business decision and need to frame the trade-offs clearly for a mixed technical and business audience. Which chunk fits best?",
+      "options": {
+        "A": "So far we've been treating this as a binary choice — but there might be a third option we haven't named yet.",
+        "B": "That works technically, but it creates this user impact.",
+        "C": "I actually think there's a stronger case for your position than what you've laid out, which is...",
+        "D": "What has to be true for this plan to succeed?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"So far we've been treating this as a binary choice — but there might be a third option we haven't named yet.\" belongs to Reframing the issue — used to redirect a debate toward the question that actually matters, not this context.\nSimilar chunks:\n- Let's zoom out for a second — what are we actually trying to solve for?\n- Rather than asking 'should we do this,' I think the more useful question is 'what would need to be true for this to work.'\n- Before we debate the solution, can we agree on what problem we're solving?\n\n✓ Correct — \"That works technically, but it creates this user impact.\" is a Framing business context & trade-offs chunk: used to frame a decision's business trade-offs clearly for a mixed technical/business audience.\nExample: \"That works technically, but it creates this user impact — customers would need to re-enter their payment details.\"\nSimilar chunks:\n- On the surface it looks small, but it impacts logic, testing, and timelines.\n- I understand the technical constraint. From a business standpoint, the risk is...\n- From a business perspective, this impacts...\n\n✗ \"I actually think there's a stronger case for your position than what you've laid out, which is...\" belongs to Steelmanning the other side — used to present an opposing view in its strongest, fairest form before countering it, not this context.\nSimilar chunks:\n- Steelmanning your point for a second — the strongest version of that argument is...\n- If I were arguing your side, I'd say...\n- What would someone who disagrees with me say right now?\n\n✗ \"What has to be true for this plan to succeed?\" belongs to Challenging assumptions — used to test an unverified assumption underlying a plan before the group commits to it, not this context.\nSimilar chunks:\n- What would have to change for that assumption to no longer hold?\n- Help me understand the logic that gets us from A to B.\n- I want to pressure-test an assumption we've all been making — that demand will stay flat."
+    },
+    {
+      "id": 23,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're negotiating the scope of a request and need to understand what's actually fixed versus flexible. Which chunk fits best?",
+      "options": {
+        "A": "It sounds like we're both trying to protect the same thing, just from different angles.",
+        "B": "The objective of today's discussion is...",
+        "C": "What we know so far is...",
+        "D": "If we add this, we'll need to adjust timeline or resources."
+      },
+      "correct": "D",
+      "explanation": "✗ \"It sounds like we're both trying to protect the same thing, just from different angles.\" belongs to De-escalating & finding common ground — used to defuse tension in a heated discussion by naming the shared underlying goal, not this context.\nSimilar chunks:\n- I don't think this needs to be a zero-sum conversation.\n- Can we agree on the goal first, and debate the method second?\n- I think we actually want the same outcome here — we just disagree on the path.\n\n✗ \"The objective of today's discussion is...\" belongs to Framing business context & trade-offs — used to frame a decision's business trade-offs clearly for a mixed technical/business audience, not this context.\nSimilar chunks:\n- The trade-off here is between speed and accuracy.\n- That works technically, but it creates this user impact.\n- I understand the technical constraint. From a business standpoint, the risk is...\n\n✗ \"What we know so far is...\" belongs to Confirming decisions & next steps — used to lock in a decision and assign clear owners before ending a business discussion, not this context.\nSimilar chunks:\n- I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day.\n- I'll separate facts from assumptions here.\n- To summarize, we've agreed on...\n\n✓ Correct — \"If we add this, we'll need to adjust timeline or resources.\" is a Clarifying scope & negotiating constraints chunk: used to negotiate scope and clarify what constraints are actually fixed versus flexible.\nExample: \"If we add multi-currency support, we'll need to adjust the timeline or bring in another engineer.\"\nSimilar chunks:\n- I agree simplicity is important. The challenge is that the 'simple way' doesn't cover these risks. What I'm proposing is the simplest option that still meets compliance.\n- Help me understand the limitation — what's negotiable?\n- Understood. Let's clarify whether it's a hard constraint or a design choice."
+    },
+    {
+      "id": 24,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're negotiating the scope of a request and need to understand what's actually fixed versus flexible. Which chunk fits best?",
+      "options": {
+        "A": "Understood. Let's clarify whether it's a hard constraint or a design choice.",
+        "B": "Let me make sure I'm representing your position fairly: you're saying that...",
+        "C": "Have you considered what happens if we're wrong about that?",
+        "D": "Think two moves ahead. Always."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Understood. Let's clarify whether it's a hard constraint or a design choice.\" is a Clarifying scope & negotiating constraints chunk: used to negotiate scope and clarify what constraints are actually fixed versus flexible.\nExample: \"Understood. Let's clarify whether the two-step approval is a hard compliance constraint or just a design choice.\"\nSimilar chunks:\n- I agree simplicity is important. The challenge is that the 'simple way' doesn't cover these risks. What I'm proposing is the simplest option that still meets compliance.\n- Can we explore an alternative that still meets compliance?\n- Help me understand the limitation — what's negotiable?\n\n✗ \"Let me make sure I'm representing your position fairly: you're saying that...\" belongs to Steelmanning the other side — used to present an opposing view in its strongest, fairest form before countering it, not this context.\nSimilar chunks:\n- Let's look at this from the board's perspective for a moment.\n- What would someone who disagrees with me say right now?\n- I actually think there's a stronger case for your position than what you've laid out, which is...\n\n✗ \"Have you considered what happens if we're wrong about that?\" belongs to Persuading through logic & analysis — used to persuade someone by walking them through data and reasoning, step by step, not this context.\nSimilar chunks:\n- That argument works in theory, but not in practice.\n- I've thought about this carefully and I stand by it.\n- Let me walk you through the numbers on this.\n\n✗ \"Think two moves ahead. Always.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- I've made the call. Now we execute.\n- Short-term loss, long-term position. That's the trade-off I'm willing to make.\n- Every decision we make has to serve the bigger picture."
+    },
+    {
+      "id": 25,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're negotiating the scope of a request and need to understand what's actually fixed versus flexible. Which chunk fits best?",
+      "options": {
+        "A": "Can we explore an alternative that still meets compliance?",
+        "B": "I've thought about this carefully and I stand by it.",
+        "C": "So far we've been treating this as a binary choice — but there might be a third option we haven't named yet.",
+        "D": "I don't care what the other side wants. What do we need?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Can we explore an alternative that still meets compliance?\" is a Clarifying scope & negotiating constraints chunk: used to negotiate scope and clarify what constraints are actually fixed versus flexible.\nExample: \"Can we explore an alternative that still meets compliance, but doesn't require a full data migration?\"\nSimilar chunks:\n- Understood. Let's clarify whether it's a hard constraint or a design choice.\n- I agree simplicity is important. The challenge is that the 'simple way' doesn't cover these risks. What I'm proposing is the simplest option that still meets compliance.\n- Help me understand the limitation — what's negotiable?\n\n✗ \"I've thought about this carefully and I stand by it.\" belongs to Persuading through logic & analysis — used to persuade someone by walking them through data and reasoning, step by step, not this context.\nSimilar chunks:\n- With all due respect, I think we're looking at the wrong problem.\n- Have you considered what happens if we're wrong about that?\n- Before we go any further, I need to flag something important.\n\n✗ \"So far we've been treating this as a binary choice — but there might be a third option we haven't named yet.\" belongs to Reframing the issue — used to redirect a debate toward the question that actually matters, not this context.\nSimilar chunks:\n- Let's put the timeline aside for a moment and talk about what 'done' actually looks like.\n- Let's zoom out for a second — what are we actually trying to solve for?\n- I think the real question here isn't X, it's Y.\n\n✗ \"I don't care what the other side wants. What do we need?\" belongs to Assertive positioning & control — used to project confidence and control in a high-stakes negotiation, not this context.\nSimilar chunks:\n- My track record speaks for itself.\n- Here's what's going to happen.\n- You're not here to be liked. You're here to be effective."
+    },
+    {
+      "id": 26,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've walked the group through the analysis and want to lock in a decision and clear owners before ending the discussion. Which chunk fits best?",
+      "options": {
+        "A": "Who owns the next step, and by when?",
+        "B": "If you look at it from a different angle, here's what you see.",
+        "C": "Let's look at this from the board's perspective for a moment.",
+        "D": "What we know so far is..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Who owns the next step, and by when?\" belongs to Closing & gaining commitment — used to push a high-stakes discussion toward an actual, committed decision, not this context.\nSimilar chunks:\n- I want to leave this room with a decision, not just a good discussion.\n- Let's not let perfect be the enemy of good here — are we comfortable moving forward with 80% confidence?\n- So it sounds like we're aligned on direction — can we call this decided?\n\n✗ \"If you look at it from a different angle, here's what you see.\" belongs to Persuading through logic & analysis — used to persuade someone by walking them through data and reasoning, step by step, not this context.\nSimilar chunks:\n- Let me walk you through the numbers on this.\n- Technically speaking, you're right — but practically, it doesn't hold.\n- Have you considered what happens if we're wrong about that?\n\n✗ \"Let's look at this from the board's perspective for a moment.\" belongs to Steelmanning the other side — used to present an opposing view in its strongest, fairest form before countering it, not this context.\nSimilar chunks:\n- What would someone who disagrees with me say right now?\n- If I put myself in the customer's shoes, this is what concerns me.\n- I actually think there's a stronger case for your position than what you've laid out, which is...\n\n✓ Correct — \"What we know so far is...\" is a Confirming decisions & next steps chunk: used to lock in a decision and assign clear owners before ending a business discussion.\nExample: \"What we know so far is that mobile users convert at half the rate of desktop users.\"\nSimilar chunks:\n- Next steps are clear: X owns A, Y owns B.\n- To summarize, we've agreed on...\n- Yes, based on current data and constraints, this is the most balanced option. That said, I'm open to adjusting if new information comes in."
+    },
+    {
+      "id": 27,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've walked the group through the analysis and want to lock in a decision and clear owners before ending the discussion. Which chunk fits best?",
+      "options": {
+        "A": "Let's find the 80% we agree on before we argue about the 20% we don't.",
+        "B": "Next steps are clear: X owns A, Y owns B.",
+        "C": "What has to be true for this plan to succeed?",
+        "D": "What's the one thing that would change your mind here?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Let's find the 80% we agree on before we argue about the 20% we don't.\" belongs to De-escalating & finding common ground — used to defuse tension in a heated discussion by naming the shared underlying goal, not this context.\nSimilar chunks:\n- It sounds like we're both trying to protect the same thing, just from different angles.\n- I don't think this needs to be a zero-sum conversation.\n- Neither of us is wrong here — we're optimizing for different things.\n\n✓ Correct — \"Next steps are clear: X owns A, Y owns B.\" is a Confirming decisions & next steps chunk: used to lock in a decision and assign clear owners before ending a business discussion.\nExample: \"Next steps are clear: Sarah owns the vendor contract, and I own the internal rollout plan.\"\nSimilar chunks:\n- What problem are we trying to solve first?\n- I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day.\n- I'll separate facts from assumptions here.\n\n✗ \"What has to be true for this plan to succeed?\" belongs to Challenging assumptions — used to test an unverified assumption underlying a plan before the group commits to it, not this context.\nSimilar chunks:\n- I want to pressure-test an assumption we've all been making — that demand will stay flat.\n- What would have to change for that assumption to no longer hold?\n- If we're wrong about that one assumption, does the whole plan fall apart?\n\n✗ \"What's the one thing that would change your mind here?\" belongs to Persuading with calibrated questions — used to guide someone toward a conclusion through open, calibrated questions rather than direct argument, not this context.\nSimilar chunks:\n- If we did nothing, what's the most likely outcome?\n- Six months from now, looking back, what would make you glad we made this call?\n- What would need to happen for you to say yes to this?"
+    },
+    {
+      "id": 28,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've walked the group through the analysis and want to lock in a decision and clear owners before ending the discussion. Which chunk fits best?",
+      "options": {
+        "A": "From a business perspective, this impacts...",
+        "B": "I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day.",
+        "C": "Every decision we make has to serve the bigger picture.",
+        "D": "I'd like to reframe this: it's not a cost question, it's a risk-allocation question."
+      },
+      "correct": "B",
+      "explanation": "✗ \"From a business perspective, this impacts...\" belongs to Framing business context & trade-offs — used to frame a decision's business trade-offs clearly for a mixed technical/business audience, not this context.\nSimilar chunks:\n- The trade-off here is between speed and accuracy.\n- The objective of today's discussion is...\n- I understand the technical constraint. From a business standpoint, the risk is...\n\n✓ Correct — \"I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day.\" is a Confirming decisions & next steps chunk: used to lock in a decision and assign clear owners before ending a business discussion.\nExample: \"I don't want to give an inaccurate answer on the renewal terms. Let me validate this today and confirm by end of day.\"\nSimilar chunks:\n- I'll separate facts from assumptions here.\n- What problem are we trying to solve first?\n- What we know so far is...\n\n✗ \"Every decision we make has to serve the bigger picture.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- Don't win the battle and lose the war.\n- Short-term loss, long-term position. That's the trade-off I'm willing to make.\n- Think two moves ahead. Always.\n\n✗ \"I'd like to reframe this: it's not a cost question, it's a risk-allocation question.\" belongs to Reframing the issue — used to redirect a debate toward the question that actually matters, not this context.\nSimilar chunks:\n- Before we debate the solution, can we agree on what problem we're solving?\n- I think the real question here isn't X, it's Y.\n- Can we separate the decision from the person who proposed it?"
+    },
+    {
+      "id": 29,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've walked the group through the analysis and want to lock in a decision and clear owners before ending the discussion. Which chunk fits best?",
+      "options": {
+        "A": "I understand the technical constraint. From a business standpoint, the risk is...",
+        "B": "Six months from now, looking back, what would make you glad we made this call?",
+        "C": "I want to pressure-test an assumption we've all been making — that demand will stay flat.",
+        "D": "Let's prioritize based on business value."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I understand the technical constraint. From a business standpoint, the risk is...\" belongs to Framing business context & trade-offs — used to frame a decision's business trade-offs clearly for a mixed technical/business audience, not this context.\nSimilar chunks:\n- Let me set the baseline so we're aligned.\n- From a business perspective, this impacts...\n- The trade-off here is between speed and accuracy.\n\n✗ \"Six months from now, looking back, what would make you glad we made this call?\" belongs to Persuading with calibrated questions — used to guide someone toward a conclusion through open, calibrated questions rather than direct argument, not this context.\nSimilar chunks:\n- If we did nothing, what's the most likely outcome?\n- What's the cost of waiting another quarter to decide?\n- What would it take for you to feel comfortable moving forward with this?\n\n✗ \"I want to pressure-test an assumption we've all been making — that demand will stay flat.\" belongs to Challenging assumptions — used to test an unverified assumption underlying a plan before the group commits to it, not this context.\nSimilar chunks:\n- Is that a fact, or is that something we're assuming because it's always been done that way?\n- Help me understand the logic that gets us from A to B.\n- What would have to change for that assumption to no longer hold?\n\n✓ Correct — \"Let's prioritize based on business value.\" is a Confirming decisions & next steps chunk: used to lock in a decision and assign clear owners before ending a business discussion.\nExample: \"Let's prioritize based on business value — the reporting feature affects the most revenue.\"\nSimilar chunks:\n- Yes, based on current data and constraints, this is the most balanced option. That said, I'm open to adjusting if new information comes in.\n- What we know so far is...\n- To summarize, we've agreed on..."
+    },
+    {
+      "id": 30,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "The group is debating the wrong question, and you want to redirect everyone to the question that actually matters. Which chunk fits best?",
+      "options": {
+        "A": "Before we go further, can we align on what decision we actually need to leave this room with?",
+        "B": "Let's zoom out for a second — what are we actually trying to solve for?",
+        "C": "I hear the concern. Let me address it directly rather than around it.",
+        "D": "If we're wrong about that one assumption, does the whole plan fall apart?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Before we go further, can we align on what decision we actually need to leave this room with?\" belongs to Controlling the room — used to firmly steer a drifting high-stakes meeting back toward a decision, not this context.\nSimilar chunks:\n- Let's not let the exception drive the whole policy.\n- I want to make sure every voice gets heard on this — what's your take?\n- I'll take the ownership question offline so we can keep moving.\n\n✓ Correct — \"Let's zoom out for a second — what are we actually trying to solve for?\" is a Reframing the issue chunk: used to redirect a debate toward the question that actually matters.\nExample: \"Let's zoom out for a second — what are we actually trying to solve for, revenue or market share?\"\nSimilar chunks:\n- Let's put the timeline aside for a moment and talk about what 'done' actually looks like.\n- I'd like to reframe this: it's not a cost question, it's a risk-allocation question.\n- Before we debate the solution, can we agree on what problem we're solving?\n\n✗ \"I hear the concern. Let me address it directly rather than around it.\" belongs to Handling senior pushback — used to respond to a senior leader's pushback with confidence, without becoming defensive, not this context.\nSimilar chunks:\n- That's a valid concern. Can I take that away and come back with a sharper answer by Friday?\n- I don't have a perfect answer, but here's the most defensible one given what we know today.\n- I'd rather surface the weak points myself than have them surface later — here's the biggest one.\n\n✗ \"If we're wrong about that one assumption, does the whole plan fall apart?\" belongs to Challenging assumptions — used to test an unverified assumption underlying a plan before the group commits to it, not this context.\nSimilar chunks:\n- Is that a fact, or is that something we're assuming because it's always been done that way?\n- I want to pressure-test an assumption we've all been making — that demand will stay flat.\n- I noticed we're treating this as certain — how confident are we, really?"
+    },
+    {
+      "id": 31,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "The group is debating the wrong question, and you want to redirect everyone to the question that actually matters. Which chunk fits best?",
+      "options": {
+        "A": "These are my terms. They are not flexible.",
+        "B": "We are not playing catch-up. We are setting the pace.",
+        "C": "Can I get five minutes with you before Thursday's meeting to preview this?",
+        "D": "Let's put the timeline aside for a moment and talk about what 'done' actually looks like."
+      },
+      "correct": "D",
+      "explanation": "✗ \"These are my terms. They are not flexible.\" belongs to Setting boundaries & requiring respect — used to draw a firm, non-negotiable boundary in a negotiation without sounding hostile, not this context.\nSimilar chunks:\n- If we're doing this, we're doing it correctly. No shortcuts.\n- I need people on my team who want to be excellent, not just adequate.\n- I want what I was promised. Nothing more, nothing less.\n\n✗ \"We are not playing catch-up. We are setting the pace.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- This firm does not react. This firm leads.\n- Don't bring me problems without solutions.\n- Don't win the battle and lose the war.\n\n✗ \"Can I get five minutes with you before Thursday's meeting to preview this?\" belongs to Pre-wiring & building coalition — used to quietly line up support and surface objections before a high-stakes meeting, not this context.\nSimilar chunks:\n- I want to walk in aligned, not debate this live in front of the board.\n- Who else needs to be comfortable with this before we present it?\n- Is there anything in here that would be a hard no for you? I'd rather know now than in the room.\n\n✓ Correct — \"Let's put the timeline aside for a moment and talk about what 'done' actually looks like.\" is a Reframing the issue chunk: used to redirect a debate toward the question that actually matters.\nExample: \"Let's put the timeline aside for a moment and talk about what 'done' actually looks like for this migration.\"\nSimilar chunks:\n- I think the real question here isn't X, it's Y.\n- I'd like to reframe this: it's not a cost question, it's a risk-allocation question.\n- Can we separate the decision from the person who proposed it?"
+    },
+    {
+      "id": 32,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "The group is debating the wrong question, and you want to redirect everyone to the question that actually matters. Which chunk fits best?",
+      "options": {
+        "A": "Who owns the next step, and by when?",
+        "B": "That works technically, but it creates this user impact.",
+        "C": "If you had to bet, what would make you more confident in this direction?",
+        "D": "Rather than asking 'should we do this,' I think the more useful question is 'what would need to be true for this to work.'"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Who owns the next step, and by when?\" belongs to Closing & gaining commitment — used to push a high-stakes discussion toward an actual, committed decision, not this context.\nSimilar chunks:\n- Let's not let perfect be the enemy of good here — are we comfortable moving forward with 80% confidence?\n- So it sounds like we're aligned on direction — can we call this decided?\n- What would you need to see to be comfortable signing off today rather than next week?\n\n✗ \"That works technically, but it creates this user impact.\" belongs to Framing business context & trade-offs — used to frame a decision's business trade-offs clearly for a mixed technical/business audience, not this context.\nSimilar chunks:\n- I understand the technical constraint. From a business standpoint, the risk is...\n- The objective of today's discussion is...\n- The trade-off here is between speed and accuracy.\n\n✗ \"If you had to bet, what would make you more confident in this direction?\" belongs to Handling senior pushback — used to respond to a senior leader's pushback with confidence, without becoming defensive, not this context.\nSimilar chunks:\n- I'd rather surface the weak points myself than have them surface later — here's the biggest one.\n- I don't have a perfect answer, but here's the most defensible one given what we know today.\n- You're right that there's real risk here — here's how we're planning to mitigate it.\n\n✓ Correct — \"Rather than asking 'should we do this,' I think the more useful question is 'what would need to be true for this to work.'\" is a Reframing the issue chunk: used to redirect a debate toward the question that actually matters.\nExample: \"Rather than asking 'should we enter this market,' I think the more useful question is 'what would need to be true for this to work.'\"\nSimilar chunks:\n- So far we've been treating this as a binary choice — but there might be a third option we haven't named yet.\n- Can we separate the decision from the person who proposed it?\n- I think the real question here isn't X, it's Y."
+    },
+    {
+      "id": 33,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "The group is debating the wrong question, and you want to redirect everyone to the question that actually matters. Which chunk fits best?",
+      "options": {
+        "A": "That's not going to happen, but here's what I can do instead.",
+        "B": "To summarize, we've agreed on...",
+        "C": "Before we debate the solution, can we agree on what problem we're solving?",
+        "D": "You're right that there's real risk here — here's how we're planning to mitigate it."
+      },
+      "correct": "C",
+      "explanation": "✗ \"That's not going to happen, but here's what I can do instead.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- You might want to rethink that before it becomes a problem.\n- The optics on this matter more than you think.\n- I've already handled it. You're welcome.\n\n✗ \"To summarize, we've agreed on...\" belongs to Confirming decisions & next steps — used to lock in a decision and assign clear owners before ending a business discussion, not this context.\nSimilar chunks:\n- I'll separate facts from assumptions here.\n- I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day.\n- Next steps are clear: X owns A, Y owns B.\n\n✓ Correct — \"Before we debate the solution, can we agree on what problem we're solving?\" is a Reframing the issue chunk: used to redirect a debate toward the question that actually matters.\nExample: \"Before we debate which vendor to pick, can we agree on what problem we're actually solving?\"\nSimilar chunks:\n- So far we've been treating this as a binary choice — but there might be a third option we haven't named yet.\n- I think the real question here isn't X, it's Y.\n- Can we separate the decision from the person who proposed it?\n\n✗ \"You're right that there's real risk here — here's how we're planning to mitigate it.\" belongs to Handling senior pushback — used to respond to a senior leader's pushback with confidence, without becoming defensive, not this context.\nSimilar chunks:\n- I hear the concern. Let me address it directly rather than around it.\n- If you had to bet, what would make you more confident in this direction?\n- I don't have a perfect answer, but here's the most defensible one given what we know today."
+    },
+    {
+      "id": 34,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You suspect the group's plan rests on an assumption nobody has actually verified, and you want to test it before moving forward. Which chunk fits best?",
+      "options": {
+        "A": "Every decision we make has to serve the bigger picture.",
+        "B": "I noticed we're treating this as certain — how confident are we, really?",
+        "C": "So it sounds like we're aligned on direction — can we call this decided?",
+        "D": "This firm does not react. This firm leads."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Every decision we make has to serve the bigger picture.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- Short-term loss, long-term position. That's the trade-off I'm willing to make.\n- Don't bring me problems without solutions.\n- We are not playing catch-up. We are setting the pace.\n\n✓ Correct — \"I noticed we're treating this as certain — how confident are we, really?\" is a Challenging assumptions chunk: used to test an unverified assumption underlying a plan before the group commits to it.\nExample: \"I noticed we're treating the Q4 forecast as certain — how confident are we, really?\"\nSimilar chunks:\n- Where does that number actually come from?\n- What has to be true for this plan to succeed?\n- What would have to change for that assumption to no longer hold?\n\n✗ \"So it sounds like we're aligned on direction — can we call this decided?\" belongs to Closing & gaining commitment — used to push a high-stakes discussion toward an actual, committed decision, not this context.\nSimilar chunks:\n- Who owns the next step, and by when?\n- I want to leave this room with a decision, not just a good discussion.\n- What would you need to see to be comfortable signing off today rather than next week?\n\n✗ \"This firm does not react. This firm leads.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- We are not playing catch-up. We are setting the pace.\n- Don't bring me problems without solutions.\n- Think two moves ahead. Always."
+    },
+    {
+      "id": 35,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You suspect the group's plan rests on an assumption nobody has actually verified, and you want to test it before moving forward. Which chunk fits best?",
+      "options": {
+        "A": "Short-term loss, long-term position. That's the trade-off I'm willing to make.",
+        "B": "If I put myself in the customer's shoes, this is what concerns me.",
+        "C": "I'd like to reframe this: it's not a cost question, it's a risk-allocation question.",
+        "D": "If we're wrong about that one assumption, does the whole plan fall apart?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Short-term loss, long-term position. That's the trade-off I'm willing to make.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- We are not playing catch-up. We are setting the pace.\n- Think two moves ahead. Always.\n- Don't win the battle and lose the war.\n\n✗ \"If I put myself in the customer's shoes, this is what concerns me.\" belongs to Steelmanning the other side — used to present an opposing view in its strongest, fairest form before countering it, not this context.\nSimilar chunks:\n- If I were arguing your side, I'd say...\n- Let me make sure I'm representing your position fairly: you're saying that...\n- What would someone who disagrees with me say right now?\n\n✗ \"I'd like to reframe this: it's not a cost question, it's a risk-allocation question.\" belongs to Reframing the issue — used to redirect a debate toward the question that actually matters, not this context.\nSimilar chunks:\n- Let's put the timeline aside for a moment and talk about what 'done' actually looks like.\n- Rather than asking 'should we do this,' I think the more useful question is 'what would need to be true for this to work.'\n- I think the real question here isn't X, it's Y.\n\n✓ Correct — \"If we're wrong about that one assumption, does the whole plan fall apart?\" is a Challenging assumptions chunk: used to test an unverified assumption underlying a plan before the group commits to it.\nExample: \"If we're wrong about that one assumption on retention, does the whole three-year plan fall apart?\"\nSimilar chunks:\n- Help me understand the logic that gets us from A to B.\n- What would have to change for that assumption to no longer hold?\n- Where does that number actually come from?"
+    },
+    {
+      "id": 36,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You suspect the group's plan rests on an assumption nobody has actually verified, and you want to test it before moving forward. Which chunk fits best?",
+      "options": {
+        "A": "Neither of us is wrong here — we're optimizing for different things.",
+        "B": "Let's park that thread and come back to it — I don't want to lose the main decision we need today.",
+        "C": "What would have to change for that assumption to no longer hold?",
+        "D": "I'll separate facts from assumptions here."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Neither of us is wrong here — we're optimizing for different things.\" belongs to De-escalating & finding common ground — used to defuse tension in a heated discussion by naming the shared underlying goal, not this context.\nSimilar chunks:\n- I don't think this needs to be a zero-sum conversation.\n- It sounds like we're both trying to protect the same thing, just from different angles.\n- Let's find the 80% we agree on before we argue about the 20% we don't.\n\n✗ \"Let's park that thread and come back to it — I don't want to lose the main decision we need today.\" belongs to Controlling the room — used to firmly steer a drifting high-stakes meeting back toward a decision, not this context.\nSimilar chunks:\n- I want to make sure every voice gets heard on this — what's your take?\n- Before we go further, can we align on what decision we actually need to leave this room with?\n- I'll take the ownership question offline so we can keep moving.\n\n✓ Correct — \"What would have to change for that assumption to no longer hold?\" is a Challenging assumptions chunk: used to test an unverified assumption underlying a plan before the group commits to it.\nExample: \"What would have to change for the assumption that shipping costs stay flat to no longer hold?\"\nSimilar chunks:\n- Where does that number actually come from?\n- If we're wrong about that one assumption, does the whole plan fall apart?\n- I want to pressure-test an assumption we've all been making — that demand will stay flat.\n\n✗ \"I'll separate facts from assumptions here.\" belongs to Confirming decisions & next steps — used to lock in a decision and assign clear owners before ending a business discussion, not this context.\nSimilar chunks:\n- Next steps are clear: X owns A, Y owns B.\n- What problem are we trying to solve first?\n- Yes, based on current data and constraints, this is the most balanced option. That said, I'm open to adjusting if new information comes in."
+    },
+    {
+      "id": 37,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You suspect the group's plan rests on an assumption nobody has actually verified, and you want to test it before moving forward. Which chunk fits best?",
+      "options": {
+        "A": "Here's what's going to happen.",
+        "B": "Is that a fact, or is that something we're assuming because it's always been done that way?",
+        "C": "How does this compare to the alternative you're currently leaning towards?",
+        "D": "I don't care what the other side wants. What do we need?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Here's what's going to happen.\" belongs to Assertive positioning & control — used to project confidence and control in a high-stakes negotiation, not this context.\nSimilar chunks:\n- Stop thinking about what could go wrong. Think about what needs to go right.\n- You're not here to be liked. You're here to be effective.\n- I don't take cases I can't win. This is one I can win.\n\n✓ Correct — \"Is that a fact, or is that something we're assuming because it's always been done that way?\" is a Challenging assumptions chunk: used to test an unverified assumption underlying a plan before the group commits to it.\nExample: \"Is that a fact, or is that something we're assuming because it's always been priced that way?\"\nSimilar chunks:\n- Where does that number actually come from?\n- I want to pressure-test an assumption we've all been making — that demand will stay flat.\n- I noticed we're treating this as certain — how confident are we, really?\n\n✗ \"How does this compare to the alternative you're currently leaning towards?\" belongs to Persuading with calibrated questions — used to guide someone toward a conclusion through open, calibrated questions rather than direct argument, not this context.\nSimilar chunks:\n- What would need to happen for you to say yes to this?\n- Six months from now, looking back, what would make you glad we made this call?\n- If we did nothing, what's the most likely outcome?\n\n✗ \"I don't care what the other side wants. What do we need?\" belongs to Assertive positioning & control — used to project confidence and control in a high-stakes negotiation, not this context.\nSimilar chunks:\n- You're not here to be liked. You're here to be effective.\n- When you're the best in the room, you don't need to prove it.\n- If you walk in that room looking nervous, you've already lost."
+    },
+    {
+      "id": 38,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Before countering an opposing view, you want to first present it in its strongest, fairest form. Which chunk fits best?",
+      "options": {
+        "A": "Can we separate the decision from the person who proposed it?",
+        "B": "You might want to rethink that before it becomes a problem.",
+        "C": "What would need to happen for you to say yes to this?",
+        "D": "If I were arguing your side, I'd say..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Can we separate the decision from the person who proposed it?\" belongs to Reframing the issue — used to redirect a debate toward the question that actually matters, not this context.\nSimilar chunks:\n- Let's put the timeline aside for a moment and talk about what 'done' actually looks like.\n- So far we've been treating this as a binary choice — but there might be a third option we haven't named yet.\n- I think the real question here isn't X, it's Y.\n\n✗ \"You might want to rethink that before it becomes a problem.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- That's not going to happen, but here's what I can do instead.\n- I'm going to stop you right there.\n- I'll look into it. That's the best I can offer you right now.\n\n✗ \"What would need to happen for you to say yes to this?\" belongs to Persuading with calibrated questions — used to guide someone toward a conclusion through open, calibrated questions rather than direct argument, not this context.\nSimilar chunks:\n- What's the one thing that would change your mind here?\n- If we did nothing, what's the most likely outcome?\n- How does this compare to the alternative you're currently leaning towards?\n\n✓ Correct — \"If I were arguing your side, I'd say...\" is a Steelmanning the other side chunk: used to present an opposing view in its strongest, fairest form before countering it.\nExample: \"If I were arguing your side, I'd say the vendor's price is justified by their reliability record.\"\nSimilar chunks:\n- Steelmanning your point for a second — the strongest version of that argument is...\n- Let's look at this from the board's perspective for a moment.\n- Let me make sure I'm representing your position fairly: you're saying that..."
+    },
+    {
+      "id": 39,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Before countering an opposing view, you want to first present it in its strongest, fairest form. Which chunk fits best?",
+      "options": {
+        "A": "If there's no objection, we'll proceed with this.",
+        "B": "I'm going to stop you right there.",
+        "C": "What would someone who disagrees with me say right now?",
+        "D": "I think we actually want the same outcome here — we just disagree on the path."
+      },
+      "correct": "C",
+      "explanation": "✗ \"If there's no objection, we'll proceed with this.\" belongs to Confirming decisions & next steps — used to lock in a decision and assign clear owners before ending a business discussion, not this context.\nSimilar chunks:\n- Let's prioritize based on business value.\n- I'll separate facts from assumptions here.\n- I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day.\n\n✗ \"I'm going to stop you right there.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- I appreciate you asking. The answer is still no.\n- The optics on this matter more than you think.\n- That's not going to happen, but here's what I can do instead.\n\n✓ Correct — \"What would someone who disagrees with me say right now?\" is a Steelmanning the other side chunk: used to present an opposing view in its strongest, fairest form before countering it.\nExample: \"What would someone who disagrees with me say right now about cutting the marketing budget?\"\nSimilar chunks:\n- If I were arguing your side, I'd say...\n- Let's look at this from the board's perspective for a moment.\n- I actually think there's a stronger case for your position than what you've laid out, which is...\n\n✗ \"I think we actually want the same outcome here — we just disagree on the path.\" belongs to De-escalating & finding common ground — used to defuse tension in a heated discussion by naming the shared underlying goal, not this context.\nSimilar chunks:\n- Neither of us is wrong here — we're optimizing for different things.\n- Can we agree on the goal first, and debate the method second?\n- It sounds like we're both trying to protect the same thing, just from different angles."
+    },
+    {
+      "id": 40,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Before countering an opposing view, you want to first present it in its strongest, fairest form. Which chunk fits best?",
+      "options": {
+        "A": "I want to leave this room with a decision, not just a good discussion.",
+        "B": "We have three minutes left on this topic — let's make sure we land somewhere concrete.",
+        "C": "I want what I was promised. Nothing more, nothing less.",
+        "D": "If I put myself in the customer's shoes, this is what concerns me."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I want to leave this room with a decision, not just a good discussion.\" belongs to Closing & gaining commitment — used to push a high-stakes discussion toward an actual, committed decision, not this context.\nSimilar chunks:\n- Can we commit to this as the working plan, with a checkpoint in [timeframe] to revisit if needed?\n- So it sounds like we're aligned on direction — can we call this decided?\n- If there's no objection in the next thirty seconds, I'll take that as agreement.\n\n✗ \"We have three minutes left on this topic — let's make sure we land somewhere concrete.\" belongs to Controlling the room — used to firmly steer a drifting high-stakes meeting back toward a decision, not this context.\nSimilar chunks:\n- I want to make sure every voice gets heard on this — what's your take?\n- Let's not let the exception drive the whole policy.\n- I'll take the ownership question offline so we can keep moving.\n\n✗ \"I want what I was promised. Nothing more, nothing less.\" belongs to Setting boundaries & requiring respect — used to draw a firm, non-negotiable boundary in a negotiation without sounding hostile, not this context.\nSimilar chunks:\n- I will not agree to something I haven't fully reviewed.\n- If we're doing this, we're doing it correctly. No shortcuts.\n- Don't ask me to cut corners on something this important.\n\n✓ Correct — \"If I put myself in the customer's shoes, this is what concerns me.\" is a Steelmanning the other side chunk: used to present an opposing view in its strongest, fairest form before countering it.\nExample: \"If I put myself in the customer's shoes, this is what concerns me: the price increase with no visible new features.\"\nSimilar chunks:\n- Let's look at this from the board's perspective for a moment.\n- I actually think there's a stronger case for your position than what you've laid out, which is...\n- What would someone who disagrees with me say right now?"
+    },
+    {
+      "id": 41,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You suspect there's a hole in someone's argument and want to surface it without putting them on the defensive. Which chunk fits best?",
+      "options": {
+        "A": "Where do you see the biggest risk in this argument?",
+        "B": "Is that a fact, or is that something we're assuming because it's always been done that way?",
+        "C": "Something is off about this. I don't know what yet, but I'll find out.",
+        "D": "What would it take for you to feel comfortable moving forward with this?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Where do you see the biggest risk in this argument?\" is an Exposing logic gaps without attacking chunk: used to surface a gap in someone's argument without putting them on the defensive.\nExample: \"Where do you see the biggest risk in this argument for entering the new market?\"\nSimilar chunks:\n- That logic works at a high level — does it still hold when you apply it to [specific case]?\n- I'm not seeing how we get from this data to that conclusion — can you connect the dots for me?\n- If that's true, how do we explain [contradicting fact]?\n\n✗ \"Is that a fact, or is that something we're assuming because it's always been done that way?\" belongs to Challenging assumptions — used to test an unverified assumption underlying a plan before the group commits to it, not this context.\nSimilar chunks:\n- Help me understand the logic that gets us from A to B.\n- What would have to change for that assumption to no longer hold?\n- What has to be true for this plan to succeed?\n\n✗ \"Something is off about this. I don't know what yet, but I'll find out.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- Let me manage that relationship for you. You focus on the deal.\n- I'll look into it. That's the best I can offer you right now.\n- I appreciate you asking. The answer is still no.\n\n✗ \"What would it take for you to feel comfortable moving forward with this?\" belongs to Persuading with calibrated questions — used to guide someone toward a conclusion through open, calibrated questions rather than direct argument, not this context.\nSimilar chunks:\n- How does this compare to the alternative you're currently leaning towards?\n- What's the one thing that would change your mind here?\n- What would need to happen for you to say yes to this?"
+    },
+    {
+      "id": 42,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You suspect there's a hole in someone's argument and want to surface it without putting them on the defensive. Which chunk fits best?",
+      "options": {
+        "A": "If that's true, how do we explain [contradicting fact]?",
+        "B": "Something is off about this. I don't know what yet, but I'll find out.",
+        "C": "Don't ask me to cut corners on something this important.",
+        "D": "The moment you blink, you've lost."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"If that's true, how do we explain [contradicting fact]?\" is an Exposing logic gaps without attacking chunk: used to surface a gap in someone's argument without putting them on the defensive.\nExample: \"If that's true, how do we explain the fact that our top competitor raised prices and grew?\"\nSimilar chunks:\n- Walk me through how that would actually play out in practice.\n- Where do you see the biggest risk in this argument?\n- I want to make sure this holds up — what's the strongest objection someone could raise to this?\n\n✗ \"Something is off about this. I don't know what yet, but I'll find out.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- Let's handle this quietly before it becomes loud.\n- I'm going to stop you right there.\n- Let me manage that relationship for you. You focus on the deal.\n\n✗ \"Don't ask me to cut corners on something this important.\" belongs to Setting boundaries & requiring respect — used to draw a firm, non-negotiable boundary in a negotiation without sounding hostile, not this context.\nSimilar chunks:\n- If we're doing this, we're doing it correctly. No shortcuts.\n- I want what I was promised. Nothing more, nothing less.\n- These are my terms. They are not flexible.\n\n✗ \"The moment you blink, you've lost.\" belongs to Assertive positioning & control — used to project confidence and control in a high-stakes negotiation, not this context.\nSimilar chunks:\n- My track record speaks for itself.\n- You're not here to be liked. You're here to be effective.\n- I don't care what the other side wants. What do we need?"
+    },
+    {
+      "id": 43,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You suspect there's a hole in someone's argument and want to surface it without putting them on the defensive. Which chunk fits best?",
+      "options": {
+        "A": "I'm not seeing how we get from this data to that conclusion — can you connect the dots for me?",
+        "B": "I actually think there's a stronger case for your position than what you've laid out, which is...",
+        "C": "You're not here to be liked. You're here to be effective.",
+        "D": "Let me set the baseline so we're aligned."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I'm not seeing how we get from this data to that conclusion — can you connect the dots for me?\" is an Exposing logic gaps without attacking chunk: used to surface a gap in someone's argument without putting them on the defensive.\nExample: \"I'm not seeing how we get from a 5% survey response rate to that conclusion — can you connect the dots for me?\"\nSimilar chunks:\n- Walk me through how that would actually play out in practice.\n- That logic works at a high level — does it still hold when you apply it to [specific case]?\n- That's one explanation — what's another one that also fits the data?\n\n✗ \"I actually think there's a stronger case for your position than what you've laid out, which is...\" belongs to Steelmanning the other side — used to present an opposing view in its strongest, fairest form before countering it, not this context.\nSimilar chunks:\n- Let me make sure I'm representing your position fairly: you're saying that...\n- What would someone who disagrees with me say right now?\n- Steelmanning your point for a second — the strongest version of that argument is...\n\n✗ \"You're not here to be liked. You're here to be effective.\" belongs to Assertive positioning & control — used to project confidence and control in a high-stakes negotiation, not this context.\nSimilar chunks:\n- I don't take cases I can't win. This is one I can win.\n- I don't care what the other side wants. What do we need?\n- My track record speaks for itself.\n\n✗ \"Let me set the baseline so we're aligned.\" belongs to Framing business context & trade-offs — used to frame a decision's business trade-offs clearly for a mixed technical/business audience, not this context.\nSimilar chunks:\n- The trade-off here is between speed and accuracy.\n- From a business perspective, this impacts...\n- The objective of today's discussion is..."
+    },
+    {
+      "id": 44,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You suspect there's a hole in someone's argument and want to surface it without putting them on the defensive. Which chunk fits best?",
+      "options": {
+        "A": "That's one explanation — what's another one that also fits the data?",
+        "B": "I appreciate you asking. The answer is still no.",
+        "C": "I hear the concern. Let me address it directly rather than around it.",
+        "D": "Before we debate the solution, can we agree on what problem we're solving?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"That's one explanation — what's another one that also fits the data?\" is an Exposing logic gaps without attacking chunk: used to surface a gap in someone's argument without putting them on the defensive.\nExample: \"That's one explanation for the drop — what's another one that also fits the data?\"\nSimilar chunks:\n- What happens to this plan if [specific condition] doesn't hold?\n- Where do you see the biggest risk in this argument?\n- I want to make sure this holds up — what's the strongest objection someone could raise to this?\n\n✗ \"I appreciate you asking. The answer is still no.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- Let's handle this quietly before it becomes loud.\n- Let me manage that relationship for you. You focus on the deal.\n- That's not going to happen, but here's what I can do instead.\n\n✗ \"I hear the concern. Let me address it directly rather than around it.\" belongs to Handling senior pushback — used to respond to a senior leader's pushback with confidence, without becoming defensive, not this context.\nSimilar chunks:\n- If you had to bet, what would make you more confident in this direction?\n- You're right that there's real risk here — here's how we're planning to mitigate it.\n- That's a fair challenge — let me walk you through the reasoning, and please push back where it doesn't hold.\n\n✗ \"Before we debate the solution, can we agree on what problem we're solving?\" belongs to Reframing the issue — used to redirect a debate toward the question that actually matters, not this context.\nSimilar chunks:\n- Can we separate the decision from the person who proposed it?\n- Rather than asking 'should we do this,' I think the more useful question is 'what would need to be true for this to work.'\n- Let's put the timeline aside for a moment and talk about what 'done' actually looks like."
+    },
+    {
+      "id": 45,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Instead of arguing your case directly, you want to guide the other person toward the conclusion through questions. Which chunk fits best?",
+      "options": {
+        "A": "Rather than asking 'should we do this,' I think the more useful question is 'what would need to be true for this to work.'",
+        "B": "If we're doing this, we're doing it correctly. No shortcuts.",
+        "C": "I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day.",
+        "D": "How does this compare to the alternative you're currently leaning towards?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Rather than asking 'should we do this,' I think the more useful question is 'what would need to be true for this to work.'\" belongs to Reframing the issue — used to redirect a debate toward the question that actually matters, not this context.\nSimilar chunks:\n- I think the real question here isn't X, it's Y.\n- Let's zoom out for a second — what are we actually trying to solve for?\n- Let's put the timeline aside for a moment and talk about what 'done' actually looks like.\n\n✗ \"If we're doing this, we're doing it correctly. No shortcuts.\" belongs to Setting boundaries & requiring respect — used to draw a firm, non-negotiable boundary in a negotiation without sounding hostile, not this context.\nSimilar chunks:\n- I need people on my team who want to be excellent, not just adequate.\n- Let's be clear about what each of us is bringing to this arrangement.\n- I will not agree to something I haven't fully reviewed.\n\n✗ \"I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day.\" belongs to Confirming decisions & next steps — used to lock in a decision and assign clear owners before ending a business discussion, not this context.\nSimilar chunks:\n- What problem are we trying to solve first?\n- I'll separate facts from assumptions here.\n- Yes, based on current data and constraints, this is the most balanced option. That said, I'm open to adjusting if new information comes in.\n\n✓ Correct — \"How does this compare to the alternative you're currently leaning towards?\" is a Persuading with calibrated questions chunk: used to guide someone toward a conclusion through open, calibrated questions rather than direct argument.\nExample: \"How does this proposal compare to the alternative you're currently leaning towards?\"\nSimilar chunks:\n- What's the one thing that would change your mind here?\n- What would need to happen for you to say yes to this?\n- Six months from now, looking back, what would make you glad we made this call?"
+    },
+    {
+      "id": 46,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Instead of arguing your case directly, you want to guide the other person toward the conclusion through questions. Which chunk fits best?",
+      "options": {
+        "A": "What would it take for you to feel comfortable moving forward with this?",
+        "B": "If we add this, we'll need to adjust timeline or resources.",
+        "C": "What would you need to see to be comfortable signing off today rather than next week?",
+        "D": "Confidence isn't arrogance. It's preparation."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What would it take for you to feel comfortable moving forward with this?\" is a Persuading with calibrated questions chunk: used to guide someone toward a conclusion through open, calibrated questions rather than direct argument.\nExample: \"What would it take for you to feel comfortable moving forward with the new vendor?\"\nSimilar chunks:\n- If we did nothing, what's the most likely outcome?\n- How does this compare to the alternative you're currently leaning towards?\n- What's the one thing that would change your mind here?\n\n✗ \"If we add this, we'll need to adjust timeline or resources.\" belongs to Clarifying scope & negotiating constraints — used to negotiate scope and clarify what constraints are actually fixed versus flexible, not this context.\nSimilar chunks:\n- Understood. Let's clarify whether it's a hard constraint or a design choice.\n- Can we explore an alternative that still meets compliance?\n- That's a valid idea, but it's outside the current scope.\n\n✗ \"What would you need to see to be comfortable signing off today rather than next week?\" belongs to Closing & gaining commitment — used to push a high-stakes discussion toward an actual, committed decision, not this context.\nSimilar chunks:\n- Can we commit to this as the working plan, with a checkpoint in [timeframe] to revisit if needed?\n- Let's not let perfect be the enemy of good here — are we comfortable moving forward with 80% confidence?\n- So it sounds like we're aligned on direction — can we call this decided?\n\n✗ \"Confidence isn't arrogance. It's preparation.\" belongs to Assertive positioning & control — used to project confidence and control in a high-stakes negotiation, not this context.\nSimilar chunks:\n- You're not here to be liked. You're here to be effective.\n- If you walk in that room looking nervous, you've already lost.\n- The moment you blink, you've lost."
+    },
+    {
+      "id": 47,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Instead of arguing your case directly, you want to guide the other person toward the conclusion through questions. Which chunk fits best?",
+      "options": {
+        "A": "Rather than asking 'should we do this,' I think the more useful question is 'what would need to be true for this to work.'",
+        "B": "If we're doing this, we're doing it correctly. No shortcuts.",
+        "C": "If we're wrong about that one assumption, does the whole plan fall apart?",
+        "D": "Six months from now, looking back, what would make you glad we made this call?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Rather than asking 'should we do this,' I think the more useful question is 'what would need to be true for this to work.'\" belongs to Reframing the issue — used to redirect a debate toward the question that actually matters, not this context.\nSimilar chunks:\n- Let's put the timeline aside for a moment and talk about what 'done' actually looks like.\n- Before we debate the solution, can we agree on what problem we're solving?\n- Can we separate the decision from the person who proposed it?\n\n✗ \"If we're doing this, we're doing it correctly. No shortcuts.\" belongs to Setting boundaries & requiring respect — used to draw a firm, non-negotiable boundary in a negotiation without sounding hostile, not this context.\nSimilar chunks:\n- These are my terms. They are not flexible.\n- I want what I was promised. Nothing more, nothing less.\n- Let's be clear about what each of us is bringing to this arrangement.\n\n✗ \"If we're wrong about that one assumption, does the whole plan fall apart?\" belongs to Challenging assumptions — used to test an unverified assumption underlying a plan before the group commits to it, not this context.\nSimilar chunks:\n- Where does that number actually come from?\n- Is that a fact, or is that something we're assuming because it's always been done that way?\n- What would have to change for that assumption to no longer hold?\n\n✓ Correct — \"Six months from now, looking back, what would make you glad we made this call?\" is a Persuading with calibrated questions chunk: used to guide someone toward a conclusion through open, calibrated questions rather than direct argument.\nExample: \"Six months from now, looking back, what would make you glad we made this call on pricing?\"\nSimilar chunks:\n- What would need to happen for you to say yes to this?\n- What would it take for you to feel comfortable moving forward with this?\n- How does this compare to the alternative you're currently leaning towards?"
+    },
+    {
+      "id": 48,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're facilitating a high-stakes meeting that's drifting, and you need to steer it firmly back toward a decision. Which chunk fits best?",
+      "options": {
+        "A": "Don't win the battle and lose the war.",
+        "B": "Let's handle this quietly before it becomes loud.",
+        "C": "If that's true, how do we explain [contradicting fact]?",
+        "D": "That's an important point, but a different decision — can we capture it separately and stay focused here?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Don't win the battle and lose the war.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- Short-term loss, long-term position. That's the trade-off I'm willing to make.\n- I've made the call. Now we execute.\n- Every decision we make has to serve the bigger picture.\n\n✗ \"Let's handle this quietly before it becomes loud.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- The optics on this matter more than you think.\n- I've already handled it. You're welcome.\n- That's not going to happen, but here's what I can do instead.\n\n✗ \"If that's true, how do we explain [contradicting fact]?\" belongs to Exposing logic gaps without attacking — used to surface a gap in someone's argument without putting them on the defensive, not this context.\nSimilar chunks:\n- Where do you see the biggest risk in this argument?\n- I'm not seeing how we get from this data to that conclusion — can you connect the dots for me?\n- I want to make sure this holds up — what's the strongest objection someone could raise to this?\n\n✓ Correct — \"That's an important point, but a different decision — can we capture it separately and stay focused here?\" is a Controlling the room chunk: used to firmly steer a drifting high-stakes meeting back toward a decision.\nExample: \"That's an important point about staffing, but a different decision — can we capture it separately and stay focused here on the budget?\"\nSimilar chunks:\n- We have three minutes left on this topic — let's make sure we land somewhere concrete.\n- Let's not let the exception drive the whole policy.\n- I want to make sure every voice gets heard on this — what's your take?"
+    },
+    {
+      "id": 49,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're facilitating a high-stakes meeting that's drifting, and you need to steer it firmly back toward a decision. Which chunk fits best?",
+      "options": {
+        "A": "If I were arguing your side, I'd say...",
+        "B": "Before we bring this to the wider group, I wanted to get your read on it first.",
+        "C": "Where do you see the biggest risk in this argument?",
+        "D": "We have three minutes left on this topic — let's make sure we land somewhere concrete."
+      },
+      "correct": "D",
+      "explanation": "✗ \"If I were arguing your side, I'd say...\" belongs to Steelmanning the other side — used to present an opposing view in its strongest, fairest form before countering it, not this context.\nSimilar chunks:\n- Let me make sure I'm representing your position fairly: you're saying that...\n- I actually think there's a stronger case for your position than what you've laid out, which is...\n- What would someone who disagrees with me say right now?\n\n✗ \"Before we bring this to the wider group, I wanted to get your read on it first.\" belongs to Pre-wiring & building coalition — used to quietly line up support and surface objections before a high-stakes meeting, not this context.\nSimilar chunks:\n- Is there anything in here that would be a hard no for you? I'd rather know now than in the room.\n- Can I get five minutes with you before Thursday's meeting to preview this?\n- Who else needs to be comfortable with this before we present it?\n\n✗ \"Where do you see the biggest risk in this argument?\" belongs to Exposing logic gaps without attacking — used to surface a gap in someone's argument without putting them on the defensive, not this context.\nSimilar chunks:\n- If that's true, how do we explain [contradicting fact]?\n- Walk me through how that would actually play out in practice.\n- I want to make sure this holds up — what's the strongest objection someone could raise to this?\n\n✓ Correct — \"We have three minutes left on this topic — let's make sure we land somewhere concrete.\" is a Controlling the room chunk: used to firmly steer a drifting high-stakes meeting back toward a decision.\nExample: \"We have three minutes left on this topic — let's make sure we land somewhere concrete before moving on.\"\nSimilar chunks:\n- Before we go further, can we align on what decision we actually need to leave this room with?\n- I want to make sure every voice gets heard on this — what's your take?\n- I'll take the ownership question offline so we can keep moving."
+    },
+    {
+      "id": 50,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're facilitating a high-stakes meeting that's drifting, and you need to steer it firmly back toward a decision. Which chunk fits best?",
+      "options": {
+        "A": "Next steps are clear: X owns A, Y owns B.",
+        "B": "Technically speaking, you're right — but practically, it doesn't hold.",
+        "C": "I want to leave this room with a decision, not just a good discussion.",
+        "D": "Let's not let the exception drive the whole policy."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Next steps are clear: X owns A, Y owns B.\" belongs to Confirming decisions & next steps — used to lock in a decision and assign clear owners before ending a business discussion, not this context.\nSimilar chunks:\n- I'll separate facts from assumptions here.\n- What we know so far is...\n- If there's no objection, we'll proceed with this.\n\n✗ \"Technically speaking, you're right — but practically, it doesn't hold.\" belongs to Persuading through logic & analysis — used to persuade someone by walking them through data and reasoning, step by step, not this context.\nSimilar chunks:\n- Have you considered what happens if we're wrong about that?\n- I've thought about this carefully and I stand by it.\n- Before we go any further, I need to flag something important.\n\n✗ \"I want to leave this room with a decision, not just a good discussion.\" belongs to Closing & gaining commitment — used to push a high-stakes discussion toward an actual, committed decision, not this context.\nSimilar chunks:\n- So it sounds like we're aligned on direction — can we call this decided?\n- What would you need to see to be comfortable signing off today rather than next week?\n- Who owns the next step, and by when?\n\n✓ Correct — \"Let's not let the exception drive the whole policy.\" is a Controlling the room chunk: used to firmly steer a drifting high-stakes meeting back toward a decision.\nExample: \"Let's not let one client's exception drive the whole refund policy.\"\nSimilar chunks:\n- That's an important point, but a different decision — can we capture it separately and stay focused here?\n- Let's park that thread and come back to it — I don't want to lose the main decision we need today.\n- I'll take the ownership question offline so we can keep moving."
+    },
+    {
+      "id": 51,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Before a high-stakes meeting, you want to quietly line up support and surface objections in advance. Which chunk fits best?",
+      "options": {
+        "A": "The objective of today's discussion is...",
+        "B": "I'd like to reframe this: it's not a cost question, it's a risk-allocation question.",
+        "C": "Is there anything in here that would be a hard no for you? I'd rather know now than in the room.",
+        "D": "What would need to happen for you to say yes to this?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"The objective of today's discussion is...\" belongs to Framing business context & trade-offs — used to frame a decision's business trade-offs clearly for a mixed technical/business audience, not this context.\nSimilar chunks:\n- Let me set the baseline so we're aligned.\n- I understand the technical constraint. From a business standpoint, the risk is...\n- That works technically, but it creates this user impact.\n\n✗ \"I'd like to reframe this: it's not a cost question, it's a risk-allocation question.\" belongs to Reframing the issue — used to redirect a debate toward the question that actually matters, not this context.\nSimilar chunks:\n- Rather than asking 'should we do this,' I think the more useful question is 'what would need to be true for this to work.'\n- Let's zoom out for a second — what are we actually trying to solve for?\n- Let's put the timeline aside for a moment and talk about what 'done' actually looks like.\n\n✓ Correct — \"Is there anything in here that would be a hard no for you? I'd rather know now than in the room.\" is a Pre-wiring & building coalition chunk: used to quietly line up support and surface objections before a high-stakes meeting.\nExample: \"Is there anything in this proposal that would be a hard no for you? I'd rather know now than in the room.\"\nSimilar chunks:\n- Can I get five minutes with you before Thursday's meeting to preview this?\n- I'd like to socialize this idea with a few people before it goes to committee.\n- Before we bring this to the wider group, I wanted to get your read on it first.\n\n✗ \"What would need to happen for you to say yes to this?\" belongs to Persuading with calibrated questions — used to guide someone toward a conclusion through open, calibrated questions rather than direct argument, not this context.\nSimilar chunks:\n- How does this compare to the alternative you're currently leaning towards?\n- If we did nothing, what's the most likely outcome?\n- What would it take for you to feel comfortable moving forward with this?"
+    },
+    {
+      "id": 52,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Before a high-stakes meeting, you want to quietly line up support and surface objections in advance. Which chunk fits best?",
+      "options": {
+        "A": "If we add this, we'll need to adjust timeline or resources.",
+        "B": "Let's look at this from the board's perspective for a moment.",
+        "C": "I appreciate you asking. The answer is still no.",
+        "D": "I want to walk in aligned, not debate this live in front of the board."
+      },
+      "correct": "D",
+      "explanation": "✗ \"If we add this, we'll need to adjust timeline or resources.\" belongs to Clarifying scope & negotiating constraints — used to negotiate scope and clarify what constraints are actually fixed versus flexible, not this context.\nSimilar chunks:\n- Understood. Let's clarify whether it's a hard constraint or a design choice.\n- Can we explore an alternative that still meets compliance?\n- That's a valid idea, but it's outside the current scope.\n\n✗ \"Let's look at this from the board's perspective for a moment.\" belongs to Steelmanning the other side — used to present an opposing view in its strongest, fairest form before countering it, not this context.\nSimilar chunks:\n- If I put myself in the customer's shoes, this is what concerns me.\n- I actually think there's a stronger case for your position than what you've laid out, which is...\n- Let me make sure I'm representing your position fairly: you're saying that...\n\n✗ \"I appreciate you asking. The answer is still no.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- The optics on this matter more than you think.\n- Let me manage that relationship for you. You focus on the deal.\n- I've already handled it. You're welcome.\n\n✓ Correct — \"I want to walk in aligned, not debate this live in front of the board.\" is a Pre-wiring & building coalition chunk: used to quietly line up support and surface objections before a high-stakes meeting.\nExample: \"I want to walk in aligned on the numbers, not debate this live in front of the board.\"\nSimilar chunks:\n- I'd like to socialize this idea with a few people before it goes to committee.\n- Is there anything in here that would be a hard no for you? I'd rather know now than in the room.\n- Can I get five minutes with you before Thursday's meeting to preview this?"
+    },
+    {
+      "id": 53,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Before a high-stakes meeting, you want to quietly line up support and surface objections in advance. Which chunk fits best?",
+      "options": {
+        "A": "Before we bring this to the wider group, I wanted to get your read on it first.",
+        "B": "Is that a fact, or is that something we're assuming because it's always been done that way?",
+        "C": "The trade-off here is between speed and accuracy.",
+        "D": "Every decision we make has to serve the bigger picture."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Before we bring this to the wider group, I wanted to get your read on it first.\" is a Pre-wiring & building coalition chunk: used to quietly line up support and surface objections before a high-stakes meeting.\nExample: \"Before we bring this to the wider group, I wanted to get your read on the restructuring plan first.\"\nSimilar chunks:\n- I'd like to socialize this idea with a few people before it goes to committee.\n- Who else needs to be comfortable with this before we present it?\n- Is there anything in here that would be a hard no for you? I'd rather know now than in the room.\n\n✗ \"Is that a fact, or is that something we're assuming because it's always been done that way?\" belongs to Challenging assumptions — used to test an unverified assumption underlying a plan before the group commits to it, not this context.\nSimilar chunks:\n- I noticed we're treating this as certain — how confident are we, really?\n- Let's stress-test this before we bring it to the board.\n- I want to pressure-test an assumption we've all been making — that demand will stay flat.\n\n✗ \"The trade-off here is between speed and accuracy.\" belongs to Framing business context & trade-offs — used to frame a decision's business trade-offs clearly for a mixed technical/business audience, not this context.\nSimilar chunks:\n- On the surface it looks small, but it impacts logic, testing, and timelines.\n- From a business perspective, this impacts...\n- The objective of today's discussion is...\n\n✗ \"Every decision we make has to serve the bigger picture.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- Don't bring me problems without solutions.\n- Short-term loss, long-term position. That's the trade-off I'm willing to make.\n- This firm does not react. This firm leads."
+    },
+    {
+      "id": 54,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A senior leader is pushing back hard on your proposal, and you need to respond with confidence, not defensiveness. Which chunk fits best?",
+      "options": {
+        "A": "Let me manage that relationship for you. You focus on the deal.",
+        "B": "I hear the concern. Let me address it directly rather than around it.",
+        "C": "Let's find the 80% we agree on before we argue about the 20% we don't.",
+        "D": "If there's no objection in the next thirty seconds, I'll take that as agreement."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Let me manage that relationship for you. You focus on the deal.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- That's not going to happen, but here's what I can do instead.\n- You might want to rethink that before it becomes a problem.\n- I'm going to stop you right there.\n\n✓ Correct — \"I hear the concern. Let me address it directly rather than around it.\" is a Handling senior pushback chunk: used to respond to a senior leader's pushback with confidence, without becoming defensive.\nExample: \"I hear the concern about margin. Let me address it directly rather than around it.\"\nSimilar chunks:\n- You're right that there's real risk here — here's how we're planning to mitigate it.\n- That's a valid concern. Can I take that away and come back with a sharper answer by Friday?\n- That's a fair challenge — let me walk you through the reasoning, and please push back where it doesn't hold.\n\n✗ \"Let's find the 80% we agree on before we argue about the 20% we don't.\" belongs to De-escalating & finding common ground — used to defuse tension in a heated discussion by naming the shared underlying goal, not this context.\nSimilar chunks:\n- Can we agree on the goal first, and debate the method second?\n- Neither of us is wrong here — we're optimizing for different things.\n- I don't think this needs to be a zero-sum conversation.\n\n✗ \"If there's no objection in the next thirty seconds, I'll take that as agreement.\" belongs to Closing & gaining commitment — used to push a high-stakes discussion toward an actual, committed decision, not this context.\nSimilar chunks:\n- I want to leave this room with a decision, not just a good discussion.\n- Can we commit to this as the working plan, with a checkpoint in [timeframe] to revisit if needed?\n- What would you need to see to be comfortable signing off today rather than next week?"
+    },
+    {
+      "id": 55,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A senior leader is pushing back hard on your proposal, and you need to respond with confidence, not defensiveness. Which chunk fits best?",
+      "options": {
+        "A": "Can we separate the decision from the person who proposed it?",
+        "B": "I don't have a perfect answer, but here's the most defensible one given what we know today.",
+        "C": "Don't ask me to cut corners on something this important.",
+        "D": "Let's zoom out for a second — what are we actually trying to solve for?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Can we separate the decision from the person who proposed it?\" belongs to Reframing the issue — used to redirect a debate toward the question that actually matters, not this context.\nSimilar chunks:\n- Before we debate the solution, can we agree on what problem we're solving?\n- Let's put the timeline aside for a moment and talk about what 'done' actually looks like.\n- Let's zoom out for a second — what are we actually trying to solve for?\n\n✓ Correct — \"I don't have a perfect answer, but here's the most defensible one given what we know today.\" is a Handling senior pushback chunk: used to respond to a senior leader's pushback with confidence, without becoming defensive.\nExample: \"I don't have a perfect answer on churn, but here's the most defensible one given what we know today.\"\nSimilar chunks:\n- That's a valid concern. Can I take that away and come back with a sharper answer by Friday?\n- I'd rather surface the weak points myself than have them surface later — here's the biggest one.\n- That's a fair challenge — let me walk you through the reasoning, and please push back where it doesn't hold.\n\n✗ \"Don't ask me to cut corners on something this important.\" belongs to Setting boundaries & requiring respect — used to draw a firm, non-negotiable boundary in a negotiation without sounding hostile, not this context.\nSimilar chunks:\n- I need people on my team who want to be excellent, not just adequate.\n- I will not agree to something I haven't fully reviewed.\n- If we're doing this, we're doing it correctly. No shortcuts.\n\n✗ \"Let's zoom out for a second — what are we actually trying to solve for?\" belongs to Reframing the issue — used to redirect a debate toward the question that actually matters, not this context.\nSimilar chunks:\n- So far we've been treating this as a binary choice — but there might be a third option we haven't named yet.\n- Can we separate the decision from the person who proposed it?\n- I'd like to reframe this: it's not a cost question, it's a risk-allocation question."
+    },
+    {
+      "id": 56,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A senior leader is pushing back hard on your proposal, and you need to respond with confidence, not defensiveness. Which chunk fits best?",
+      "options": {
+        "A": "What we know so far is...",
+        "B": "If you had to bet, what would make you more confident in this direction?",
+        "C": "Let's park that thread and come back to it — I don't want to lose the main decision we need today.",
+        "D": "I'll look into it. That's the best I can offer you right now."
+      },
+      "correct": "B",
+      "explanation": "✗ \"What we know so far is...\" belongs to Confirming decisions & next steps — used to lock in a decision and assign clear owners before ending a business discussion, not this context.\nSimilar chunks:\n- If there's no objection, we'll proceed with this.\n- What problem are we trying to solve first?\n- Next steps are clear: X owns A, Y owns B.\n\n✓ Correct — \"If you had to bet, what would make you more confident in this direction?\" is a Handling senior pushback chunk: used to respond to a senior leader's pushback with confidence, without becoming defensive.\nExample: \"If you had to bet, what would make you more confident in this direction — more data, or a smaller pilot?\"\nSimilar chunks:\n- You're right that there's real risk here — here's how we're planning to mitigate it.\n- That's a valid concern. Can I take that away and come back with a sharper answer by Friday?\n- That's a fair challenge — let me walk you through the reasoning, and please push back where it doesn't hold.\n\n✗ \"Let's park that thread and come back to it — I don't want to lose the main decision we need today.\" belongs to Controlling the room — used to firmly steer a drifting high-stakes meeting back toward a decision, not this context.\nSimilar chunks:\n- We have three minutes left on this topic — let's make sure we land somewhere concrete.\n- I want to make sure every voice gets heard on this — what's your take?\n- I'll take the ownership question offline so we can keep moving.\n\n✗ \"I'll look into it. That's the best I can offer you right now.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- You might want to rethink that before it becomes a problem.\n- I appreciate you asking. The answer is still no.\n- The optics on this matter more than you think."
+    },
+    {
+      "id": 57,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A discussion is turning adversarial, and you want to defuse the tension by naming the shared goal. Which chunk fits best?",
+      "options": {
+        "A": "Who else needs to be comfortable with this before we present it?",
+        "B": "It sounds like we're both trying to protect the same thing, just from different angles.",
+        "C": "Where do you see the biggest risk in this argument?",
+        "D": "I want to make sure every voice gets heard on this — what's your take?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Who else needs to be comfortable with this before we present it?\" belongs to Pre-wiring & building coalition — used to quietly line up support and surface objections before a high-stakes meeting, not this context.\nSimilar chunks:\n- I want to walk in aligned, not debate this live in front of the board.\n- Can I get five minutes with you before Thursday's meeting to preview this?\n- Is there anything in here that would be a hard no for you? I'd rather know now than in the room.\n\n✓ Correct — \"It sounds like we're both trying to protect the same thing, just from different angles.\" is a De-escalating & finding common ground chunk: used to defuse tension in a heated discussion by naming the shared underlying goal.\nExample: \"It sounds like we're both trying to protect the customer relationship, just from different angles.\"\nSimilar chunks:\n- Let's find the 80% we agree on before we argue about the 20% we don't.\n- I don't think this needs to be a zero-sum conversation.\n- Can we agree on the goal first, and debate the method second?\n\n✗ \"Where do you see the biggest risk in this argument?\" belongs to Exposing logic gaps without attacking — used to surface a gap in someone's argument without putting them on the defensive, not this context.\nSimilar chunks:\n- I want to make sure this holds up — what's the strongest objection someone could raise to this?\n- I'm not seeing how we get from this data to that conclusion — can you connect the dots for me?\n- What happens to this plan if [specific condition] doesn't hold?\n\n✗ \"I want to make sure every voice gets heard on this — what's your take?\" belongs to Controlling the room — used to firmly steer a drifting high-stakes meeting back toward a decision, not this context.\nSimilar chunks:\n- Let's not let the exception drive the whole policy.\n- We have three minutes left on this topic — let's make sure we land somewhere concrete.\n- Let's park that thread and come back to it — I don't want to lose the main decision we need today."
+    },
+    {
+      "id": 58,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A discussion is turning adversarial, and you want to defuse the tension by naming the shared goal. Which chunk fits best?",
+      "options": {
+        "A": "That's a fair challenge — let me walk you through the reasoning, and please push back where it doesn't hold.",
+        "B": "Let's find the 80% we agree on before we argue about the 20% we don't.",
+        "C": "I'll take the ownership question offline so we can keep moving.",
+        "D": "What if we approach this from a completely different direction?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"That's a fair challenge — let me walk you through the reasoning, and please push back where it doesn't hold.\" belongs to Handling senior pushback — used to respond to a senior leader's pushback with confidence, without becoming defensive, not this context.\nSimilar chunks:\n- I'd rather surface the weak points myself than have them surface later — here's the biggest one.\n- I don't have a perfect answer, but here's the most defensible one given what we know today.\n- If you had to bet, what would make you more confident in this direction?\n\n✓ Correct — \"Let's find the 80% we agree on before we argue about the 20% we don't.\" is a De-escalating & finding common ground chunk: used to defuse tension in a heated discussion by naming the shared underlying goal.\nExample: \"Let's find the 80% we agree on in this contract before we argue about the 20% we don't.\"\nSimilar chunks:\n- Can we agree on the goal first, and debate the method second?\n- I don't think this needs to be a zero-sum conversation.\n- It sounds like we're both trying to protect the same thing, just from different angles.\n\n✗ \"I'll take the ownership question offline so we can keep moving.\" belongs to Controlling the room — used to firmly steer a drifting high-stakes meeting back toward a decision, not this context.\nSimilar chunks:\n- I want to make sure every voice gets heard on this — what's your take?\n- Let's park that thread and come back to it — I don't want to lose the main decision we need today.\n- Let's not let the exception drive the whole policy.\n\n✗ \"What if we approach this from a completely different direction?\" belongs to Persuading through logic & analysis — used to persuade someone by walking them through data and reasoning, step by step, not this context.\nSimilar chunks:\n- Before we go any further, I need to flag something important.\n- Technically speaking, you're right — but practically, it doesn't hold.\n- I've thought about this carefully and I stand by it."
+    },
+    {
+      "id": 59,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A discussion is turning adversarial, and you want to defuse the tension by naming the shared goal. Which chunk fits best?",
+      "options": {
+        "A": "Let's not let the exception drive the whole policy.",
+        "B": "I appreciate you asking. The answer is still no.",
+        "C": "From a business perspective, this impacts...",
+        "D": "Neither of us is wrong here — we're optimizing for different things."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let's not let the exception drive the whole policy.\" belongs to Controlling the room — used to firmly steer a drifting high-stakes meeting back toward a decision, not this context.\nSimilar chunks:\n- Before we go further, can we align on what decision we actually need to leave this room with?\n- We have three minutes left on this topic — let's make sure we land somewhere concrete.\n- I want to make sure every voice gets heard on this — what's your take?\n\n✗ \"I appreciate you asking. The answer is still no.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- Let's handle this quietly before it becomes loud.\n- I'm going to stop you right there.\n- That's not going to happen, but here's what I can do instead.\n\n✗ \"From a business perspective, this impacts...\" belongs to Framing business context & trade-offs — used to frame a decision's business trade-offs clearly for a mixed technical/business audience, not this context.\nSimilar chunks:\n- The objective of today's discussion is...\n- Let me set the baseline so we're aligned.\n- That works technically, but it creates this user impact.\n\n✓ Correct — \"Neither of us is wrong here — we're optimizing for different things.\" is a De-escalating & finding common ground chunk: used to defuse tension in a heated discussion by naming the shared underlying goal.\nExample: \"Neither of us is wrong here — we're optimizing for different things, speed versus long-term stability.\"\nSimilar chunks:\n- It sounds like we're both trying to protect the same thing, just from different angles.\n- Can we agree on the goal first, and debate the method second?\n- I don't think this needs to be a zero-sum conversation."
+    },
+    {
+      "id": 60,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've made your case in a high-stakes discussion and now need to push the group toward an actual, committed decision. Which chunk fits best?",
+      "options": {
+        "A": "Where do you see the biggest risk in this argument?",
+        "B": "Let's not let perfect be the enemy of good here — are we comfortable moving forward with 80% confidence?",
+        "C": "Confidence isn't arrogance. It's preparation.",
+        "D": "Before we debate the solution, can we agree on what problem we're solving?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Where do you see the biggest risk in this argument?\" belongs to Exposing logic gaps without attacking — used to surface a gap in someone's argument without putting them on the defensive, not this context.\nSimilar chunks:\n- I'm not seeing how we get from this data to that conclusion — can you connect the dots for me?\n- That logic works at a high level — does it still hold when you apply it to [specific case]?\n- Walk me through how that would actually play out in practice.\n\n✓ Correct — \"Let's not let perfect be the enemy of good here — are we comfortable moving forward with 80% confidence?\" is a Closing & gaining commitment chunk: used to push a high-stakes discussion toward an actual, committed decision.\nExample: \"Let's not let perfect be the enemy of good here — are we comfortable moving forward with 80% confidence on the launch date?\"\nSimilar chunks:\n- So it sounds like we're aligned on direction — can we call this decided?\n- If there's no objection in the next thirty seconds, I'll take that as agreement.\n- Who owns the next step, and by when?\n\n✗ \"Confidence isn't arrogance. It's preparation.\" belongs to Assertive positioning & control — used to project confidence and control in a high-stakes negotiation, not this context.\nSimilar chunks:\n- If you walk in that room looking nervous, you've already lost.\n- Stop thinking about what could go wrong. Think about what needs to go right.\n- I don't care what the other side wants. What do we need?\n\n✗ \"Before we debate the solution, can we agree on what problem we're solving?\" belongs to Reframing the issue — used to redirect a debate toward the question that actually matters, not this context.\nSimilar chunks:\n- Rather than asking 'should we do this,' I think the more useful question is 'what would need to be true for this to work.'\n- I think the real question here isn't X, it's Y.\n- I'd like to reframe this: it's not a cost question, it's a risk-allocation question."
+    },
+    {
+      "id": 61,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've made your case in a high-stakes discussion and now need to push the group toward an actual, committed decision. Which chunk fits best?",
+      "options": {
+        "A": "Let's stress-test this before we bring it to the board.",
+        "B": "Neither of us is wrong here — we're optimizing for different things.",
+        "C": "Technically speaking, you're right — but practically, it doesn't hold.",
+        "D": "If there's no objection in the next thirty seconds, I'll take that as agreement."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let's stress-test this before we bring it to the board.\" belongs to Challenging assumptions — used to test an unverified assumption underlying a plan before the group commits to it, not this context.\nSimilar chunks:\n- If we're wrong about that one assumption, does the whole plan fall apart?\n- Where does that number actually come from?\n- I want to pressure-test an assumption we've all been making — that demand will stay flat.\n\n✗ \"Neither of us is wrong here — we're optimizing for different things.\" belongs to De-escalating & finding common ground — used to defuse tension in a heated discussion by naming the shared underlying goal, not this context.\nSimilar chunks:\n- I don't think this needs to be a zero-sum conversation.\n- It sounds like we're both trying to protect the same thing, just from different angles.\n- I think we actually want the same outcome here — we just disagree on the path.\n\n✗ \"Technically speaking, you're right — but practically, it doesn't hold.\" belongs to Persuading through logic & analysis — used to persuade someone by walking them through data and reasoning, step by step, not this context.\nSimilar chunks:\n- With all due respect, I think we're looking at the wrong problem.\n- Before we go any further, I need to flag something important.\n- That argument works in theory, but not in practice.\n\n✓ Correct — \"If there's no objection in the next thirty seconds, I'll take that as agreement.\" is a Closing & gaining commitment chunk: used to push a high-stakes discussion toward an actual, committed decision.\nExample: \"If there's no objection in the next thirty seconds, I'll take that as agreement on the new pricing tier.\"\nSimilar chunks:\n- Can we commit to this as the working plan, with a checkpoint in [timeframe] to revisit if needed?\n- I want to leave this room with a decision, not just a good discussion.\n- Who owns the next step, and by when?"
+    },
+    {
+      "id": 62,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've made your case in a high-stakes discussion and now need to push the group toward an actual, committed decision. Which chunk fits best?",
+      "options": {
+        "A": "I've already handled it. You're welcome.",
+        "B": "Can we commit to this as the working plan, with a checkpoint in [timeframe] to revisit if needed?",
+        "C": "Where does that number actually come from?",
+        "D": "Don't win the battle and lose the war."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I've already handled it. You're welcome.\" belongs to Reading the room & tactful handling — used to handle a sensitive situation with tact, without escalating it, not this context.\nSimilar chunks:\n- I appreciate you asking. The answer is still no.\n- Let's handle this quietly before it becomes loud.\n- The optics on this matter more than you think.\n\n✓ Correct — \"Can we commit to this as the working plan, with a checkpoint in [timeframe] to revisit if needed?\" is a Closing & gaining commitment chunk: used to push a high-stakes discussion toward an actual, committed decision.\nExample: \"Can we commit to this as the working plan, with a checkpoint in six weeks to revisit if needed?\"\nSimilar chunks:\n- What would you need to see to be comfortable signing off today rather than next week?\n- I want to leave this room with a decision, not just a good discussion.\n- So it sounds like we're aligned on direction — can we call this decided?\n\n✗ \"Where does that number actually come from?\" belongs to Challenging assumptions — used to test an unverified assumption underlying a plan before the group commits to it, not this context.\nSimilar chunks:\n- What would have to change for that assumption to no longer hold?\n- I noticed we're treating this as certain — how confident are we, really?\n- What has to be true for this plan to succeed?\n\n✗ \"Don't win the battle and lose the war.\" belongs to Decisive leadership & vision — used by a leader to make a hard call and rally the team behind it with conviction, not this context.\nSimilar chunks:\n- Don't bring me problems without solutions.\n- We are not playing catch-up. We are setting the pace.\n- Think two moves ahead. Always."
+    }
+  ]
+}

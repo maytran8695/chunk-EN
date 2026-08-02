@@ -1,0 +1,706 @@
+{
+  "examId": "meetings-collaboration",
+  "title": "Chunk Atlas — Situations: Meetings & Collaboration",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just joined a meeting and need to open it by giving people context before diving into content. Which chunk fits best?",
+      "options": {
+        "A": "Shall we start?",
+        "B": "You still there?",
+        "C": "I need more time to think and will let you know later.",
+        "D": "When works for you next?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Shall we start?\" is an Opening & framing the meeting chunk: used to open a meeting by giving context or background before the main content.\nExample: \"Shall we start, or is anyone still waiting on a dial-in?\"\nSimilar chunks:\n- In our previous meeting, we noticed..., and today's goal is to discuss...\n- Let's take a quick look at the agenda.\n- Alright team, let's wait a few more minutes for the rest of the team to join the call.\n\n✗ \"You still there?\" belongs to Tech glitches on call — used to flag a technical glitch or connection issue during a call, not this context.\nSimilar chunks:\n- Hey, we lost connection — want to pick up where we left off?\n- ...you just dropped — can you hear me?\n- Hang on — can you say that again? Not sure I caught it.\n\n✗ \"I need more time to think and will let you know later.\" belongs to Buying time — used to stall briefly or postpone an answer when you're not ready to respond, not this context.\nSimilar chunks:\n- That's a good question, let me double-check and get back to you after this session.\n- Two minutes — I'll ping the PO now.\n- My initial thought is...\n\n✗ \"When works for you next?\" belongs to Personal check-in & texting — used to gently check in on a colleague who's gone quiet in chat or on a call, not this context.\nSimilar chunks:\n- Let me switch devices.\n- Take your time. I'll wait. No rush.\n- Looks like you're typing."
+    },
+    {
+      "id": 2,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just joined a meeting and need to open it by giving people context before diving into content. Which chunk fits best?",
+      "options": {
+        "A": "So our approach has always been: build what we're asked to build.",
+        "B": "Before we dive in, let me briefly set the context, so we're all on the same page.",
+        "C": "There is no try — take it and commit, or don't take it at all.",
+        "D": "When works for you next?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"So our approach has always been: build what we're asked to build.\" belongs to Proposing & explaining ideas — used to propose a possible solution or approach without sounding overly definite, not this context.\nSimilar chunks:\n- Here's the thing\n- Here's why\n- One way to handle this would be...\n\n✓ Correct — \"Before we dive in, let me briefly set the context, so we're all on the same page.\" is an Opening & framing the meeting chunk: used to open a meeting by giving context or background before the main content.\nExample: \"Before we dive in, let me briefly set the context, so we're all on the same page about the vendor delay.\"\nSimilar chunks:\n- Alright team, let's wait a few more minutes for the rest of the team to join the call.\n- Before we dive in, let me briefly outline the background, so we're all on the same page.\n- The goal of this meeting is...\n\n✗ \"There is no try — take it and commit, or don't take it at all.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- Fully committed.\n- If it's a massive piece of work, I think the idea is not to do it.\n- That's not how I operate.\n\n✗ \"When works for you next?\" belongs to Personal check-in & texting — used to gently check in on a colleague who's gone quiet in chat or on a call, not this context.\nSimilar chunks:\n- Everything okay on your end?\n- No worries — I'll let you go. Just text me when you're free.\n- Let me switch devices."
+    },
+    {
+      "id": 3,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just joined a meeting and need to open it by giving people context before diving into content. Which chunk fits best?",
+      "options": {
+        "A": "Let me switch devices.",
+        "B": "Take your time. I'll wait. No rush.",
+        "C": "How would this behave in X situation?",
+        "D": "Alright team, let's wait a few more minutes for the rest of the team to join the call."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let me switch devices.\" belongs to Personal check-in & texting — used to gently check in on a colleague who's gone quiet in chat or on a call, not this context.\nSimilar chunks:\n- I see you're typing.\n- When works for you next?\n- Looks like you're typing.\n\n✗ \"Take your time. I'll wait. No rush.\" belongs to Personal check-in & texting — used to gently check in on a colleague who's gone quiet in chat or on a call, not this context.\nSimilar chunks:\n- I see you're typing.\n- Let me switch devices.\n- Hey are you still there? Or did I lose you?\n\n✗ \"How would this behave in X situation?\" belongs to Probing scope, outcomes & follow-up — used to probe the scope, outcome, or current relevance of a requirement or task, not this context.\nSimilar chunks:\n- What if we...?\n- What's the expected outcome here?\n- Are these now the new top priority?\n\n✓ Correct — \"Alright team, let's wait a few more minutes for the rest of the team to join the call.\" is an Opening & framing the meeting chunk: used to open a meeting by giving context or background before the main content.\nExample: \"Alright team, let's wait a few more minutes for the rest of the team to join the call before we start.\"\nSimilar chunks:\n- Before we dive in, let me briefly set the context, so we're all on the same page.\n- Shall we get started?\n- Over the past few weeks, we've noticed..., and today's goal is to discuss..."
+    },
+    {
+      "id": 4,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just joined a meeting and need to open it by giving people context before diving into content. Which chunk fits best?",
+      "options": {
+        "A": "I'll take that as no.",
+        "B": "That's the overall flow — dive into this, the steps would be: ...",
+        "C": "There is no try — take it and commit, or don't take it at all.",
+        "D": "In our previous meeting, we noticed..., and today's goal is to discuss..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'll take that as no.\" belongs to Closing & next steps — used to wrap up a meeting and confirm there's nothing left before closing, not this context.\nSimilar chunks:\n- What does success look like at the end of this?\n- So we're agreed. Let's not revisit this.\n- Let's table that and come back to it at the end.\n\n✗ \"That's the overall flow — dive into this, the steps would be: ...\" belongs to Proposing & explaining ideas — used to propose a possible solution or approach without sounding overly definite, not this context.\nSimilar chunks:\n- Here's why\n- Here's the thing\n- We might want to consider...\n\n✗ \"There is no try — take it and commit, or don't take it at all.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- Fully allocated.\n- Out of scope for now — we're de-prioritising that until somebody asks for it.\n- I do apologise for the stress this causes.\n\n✓ Correct — \"In our previous meeting, we noticed..., and today's goal is to discuss...\" is an Opening & framing the meeting chunk: used to open a meeting by giving context or background before the main content.\nExample: \"In our previous meeting, we noticed the API latency spike, and today's goal is to discuss the fix timeline.\"\nSimilar chunks:\n- I'll start with a quick overview of the background, then we'll go through the key points on the agenda and open it up for discussion.\n- Let's take a quick look at the agenda.\n- Alright team, let's wait a few more minutes for the rest of the team to join the call."
+    },
+    {
+      "id": 5,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're waiting for the meeting to formally start and want to open with some light, friendly small talk. Which chunk fits best?",
+      "options": {
+        "A": "If there are no further comments, I'll wrap this up and move forward with the next steps.",
+        "B": "This is blocked by...",
+        "C": "...you just dropped — can you hear me?",
+        "D": "That's amazing."
+      },
+      "correct": "D",
+      "explanation": "✗ \"If there are no further comments, I'll wrap this up and move forward with the next steps.\" belongs to Closing & next steps — used to wrap up a meeting and confirm there's nothing left before closing, not this context.\nSimilar chunks:\n- Before I conclude, does anyone have any questions or concerns?\n- I'll circle back once it's confirmed.\n- I want that in the minutes.\n\n✗ \"This is blocked by...\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- I'll flag it — the PO will see it and we can sort it later.\n- We're on track for...\n- I'm currently lining things up for...\n\n✗ \"...you just dropped — can you hear me?\" belongs to Tech glitches on call — used to flag a technical glitch or connection issue during a call, not this context.\nSimilar chunks:\n- You still with me?\n- Hey, we lost connection — want to pick up where we left off?\n- You still there?\n\n✓ Correct — \"That's amazing.\" is a Small talk & warm-up chunk: used for light social small talk before a meeting officially starts.\nExample: \"That's amazing, I've always wanted to visit Sapa.\"\nSimilar chunks:\n- You look refreshed.\n- Welcome back! How was your holiday?\n- Great to hear."
+    },
+    {
+      "id": 6,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're waiting for the meeting to formally start and want to open with some light, friendly small talk. Which chunk fits best?",
+      "options": {
+        "A": "Here's what I think — here's what to do.",
+        "B": "Does this make sense to you?",
+        "C": "Welcome back! How was your holiday?",
+        "D": "I need more time to think and will let you know later."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Here's what I think — here's what to do.\" belongs to Proposing & explaining ideas — used to propose a possible solution or approach without sounding overly definite, not this context.\nSimilar chunks:\n- Here's why\n- So our approach has always been: build what we're asked to build.\n- One possible option could be to...\n\n✗ \"Does this make sense to you?\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- As I understand it, ...\n- That sounds slightly different from what we discussed earlier.\n- Did I get that right?\n\n✓ Correct — \"Welcome back! How was your holiday?\" is a Small talk & warm-up chunk: used for light social small talk before a meeting officially starts.\nExample: \"Welcome back! How was your holiday? I heard you went to Da Nang.\"\nSimilar chunks:\n- That's amazing.\n- Great to hear.\n- You look refreshed.\n\n✗ \"I need more time to think and will let you know later.\" belongs to Buying time — used to stall briefly or postpone an answer when you're not ready to respond, not this context.\nSimilar chunks:\n- I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day.\n- Let me think about that for a second.\n- Oops, bear with me."
+    },
+    {
+      "id": 7,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to make sure you've correctly understood what a colleague just explained. Which chunk fits best?",
+      "options": {
+        "A": "Nothing else from my side.",
+        "B": "That's a good question, let me double-check and get back to you after this session.",
+        "C": "One way to handle this would be...",
+        "D": "Let me confirm I understood it correctly."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Nothing else from my side.\" belongs to Closing & next steps — used to wrap up a meeting and confirm there's nothing left before closing, not this context.\nSimilar chunks:\n- Anything else? Or are we good to wrap?\n- Any final thoughts?\n- Before I conclude, does anyone have any questions or concerns?\n\n✗ \"That's a good question, let me double-check and get back to you after this session.\" belongs to Buying time — used to stall briefly or postpone an answer when you're not ready to respond, not this context.\nSimilar chunks:\n- I'm not ignoring you, I'm just thinking.\n- Let me think about that for a second.\n- I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day.\n\n✗ \"One way to handle this would be...\" belongs to Proposing & explaining ideas — used to propose a possible solution or approach without sounding overly definite, not this context.\nSimilar chunks:\n- One possible option could be to...\n- It might make more sense to...\n- Here's why\n\n✓ Correct — \"Let me confirm I understood it correctly.\" is a Clarifying & confirming understanding chunk: used to check or confirm that you've correctly understood what was just said.\nExample: \"Let me confirm I understood it correctly: we're pausing the campaign, not cancelling it.\"\nSimilar chunks:\n- Could you quickly recap that for us?\n- Just to align, are we saying that...?\n- Sorry, could you please go over the last point again?"
+    },
+    {
+      "id": 8,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to make sure you've correctly understood what a colleague just explained. Which chunk fits best?",
+      "options": {
+        "A": "From my understanding, ...",
+        "B": "That's a fair point, though I have some concerns.",
+        "C": "Out of scope for now — we're de-prioritising that until somebody asks for it.",
+        "D": "I see where you're coming from, but I think the real issue is..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"From my understanding, ...\" is a Clarifying & confirming understanding chunk: used to check or confirm that you've correctly understood what was just said.\nExample: \"From my understanding, the migration is scheduled for next Friday, not this one.\"\nSimilar chunks:\n- Correct me if I'm wrong, but...\n- As I understand it, ...\n- Maybe I'm missing something, but why do we...?\n\n✗ \"That's a fair point, though I have some concerns.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- I understand the logic, though I have some concerns.\n- Let's pressure-test that idea.\n- With all due respect, I think we're looking at the wrong problem.\n\n✗ \"Out of scope for now — we're de-prioritising that until somebody asks for it.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- I do apologise for the stress this causes.\n- Taking on these items would put our current commitments at risk.\n- Fully allocated.\n\n✗ \"I see where you're coming from, but I think the real issue is...\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- I'm not convinced that's the best approach.\n- I hear what you're saying, and I'd agree if the numbers backed it up.\n- I see your point, but I'm a bit concerned about XXX."
+    },
+    {
+      "id": 9,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to make sure you've correctly understood what a colleague just explained. Which chunk fits best?",
+      "options": {
+        "A": "That's the overall flow — dive into this, the steps would be: ...",
+        "B": "What if we...?",
+        "C": "I wish I could — but I'm not the owner. If I decide and it flips later, we're both in trouble.",
+        "D": "Am I correct?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"That's the overall flow — dive into this, the steps would be: ...\" belongs to Proposing & explaining ideas — used to propose a possible solution or approach without sounding overly definite, not this context.\nSimilar chunks:\n- Here's what I think — here's what to do.\n- Here's how\n- One possible option could be to...\n\n✗ \"What if we...?\" belongs to Probing scope, outcomes & follow-up — used to probe the scope, outcome, or current relevance of a requirement or task, not this context.\nSimilar chunks:\n- Let's say...\n- What's the expected outcome here?\n- Is this still relevant?\n\n✗ \"I wish I could — but I'm not the owner. If I decide and it flips later, we're both in trouble.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- I'm pretty tied up with project tasks and can't take on any more work right now.\n- That's not how I operate.\n- Look, I'm not allowed to decide on requirements — that's the PO's scope. I'll take your question, pass it to her, and update you once I have an answer.\n\n✓ Correct — \"Am I correct?\" is a Clarifying & confirming understanding chunk: used to check or confirm that you've correctly understood what was just said.\nExample: \"You're saying the outage only affected EU customers — am I correct?\"\nSimilar chunks:\n- Just to align, are we saying that...?\n- Let me confirm I understood it correctly.\n- Sorry, could you please go over the last point again?"
+    },
+    {
+      "id": 10,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to make sure you've correctly understood what a colleague just explained. Which chunk fits best?",
+      "options": {
+        "A": "Before we dive in, let me briefly set the context, so we're all on the same page.",
+        "B": "As I understand it, ...",
+        "C": "If there are no further comments, I'll wrap this up and move forward with the next steps.",
+        "D": "In our previous meeting, we noticed..., and today's goal is to discuss..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Before we dive in, let me briefly set the context, so we're all on the same page.\" belongs to Opening & framing the meeting — used to open a meeting by giving context or background before the main content, not this context.\nSimilar chunks:\n- Let's get started.\n- Before we dive in, let me briefly outline the background, so we're all on the same page.\n- Shall we get started?\n\n✓ Correct — \"As I understand it, ...\" is a Clarifying & confirming understanding chunk: used to check or confirm that you've correctly understood what was just said.\nExample: \"As I understand it, the client wants the invoice logic changed before the next release.\"\nSimilar chunks:\n- Did I get that right?\n- Am I correct?\n- Does that make sense so far?\n\n✗ \"If there are no further comments, I'll wrap this up and move forward with the next steps.\" belongs to Closing & next steps — used to wrap up a meeting and confirm there's nothing left before closing, not this context.\nSimilar chunks:\n- That's settled. Next item.\n- So we're agreed. Let's not revisit this.\n- I want that in the minutes.\n\n✗ \"In our previous meeting, we noticed..., and today's goal is to discuss...\" belongs to Opening & framing the meeting — used to open a meeting by giving context or background before the main content, not this context.\nSimilar chunks:\n- The goal of this meeting is...\n- Shall we give it a minute in case anyone else joins?\n- Shall we get started?"
+    },
+    {
+      "id": 11,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're reviewing a new requirement and want to understand its intended scope and outcome before committing. Which chunk fits best?",
+      "options": {
+        "A": "I'm not sure I agree.",
+        "B": "There is no try — take it and commit, or don't take it at all.",
+        "C": "Does that make sense so far?",
+        "D": "Let's say..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'm not sure I agree.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- There's another blind spot there.\n- I'm not saying you're wrong. I'm saying there's more to it.\n- Can we explore an alternative?\n\n✗ \"There is no try — take it and commit, or don't take it at all.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- That's not how I operate.\n- Look, I'm not allowed to decide on requirements — that's the PO's scope. I'll take your question, pass it to her, and update you once I have an answer.\n- We'd need to deprioritize existing work before we could pick these up.\n\n✗ \"Does that make sense so far?\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- Maybe I'm missing something, but why do we...?\n- That sounds slightly different from what we discussed earlier.\n- I'm not quite sure I understand it completely — could you help explain it in more detail, as if for a beginner?\n\n✓ Correct — \"Let's say...\" is a Probing scope, outcomes & follow-up chunk: used to probe the scope, outcome, or current relevance of a requirement or task.\nExample: \"Let's say the payment fails halfway through — what happens to the order status?\"\nSimilar chunks:\n- Are these now the new top priority?\n- How would this behave in X situation?\n- What's changed since last time?"
+    },
+    {
+      "id": 12,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're reviewing a new requirement and want to understand its intended scope and outcome before committing. Which chunk fits best?",
+      "options": {
+        "A": "As I understand it, ...",
+        "B": "There's another blind spot there.",
+        "C": "Is this still relevant?",
+        "D": "What problem are we trying to solve for the user with this requirement?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"As I understand it, ...\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- Maybe I'm missing something, but why do we...?\n- Sorry, could you please go over the last point again?\n- Correct me if I'm wrong, but...\n\n✗ \"There's another blind spot there.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- I'm not sure I agree.\n- That's a fair point, though I have some concerns.\n- I think we might be missing something.\n\n✓ Correct — \"Is this still relevant?\" is a Probing scope, outcomes & follow-up chunk: used to probe the scope, outcome, or current relevance of a requirement or task.\nExample: \"This ticket is from last quarter's roadmap — is this still relevant?\"\nSimilar chunks:\n- What if we...?\n- Are these now the new top priority?\n- How would this behave in X situation?\n\n✗ \"What problem are we trying to solve for the user with this requirement?\" belongs to Probing problem & risk before deciding — used to push the group to define the underlying problem and risks before committing to a solution, not this context.\nSimilar chunks:\n- The risk I see here is...\n- What specific outcomes are we expecting from this feature?\n- What are the potential downsides or unintended consequences if we implement this?"
+    },
+    {
+      "id": 13,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're reviewing a new requirement and want to understand its intended scope and outcome before committing. Which chunk fits best?",
+      "options": {
+        "A": "On which scenarios?",
+        "B": "That's a fair point, though I have some concerns.",
+        "C": "Fully committed.",
+        "D": "Fully allocated."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"On which scenarios?\" is a Probing scope, outcomes & follow-up chunk: used to probe the scope, outcome, or current relevance of a requirement or task.\nExample: \"You said it only applies sometimes — on which scenarios exactly?\"\nSimilar chunks:\n- What's the expected outcome here?\n- Is this still relevant?\n- What if we...?\n\n✗ \"That's a fair point, though I have some concerns.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- I think we might be missing something.\n- I'm not convinced that's the best approach.\n- That might be true, but...\n\n✗ \"Fully committed.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- That's not on the table.\n- Look, I'm not allowed to decide on requirements — that's the PO's scope. I'll take your question, pass it to her, and update you once I have an answer.\n- There is no try — take it and commit, or don't take it at all.\n\n✗ \"Fully allocated.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- We'd need to deprioritize existing work before we could pick these up.\n- Out of scope for now — we're de-prioritising that until somebody asks for it.\n- Fully committed."
+    },
+    {
+      "id": 14,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're reviewing a new requirement and want to understand its intended scope and outcome before committing. Which chunk fits best?",
+      "options": {
+        "A": "If it's a massive piece of work, I think the idea is not to do it.",
+        "B": "How would this behave in X situation?",
+        "C": "I see it slightly differently.",
+        "D": "Are we good to proceed with this?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"If it's a massive piece of work, I think the idea is not to do it.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- There is no try — take it and commit, or don't take it at all.\n- We'd need to deprioritize existing work before we could pick these up.\n- I wish I could — but I'm not the owner. If I decide and it flips later, we're both in trouble.\n\n✓ Correct — \"How would this behave in X situation?\" is a Probing scope, outcomes & follow-up chunk: used to probe the scope, outcome, or current relevance of a requirement or task.\nExample: \"How would this behave if a user submits the form twice in a row?\"\nSimilar chunks:\n- On which scenarios?\n- Are these now the new top priority?\n- Let's say...\n\n✗ \"I see it slightly differently.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- I'm not sure I agree.\n- I'm not saying you're wrong. I'm saying there's more to it.\n- I'd challenge that assumption.\n\n✗ \"Are we good to proceed with this?\" belongs to Closing & next steps — used to wrap up a meeting and confirm there's nothing left before closing, not this context.\nSimilar chunks:\n- I'll circle back once it's confirmed.\n- I want that in the minutes.\n- Cool. Let's wrap this up then. Thanks for your time."
+    },
+    {
+      "id": 15,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to propose a possible solution to the group without sounding overly definite. Which chunk fits best?",
+      "options": {
+        "A": "So our approach has always been: build what we're asked to build.",
+        "B": "Let's pressure-test that idea.",
+        "C": "You still with me?",
+        "D": "If there are no further comments, I'll wrap this up and move forward with the next steps."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"So our approach has always been: build what we're asked to build.\" is a Proposing & explaining ideas chunk: used to propose a possible solution or approach without sounding overly definite.\nExample: \"So our approach has always been: build what we're asked to build, and if they ask for more later, we'll build more then.\"\nSimilar chunks:\n- It might make more sense to...\n- One way to handle this would be...\n- One possible option could be to...\n\n✗ \"Let's pressure-test that idea.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- Can we explore an alternative?\n- I'm not convinced that's the best approach.\n- I see where you're coming from, but I think the real issue is...\n\n✗ \"You still with me?\" belongs to Tech glitches on call — used to flag a technical glitch or connection issue during a call, not this context.\nSimilar chunks:\n- ...you just dropped — can you hear me?\n- You still there?\n- Let's switch to chat, or I'll email you the rest?\n\n✗ \"If there are no further comments, I'll wrap this up and move forward with the next steps.\" belongs to Closing & next steps — used to wrap up a meeting and confirm there's nothing left before closing, not this context.\nSimilar chunks:\n- Any final thoughts?\n- Are we good to proceed with this?\n- Let's table that and come back to it at the end."
+    },
+    {
+      "id": 16,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to propose a possible solution to the group without sounding overly definite. Which chunk fits best?",
+      "options": {
+        "A": "Could you prioritize the rule-related tickets?",
+        "B": "Someone needs to own this.",
+        "C": "That might be true, but...",
+        "D": "That's the overall flow — dive into this, the steps would be: ..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Could you prioritize the rule-related tickets?\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- I'll flag this as a risk.\n- I'm currently lining things up for...\n- This one needs a bit more investigation.\n\n✗ \"Someone needs to own this.\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- We're on track for...\n- This is blocked by...\n- I need a concrete answer, not a general direction.\n\n✗ \"That might be true, but...\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- With all due respect, I think we're looking at the wrong problem.\n- I see your point, but I'm a bit concerned about XXX.\n- Can we explore an alternative?\n\n✓ Correct — \"That's the overall flow — dive into this, the steps would be: ...\" is a Proposing & explaining ideas chunk: used to propose a possible solution or approach without sounding overly definite.\nExample: \"That's the overall flow — dive into this, the steps would be: validate input, call the pricing service, then confirm the order.\"\nSimilar chunks:\n- Here's the thing\n- Here's what I think — here's what to do.\n- One way to handle this would be..."
+    },
+    {
+      "id": 17,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to propose a possible solution to the group without sounding overly definite. Which chunk fits best?",
+      "options": {
+        "A": "Look, I'm not allowed to decide on requirements — that's the PO's scope. I'll take your question, pass it to her, and update you once I have an answer.",
+        "B": "Here's why",
+        "C": "Is this still relevant?",
+        "D": "What does success look like at the end of this?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Look, I'm not allowed to decide on requirements — that's the PO's scope. I'll take your question, pass it to her, and update you once I have an answer.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- Out of scope for now — we're de-prioritising that until somebody asks for it.\n- If it's 10 minutes of work, yes. If it's half a day of work, then no.\n- There is no try — take it and commit, or don't take it at all.\n\n✓ Correct — \"Here's why\" is a Proposing & explaining ideas chunk: used to propose a possible solution or approach without sounding overly definite.\nExample: \"Here's why — the current schema can't support multi-currency pricing.\"\nSimilar chunks:\n- Here's how\n- That's the overall flow — dive into this, the steps would be: ...\n- We might want to consider...\n\n✗ \"Is this still relevant?\" belongs to Probing scope, outcomes & follow-up — used to probe the scope, outcome, or current relevance of a requirement or task, not this context.\nSimilar chunks:\n- Are these now the new top priority?\n- On which scenarios?\n- Let's say...\n\n✗ \"What does success look like at the end of this?\" belongs to Closing & next steps — used to wrap up a meeting and confirm there's nothing left before closing, not this context.\nSimilar chunks:\n- Let's table that and come back to it at the end.\n- So we're agreed. Let's not revisit this.\n- Any final thoughts?"
+    },
+    {
+      "id": 18,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to propose a possible solution to the group without sounding overly definite. Which chunk fits best?",
+      "options": {
+        "A": "Here's what I think — here's what to do.",
+        "B": "Sorry, could you please go over the last point again?",
+        "C": "Are we happy to move status to 'Ready to Code'?",
+        "D": "Before we dive in, let me briefly set the context, so we're all on the same page."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Here's what I think — here's what to do.\" is a Proposing & explaining ideas chunk: used to propose a possible solution or approach without sounding overly definite.\nExample: \"Here's what I think — here's what to do: freeze new tickets until the backlog is under twenty.\"\nSimilar chunks:\n- One way to handle this would be...\n- Here's the thing\n- So our approach has always been: build what we're asked to build.\n\n✗ \"Sorry, could you please go over the last point again?\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- I'm not quite sure I understand it completely — could you help explain it in more detail, as if for a beginner?\n- As I understand it, ...\n- Can you go back to the previous slide for a moment? I have a quick question there.\n\n✗ \"Are we happy to move status to 'Ready to Code'?\" belongs to Closing & next steps — used to wrap up a meeting and confirm there's nothing left before closing, not this context.\nSimilar chunks:\n- Nothing else from my side.\n- That's all from me.\n- So we're agreed. Let's not revisit this.\n\n✗ \"Before we dive in, let me briefly set the context, so we're all on the same page.\" belongs to Opening & framing the meeting — used to open a meeting by giving context or background before the main content, not this context.\nSimilar chunks:\n- Alright team, let's wait a few more minutes for the rest of the team to join the call.\n- I'll start with a quick overview of the background, then we'll go through the key points on the agenda and open it up for discussion.\n- The goal of this meeting is..."
+    },
+    {
+      "id": 19,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Before agreeing to a new requirement, you want the team to first pin down the underlying problem and its risks. Which chunk fits best?",
+      "options": {
+        "A": "I do apologise for the stress this causes.",
+        "B": "What if we...?",
+        "C": "Let's table that and come back to it at the end.",
+        "D": "What problem are we trying to solve for the user with this requirement?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"I do apologise for the stress this causes.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- There is no try — take it and commit, or don't take it at all.\n- Look, I'm not allowed to decide on requirements — that's the PO's scope. I'll take your question, pass it to her, and update you once I have an answer.\n- Fully committed.\n\n✗ \"What if we...?\" belongs to Probing scope, outcomes & follow-up — used to probe the scope, outcome, or current relevance of a requirement or task, not this context.\nSimilar chunks:\n- Let's say...\n- How would this behave in X situation?\n- What's the expected outcome here?\n\n✗ \"Let's table that and come back to it at the end.\" belongs to Closing & next steps — used to wrap up a meeting and confirm there's nothing left before closing, not this context.\nSimilar chunks:\n- Cool. Let's wrap this up then. Thanks for your time.\n- I'm done on my part. Over to you.\n- Anything else? Or are we good to wrap?\n\n✓ Correct — \"What problem are we trying to solve for the user with this requirement?\" is a Probing problem & risk before deciding chunk: used to push the group to define the underlying problem and risks before committing to a solution.\nExample: \"Before we build this, what problem are we trying to solve for the user with this requirement?\"\nSimilar chunks:\n- The risk I see here is...\n- What specific outcomes are we expecting from this feature?\n- What are the potential downsides or unintended consequences if we implement this?"
+    },
+    {
+      "id": 20,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Before agreeing to a new requirement, you want the team to first pin down the underlying problem and its risks. Which chunk fits best?",
+      "options": {
+        "A": "We're on track for...",
+        "B": "Let me think about that for a second.",
+        "C": "Two minutes — I'll ping the PO now.",
+        "D": "The risk I see here is..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"We're on track for...\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- Who owns this?\n- I need a concrete answer, not a general direction.\n- This one needs a bit more investigation.\n\n✗ \"Let me think about that for a second.\" belongs to Buying time — used to stall briefly or postpone an answer when you're not ready to respond, not this context.\nSimilar chunks:\n- My initial thought is...\n- I'm noting it down — give me a minute. I might not get it in the first call.\n- I'm not ignoring you, I'm just thinking.\n\n✗ \"Two minutes — I'll ping the PO now.\" belongs to Buying time — used to stall briefly or postpone an answer when you're not ready to respond, not this context.\nSimilar chunks:\n- Honestly? I need to double-check with the team. Can we hold this till morning?\n- I need more time to think and will let you know later.\n- Let me think about that for a second.\n\n✓ Correct — \"The risk I see here is...\" is a Probing problem & risk before deciding chunk: used to push the group to define the underlying problem and risks before committing to a solution.\nExample: \"The risk I see here is that we're optimizing for one customer segment at the expense of everyone else.\"\nSimilar chunks:\n- What specific outcomes are we expecting from this feature?\n- What are the potential downsides or unintended consequences if we implement this?\n- What problem are we trying to solve for the user with this requirement?"
+    },
+    {
+      "id": 21,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You disagree with a colleague's suggestion but want to push back without creating tension. Which chunk fits best?",
+      "options": {
+        "A": "This one needs a bit more investigation.",
+        "B": "Welcome back! How was your holiday?",
+        "C": "The risk I see here is...",
+        "D": "That works technically, but it creates this user impact."
+      },
+      "correct": "D",
+      "explanation": "✗ \"This one needs a bit more investigation.\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- I'm currently lining things up for...\n- We're on track for...\n- This is blocked by...\n\n✗ \"Welcome back! How was your holiday?\" belongs to Small talk & warm-up — used for light social small talk before a meeting officially starts, not this context.\nSimilar chunks:\n- You look refreshed.\n- That's amazing.\n- Great to hear.\n\n✗ \"The risk I see here is...\" belongs to Probing problem & risk before deciding — used to push the group to define the underlying problem and risks before committing to a solution, not this context.\nSimilar chunks:\n- What problem are we trying to solve for the user with this requirement?\n- What specific outcomes are we expecting from this feature?\n- What are the potential downsides or unintended consequences if we implement this?\n\n✓ Correct — \"That works technically, but it creates this user impact.\" is a Polite disagreement & pushback chunk: used to push back on a colleague's suggestion without creating tension.\nExample: \"That works technically, but it creates this user impact — customers would lose their saved carts.\"\nSimilar chunks:\n- I'm not convinced that's the best approach.\n- I think we might be missing something.\n- I'm not sure I agree."
+    },
+    {
+      "id": 22,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You disagree with a colleague's suggestion but want to push back without creating tension. Which chunk fits best?",
+      "options": {
+        "A": "That's the overall flow — dive into this, the steps would be: ...",
+        "B": "There's another blind spot there.",
+        "C": "What if we...?",
+        "D": "If it's 10 minutes of work, yes. If it's half a day of work, then no."
+      },
+      "correct": "B",
+      "explanation": "✗ \"That's the overall flow — dive into this, the steps would be: ...\" belongs to Proposing & explaining ideas — used to propose a possible solution or approach without sounding overly definite, not this context.\nSimilar chunks:\n- Here's what I think — here's what to do.\n- One way to handle this would be...\n- It might make more sense to...\n\n✓ Correct — \"There's another blind spot there.\" is a Polite disagreement & pushback chunk: used to push back on a colleague's suggestion without creating tension.\nExample: \"There's another blind spot there — we haven't tested this on the free tier accounts.\"\nSimilar chunks:\n- I'm not sure I agree.\n- That works technically, but it creates this user impact.\n- Can we explore an alternative?\n\n✗ \"What if we...?\" belongs to Probing scope, outcomes & follow-up — used to probe the scope, outcome, or current relevance of a requirement or task, not this context.\nSimilar chunks:\n- Are these now the new top priority?\n- What's changed since last time?\n- On which scenarios?\n\n✗ \"If it's 10 minutes of work, yes. If it's half a day of work, then no.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- Look, I'm not allowed to decide on requirements — that's the PO's scope. I'll take your question, pass it to her, and update you once I have an answer.\n- Taking on these items would put our current commitments at risk.\n- That's not how I operate."
+    },
+    {
+      "id": 23,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You disagree with a colleague's suggestion but want to push back without creating tension. Which chunk fits best?",
+      "options": {
+        "A": "Sorry, could you please go over the last point again?",
+        "B": "I'm pretty tied up with project tasks and can't take on any more work right now.",
+        "C": "I think we might be missing something.",
+        "D": "Does that make sense so far?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Sorry, could you please go over the last point again?\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- Am I correct?\n- From my understanding, ...\n- Can you go back to the previous slide for a moment? I have a quick question there.\n\n✗ \"I'm pretty tied up with project tasks and can't take on any more work right now.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- Fully allocated.\n- That's not how I operate.\n- If it's 10 minutes of work, yes. If it's half a day of work, then no.\n\n✓ Correct — \"I think we might be missing something.\" is a Polite disagreement & pushback chunk: used to push back on a colleague's suggestion without creating tension.\nExample: \"I think we might be missing something — the numbers don't add up to last quarter's report.\"\nSimilar chunks:\n- That's a fair point, though I have some concerns.\n- I'm not convinced that's the best approach.\n- I see your point, but I'm a bit concerned about XXX.\n\n✗ \"Does that make sense so far?\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- Maybe I'm missing something, but why do we...?\n- Earlier, you mentioned that XXX, but it seems a bit different here.\n- Could you quickly recap that for us?"
+    },
+    {
+      "id": 24,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You disagree with a colleague's suggestion but want to push back without creating tension. Which chunk fits best?",
+      "options": {
+        "A": "Bear with me a minute.",
+        "B": "There is no try — take it and commit, or don't take it at all.",
+        "C": "Can we explore an alternative?",
+        "D": "The risk I see here is..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Bear with me a minute.\" belongs to Buying time — used to stall briefly or postpone an answer when you're not ready to respond, not this context.\nSimilar chunks:\n- I need more time to think and will let you know later.\n- I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day.\n- My initial thought is...\n\n✗ \"There is no try — take it and commit, or don't take it at all.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- Taking on these items would put our current commitments at risk.\n- Fully committed.\n- We'd need to deprioritize existing work before we could pick these up.\n\n✓ Correct — \"Can we explore an alternative?\" is a Polite disagreement & pushback chunk: used to push back on a colleague's suggestion without creating tension.\nExample: \"Can we explore an alternative that doesn't require a full database migration?\"\nSimilar chunks:\n- Let's pressure-test that idea.\n- I understand the logic, though I have some concerns.\n- I hear what you're saying, and I'd agree if the numbers backed it up.\n\n✗ \"The risk I see here is...\" belongs to Probing problem & risk before deciding — used to push the group to define the underlying problem and risks before committing to a solution, not this context.\nSimilar chunks:\n- What problem are we trying to solve for the user with this requirement?\n- What specific outcomes are we expecting from this feature?\n- What are the potential downsides or unintended consequences if we implement this?"
+    },
+    {
+      "id": 25,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A manager keeps adding more work to your plate, and you need to set a boundary without being confrontational. Which chunk fits best?",
+      "options": {
+        "A": "Welcome back! How was your holiday?",
+        "B": "Look, I'm not allowed to decide on requirements — that's the PO's scope. I'll take your question, pass it to her, and update you once I have an answer.",
+        "C": "Will this be wrapped up before you're unavailable again on Wednesday?",
+        "D": "My initial thought is..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Welcome back! How was your holiday?\" belongs to Small talk & warm-up — used for light social small talk before a meeting officially starts, not this context.\nSimilar chunks:\n- That's amazing.\n- Great to hear.\n- You look refreshed.\n\n✓ Correct — \"Look, I'm not allowed to decide on requirements — that's the PO's scope. I'll take your question, pass it to her, and update you once I have an answer.\" is a Boundaries & pushback under pressure chunk: used to set a boundary or push back when asked to take on more work than is reasonable.\nExample: \"Look, I'm not allowed to decide on requirements — that's the PO's scope. I'll take your question, pass it to her, and update you once I have an answer, no shortcuts.\"\nSimilar chunks:\n- Taking on these items would put our current commitments at risk.\n- We'd need to deprioritize existing work before we could pick these up.\n- If it's 10 minutes of work, yes. If it's half a day of work, then no.\n\n✗ \"Will this be wrapped up before you're unavailable again on Wednesday?\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- I'm currently lining things up for...\n- This one needs a bit more investigation.\n- This is blocked by...\n\n✗ \"My initial thought is...\" belongs to Buying time — used to stall briefly or postpone an answer when you're not ready to respond, not this context.\nSimilar chunks:\n- I'm noting it down — give me a minute. I might not get it in the first call.\n- Two minutes — I'll ping the PO now.\n- Give me a second."
+    },
+    {
+      "id": 26,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A manager keeps adding more work to your plate, and you need to set a boundary without being confrontational. Which chunk fits best?",
+      "options": {
+        "A": "This is blocked by...",
+        "B": "We might want to consider...",
+        "C": "If it's 10 minutes of work, yes. If it's half a day of work, then no.",
+        "D": "Can you go back to the previous slide for a moment? I have a quick question there."
+      },
+      "correct": "C",
+      "explanation": "✗ \"This is blocked by...\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- We're on track for...\n- I need a concrete answer, not a general direction.\n- I'll flag this as a risk.\n\n✗ \"We might want to consider...\" belongs to Proposing & explaining ideas — used to propose a possible solution or approach without sounding overly definite, not this context.\nSimilar chunks:\n- Here's why\n- One way to handle this would be...\n- Here's the thing\n\n✓ Correct — \"If it's 10 minutes of work, yes. If it's half a day of work, then no.\" is a Boundaries & pushback under pressure chunk: used to set a boundary or push back when asked to take on more work than is reasonable.\nExample: \"If it's 10 minutes of work, yes, I can squeeze it in. If it's half a day of work, then no, not this week.\"\nSimilar chunks:\n- That's not on the table.\n- I'm pretty tied up with project tasks and can't take on any more work right now.\n- Fully allocated.\n\n✗ \"Can you go back to the previous slide for a moment? I have a quick question there.\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- Does that make sense so far?\n- Let me confirm I understood it correctly.\n- Could you quickly recap that for us?"
+    },
+    {
+      "id": 27,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A manager keeps adding more work to your plate, and you need to set a boundary without being confrontational. Which chunk fits best?",
+      "options": {
+        "A": "I'll flag this as a risk.",
+        "B": "Maybe I'm missing something, but why do we...?",
+        "C": "I'm pretty tied up with project tasks and can't take on any more work right now.",
+        "D": "I'm currently lining things up for..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I'll flag this as a risk.\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- I'll flag it — the PO will see it and we can sort it later.\n- I'm currently lining things up for...\n- I need a concrete answer, not a general direction.\n\n✗ \"Maybe I'm missing something, but why do we...?\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- Does this make sense to you?\n- Could you quickly recap that for us?\n- Can you go back to the previous slide for a moment? I have a quick question there.\n\n✓ Correct — \"I'm pretty tied up with project tasks and can't take on any more work right now.\" is a Boundaries & pushback under pressure chunk: used to set a boundary or push back when asked to take on more work than is reasonable.\nExample: \"I'm pretty tied up with project tasks this sprint and can't take on any more work right now.\"\nSimilar chunks:\n- If it's 10 minutes of work, yes. If it's half a day of work, then no.\n- I do apologise for the stress this causes.\n- That's not how I operate.\n\n✗ \"I'm currently lining things up for...\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- Could you prioritize the rule-related tickets?\n- There's nothing new on this, apart from other tickets.\n- Someone needs to own this."
+    },
+    {
+      "id": 28,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A manager keeps adding more work to your plate, and you need to set a boundary without being confrontational. Which chunk fits best?",
+      "options": {
+        "A": "Fully committed.",
+        "B": "If there are no further comments, I'll wrap this up and move forward with the next steps.",
+        "C": "I think we might be missing something.",
+        "D": "Hang on — can you say that again? Not sure I caught it."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Fully committed.\" is a Boundaries & pushback under pressure chunk: used to set a boundary or push back when asked to take on more work than is reasonable.\nExample: \"The whole team is fully committed through the end of this sprint.\"\nSimilar chunks:\n- Out of scope for now — we're de-prioritising that until somebody asks for it.\n- If it's a massive piece of work, I think the idea is not to do it.\n- That's not how I operate.\n\n✗ \"If there are no further comments, I'll wrap this up and move forward with the next steps.\" belongs to Closing & next steps — used to wrap up a meeting and confirm there's nothing left before closing, not this context.\nSimilar chunks:\n- Are we good to proceed with this?\n- So we're agreed. Let's not revisit this.\n- Appreciate your input on this.\n\n✗ \"I think we might be missing something.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- I hear what you're saying, and I'd agree if the numbers backed it up.\n- I'm not saying you're wrong. I'm saying there's more to it.\n- That might be true, but...\n\n✗ \"Hang on — can you say that again? Not sure I caught it.\" belongs to Tech glitches on call — used to flag a technical glitch or connection issue during a call, not this context.\nSimilar chunks:\n- Hey, we lost connection — want to pick up where we left off?\n- You still with me?\n- You still there?"
+    },
+    {
+      "id": 29,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just been asked a question you're not ready to answer and need a moment before responding. Which chunk fits best?",
+      "options": {
+        "A": "Sorry, could you please go over the last point again?",
+        "B": "Who owns this?",
+        "C": "Let's switch to chat, or I'll email you the rest?",
+        "D": "I need more time to think and will let you know later."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Sorry, could you please go over the last point again?\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- Does that make sense so far?\n- Does this make sense to you?\n- Does that match your expectation?\n\n✗ \"Who owns this?\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- Could you prioritize the rule-related tickets?\n- We're on track for...\n- I don't expect many major changes, apart from what we already discussed.\n\n✗ \"Let's switch to chat, or I'll email you the rest?\" belongs to Tech glitches on call — used to flag a technical glitch or connection issue during a call, not this context.\nSimilar chunks:\n- You still there?\n- A bit of lag — froze for a moment, let me refresh and brb.\n- You still with me?\n\n✓ Correct — \"I need more time to think and will let you know later.\" is a Buying time chunk: used to stall briefly or postpone an answer when you're not ready to respond.\nExample: \"I need more time to think about the trade-offs here and will let you know later today.\"\nSimilar chunks:\n- That's a good question, let me take this offline and get back to you after this session.\n- Honestly? I need to double-check with the team. Can we hold this till morning?\n- Let me think about that for a second."
+    },
+    {
+      "id": 30,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just been asked a question you're not ready to answer and need a moment before responding. Which chunk fits best?",
+      "options": {
+        "A": "I'm not sure I agree.",
+        "B": "That's a good question, let me take this offline and get back to you after this session.",
+        "C": "I'm currently lining things up for...",
+        "D": "There's nothing new on this, apart from other tickets."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'm not sure I agree.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- That might be true, but...\n- I see where you're coming from, but I think the real issue is...\n- I see your point, but I'm a bit concerned about XXX.\n\n✓ Correct — \"That's a good question, let me take this offline and get back to you after this session.\" is a Buying time chunk: used to stall briefly or postpone an answer when you're not ready to respond.\nExample: \"That's a good question about data retention, let me take this offline and get back to you after this session.\"\nSimilar chunks:\n- I need more time to think and will let you know later.\n- I'm not 100% sure on that — let me run it by engineering real quick. I'll have an answer by tomorrow.\n- I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day.\n\n✗ \"I'm currently lining things up for...\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- Could you prioritize the rule-related tickets?\n- This is blocked by...\n- I'll flag it — the PO will see it and we can sort it later.\n\n✗ \"There's nothing new on this, apart from other tickets.\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- Who owns this?\n- We're on track for...\n- This one needs a bit more investigation."
+    },
+    {
+      "id": 31,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just been asked a question you're not ready to answer and need a moment before responding. Which chunk fits best?",
+      "options": {
+        "A": "Let's stick to the agenda.",
+        "B": "That might be true, but...",
+        "C": "Let me think about that for a second.",
+        "D": "Will this be wrapped up before you're unavailable again on Wednesday?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Let's stick to the agenda.\" belongs to Staying focused / steering back — used to bring a drifting discussion back to the main agenda item, not this context.\nSimilar chunks:\n- Let's stay focused.\n- One thing at a time.\n\n✗ \"That might be true, but...\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- There's another blind spot there.\n- I see where you're coming from, but I think the real issue is...\n- I'm not sure I agree.\n\n✓ Correct — \"Let me think about that for a second.\" is a Buying time chunk: used to stall briefly or postpone an answer when you're not ready to respond.\nExample: \"Let me think about that for a second before I commit to a date.\"\nSimilar chunks:\n- Give me a second.\n- That's a good question, let me take this offline and get back to you after this session.\n- I need more time to think and will let you know later.\n\n✗ \"Will this be wrapped up before you're unavailable again on Wednesday?\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- I don't expect many major changes, apart from what we already discussed.\n- I'll flag this as a risk.\n- This is blocked by..."
+    },
+    {
+      "id": 32,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've just been asked a question you're not ready to answer and need a moment before responding. Which chunk fits best?",
+      "options": {
+        "A": "Let's table that and come back to it at the end.",
+        "B": "Honestly? I need to double-check with the team. Can we hold this till morning?",
+        "C": "Fully allocated.",
+        "D": "If it's 10 minutes of work, yes. If it's half a day of work, then no."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Let's table that and come back to it at the end.\" belongs to Closing & next steps — used to wrap up a meeting and confirm there's nothing left before closing, not this context.\nSimilar chunks:\n- Appreciate your input on this.\n- Are we good to proceed with this?\n- Nothing else from my side.\n\n✓ Correct — \"Honestly? I need to double-check with the team. Can we hold this till morning?\" is a Buying time chunk: used to stall briefly or postpone an answer when you're not ready to respond.\nExample: \"Honestly? I need to double-check with the team on the rollback plan. Can we hold this till morning?\"\nSimilar chunks:\n- That's a good question, let me double-check and get back to you after this session.\n- I'm not 100% sure on that — let me run it by engineering real quick. I'll have an answer by tomorrow.\n- Bear with me a minute.\n\n✗ \"Fully allocated.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- I do apologise for the stress this causes.\n- If it's 10 minutes of work, yes. If it's half a day of work, then no.\n- Fully committed.\n\n✗ \"If it's 10 minutes of work, yes. If it's half a day of work, then no.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- I'm pretty tied up with project tasks and can't take on any more work right now.\n- I wish I could — but I'm not the owner. If I decide and it flips later, we're both in trouble.\n- If it's a massive piece of work, I think the idea is not to do it."
+    },
+    {
+      "id": 33,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to give the team a quick update on where a task stands and flag anything blocking it. Which chunk fits best?",
+      "options": {
+        "A": "In our previous meeting, we noticed..., and today's goal is to discuss...",
+        "B": "I need a concrete answer, not a general direction.",
+        "C": "I need more time to think and will let you know later.",
+        "D": "Any final thoughts?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"In our previous meeting, we noticed..., and today's goal is to discuss...\" belongs to Opening & framing the meeting — used to open a meeting by giving context or background before the main content, not this context.\nSimilar chunks:\n- Let's take a quick look at the agenda.\n- Shall we get started?\n- Alright team, let's wait a few more minutes for the rest of the team to join the call.\n\n✓ Correct — \"I need a concrete answer, not a general direction.\" is a Status updates & blockers chunk: used to give a status update or flag something blocking progress.\nExample: \"I need a concrete answer on the launch date, not a general direction.\"\nSimilar chunks:\n- I'm currently lining things up for...\n- There's nothing new on this, apart from other tickets.\n- I don't expect many major changes, apart from what we already discussed.\n\n✗ \"I need more time to think and will let you know later.\" belongs to Buying time — used to stall briefly or postpone an answer when you're not ready to respond, not this context.\nSimilar chunks:\n- My initial thought is...\n- Oops, bear with me.\n- Honestly? I need to double-check with the team. Can we hold this till morning?\n\n✗ \"Any final thoughts?\" belongs to Closing & next steps — used to wrap up a meeting and confirm there's nothing left before closing, not this context.\nSimilar chunks:\n- Appreciate your input on this.\n- Let's table that and come back to it at the end.\n- Anything else? Or are we good to wrap?"
+    },
+    {
+      "id": 34,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to give the team a quick update on where a task stands and flag anything blocking it. Which chunk fits best?",
+      "options": {
+        "A": "Taking on these items would put our current commitments at risk.",
+        "B": "Am I correct?",
+        "C": "It might make more sense to...",
+        "D": "Will this be wrapped up before you're unavailable again on Wednesday?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Taking on these items would put our current commitments at risk.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- I do apologise for the stress this causes.\n- I wish I could — but I'm not the owner. If I decide and it flips later, we're both in trouble.\n- There is no try — take it and commit, or don't take it at all.\n\n✗ \"Am I correct?\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- Sorry, could you please go over the last point again?\n- As I understand it, ...\n- That sounds slightly different from what we discussed earlier.\n\n✗ \"It might make more sense to...\" belongs to Proposing & explaining ideas — used to propose a possible solution or approach without sounding overly definite, not this context.\nSimilar chunks:\n- So our approach has always been: build what we're asked to build.\n- One possible option could be to...\n- Here's how\n\n✓ Correct — \"Will this be wrapped up before you're unavailable again on Wednesday?\" is a Status updates & blockers chunk: used to give a status update or flag something blocking progress.\nExample: \"Will the migration script be wrapped up before you're unavailable again on Wednesday?\"\nSimilar chunks:\n- Someone needs to own this.\n- This one needs a bit more investigation.\n- We're on track for..."
+    },
+    {
+      "id": 35,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to give the team a quick update on where a task stands and flag anything blocking it. Which chunk fits best?",
+      "options": {
+        "A": "Hey are you still there? Or did I lose you?",
+        "B": "On which scenarios?",
+        "C": "This is blocked by...",
+        "D": "What's changed since last time?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Hey are you still there? Or did I lose you?\" belongs to Personal check-in & texting — used to gently check in on a colleague who's gone quiet in chat or on a call, not this context.\nSimilar chunks:\n- No worries — I'll let you go. Just text me when you're free.\n- Everything okay on your end?\n- Looks like you're typing.\n\n✗ \"On which scenarios?\" belongs to Probing scope, outcomes & follow-up — used to probe the scope, outcome, or current relevance of a requirement or task, not this context.\nSimilar chunks:\n- What's changed since last time?\n- Are these now the new top priority?\n- What's the expected outcome here?\n\n✓ Correct — \"This is blocked by...\" is a Status updates & blockers chunk: used to give a status update or flag something blocking progress.\nExample: \"This is blocked by the vendor's API — we're waiting on their fix.\"\nSimilar chunks:\n- This one needs a bit more investigation.\n- I'll flag it — the PO will see it and we can sort it later.\n- We're on track for...\n\n✗ \"What's changed since last time?\" belongs to Probing scope, outcomes & follow-up — used to probe the scope, outcome, or current relevance of a requirement or task, not this context.\nSimilar chunks:\n- What's the expected outcome here?\n- On which scenarios?\n- Are these now the new top priority?"
+    },
+    {
+      "id": 36,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to give the team a quick update on where a task stands and flag anything blocking it. Which chunk fits best?",
+      "options": {
+        "A": "I'm not saying you're wrong. I'm saying there's more to it.",
+        "B": "Taking on these items would put our current commitments at risk.",
+        "C": "Let's table that and come back to it at the end.",
+        "D": "This one needs a bit more investigation."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'm not saying you're wrong. I'm saying there's more to it.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- Can we explore an alternative?\n- I'd challenge that assumption.\n- I see it slightly differently.\n\n✗ \"Taking on these items would put our current commitments at risk.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- Fully allocated.\n- If it's 10 minutes of work, yes. If it's half a day of work, then no.\n- Look, I'm not allowed to decide on requirements — that's the PO's scope. I'll take your question, pass it to her, and update you once I have an answer.\n\n✗ \"Let's table that and come back to it at the end.\" belongs to Closing & next steps — used to wrap up a meeting and confirm there's nothing left before closing, not this context.\nSimilar chunks:\n- So we're agreed. Let's not revisit this.\n- Let me know how you want to proceed with this.\n- That's settled. Next item.\n\n✓ Correct — \"This one needs a bit more investigation.\" is a Status updates & blockers chunk: used to give a status update or flag something blocking progress.\nExample: \"This one needs a bit more investigation before I can give an ETA.\"\nSimilar chunks:\n- Could you prioritize the rule-related tickets?\n- This is blocked by...\n- I'll flag this as a risk."
+    },
+    {
+      "id": 37,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're wrapping up the meeting and want to confirm there's nothing left before closing. Which chunk fits best?",
+      "options": {
+        "A": "Taking on these items would put our current commitments at risk.",
+        "B": "Let me switch devices.",
+        "C": "Could you quickly recap that for us?",
+        "D": "Are we good to proceed with this?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Taking on these items would put our current commitments at risk.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- There is no try — take it and commit, or don't take it at all.\n- I'm pretty tied up with project tasks and can't take on any more work right now.\n- Fully committed.\n\n✗ \"Let me switch devices.\" belongs to Personal check-in & texting — used to gently check in on a colleague who's gone quiet in chat or on a call, not this context.\nSimilar chunks:\n- Hey are you still there? Or did I lose you?\n- No worries — I'll let you go. Just text me when you're free.\n- I see you're typing.\n\n✗ \"Could you quickly recap that for us?\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- Earlier, you mentioned that XXX, but it seems a bit different here.\n- Does that match your expectation?\n- As I understand it, ...\n\n✓ Correct — \"Are we good to proceed with this?\" is a Closing & next steps chunk: used to wrap up a meeting and confirm there's nothing left before closing.\nExample: \"Are we good to proceed with this rollout plan?\"\nSimilar chunks:\n- I want that in the minutes.\n- Let's table that and come back to it at the end.\n- So we're agreed. Let's not revisit this."
+    },
+    {
+      "id": 38,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're wrapping up the meeting and want to confirm there's nothing left before closing. Which chunk fits best?",
+      "options": {
+        "A": "Shall we start?",
+        "B": "I want that in the minutes.",
+        "C": "Just to confirm, we all agree on this approach, right?",
+        "D": "This is blocked by..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Shall we start?\" belongs to Opening & framing the meeting — used to open a meeting by giving context or background before the main content, not this context.\nSimilar chunks:\n- Before we dive in, let me briefly outline the background, so we're all on the same page.\n- Let's get started.\n- Before we dive in, let me briefly set the context, so we're all on the same page.\n\n✓ Correct — \"I want that in the minutes.\" is a Closing & next steps chunk: used to wrap up a meeting and confirm there's nothing left before closing.\nExample: \"We agreed to a two-week buffer — I want that in the minutes.\"\nSimilar chunks:\n- That's all from me.\n- Appreciate your input on this.\n- I'm done on my part. Over to you.\n\n✗ \"Just to confirm, we all agree on this approach, right?\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- Am I correct?\n- Did I get that right?\n- Does that match your expectation?\n\n✗ \"This is blocked by...\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- There's nothing new on this, apart from other tickets.\n- Who owns this?\n- I'm currently lining things up for..."
+    },
+    {
+      "id": 39,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're wrapping up the meeting and want to confirm there's nothing left before closing. Which chunk fits best?",
+      "options": {
+        "A": "...you just dropped — can you hear me?",
+        "B": "What specific outcomes are we expecting from this feature?",
+        "C": "Appreciate your input on this.",
+        "D": "I'd challenge that assumption."
+      },
+      "correct": "C",
+      "explanation": "✗ \"...you just dropped — can you hear me?\" belongs to Tech glitches on call — used to flag a technical glitch or connection issue during a call, not this context.\nSimilar chunks:\n- My mic's having an issue.\n- You still there?\n- Hey, we lost connection — want to pick up where we left off?\n\n✗ \"What specific outcomes are we expecting from this feature?\" belongs to Probing problem & risk before deciding — used to push the group to define the underlying problem and risks before committing to a solution, not this context.\nSimilar chunks:\n- What are the potential downsides or unintended consequences if we implement this?\n- The risk I see here is...\n- What problem are we trying to solve for the user with this requirement?\n\n✓ Correct — \"Appreciate your input on this.\" is a Closing & next steps chunk: used to wrap up a meeting and confirm there's nothing left before closing.\nExample: \"Appreciate your input on this, it really helped clarify the scope.\"\nSimilar chunks:\n- I'll take that as no.\n- Any final thoughts?\n- So we're agreed. Let's not revisit this.\n\n✗ \"I'd challenge that assumption.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- I'm not sure I agree.\n- I think we might be missing something.\n- I hear what you're saying, and I'd agree if the numbers backed it up."
+    },
+    {
+      "id": 40,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're wrapping up the meeting and want to confirm there's nothing left before closing. Which chunk fits best?",
+      "options": {
+        "A": "Cool. Let's wrap this up then. Thanks for your time.",
+        "B": "Is this still relevant?",
+        "C": "That sounds slightly different from what we discussed earlier.",
+        "D": "Out of scope for now — we're de-prioritising that until somebody asks for it."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Cool. Let's wrap this up then. Thanks for your time.\" is a Closing & next steps chunk: used to wrap up a meeting and confirm there's nothing left before closing.\nExample: \"Cool. Let's wrap this up then. Thanks for your time, everyone.\"\nSimilar chunks:\n- Let me know how you want to proceed with this.\n- Any final thoughts?\n- Appreciate your input on this.\n\n✗ \"Is this still relevant?\" belongs to Probing scope, outcomes & follow-up — used to probe the scope, outcome, or current relevance of a requirement or task, not this context.\nSimilar chunks:\n- Are these now the new top priority?\n- What's changed since last time?\n- What if we...?\n\n✗ \"That sounds slightly different from what we discussed earlier.\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- Correct me if I'm wrong, but...\n- Just to confirm, we all agree on this approach, right?\n- Earlier, you mentioned that XXX, but it seems a bit different here.\n\n✗ \"Out of scope for now — we're de-prioritising that until somebody asks for it.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- Look, I'm not allowed to decide on requirements — that's the PO's scope. I'll take your question, pass it to her, and update you once I have an answer.\n- Fully allocated.\n- There is no try — take it and commit, or don't take it at all."
+    },
+    {
+      "id": 41,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "The discussion has drifted off-topic and you want to bring the group back to the main agenda. Which chunk fits best?",
+      "options": {
+        "A": "In our previous meeting, we noticed..., and today's goal is to discuss...",
+        "B": "Let's stay focused.",
+        "C": "I'll flag this as a risk.",
+        "D": "That's not on the table."
+      },
+      "correct": "B",
+      "explanation": "✗ \"In our previous meeting, we noticed..., and today's goal is to discuss...\" belongs to Opening & framing the meeting — used to open a meeting by giving context or background before the main content, not this context.\nSimilar chunks:\n- Let's take a quick look at the agenda.\n- Shall we give it a minute in case anyone else joins?\n- I'll start with a quick overview of the background, then we'll go through the key points on the agenda and open it up for discussion.\n\n✓ Correct — \"Let's stay focused.\" is a Staying focused / steering back chunk: used to bring a drifting discussion back to the main agenda item.\nExample: \"Let's stay focused — we can discuss the rebrand separately.\"\nSimilar chunks:\n- Let's stick to the agenda.\n- One thing at a time.\n\n✗ \"I'll flag this as a risk.\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- There's nothing new on this, apart from other tickets.\n- I'm currently lining things up for...\n- We're on track for...\n\n✗ \"That's not on the table.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- I'm pretty tied up with project tasks and can't take on any more work right now.\n- There is no try — take it and commit, or don't take it at all.\n- I wish I could — but I'm not the owner. If I decide and it flips later, we're both in trouble."
+    },
+    {
+      "id": 42,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "The discussion has drifted off-topic and you want to bring the group back to the main agenda. Which chunk fits best?",
+      "options": {
+        "A": "I think we might be missing something.",
+        "B": "Fully committed.",
+        "C": "Before we dive in, let me briefly outline the background, so we're all on the same page.",
+        "D": "One thing at a time."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I think we might be missing something.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- That's a fair point, though I have some concerns.\n- With all due respect, I think we're looking at the wrong problem.\n- There's another blind spot there.\n\n✗ \"Fully committed.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- I do apologise for the stress this causes.\n- I wish I could — but I'm not the owner. If I decide and it flips later, we're both in trouble.\n- If it's a massive piece of work, I think the idea is not to do it.\n\n✗ \"Before we dive in, let me briefly outline the background, so we're all on the same page.\" belongs to Opening & framing the meeting — used to open a meeting by giving context or background before the main content, not this context.\nSimilar chunks:\n- Alright team, let's wait a few more minutes for the rest of the team to join the call.\n- I'll start with a quick overview of the background, then we'll go through the key points on the agenda and open it up for discussion.\n- Over the past few weeks, we've noticed..., and today's goal is to discuss...\n\n✓ Correct — \"One thing at a time.\" is a Staying focused / steering back chunk: used to bring a drifting discussion back to the main agenda item.\nExample: \"One thing at a time — let's finish the pricing discussion first.\"\nSimilar chunks:\n- Let's stay focused.\n- Let's stick to the agenda."
+    },
+    {
+      "id": 43,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Your connection is glitching during a call and you need to let the others know. Which chunk fits best?",
+      "options": {
+        "A": "Let's take a quick look at the agenda.",
+        "B": "That's not how I operate.",
+        "C": "What if we...?",
+        "D": "My mic's having an issue."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let's take a quick look at the agenda.\" belongs to Opening & framing the meeting — used to open a meeting by giving context or background before the main content, not this context.\nSimilar chunks:\n- Shall we get started?\n- Let's get started.\n- Shall we give it a minute in case anyone else joins?\n\n✗ \"That's not how I operate.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- Look, I'm not allowed to decide on requirements — that's the PO's scope. I'll take your question, pass it to her, and update you once I have an answer.\n- Fully allocated.\n- There is no try — take it and commit, or don't take it at all.\n\n✗ \"What if we...?\" belongs to Probing scope, outcomes & follow-up — used to probe the scope, outcome, or current relevance of a requirement or task, not this context.\nSimilar chunks:\n- On which scenarios?\n- How would this behave in X situation?\n- Is this still relevant?\n\n✓ Correct — \"My mic's having an issue.\" is a Tech glitches on call chunk: used to flag a technical glitch or connection issue during a call.\nExample: \"My mic's having an issue, can everyone still hear me okay?\"\nSimilar chunks:\n- Hang on — can you say that again? Not sure I caught it.\n- You still with me?\n- ...you just dropped — can you hear me?"
+    },
+    {
+      "id": 44,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Your connection is glitching during a call and you need to let the others know. Which chunk fits best?",
+      "options": {
+        "A": "What does success look like at the end of this?",
+        "B": "Hey, we lost connection — want to pick up where we left off?",
+        "C": "Could you prioritize the rule-related tickets?",
+        "D": "What's changed since last time?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"What does success look like at the end of this?\" belongs to Closing & next steps — used to wrap up a meeting and confirm there's nothing left before closing, not this context.\nSimilar chunks:\n- That's all from me.\n- Are we happy to move status to 'Ready to Code'?\n- Let me know how you want to proceed with this.\n\n✓ Correct — \"Hey, we lost connection — want to pick up where we left off?\" is a Tech glitches on call chunk: used to flag a technical glitch or connection issue during a call.\nExample: \"Hey, we lost connection for a bit there — want to pick up where we left off?\"\nSimilar chunks:\n- ...you just dropped — can you hear me?\n- Hang on — can you say that again? Not sure I caught it.\n- You still with me?\n\n✗ \"Could you prioritize the rule-related tickets?\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- I'll flag this as a risk.\n- This is blocked by...\n- Who owns this?\n\n✗ \"What's changed since last time?\" belongs to Probing scope, outcomes & follow-up — used to probe the scope, outcome, or current relevance of a requirement or task, not this context.\nSimilar chunks:\n- What if we...?\n- On which scenarios?\n- How would this behave in X situation?"
+    },
+    {
+      "id": 45,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Your connection is glitching during a call and you need to let the others know. Which chunk fits best?",
+      "options": {
+        "A": "Take your time. I'll wait. No rush.",
+        "B": "I'm noting it down — give me a minute. I might not get it in the first call.",
+        "C": "You still with me?",
+        "D": "Before we dive in, let me briefly set the context, so we're all on the same page."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Take your time. I'll wait. No rush.\" belongs to Personal check-in & texting — used to gently check in on a colleague who's gone quiet in chat or on a call, not this context.\nSimilar chunks:\n- I see you're typing.\n- Hey are you still there? Or did I lose you?\n- Let me switch devices.\n\n✗ \"I'm noting it down — give me a minute. I might not get it in the first call.\" belongs to Buying time — used to stall briefly or postpone an answer when you're not ready to respond, not this context.\nSimilar chunks:\n- That's a good question, let me double-check and get back to you after this session.\n- That's a good question, let me take this offline and get back to you after this session.\n- I'm not ignoring you, I'm just thinking.\n\n✓ Correct — \"You still with me?\" is a Tech glitches on call chunk: used to flag a technical glitch or connection issue during a call.\nExample: \"You still with me? I think we lost you for a second.\"\nSimilar chunks:\n- My mic's having an issue.\n- ...you just dropped — can you hear me?\n- A bit of lag — froze for a moment, let me refresh and brb.\n\n✗ \"Before we dive in, let me briefly set the context, so we're all on the same page.\" belongs to Opening & framing the meeting — used to open a meeting by giving context or background before the main content, not this context.\nSimilar chunks:\n- Shall we give it a minute in case anyone else joins?\n- Alright team, let's wait a few more minutes for the rest of the team to join the call.\n- Before we dive in, let me briefly outline the background, so we're all on the same page."
+    },
+    {
+      "id": 46,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Your connection is glitching during a call and you need to let the others know. Which chunk fits best?",
+      "options": {
+        "A": "Taking on these items would put our current commitments at risk.",
+        "B": "Let's switch to chat, or I'll email you the rest?",
+        "C": "I'll flag this as a risk.",
+        "D": "Just to confirm, we all agree on this approach, right?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Taking on these items would put our current commitments at risk.\" belongs to Boundaries & pushback under pressure — used to set a boundary or push back when asked to take on more work than is reasonable, not this context.\nSimilar chunks:\n- I do apologise for the stress this causes.\n- Out of scope for now — we're de-prioritising that until somebody asks for it.\n- If it's a massive piece of work, I think the idea is not to do it.\n\n✓ Correct — \"Let's switch to chat, or I'll email you the rest?\" is a Tech glitches on call chunk: used to flag a technical glitch or connection issue during a call.\nExample: \"Let's switch to chat, or I'll email you the rest of the notes?\"\nSimilar chunks:\n- Hey, we lost connection — want to pick up where we left off?\n- You still there?\n- You still with me?\n\n✗ \"I'll flag this as a risk.\" belongs to Status updates & blockers — used to give a status update or flag something blocking progress, not this context.\nSimilar chunks:\n- I'm currently lining things up for...\n- This is blocked by...\n- There's nothing new on this, apart from other tickets.\n\n✗ \"Just to confirm, we all agree on this approach, right?\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- I'm not quite sure I understand it completely — could you help explain it in more detail, as if for a beginner?\n- That sounds slightly different from what we discussed earlier.\n- Does this make sense to you?"
+    },
+    {
+      "id": 47,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A colleague has gone quiet on chat and you want to gently check if they're still there. Which chunk fits best?",
+      "options": {
+        "A": "Everything okay on your end?",
+        "B": "One way to handle this would be...",
+        "C": "I'm not sure I agree.",
+        "D": "I'm not saying you're wrong. I'm saying there's more to it."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Everything okay on your end?\" is a Personal check-in & texting chunk: used to gently check in on a colleague who's gone quiet in chat or on a call.\nExample: \"You've been quiet for a bit — everything okay on your end?\"\nSimilar chunks:\n- Hey are you still there? Or did I lose you?\n- Take your time. I'll wait. No rush.\n- No worries — I'll let you go. Just text me when you're free.\n\n✗ \"One way to handle this would be...\" belongs to Proposing & explaining ideas — used to propose a possible solution or approach without sounding overly definite, not this context.\nSimilar chunks:\n- Here's the thing\n- One possible option could be to...\n- So our approach has always been: build what we're asked to build.\n\n✗ \"I'm not sure I agree.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- I'd challenge that assumption.\n- I'm not saying you're wrong. I'm saying there's more to it.\n- That works technically, but it creates this user impact.\n\n✗ \"I'm not saying you're wrong. I'm saying there's more to it.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- I hear what you're saying, and I'd agree if the numbers backed it up.\n- I think we might be missing something.\n- I understand the logic, though I have some concerns."
+    },
+    {
+      "id": 48,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A colleague has gone quiet on chat and you want to gently check if they're still there. Which chunk fits best?",
+      "options": {
+        "A": "No worries — I'll let you go. Just text me when you're free.",
+        "B": "That works technically, but it creates this user impact.",
+        "C": "Does that match your expectation?",
+        "D": "As I understand it, ..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"No worries — I'll let you go. Just text me when you're free.\" is a Personal check-in & texting chunk: used to gently check in on a colleague who's gone quiet in chat or on a call.\nExample: \"No worries — I'll let you go. Just text me when you're free to finish this.\"\nSimilar chunks:\n- I see you're typing.\n- Hey are you still there? Or did I lose you?\n- Looks like you're typing.\n\n✗ \"That works technically, but it creates this user impact.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- I understand the logic, though I have some concerns.\n- I hear what you're saying, and I'd agree if the numbers backed it up.\n- I think we might be missing something.\n\n✗ \"Does that match your expectation?\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- Could you quickly recap that for us?\n- Maybe I'm missing something, but why do we...?\n- Did I get that right?\n\n✗ \"As I understand it, ...\" belongs to Clarifying & confirming understanding — used to check or confirm that you've correctly understood what was just said, not this context.\nSimilar chunks:\n- Maybe I'm missing something, but why do we...?\n- Correct me if I'm wrong, but...\n- Does that match your expectation?"
+    },
+    {
+      "id": 49,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A colleague has gone quiet on chat and you want to gently check if they're still there. Which chunk fits best?",
+      "options": {
+        "A": "Welcome back! How was your holiday?",
+        "B": "Let's stick to the agenda.",
+        "C": "Let me switch devices.",
+        "D": "I think we might be missing something."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Welcome back! How was your holiday?\" belongs to Small talk & warm-up — used for light social small talk before a meeting officially starts, not this context.\nSimilar chunks:\n- You look refreshed.\n- That's amazing.\n- Great to hear.\n\n✗ \"Let's stick to the agenda.\" belongs to Staying focused / steering back — used to bring a drifting discussion back to the main agenda item, not this context.\nSimilar chunks:\n- Let's stay focused.\n- One thing at a time.\n\n✓ Correct — \"Let me switch devices.\" is a Personal check-in & texting chunk: used to gently check in on a colleague who's gone quiet in chat or on a call.\nExample: \"Let me switch devices, my laptop's about to die.\"\nSimilar chunks:\n- I see you're typing.\n- Everything okay on your end?\n- Hey are you still there? Or did I lose you?\n\n✗ \"I think we might be missing something.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- I'd challenge that assumption.\n- I understand the logic, though I have some concerns.\n- I'm not saying you're wrong. I'm saying there's more to it."
+    },
+    {
+      "id": 50,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A colleague has gone quiet on chat and you want to gently check if they're still there. Which chunk fits best?",
+      "options": {
+        "A": "I see where you're coming from, but I think the real issue is...",
+        "B": "I'm not sure I agree.",
+        "C": "I see you're typing.",
+        "D": "My initial thought is..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I see where you're coming from, but I think the real issue is...\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- There's another blind spot there.\n- I see it slightly differently.\n- That works technically, but it creates this user impact.\n\n✗ \"I'm not sure I agree.\" belongs to Polite disagreement & pushback — used to push back on a colleague's suggestion without creating tension, not this context.\nSimilar chunks:\n- I hear what you're saying, and I'd agree if the numbers backed it up.\n- There's another blind spot there.\n- I'm not saying you're wrong. I'm saying there's more to it.\n\n✓ Correct — \"I see you're typing.\" is a Personal check-in & texting chunk: used to gently check in on a colleague who's gone quiet in chat or on a call.\nExample: \"I see you're typing — take your time, no rush.\"\nSimilar chunks:\n- Hey are you still there? Or did I lose you?\n- When works for you next?\n- No worries — I'll let you go. Just text me when you're free.\n\n✗ \"My initial thought is...\" belongs to Buying time — used to stall briefly or postpone an answer when you're not ready to respond, not this context.\nSimilar chunks:\n- I'm noting it down — give me a minute. I might not get it in the first call.\n- That's a good question, let me take this offline and get back to you after this session.\n- I don't want to give an inaccurate answer. Let me validate this today and confirm by end of day."
+    }
+  ]
+}

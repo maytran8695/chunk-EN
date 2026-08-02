@@ -7,33 +7,32 @@ Structure and engine (app.js/style.css) copied almost verbatim from
 `cbap-cert` (CBAP Mock Exam Trainer) — same author, same pattern, for easy
 parallel maintenance.
 
-## Current scope (pilot)
+## Current scope
 
-Only **1 topic: "Core Patterns"** (14 communicative-function groups —
-opening, framing, explaining, giving examples, clarifying, asking
-questions, disagreeing politely, steering, concluding, decision making,
-buying thinking time, cutting short, structuring/opinion/nuance) — 54
-multiple-choice questions, generated from the source content in
-`ChunkAtlas_EN.jsx` (tier `core` / nav tab "Situations", topic `Core
-Patterns`).
-
-The other 34 topics of Chunk Atlas (Real-Time Fluency / Voice & Presence /
-Language Systems / Confidence & Humour...) have NO questions yet — to be
-added once this format is approved.
+**19 topics, 678 multiple-choice questions**, covering all of the
+**Situations** tier (8 topics) and **Real-Time Fluency** tier (11 topics)
+of `ChunkAtlas_EN.jsx`. The other 3 nav tabs (Voice & Presence / Language
+Systems / Confidence & Humour) have no questions yet — same
+generator-script pattern, can be added the same way (see "Adding more
+topics" below).
 
 Question format: context-based 4-option multiple choice — given a
 communication situation, pick the correct chunk out of 4 options (1
 correct from the matching function, 3 wrong ones pulled from other
-functions). "Matching" is folded into this same MCQ format to reuse the
-CBAP engine as-is, rather than building a separate drag-and-drop UI.
+functions). Every option's explanation states which function it belongs
+to and why it does/doesn't fit this context, plus 3 "Similar chunks" from
+the same function group; the correct answer also gets a full example
+sentence using the exact chunk. "Matching" is folded into this same MCQ
+format to reuse the CBAP engine as-is, rather than building a separate
+drag-and-drop UI.
 
-Filtering/scoring is grouped at **tier level** — the 5 big nav tabs of
-`ChunkAtlas_EN.jsx` (Situations / Real-Time Fluency / Voice & Presence /
-Language Systems / Confidence & Humour), not the fine per-function
-sub-groups (there are 18 of those just within "Core Patterns" alone — too
-many for a filter UI). The fine function name (e.g. "Opening",
-"Clarifying") still shows up inside each question's explanation text for
-learning value, just not as a separate filterable field.
+Filtering/scoring in step 2 ("Filter by tab") is grouped at **tier
+level** — Situations / Real-Time Fluency — not the fine per-function
+sub-groups (there are 100+ of those across all topics — too many for a
+filter UI). The fine function name (e.g. "Opening", "Clarifying") still
+shows up inside each question's explanation text for learning value. Step
+1 ("Choose a topic") lets you pick one specific topic or "Mix everything"
+across all 19.
 
 ## Run locally
 
@@ -60,14 +59,25 @@ usual default instead of requiring a manual setting change.)
 
 ## Project structure
 
-- `index.html`, `style.css`, `app.js` — the app
-- `data/core-patterns.json` — pilot question bank (parsed from ChunkAtlas_EN.jsx)
+- `index.html`, `style.css`, `app.js` — the app. `app.js`'s `TOPICS` array
+  is the single source of truth for which topics exist, their display
+  labels, and their tier grouping — the home-screen topic picker and tier
+  filter are both rendered from it (plus the loaded question counts).
+- `data/<exam-id>.json` — one question bank per topic (19 files), each
   `{ examId, title, questions: [{ id, ka, kaName, question, options, correct, explanation }] }`
-  — `ka`/`kaName` currently hardcoded to the "core" / "Situations" tier for
-  every question, since that's the only tier populated so far.
-- `scripts/generate_core_patterns.py` — script that generates
-  `data/core-patterns.json` from hand-curated source content, kept around
-  for regenerating/extending later.
+  — `ka`/`kaName` on every question is the TIER id/name (`core`/"Situations"
+  or `fluency`/"Real-Time Fluency"), not the fine function group.
+- `scripts/lib.py` — shared question-generation engine (`generate_topic()`):
+  builds the 4-option MCQs, picks distractors from other function groups,
+  picks "Similar chunks" equivalents, and formats the explanation text.
+  Change the explanation format/logic here — it applies to every topic
+  the next time its generator script is re-run.
+- `scripts/generate_<exam-id>.py` — one script per topic (19 total). Each
+  defines a hand-curated `groups_def` (function label, question context,
+  usage note, and a `(phrase, example sentence)` list per function group)
+  and calls `lib.generate_topic()`. Source phrase content is copied by
+  hand from the matching topic in `ChunkAtlas_EN.jsx`; usage notes and
+  example sentences are original writing, not extracted from the source.
 
 Progress (bookmarks and missed questions) is stored in the browser's
 `localStorage` — nothing is sent to a server.
@@ -75,15 +85,22 @@ Progress (bookmarks and missed questions) is stored in the browser's
 ## Adding more topics
 
 1. Extract the new topic's content from `ChunkAtlas_EN.jsx` (the `DATA`
-   array, `ti`/`la` fields).
-2. Write an English context sentence for each communicative-function group
-   (the `h` field inside `gr[]`).
-3. Set `TIER_ID`/`TIER_NAME` to the topic's actual tier (`core` /
-   `fluency` / `presence` / `mastery` / `confidence` / `humour` — note
-   `confidence` and `humour` both map to the combined "Confidence &
-   Humour" nav tab).
-4. Run a generator script similar to `scripts/generate_core_patterns.py`
-   to produce a new JSON file.
-5. Add an entry to `SET_FILES`/`SET_LABELS` in `app.js`.
-6. Once more than one tier has questions, restore a "choose a topic" UI in
-   `index.html` (currently omitted since the pilot only has one).
+   array, `ti`/`la` fields) — only items with `"t": "i"` are real chunks;
+   skip `"t": "n"` (prose) and `"t": "c"` (comparison) items, and skip any
+   group that's pure meta-advice with no actual chunks (e.g. Core
+   Patterns' "H15", a numbered list of speaking tips).
+2. For each function-group header (`h` field inside `gr[]`), write an
+   English `question_context` ("You..."), an impersonal `usage_note`
+   ("used to/when..."), and — for every phrase in that group — a natural,
+   specific example sentence using that exact phrase. Split a header into
+   multiple `groups_def` entries if it bundles clearly distinct functions
+   (see e.g. `generate_core_patterns.py`'s "H14" split into 5).
+3. Write `scripts/generate_<exam-id>.py` following the structure of an
+   existing script, importing `generate_topic` from `lib.py`, with the
+   correct `tier_id`/`tier_name` (`core`/"Situations",
+   `fluency`/"Real-Time Fluency", or a new tier once Voice & Presence /
+   Language Systems / Confidence & Humour are added).
+4. Run it (`python3 scripts/generate_<exam-id>.py`) to produce
+   `data/<exam-id>.json`.
+5. Add an entry to the `TOPICS` array in `app.js` (id, label, tier) — the
+   home-screen UI picks it up automatically, no other UI changes needed.

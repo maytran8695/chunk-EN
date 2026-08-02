@@ -1,0 +1,958 @@
+{
+  "examId": "presentations-demos",
+  "title": "Chunk Atlas — Situations: Presentations & Demos",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're about to start a presentation or demo and need to open it and state its purpose. Which chunk fits best?",
+      "options": {
+        "A": "The system intelligently hides the edit option once the task is Approved.",
+        "B": "This talk was designed to...",
+        "C": "Let me zoom out for a second.",
+        "D": "the outlook remains positive"
+      },
+      "correct": "B",
+      "explanation": "✗ \"The system intelligently hides the edit option once the task is Approved.\" belongs to Directing attention & highlighting — used to point the audience's attention to a specific detail on screen during a demo, not this context.\nSimilar chunks:\n- Pay attention to the behaviour when I click here.\n- What's important here is that...\n- Let me draw your attention to this element...\n\n✓ Correct — \"This talk was designed to...\" is an Opening & framing the talk chunk: used to open a presentation or demo and state its purpose or agenda.\nExample: \"This talk was designed to give the sales team a clear picture of the new features.\"\nSimilar chunks:\n- The agenda is about...\n- Let me start by introducing myself.\n- How are you all?\n\n✗ \"Let me zoom out for a second.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- I'm focusing on the big picture here.\n- You're absolutely right — at a deeper level, it's way more complicated than this. For this session, I'm simplifying on purpose to keep the core idea clear.\n- The main idea here is...\n\n✗ \"the outlook remains positive\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- is likely to\n- the outlook remains cautious\n- is expected to"
+    },
+    {
+      "id": 2,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're about to start a presentation or demo and need to open it and state its purpose. Which chunk fits best?",
+      "options": {
+        "A": "First, let me give you a quick context on this enhancement.",
+        "B": "substantially",
+        "C": "Let me check the details and get back to you.",
+        "D": "sharply"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"First, let me give you a quick context on this enhancement.\" is an Opening & framing the talk chunk: used to open a presentation or demo and state its purpose or agenda.\nExample: \"First, let me give you a quick context on this enhancement — previously, users had no way to bulk-edit tasks.\"\nSimilar chunks:\n- Thank you for giving me the opportunity to present this issue.\n- Good afternoon everyone. Today I'll walk you through the key enhancements delivered in this sprint.\n- The agenda is about...\n\n✗ \"substantially\" belongs to Describing the size or speed of a change — used as an adverb to describe how large, small, or sudden a change in the data was, not this context.\nSimilar chunks:\n- significantly\n- steadily\n- moderately\n\n✗ \"Let me check the details and get back to you.\" belongs to Admitting uncertainty & following up — used to admit you don't know an answer on the spot and commit to following up, not this context.\nSimilar chunks:\n- I don't have a correct answer right now, but I know where this sits.\n- I don't want to guess and give you a wrong answer. Let me take this offline and get back to you after this session.\n- I don't have the exact answer off the top of my head.\n\n✗ \"sharply\" belongs to Describing the size or speed of a change — used as an adverb to describe how large, small, or sudden a change in the data was, not this context.\nSimilar chunks:\n- gradually\n- slightly\n- steadily"
+    },
+    {
+      "id": 3,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're about to start a presentation or demo and need to open it and state its purpose. Which chunk fits best?",
+      "options": {
+        "A": "Let me start by introducing myself.",
+        "B": "slightly",
+        "C": "Instead of a single \"Create a task\" button, we now have two: the buttons remain deactivated until all required fields are populated.",
+        "D": "is likely to"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Let me start by introducing myself.\" is an Opening & framing the talk chunk: used to open a presentation or demo and state its purpose or agenda.\nExample: \"Let me start by introducing myself — I lead the platform team behind this feature.\"\nSimilar chunks:\n- How are you all?\n- First, let me give you a quick context on this enhancement.\n- I'd like to present you with some amazing findings.\n\n✗ \"slightly\" belongs to Describing the size or speed of a change — used as an adverb to describe how large, small, or sudden a change in the data was, not this context.\nSimilar chunks:\n- dramatically\n- marginally\n- moderately\n\n✗ \"Instead of a single \"Create a task\" button, we now have two: the buttons remain deactivated until all required fields are populated.\" belongs to Explaining before vs. after / what changed — used to contrast old behavior with new behavior when demoing a change, not this context.\nSimilar chunks:\n- Previously...\n- This new endpoint will perform calculations in the back to validate the data.\n- Going forward...\n\n✗ \"is likely to\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- could potentially\n- there is a risk that\n- the outlook remains cautious"
+    },
+    {
+      "id": 4,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're about to start a presentation or demo and need to open it and state its purpose. Which chunk fits best?",
+      "options": {
+        "A": "could potentially",
+        "B": "there is a risk that",
+        "C": "That's a very good question — let me pull up an example to explain further. Hang on a sec.",
+        "D": "It's my pleasure to be here today."
+      },
+      "correct": "D",
+      "explanation": "✗ \"could potentially\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- there is a risk that\n- is likely to\n- remains to be seen whether\n\n✗ \"there is a risk that\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- the outlook remains cautious\n- is expected to\n- remains to be seen whether\n\n✗ \"That's a very good question — let me pull up an example to explain further. Hang on a sec.\" belongs to Admitting uncertainty & following up — used to admit you don't know an answer on the spot and commit to following up, not this context.\nSimilar chunks:\n- I don't want to guess and give you a wrong answer. Let me take this offline and get back to you after this session.\n- I don't have the exact answer off the top of my head.\n- Let me check the details and get back to you.\n\n✓ Correct — \"It's my pleasure to be here today.\" is an Opening & framing the talk chunk: used to open a presentation or demo and state its purpose or agenda.\nExample: \"It's my pleasure to be here today to walk you through the new checkout flow.\"\nSimilar chunks:\n- Good afternoon everyone. Today I'll walk you through the key enhancements delivered in this sprint.\n- How are you all?\n- The bottom line of this talk is to suggest some alternatives..."
+    },
+    {
+      "id": 5,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to signal to the audience how your presentation is structured as you move through it. Which chunk fits best?",
+      "options": {
+        "A": "rose",
+        "B": "Let's revisit that point from earlier...",
+        "C": "This talk was designed to...",
+        "D": "In this case..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"rose\" belongs to Describing an increase — used to describe a metric or figure going up, at varying degrees of intensity, not this context.\nSimilar chunks:\n- skyrocketed\n- soared\n- increased\n\n✓ Correct — \"Let's revisit that point from earlier...\" is a Signposting & structuring a talk chunk: used to signal how a presentation is structured while moving through it.\nExample: \"Let's revisit that point from earlier about the mobile drop-off rate.\"\nSimilar chunks:\n- To give you some background,...\n- The key here is...\n- First... second... third...\n\n✗ \"This talk was designed to...\" belongs to Opening & framing the talk — used to open a presentation or demo and state its purpose or agenda, not this context.\nSimilar chunks:\n- First, let me give you a quick context on this enhancement.\n- It's my pleasure to be here today.\n- Welcome to the session.\n\n✗ \"In this case...\" belongs to Transitions & replacing filler words — used to transition cleanly between points in a presentation instead of using filler words, not this context.\nSimilar chunks:\n- Next, let's look at...\n- Let's look at...\n- Moving on to..."
+    },
+    {
+      "id": 6,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to signal to the audience how your presentation is structured as you move through it. Which chunk fits best?",
+      "options": {
+        "A": "is expected to",
+        "B": "This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.",
+        "C": "held steady",
+        "D": "First... second... third..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"is expected to\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- downside risk\n- remains to be seen whether\n- is poised to\n\n✗ \"This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.\" belongs to Handling interruptions — used to acknowledge an interruption during a demo without losing your train of thought, not this context.\nSimilar chunks:\n- Can anyone help to explain?\n- That's a great point, let me finish this flow first, then we'll come back to it.\n- I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together.\n\n✗ \"held steady\" belongs to Describing stability — used to describe a metric that has stayed roughly the same over a period, not this context.\nSimilar chunks:\n- stabilized\n- remained flat\n- plateaued\n\n✓ Correct — \"First... second... third...\" is a Signposting & structuring a talk chunk: used to signal how a presentation is structured while moving through it.\nExample: \"First, the problem. Second, our approach. Third, the results so far.\"\nSimilar chunks:\n- As you can see...\n- Before moving to the second point, I'd like to emphasize that...\n- The key here is..."
+    },
+    {
+      "id": 7,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to signal to the audience how your presentation is structured as you move through it. Which chunk fits best?",
+      "options": {
+        "A": "The key here is...",
+        "B": "plunged",
+        "C": "Looks like this environment is a bit unstable — let me quickly show the expected behavior.",
+        "D": "steadily"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"The key here is...\" is a Signposting & structuring a talk chunk: used to signal how a presentation is structured while moving through it.\nExample: \"The key here is that the fix only took two lines of code, but it took weeks to diagnose.\"\nSimilar chunks:\n- As you can see...\n- So first things first, ...\n- Before moving to the second point, I'd like to emphasize that...\n\n✗ \"plunged\" belongs to Describing a decrease — used to describe a metric or figure going down, at varying degrees of intensity, not this context.\nSimilar chunks:\n- declined\n- edged down\n- fell\n\n✗ \"Looks like this environment is a bit unstable — let me quickly show the expected behavior.\" belongs to Technical failure recovery — used to recover smoothly when a demo environment glitches or fails mid-presentation, not this context.\nSimilar chunks:\n- One moment while I open that endpoint.\n- It looks like the environment isn't responding at the moment. The change itself has been implemented, so I'll explain the expected behaviour.\n- Let me show that again.\n\n✗ \"steadily\" belongs to Describing the size or speed of a change — used as an adverb to describe how large, small, or sudden a change in the data was, not this context.\nSimilar chunks:\n- slightly\n- sharply\n- substantially"
+    },
+    {
+      "id": 8,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to signal to the audience how your presentation is structured as you move through it. Which chunk fits best?",
+      "options": {
+        "A": "I'd like to leave you with some thoughts.",
+        "B": "fluctuated",
+        "C": "My first point is on...",
+        "D": "downside risk"
+      },
+      "correct": "C",
+      "explanation": "✗ \"I'd like to leave you with some thoughts.\" belongs to Summarizing & closing a presentation — used to recap the main points of a presentation before closing or moving to Q&A, not this context.\nSimilar chunks:\n- Let me close now with a story that summarizes my talk. Thank you for coming.\n- That wraps up the response model enhancements.\n- Any questions before we move on?\n\n✗ \"fluctuated\" belongs to Describing volatility — used to describe a metric that has fluctuated unpredictably over a period, not this context.\nSimilar chunks:\n- whipsawed\n- swung between X and Y\n- was volatile\n\n✓ Correct — \"My first point is on...\" is a Signposting & structuring a talk chunk: used to signal how a presentation is structured while moving through it.\nExample: \"My first point is on adoption — only 12% of users found this feature on their own.\"\nSimilar chunks:\n- Let's revisit that point from earlier...\n- First... second... third...\n- As you can see...\n\n✗ \"downside risk\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- is likely to\n- there is a risk that\n- could potentially"
+    },
+    {
+      "id": 9,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're demoing a new feature and need to contrast the old behavior with the new one. Which chunk fits best?",
+      "options": {
+        "A": "Going forward...",
+        "B": "To give you some background,...",
+        "C": "Let's revisit that point from earlier...",
+        "D": "Let me show that again."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Going forward...\" is an Explaining before vs. after / what changed chunk: used to contrast old behavior with new behavior when demoing a change.\nExample: \"Going forward, all new accounts will default to the simplified onboarding flow.\"\nSimilar chunks:\n- Instead of a single \"Create a task\" button, we now have two: the buttons remain deactivated until all required fields are populated.\n- You will notice a clear difference between the old flow and the updated flow.\n- The old behaviour was..., and the new behaviour is...\n\n✗ \"To give you some background,...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- So first things first, ...\n- Before moving to the second point, I'd like to emphasize that...\n- First... second... third...\n\n✗ \"Let's revisit that point from earlier...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- As you can see...\n- My first point is on...\n- To give you some background,...\n\n✗ \"Let me show that again.\" belongs to Technical failure recovery — used to recover smoothly when a demo environment glitches or fails mid-presentation, not this context.\nSimilar chunks:\n- We've tested this, and normally it works like this...\n- This might be an environment issue.\n- Let me update the application first. Now I'll retrieve it again — and here we can see the new fields in the response."
+    },
+    {
+      "id": 10,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're demoing a new feature and need to contrast the old behavior with the new one. Which chunk fits best?",
+      "options": {
+        "A": "The flow is now more intuitive as users can...",
+        "B": "was volatile",
+        "C": "rose",
+        "D": "For today, I intentionally want to keep things at high-level."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"The flow is now more intuitive as users can...\" is an Explaining before vs. after / what changed chunk: used to contrast old behavior with new behavior when demoing a change.\nExample: \"The flow is now more intuitive as users can see their saved progress without leaving the page.\"\nSimilar chunks:\n- Coming back to the original requirement...\n- This allows users to...\n- Going forward...\n\n✗ \"was volatile\" belongs to Describing volatility — used to describe a metric that has fluctuated unpredictably over a period, not this context.\nSimilar chunks:\n- fluctuated\n- swung between X and Y\n- whipsawed\n\n✗ \"rose\" belongs to Describing an increase — used to describe a metric or figure going up, at varying degrees of intensity, not this context.\nSimilar chunks:\n- skyrocketed\n- surged\n- soared\n\n✗ \"For today, I intentionally want to keep things at high-level.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- The main idea here is...\n- That's helpful — let me pause you there so we can hear other views.\n- You're right that there's more nuance — that's a good sign the model is landing."
+    },
+    {
+      "id": 11,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're demoing a new feature and need to contrast the old behavior with the new one. Which chunk fits best?",
+      "options": {
+        "A": "one caveat is that",
+        "B": "on balance",
+        "C": "moderately",
+        "D": "Previously..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"one caveat is that\" belongs to Hedging in data analysis — used to soften a claim rather than stating it as an absolute fact when presenting an analysis, not this context.\nSimilar chunks:\n- it is worth noting that\n- the data indicates\n- based on available data\n\n✗ \"on balance\" belongs to Hedging in data analysis — used to soften a claim rather than stating it as an absolute fact when presenting an analysis, not this context.\nSimilar chunks:\n- it is worth noting that\n- based on available data\n- the data indicates\n\n✗ \"moderately\" belongs to Describing the size or speed of a change — used as an adverb to describe how large, small, or sudden a change in the data was, not this context.\nSimilar chunks:\n- slightly\n- gradually\n- significantly\n\n✓ Correct — \"Previously...\" is an Explaining before vs. after / what changed chunk: used to contrast old behavior with new behavior when demoing a change.\nExample: \"Previously, users had to refresh the page manually to see updated status.\"\nSimilar chunks:\n- This reduces confusion for end users because...\n- We've introduced...\n- Going forward..."
+    },
+    {
+      "id": 12,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're demoing a new feature and need to contrast the old behavior with the new one. Which chunk fits best?",
+      "options": {
+        "A": "came in above forecasts",
+        "B": "Coming back to the original requirement...",
+        "C": "tumbled",
+        "D": "First, let me give you a quick context on this enhancement."
+      },
+      "correct": "B",
+      "explanation": "✗ \"came in above forecasts\" belongs to Comparisons & benchmarking — used to compare a figure against a benchmark, forecast, or competitor when presenting results, not this context.\nSimilar chunks:\n- underperformed peers\n- compared to\n- on a year-on-year (YoY) basis\n\n✓ Correct — \"Coming back to the original requirement...\" is an Explaining before vs. after / what changed chunk: used to contrast old behavior with new behavior when demoing a change.\nExample: \"Coming back to the original requirement, the client asked for a single approval step, not two.\"\nSimilar chunks:\n- This allows users to...\n- You will notice a clear difference between the old flow and the updated flow.\n- Prior to this release...\n\n✗ \"tumbled\" belongs to Describing a decrease — used to describe a metric or figure going down, at varying degrees of intensity, not this context.\nSimilar chunks:\n- fell\n- slumped\n- dropped\n\n✗ \"First, let me give you a quick context on this enhancement.\" belongs to Opening & framing the talk — used to open a presentation or demo and state its purpose or agenda, not this context.\nSimilar chunks:\n- Our solution is to use...\n- Welcome to the session.\n- I'd like to present you with some amazing findings."
+    },
+    {
+      "id": 13,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're demoing something on screen and want to point the audience's attention to a specific detail. Which chunk fits best?",
+      "options": {
+        "A": "the data indicates",
+        "B": "This allows users to...",
+        "C": "Let me update the application first. Now I'll retrieve it again — and here we can see the new fields in the response.",
+        "D": "Take a look at the icon next to the Stage field."
+      },
+      "correct": "D",
+      "explanation": "✗ \"the data indicates\" belongs to Hedging in data analysis — used to soften a claim rather than stating it as an absolute fact when presenting an analysis, not this context.\nSimilar chunks:\n- on balance\n- the data suggests\n- all things considered\n\n✗ \"This allows users to...\" belongs to Explaining before vs. after / what changed — used to contrast old behavior with new behavior when demoing a change, not this context.\nSimilar chunks:\n- Coming back to the original requirement...\n- This reduces confusion for end users because...\n- Going forward...\n\n✗ \"Let me update the application first. Now I'll retrieve it again — and here we can see the new fields in the response.\" belongs to Technical failure recovery — used to recover smoothly when a demo environment glitches or fails mid-presentation, not this context.\nSimilar chunks:\n- This might be an environment issue.\n- Let me navigate there.\n- Let me show that again.\n\n✓ Correct — \"Take a look at the icon next to the Stage field.\" is a Directing attention & highlighting chunk: used to point the audience's attention to a specific detail on screen during a demo.\nExample: \"Take a look at the icon next to the Stage field — that's the new bulk-edit shortcut.\"\nSimilar chunks:\n- Please focus on this section here...\n- Pay attention to the behaviour when I click here.\n- If you look closely at the status labels, you'll see..."
+    },
+    {
+      "id": 14,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're demoing something on screen and want to point the audience's attention to a specific detail. Which chunk fits best?",
+      "options": {
+        "A": "Before moving to the second point, I'd like to emphasize that...",
+        "B": "As you can see...",
+        "C": "The system intelligently hides the edit option once the task is Approved.",
+        "D": "fell"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Before moving to the second point, I'd like to emphasize that...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- First... second... third...\n- The key here is...\n- Let's start by...\n\n✗ \"As you can see...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- So first things first, ...\n- Before moving to the second point, I'd like to emphasize that...\n- To give you some background,...\n\n✓ Correct — \"The system intelligently hides the edit option once the task is Approved.\" is a Directing attention & highlighting chunk: used to point the audience's attention to a specific detail on screen during a demo.\nExample: \"The system intelligently hides the edit option once the task is Approved, to prevent accidental changes.\"\nSimilar chunks:\n- What's important here is that...\n- Pay attention to the behaviour when I click here.\n- This is the crucial update for this feature.\n\n✗ \"fell\" belongs to Describing a decrease — used to describe a metric or figure going down, at varying degrees of intensity, not this context.\nSimilar chunks:\n- plunged\n- dropped\n- tumbled"
+    },
+    {
+      "id": 15,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're demoing something on screen and want to point the audience's attention to a specific detail. Which chunk fits best?",
+      "options": {
+        "A": "Good question — that's getting pretty deep.",
+        "B": "declined",
+        "C": "Notice how these buttons remain grayed out (disabled) until...",
+        "D": "assuming [X] holds true"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Good question — that's getting pretty deep.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- That's helpful — let me pause you there so we can hear other views.\n- The main idea here is...\n- I'm focusing on the big picture here.\n\n✗ \"declined\" belongs to Describing a decrease — used to describe a metric or figure going down, at varying degrees of intensity, not this context.\nSimilar chunks:\n- slumped\n- plunged\n- dropped\n\n✓ Correct — \"Notice how these buttons remain grayed out (disabled) until...\" is a Directing attention & highlighting chunk: used to point the audience's attention to a specific detail on screen during a demo.\nExample: \"Notice how these buttons remain grayed out (disabled) until all required fields are filled in.\"\nSimilar chunks:\n- Pay attention to the behaviour when I click here.\n- If you look closely at the status labels, you'll see...\n- Behind the scenes, the API is now filtering...\n\n✗ \"assuming [X] holds true\" belongs to Hedging in data analysis — used to soften a claim rather than stating it as an absolute fact when presenting an analysis, not this context.\nSimilar chunks:\n- based on available data\n- the data indicates\n- on balance"
+    },
+    {
+      "id": 16,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're demoing something on screen and want to point the audience's attention to a specific detail. Which chunk fits best?",
+      "options": {
+        "A": "I'd like to leave you with some thoughts.",
+        "B": "You're right that there's more nuance — that's a good sign the model is landing.",
+        "C": "Before moving to the second point, I'd like to emphasize that...",
+        "D": "If you look closely at the status labels, you'll see..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'd like to leave you with some thoughts.\" belongs to Summarizing & closing a presentation — used to recap the main points of a presentation before closing or moving to Q&A, not this context.\nSimilar chunks:\n- The main takeaway is...\n- With this improvement, the average time to create an order is reduced from around 5 minutes to about 1 minute.\n- Any questions before we move on?\n\n✗ \"You're right that there's more nuance — that's a good sign the model is landing.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- For today, I intentionally want to keep things at high-level.\n- Let me pause for a second and reframe this.\n- Let me put it another way.\n\n✗ \"Before moving to the second point, I'd like to emphasize that...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- So first things first, ...\n- To give you some background,...\n- As you can see...\n\n✓ Correct — \"If you look closely at the status labels, you'll see...\" is a Directing attention & highlighting chunk: used to point the audience's attention to a specific detail on screen during a demo.\nExample: \"If you look closely at the status labels, you'll see they now update in real time.\"\nSimilar chunks:\n- Behind the scenes, the API is now filtering...\n- Take a look at the icon next to the Stage field.\n- Let me draw your attention to this element..."
+    },
+    {
+      "id": 17,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've been asked a question that goes far deeper than the intended scope of your talk. Which chunk fits best?",
+      "options": {
+        "A": "With this improvement, the average time to create an order is reduced from around 5 minutes to about 1 minute.",
+        "B": "I'm focusing on the big picture here.",
+        "C": "Let me draw your attention to this element...",
+        "D": "came in above forecasts"
+      },
+      "correct": "B",
+      "explanation": "✗ \"With this improvement, the average time to create an order is reduced from around 5 minutes to about 1 minute.\" belongs to Summarizing & closing a presentation — used to recap the main points of a presentation before closing or moving to Q&A, not this context.\nSimilar chunks:\n- I'd like to leave you with some thoughts.\n- Any questions before we move on?\n- That's our idea — now let's move to Q&A — please feel free to ask any questions!\n\n✓ Correct — \"I'm focusing on the big picture here.\" is a Handling tough or deep questions chunk: used to deflect or park a question that goes deeper than the scope of the current talk.\nExample: \"I'm focusing on the big picture here rather than the exact implementation details.\"\nSimilar chunks:\n- Good question — that's getting pretty deep.\n- Let me zoom out for a second.\n- That's helpful — let me pause you there so we can hear other views.\n\n✗ \"Let me draw your attention to this element...\" belongs to Directing attention & highlighting — used to point the audience's attention to a specific detail on screen during a demo, not this context.\nSimilar chunks:\n- Please focus on this section here...\n- Behind the scenes, the API is now filtering...\n- The system intelligently hides the edit option once the task is Approved.\n\n✗ \"came in above forecasts\" belongs to Comparisons & benchmarking — used to compare a figure against a benchmark, forecast, or competitor when presenting results, not this context.\nSimilar chunks:\n- relative to\n- compared to\n- in line with expectations"
+    },
+    {
+      "id": 18,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've been asked a question that goes far deeper than the intended scope of your talk. Which chunk fits best?",
+      "options": {
+        "A": "You're absolutely right — at a deeper level, it's way more complicated than this. For this session, I'm simplifying on purpose to keep the core idea clear.",
+        "B": "Prior to this release...",
+        "C": "This allows users to...",
+        "D": "Welcome to the session."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"You're absolutely right — at a deeper level, it's way more complicated than this. For this session, I'm simplifying on purpose to keep the core idea clear.\" is a Handling tough or deep questions chunk: used to deflect or park a question that goes deeper than the scope of the current talk.\nExample: \"You're absolutely right — at a deeper level, the retry logic is way more complicated than this. For this session, I'm simplifying on purpose to keep the core idea clear.\"\nSimilar chunks:\n- That's a really interesting angle. To keep us on time, let me park this for now.\n- Good question — that's getting pretty deep.\n- I'm focusing on the big picture here.\n\n✗ \"Prior to this release...\" belongs to Explaining before vs. after / what changed — used to contrast old behavior with new behavior when demoing a change, not this context.\nSimilar chunks:\n- Previously...\n- The old behaviour was..., and the new behaviour is...\n- You will notice a clear difference between the old flow and the updated flow.\n\n✗ \"This allows users to...\" belongs to Explaining before vs. after / what changed — used to contrast old behavior with new behavior when demoing a change, not this context.\nSimilar chunks:\n- The flow is now more intuitive as users can...\n- Prior to this release...\n- Coming back to the original requirement...\n\n✗ \"Welcome to the session.\" belongs to Opening & framing the talk — used to open a presentation or demo and state its purpose or agenda, not this context.\nSimilar chunks:\n- I'd like to present you with some amazing findings.\n- Let me brief you on...\n- The bottom line of this talk is to suggest some alternatives..."
+    },
+    {
+      "id": 19,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've been asked a question that goes far deeper than the intended scope of your talk. Which chunk fits best?",
+      "options": {
+        "A": "came in below forecasts",
+        "B": "This might be an environment issue.",
+        "C": "Good question — that's getting pretty deep.",
+        "D": "Can anyone help to explain?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"came in below forecasts\" belongs to Comparisons & benchmarking — used to compare a figure against a benchmark, forecast, or competitor when presenting results, not this context.\nSimilar chunks:\n- in line with expectations\n- came in above forecasts\n- hit a record high\n\n✗ \"This might be an environment issue.\" belongs to Technical failure recovery — used to recover smoothly when a demo environment glitches or fails mid-presentation, not this context.\nSimilar chunks:\n- Since this isn't loading, I'll switch to screenshots for this example.\n- Let me navigate there.\n- One moment while I open that endpoint.\n\n✓ Correct — \"Good question — that's getting pretty deep.\" is a Handling tough or deep questions chunk: used to deflect or park a question that goes deeper than the scope of the current talk.\nExample: \"Good question — that's getting pretty deep into the architecture, more than we have time for today.\"\nSimilar chunks:\n- Let me zoom out for a second.\n- For today, I intentionally want to keep things at high-level.\n- The main idea here is...\n\n✗ \"Can anyone help to explain?\" belongs to Handling interruptions — used to acknowledge an interruption during a demo without losing your train of thought, not this context.\nSimilar chunks:\n- I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together.\n- This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.\n- That's a great point, let me finish this flow first, then we'll come back to it."
+    },
+    {
+      "id": 20,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've been asked a question that goes far deeper than the intended scope of your talk. Which chunk fits best?",
+      "options": {
+        "A": "I'll summarize this in one sentence.",
+        "B": "Let's start by...",
+        "C": "could potentially",
+        "D": "tumbled"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I'll summarize this in one sentence.\" is a Handling tough or deep questions chunk: used to deflect or park a question that goes deeper than the scope of the current talk.\nExample: \"I'll summarize this in one sentence: fewer clicks, faster checkout.\"\nSimilar chunks:\n- You're right that there's more nuance — that's a good sign the model is landing.\n- You're absolutely right — at a deeper level, it's way more complicated than this. For this session, I'm simplifying on purpose to keep the core idea clear.\n- Let me pause for a second and reframe this.\n\n✗ \"Let's start by...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- As you can see...\n- So first things first, ...\n- To give you some background,...\n\n✗ \"could potentially\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- is poised to\n- downside risk\n- the outlook remains cautious\n\n✗ \"tumbled\" belongs to Describing a decrease — used to describe a metric or figure going down, at varying degrees of intensity, not this context.\nSimilar chunks:\n- slumped\n- declined\n- plunged"
+    },
+    {
+      "id": 21,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're asked a question mid-demo that you can't answer accurately on the spot. Which chunk fits best?",
+      "options": {
+        "A": "That's a very good question — let me pull up an example to explain further. Hang on a sec.",
+        "B": "Let's start by...",
+        "C": "One moment while I open that endpoint.",
+        "D": "the data indicates"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"That's a very good question — let me pull up an example to explain further. Hang on a sec.\" is an Admitting uncertainty & following up chunk: used to admit you don't know an answer on the spot and commit to following up.\nExample: \"That's a very good question — let me pull up an example to explain further. Hang on a sec while I find the right screen.\"\nSimilar chunks:\n- I don't want to guess and give you a wrong answer. Let me take this offline and get back to you after this session.\n- Let me check the details and get back to you.\n- I don't have a correct answer right now, but I know where this sits.\n\n✗ \"Let's start by...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- As you can see...\n- To give you some background,...\n- So first things first, ...\n\n✗ \"One moment while I open that endpoint.\" belongs to Technical failure recovery — used to recover smoothly when a demo environment glitches or fails mid-presentation, not this context.\nSimilar chunks:\n- We've tested this, and normally it works like this...\n- Let me navigate there.\n- Since this isn't loading, I'll switch to screenshots for this example.\n\n✗ \"the data indicates\" belongs to Hedging in data analysis — used to soften a claim rather than stating it as an absolute fact when presenting an analysis, not this context.\nSimilar chunks:\n- all things considered\n- it is worth noting that\n- assuming [X] holds true"
+    },
+    {
+      "id": 22,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're asked a question mid-demo that you can't answer accurately on the spot. Which chunk fits best?",
+      "options": {
+        "A": "Good question — that's getting pretty deep.",
+        "B": "That wraps up the response model enhancements.",
+        "C": "I don't have a correct answer right now, but I know where this sits.",
+        "D": "Since this isn't loading, I'll switch to screenshots for this example."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Good question — that's getting pretty deep.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- Let me put it another way.\n- Let me zoom out for a second.\n- You're right that there's more nuance — that's a good sign the model is landing.\n\n✗ \"That wraps up the response model enhancements.\" belongs to Summarizing & closing a presentation — used to recap the main points of a presentation before closing or moving to Q&A, not this context.\nSimilar chunks:\n- With this improvement, the average time to create an order is reduced from around 5 minutes to about 1 minute.\n- The main takeaway is...\n- That completes the API changes.\n\n✓ Correct — \"I don't have a correct answer right now, but I know where this sits.\" is an Admitting uncertainty & following up chunk: used to admit you don't know an answer on the spot and commit to following up.\nExample: \"I don't have a correct answer right now, but I know where this sits in the backlog — I'll check the ticket.\"\nSimilar chunks:\n- That's a very good question — let me pull up an example to explain further. Hang on a sec.\n- Let me check the details and get back to you.\n- I don't want to guess and give you a wrong answer. Let me take this offline and get back to you after this session.\n\n✗ \"Since this isn't loading, I'll switch to screenshots for this example.\" belongs to Technical failure recovery — used to recover smoothly when a demo environment glitches or fails mid-presentation, not this context.\nSimilar chunks:\n- One moment while I open that endpoint.\n- It looks like the environment isn't responding at the moment. The change itself has been implemented, so I'll explain the expected behaviour.\n- Let me update the application first. Now I'll retrieve it again — and here we can see the new fields in the response."
+    },
+    {
+      "id": 23,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Someone interrupts your demo with a question or comment mid-flow, and you need to acknowledge it without losing your place. Which chunk fits best?",
+      "options": {
+        "A": "steadily",
+        "B": "underperformed peers",
+        "C": "This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.",
+        "D": "Let's revisit that point from earlier..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"steadily\" belongs to Describing the size or speed of a change — used as an adverb to describe how large, small, or sudden a change in the data was, not this context.\nSimilar chunks:\n- significantly\n- substantially\n- slightly\n\n✗ \"underperformed peers\" belongs to Comparisons & benchmarking — used to compare a figure against a benchmark, forecast, or competitor when presenting results, not this context.\nSimilar chunks:\n- widened the gap with\n- came in below forecasts\n- on a year-on-year (YoY) basis\n\n✓ Correct — \"This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.\" is a Handling interruptions chunk: used to acknowledge an interruption during a demo without losing your train of thought.\nExample: \"This part is still in progress — what you're seeing is an early version of the dashboard, and we're planning to improve the filters next.\"\nSimilar chunks:\n- Can anyone help to explain?\n- That's a great point, let me finish this flow first, then we'll come back to it.\n- I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together.\n\n✗ \"Let's revisit that point from earlier...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- To give you some background,...\n- The key here is...\n- My first point is on..."
+    },
+    {
+      "id": 24,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Someone interrupts your demo with a question or comment mid-flow, and you need to acknowledge it without losing your place. Which chunk fits best?",
+      "options": {
+        "A": "I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together.",
+        "B": "This is the crucial update for this feature.",
+        "C": "on a year-on-year (YoY) basis",
+        "D": "remains to be seen whether"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together.\" is a Handling interruptions chunk: used to acknowledge an interruption during a demo without losing your train of thought.\nExample: \"I'll call on a few of you to share your thoughts on this once I finish the walkthrough — don't be shy, we're here to learn together.\"\nSimilar chunks:\n- Can anyone help to explain?\n- This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.\n- That's a great point, let me finish this flow first, then we'll come back to it.\n\n✗ \"This is the crucial update for this feature.\" belongs to Directing attention & highlighting — used to point the audience's attention to a specific detail on screen during a demo, not this context.\nSimilar chunks:\n- What's important here is that...\n- Please focus on this section here...\n- Pay attention to the behaviour when I click here.\n\n✗ \"on a year-on-year (YoY) basis\" belongs to Comparisons & benchmarking — used to compare a figure against a benchmark, forecast, or competitor when presenting results, not this context.\nSimilar chunks:\n- came in above forecasts\n- in line with expectations\n- compared to\n\n✗ \"remains to be seen whether\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- upside potential\n- the outlook remains cautious\n- is poised to"
+    },
+    {
+      "id": 25,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Your demo environment glitches or fails mid-presentation and you need to recover smoothly. Which chunk fits best?",
+      "options": {
+        "A": "That's helpful — let me pause you there so we can hear other views.",
+        "B": "can be traced back to",
+        "C": "slightly",
+        "D": "Let me navigate there."
+      },
+      "correct": "D",
+      "explanation": "✗ \"That's helpful — let me pause you there so we can hear other views.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- Good question — that's getting pretty deep.\n- Let me put it another way.\n- Let me pause for a second and reframe this.\n\n✗ \"can be traced back to\" belongs to Explaining cause vs. correlation — used to explain why something happened in the data, or to flag correlation rather than proven causation, not this context.\nSimilar chunks:\n- correlation does not necessarily imply causation\n- driven by\n- fueled by\n\n✗ \"slightly\" belongs to Describing the size or speed of a change — used as an adverb to describe how large, small, or sudden a change in the data was, not this context.\nSimilar chunks:\n- significantly\n- substantially\n- steadily\n\n✓ Correct — \"Let me navigate there.\" is a Technical failure recovery chunk: used to recover smoothly when a demo environment glitches or fails mid-presentation.\nExample: \"Let me navigate there — one second, it's under Settings.\"\nSimilar chunks:\n- One moment while I open that endpoint.\n- Since this isn't loading, I'll switch to screenshots for this example.\n- Let me show that again."
+    },
+    {
+      "id": 26,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Your demo environment glitches or fails mid-presentation and you need to recover smoothly. Which chunk fits best?",
+      "options": {
+        "A": "Let me show that again.",
+        "B": "We've introduced...",
+        "C": "I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together.",
+        "D": "widened the gap with"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Let me show that again.\" is a Technical failure recovery chunk: used to recover smoothly when a demo environment glitches or fails mid-presentation.\nExample: \"Let me show that again, I don't think the screen share caught it the first time.\"\nSimilar chunks:\n- One moment while I open that endpoint.\n- We've tested this, and normally it works like this...\n- This might be an environment issue.\n\n✗ \"We've introduced...\" belongs to Explaining before vs. after / what changed — used to contrast old behavior with new behavior when demoing a change, not this context.\nSimilar chunks:\n- This new endpoint will perform calculations in the back to validate the data.\n- Coming back to the original requirement...\n- Prior to this release...\n\n✗ \"I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together.\" belongs to Handling interruptions — used to acknowledge an interruption during a demo without losing your train of thought, not this context.\nSimilar chunks:\n- Can anyone help to explain?\n- This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.\n- That's a great point, let me finish this flow first, then we'll come back to it.\n\n✗ \"widened the gap with\" belongs to Comparisons & benchmarking — used to compare a figure against a benchmark, forecast, or competitor when presenting results, not this context.\nSimilar chunks:\n- came in above forecasts\n- in line with expectations\n- on a year-on-year (YoY) basis"
+    },
+    {
+      "id": 27,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Your demo environment glitches or fails mid-presentation and you need to recover smoothly. Which chunk fits best?",
+      "options": {
+        "A": "That's our idea — now let's move to Q&A — please feel free to ask any questions!",
+        "B": "swung between X and Y",
+        "C": "Looks like this environment is a bit unstable — let me quickly show the expected behavior.",
+        "D": "sharply"
+      },
+      "correct": "C",
+      "explanation": "✗ \"That's our idea — now let's move to Q&A — please feel free to ask any questions!\" belongs to Summarizing & closing a presentation — used to recap the main points of a presentation before closing or moving to Q&A, not this context.\nSimilar chunks:\n- Let me close now with a story that summarizes my talk. Thank you for coming.\n- That wraps up the response model enhancements.\n- Let me run over the key points again.\n\n✗ \"swung between X and Y\" belongs to Describing volatility — used to describe a metric that has fluctuated unpredictably over a period, not this context.\nSimilar chunks:\n- whipsawed\n- was volatile\n- fluctuated\n\n✓ Correct — \"Looks like this environment is a bit unstable — let me quickly show the expected behavior.\" is a Technical failure recovery chunk: used to recover smoothly when a demo environment glitches or fails mid-presentation.\nExample: \"Looks like this environment is a bit unstable — let me quickly show the expected behavior using yesterday's recording.\"\nSimilar chunks:\n- Since this isn't loading, I'll switch to screenshots for this example.\n- It looks like the environment isn't responding at the moment. The change itself has been implemented, so I'll explain the expected behaviour.\n- This might be an environment issue.\n\n✗ \"sharply\" belongs to Describing the size or speed of a change — used as an adverb to describe how large, small, or sudden a change in the data was, not this context.\nSimilar chunks:\n- dramatically\n- moderately\n- significantly"
+    },
+    {
+      "id": 28,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Your demo environment glitches or fails mid-presentation and you need to recover smoothly. Which chunk fits best?",
+      "options": {
+        "A": "First, let me give you a quick context on this enhancement.",
+        "B": "You're absolutely right — at a deeper level, it's way more complicated than this. For this session, I'm simplifying on purpose to keep the core idea clear.",
+        "C": "Since this isn't loading, I'll switch to screenshots for this example.",
+        "D": "this coincided with"
+      },
+      "correct": "C",
+      "explanation": "✗ \"First, let me give you a quick context on this enhancement.\" belongs to Opening & framing the talk — used to open a presentation or demo and state its purpose or agenda, not this context.\nSimilar chunks:\n- Good afternoon everyone. Today I'll walk you through the key enhancements delivered in this sprint.\n- The bottom line of this talk is to suggest some alternatives...\n- Let me brief you on...\n\n✗ \"You're absolutely right — at a deeper level, it's way more complicated than this. For this session, I'm simplifying on purpose to keep the core idea clear.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- That's helpful — let me pause you there so we can hear other views.\n- Good question — that's getting pretty deep.\n- For today, I intentionally want to keep things at high-level.\n\n✓ Correct — \"Since this isn't loading, I'll switch to screenshots for this example.\" is a Technical failure recovery chunk: used to recover smoothly when a demo environment glitches or fails mid-presentation.\nExample: \"Since this isn't loading, I'll switch to screenshots for this example of the export flow.\"\nSimilar chunks:\n- We've tested this, and normally it works like this...\n- One moment while I open that endpoint.\n- Let me navigate there.\n\n✗ \"this coincided with\" belongs to Explaining cause vs. correlation — used to explain why something happened in the data, or to flag correlation rather than proven causation, not this context.\nSimilar chunks:\n- correlates with\n- can be traced back to\n- attributable to"
+    },
+    {
+      "id": 29,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're wrapping up your presentation and want to recap the main points before moving to Q&A. Which chunk fits best?",
+      "options": {
+        "A": "Looks like this environment is a bit unstable — let me quickly show the expected behavior.",
+        "B": "That completes the API changes.",
+        "C": "Can anyone help to explain?",
+        "D": "increased"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Looks like this environment is a bit unstable — let me quickly show the expected behavior.\" belongs to Technical failure recovery — used to recover smoothly when a demo environment glitches or fails mid-presentation, not this context.\nSimilar chunks:\n- Let me navigate there.\n- Since this isn't loading, I'll switch to screenshots for this example.\n- One moment while I open that endpoint.\n\n✓ Correct — \"That completes the API changes.\" is a Summarizing & closing a presentation chunk: used to recap the main points of a presentation before closing or moving to Q&A.\nExample: \"That completes the API changes — the new endpoints are already live in staging.\"\nSimilar chunks:\n- So, to summarize this section...\n- Any questions before we move on?\n- Let me run over the key points again.\n\n✗ \"Can anyone help to explain?\" belongs to Handling interruptions — used to acknowledge an interruption during a demo without losing your train of thought, not this context.\nSimilar chunks:\n- This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.\n- That's a great point, let me finish this flow first, then we'll come back to it.\n- I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together.\n\n✗ \"increased\" belongs to Describing an increase — used to describe a metric or figure going up, at varying degrees of intensity, not this context.\nSimilar chunks:\n- soared\n- jumped\n- skyrocketed"
+    },
+    {
+      "id": 30,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're wrapping up your presentation and want to recap the main points before moving to Q&A. Which chunk fits best?",
+      "options": {
+        "A": "is expected to",
+        "B": "With this improvement, the average time to create an order is reduced from around 5 minutes to about 1 minute.",
+        "C": "moderately",
+        "D": "Let's look at..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"is expected to\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- is poised to\n- is likely to\n- downside risk\n\n✓ Correct — \"With this improvement, the average time to create an order is reduced from around 5 minutes to about 1 minute.\" is a Summarizing & closing a presentation chunk: used to recap the main points of a presentation before closing or moving to Q&A.\nExample: \"With this improvement, the average time to create an order is reduced from around 5 minutes to about 1 minute — a big win for the sales team.\"\nSimilar chunks:\n- Let me run over the key points again.\n- That completes the API changes.\n- That wraps up the response model enhancements.\n\n✗ \"moderately\" belongs to Describing the size or speed of a change — used as an adverb to describe how large, small, or sudden a change in the data was, not this context.\nSimilar chunks:\n- significantly\n- sharply\n- dramatically\n\n✗ \"Let's look at...\" belongs to Transitions & replacing filler words — used to transition cleanly between points in a presentation instead of using filler words, not this context.\nSimilar chunks:\n- Now that we've seen X, let's move to Y.\n- Next, let's look at...\n- Moving on to..."
+    },
+    {
+      "id": 31,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're wrapping up your presentation and want to recap the main points before moving to Q&A. Which chunk fits best?",
+      "options": {
+        "A": "The main takeaway is...",
+        "B": "held steady",
+        "C": "I'm focusing on the big picture here.",
+        "D": "fluctuated"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"The main takeaway is...\" is a Summarizing & closing a presentation chunk: used to recap the main points of a presentation before closing or moving to Q&A.\nExample: \"The main takeaway is that the new flow cut support tickets by almost a third.\"\nSimilar chunks:\n- Let me close now with a story that summarizes my talk. Thank you for coming.\n- I'd like to leave you with some thoughts.\n- With this improvement, the average time to create an order is reduced from around 5 minutes to about 1 minute.\n\n✗ \"held steady\" belongs to Describing stability — used to describe a metric that has stayed roughly the same over a period, not this context.\nSimilar chunks:\n- remained flat\n- plateaued\n- stabilized\n\n✗ \"I'm focusing on the big picture here.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- Let me put it another way.\n- That's helpful — let me pause you there so we can hear other views.\n- You're absolutely right — at a deeper level, it's way more complicated than this. For this session, I'm simplifying on purpose to keep the core idea clear.\n\n✗ \"fluctuated\" belongs to Describing volatility — used to describe a metric that has fluctuated unpredictably over a period, not this context.\nSimilar chunks:\n- was volatile\n- swung between X and Y\n- whipsawed"
+    },
+    {
+      "id": 32,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're wrapping up your presentation and want to recap the main points before moving to Q&A. Which chunk fits best?",
+      "options": {
+        "A": "That's a really interesting angle. To keep us on time, let me park this for now.",
+        "B": "Before moving to the second point, I'd like to emphasize that...",
+        "C": "downside risk",
+        "D": "That wraps up the response model enhancements."
+      },
+      "correct": "D",
+      "explanation": "✗ \"That's a really interesting angle. To keep us on time, let me park this for now.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- Good question — that's getting pretty deep.\n- That's helpful — let me pause you there so we can hear other views.\n- I'm focusing on the big picture here.\n\n✗ \"Before moving to the second point, I'd like to emphasize that...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- The key here is...\n- Let's revisit that point from earlier...\n- Let's start by...\n\n✗ \"downside risk\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- is expected to\n- remains to be seen whether\n- is poised to\n\n✓ Correct — \"That wraps up the response model enhancements.\" is a Summarizing & closing a presentation chunk: used to recap the main points of a presentation before closing or moving to Q&A.\nExample: \"That wraps up the response model enhancements for this sprint.\"\nSimilar chunks:\n- The main takeaway is...\n- Let me run over the key points again.\n- Any questions before we move on?"
+    },
+    {
+      "id": 33,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're moving from one point of your presentation to the next and want a clean, professional transition. Which chunk fits best?",
+      "options": {
+        "A": "Moving on to...",
+        "B": "The main idea here is...",
+        "C": "This might be an environment issue.",
+        "D": "That completes the API changes."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Moving on to...\" is a Transitions & replacing filler words chunk: used to transition cleanly between points in a presentation instead of using filler words.\nExample: \"Moving on to the second feature we shipped this sprint.\"\nSimilar chunks:\n- In this case...\n- More specifically...\n- Now that we've seen X, let's move to Y.\n\n✗ \"The main idea here is...\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- That's a really interesting angle. To keep us on time, let me park this for now.\n- Let me zoom out for a second.\n- Let me pause for a second and reframe this.\n\n✗ \"This might be an environment issue.\" belongs to Technical failure recovery — used to recover smoothly when a demo environment glitches or fails mid-presentation, not this context.\nSimilar chunks:\n- It looks like the environment isn't responding at the moment. The change itself has been implemented, so I'll explain the expected behaviour.\n- We've tested this, and normally it works like this...\n- Let me update the application first. Now I'll retrieve it again — and here we can see the new fields in the response.\n\n✗ \"That completes the API changes.\" belongs to Summarizing & closing a presentation — used to recap the main points of a presentation before closing or moving to Q&A, not this context.\nSimilar chunks:\n- Any questions before we move on?\n- So, to summarize this section...\n- Let me close now with a story that summarizes my talk. Thank you for coming."
+    },
+    {
+      "id": 34,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're moving from one point of your presentation to the next and want a clean, professional transition. Which chunk fits best?",
+      "options": {
+        "A": "I'll summarize this in one sentence.",
+        "B": "This is the crucial update for this feature.",
+        "C": "Let me pause for a second and reframe this.",
+        "D": "In this case..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'll summarize this in one sentence.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- For today, I intentionally want to keep things at high-level.\n- I'm focusing on the big picture here.\n- Let me put it another way.\n\n✗ \"This is the crucial update for this feature.\" belongs to Directing attention & highlighting — used to point the audience's attention to a specific detail on screen during a demo, not this context.\nSimilar chunks:\n- The system intelligently hides the edit option once the task is Approved.\n- What's important here is that...\n- Take a look at the icon next to the Stage field.\n\n✗ \"Let me pause for a second and reframe this.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- That's helpful — let me pause you there so we can hear other views.\n- The main idea here is...\n- For today, I intentionally want to keep things at high-level.\n\n✓ Correct — \"In this case...\" is a Transitions & replacing filler words chunk: used to transition cleanly between points in a presentation instead of using filler words.\nExample: \"In this case, the fallback kicks in automatically after three failed retries.\"\nSimilar chunks:\n- Now that we've seen X, let's move to Y.\n- For example...\n- More specifically..."
+    },
+    {
+      "id": 35,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're moving from one point of your presentation to the next and want a clean, professional transition. Which chunk fits best?",
+      "options": {
+        "A": "More specifically...",
+        "B": "Can anyone help to explain?",
+        "C": "rose",
+        "D": "underperformed peers"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"More specifically...\" is a Transitions & replacing filler words chunk: used to transition cleanly between points in a presentation instead of using filler words.\nExample: \"More specifically, this only affects accounts on the legacy pricing plan.\"\nSimilar chunks:\n- In this case...\n- Let's look at...\n- Now that we've seen X, let's move to Y.\n\n✗ \"Can anyone help to explain?\" belongs to Handling interruptions — used to acknowledge an interruption during a demo without losing your train of thought, not this context.\nSimilar chunks:\n- I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together.\n- This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.\n- That's a great point, let me finish this flow first, then we'll come back to it.\n\n✗ \"rose\" belongs to Describing an increase — used to describe a metric or figure going up, at varying degrees of intensity, not this context.\nSimilar chunks:\n- climbed\n- skyrocketed\n- increased\n\n✗ \"underperformed peers\" belongs to Comparisons & benchmarking — used to compare a figure against a benchmark, forecast, or competitor when presenting results, not this context.\nSimilar chunks:\n- compared to\n- in line with expectations\n- widened the gap with"
+    },
+    {
+      "id": 36,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're moving from one point of your presentation to the next and want a clean, professional transition. Which chunk fits best?",
+      "options": {
+        "A": "Behind the scenes, the API is now filtering...",
+        "B": "I'll summarize this in one sentence.",
+        "C": "Next, let's look at...",
+        "D": "Can anyone help to explain?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Behind the scenes, the API is now filtering...\" belongs to Directing attention & highlighting — used to point the audience's attention to a specific detail on screen during a demo, not this context.\nSimilar chunks:\n- The system intelligently hides the edit option once the task is Approved.\n- Let me draw your attention to this element...\n- Pay attention to the behaviour when I click here.\n\n✗ \"I'll summarize this in one sentence.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- Let me pause for a second and reframe this.\n- That's a really interesting angle. To keep us on time, let me park this for now.\n- Let me zoom out for a second.\n\n✓ Correct — \"Next, let's look at...\" is a Transitions & replacing filler words chunk: used to transition cleanly between points in a presentation instead of using filler words.\nExample: \"Next, let's look at how this affects the mobile app specifically.\"\nSimilar chunks:\n- More specifically...\n- Moving on to...\n- For example...\n\n✗ \"Can anyone help to explain?\" belongs to Handling interruptions — used to acknowledge an interruption during a demo without losing your train of thought, not this context.\nSimilar chunks:\n- That's a great point, let me finish this flow first, then we'll come back to it.\n- This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.\n- I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together."
+    },
+    {
+      "id": 37,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting a chart and need the right verb to describe a metric going up. Which chunk fits best?",
+      "options": {
+        "A": "Let me show that again.",
+        "B": "climbed",
+        "C": "upside potential",
+        "D": "This part is still in progress — what you're seeing is an early version, and we're planning to improve it next."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Let me show that again.\" belongs to Technical failure recovery — used to recover smoothly when a demo environment glitches or fails mid-presentation, not this context.\nSimilar chunks:\n- It looks like the environment isn't responding at the moment. The change itself has been implemented, so I'll explain the expected behaviour.\n- Since this isn't loading, I'll switch to screenshots for this example.\n- Looks like this environment is a bit unstable — let me quickly show the expected behavior.\n\n✓ Correct — \"climbed\" is a Describing an increase chunk: used to describe a metric or figure going up, at varying degrees of intensity.\nExample: \"Customer satisfaction climbed steadily after the support team was expanded.\"\nSimilar chunks:\n- increased\n- soared\n- edged up\n\n✗ \"upside potential\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- is likely to\n- is expected to\n- remains to be seen whether\n\n✗ \"This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.\" belongs to Handling interruptions — used to acknowledge an interruption during a demo without losing your train of thought, not this context.\nSimilar chunks:\n- Can anyone help to explain?\n- I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together.\n- That's a great point, let me finish this flow first, then we'll come back to it."
+    },
+    {
+      "id": 38,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting a chart and need the right verb to describe a metric going up. Which chunk fits best?",
+      "options": {
+        "A": "This talk was designed to...",
+        "B": "soared",
+        "C": "As you can see...",
+        "D": "held steady"
+      },
+      "correct": "B",
+      "explanation": "✗ \"This talk was designed to...\" belongs to Opening & framing the talk — used to open a presentation or demo and state its purpose or agenda, not this context.\nSimilar chunks:\n- Let me start by introducing myself.\n- Thank you for giving me the opportunity to present this issue.\n- Welcome to the session.\n\n✓ Correct — \"soared\" is a Describing an increase chunk: used to describe a metric or figure going up, at varying degrees of intensity.\nExample: \"Demand soared during the holiday season, well past our forecast.\"\nSimilar chunks:\n- increased\n- rose\n- skyrocketed\n\n✗ \"As you can see...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- First... second... third...\n- One possible explanation is...\n- My first point is on...\n\n✗ \"held steady\" belongs to Describing stability — used to describe a metric that has stayed roughly the same over a period, not this context.\nSimilar chunks:\n- stabilized\n- plateaued\n- remained flat"
+    },
+    {
+      "id": 39,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting a chart and need the right verb to describe a metric going up. Which chunk fits best?",
+      "options": {
+        "A": "jumped",
+        "B": "This new endpoint will perform calculations in the back to validate the data.",
+        "C": "Let me show that again.",
+        "D": "Good question — that's getting pretty deep."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"jumped\" is a Describing an increase chunk: used to describe a metric or figure going up, at varying degrees of intensity.\nExample: \"Traffic jumped 40% the week the campaign launched.\"\nSimilar chunks:\n- soared\n- climbed\n- skyrocketed\n\n✗ \"This new endpoint will perform calculations in the back to validate the data.\" belongs to Explaining before vs. after / what changed — used to contrast old behavior with new behavior when demoing a change, not this context.\nSimilar chunks:\n- Coming back to the original requirement...\n- The old behaviour was..., and the new behaviour is...\n- We've introduced...\n\n✗ \"Let me show that again.\" belongs to Technical failure recovery — used to recover smoothly when a demo environment glitches or fails mid-presentation, not this context.\nSimilar chunks:\n- One moment while I open that endpoint.\n- This might be an environment issue.\n- Since this isn't loading, I'll switch to screenshots for this example.\n\n✗ \"Good question — that's getting pretty deep.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- I'll summarize this in one sentence.\n- You're right that there's more nuance — that's a good sign the model is landing.\n- I'm focusing on the big picture here."
+    },
+    {
+      "id": 40,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting a chart and need the right verb to describe a metric going up. Which chunk fits best?",
+      "options": {
+        "A": "surged",
+        "B": "dramatically",
+        "C": "relative to",
+        "D": "Can anyone help to explain?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"surged\" is a Describing an increase chunk: used to describe a metric or figure going up, at varying degrees of intensity.\nExample: \"Sign-ups surged after the feature was mentioned in a major tech newsletter.\"\nSimilar chunks:\n- jumped\n- skyrocketed\n- climbed\n\n✗ \"dramatically\" belongs to Describing the size or speed of a change — used as an adverb to describe how large, small, or sudden a change in the data was, not this context.\nSimilar chunks:\n- slightly\n- steadily\n- substantially\n\n✗ \"relative to\" belongs to Comparisons & benchmarking — used to compare a figure against a benchmark, forecast, or competitor when presenting results, not this context.\nSimilar chunks:\n- on a year-on-year (YoY) basis\n- widened the gap with\n- outperformed the sector\n\n✗ \"Can anyone help to explain?\" belongs to Handling interruptions — used to acknowledge an interruption during a demo without losing your train of thought, not this context.\nSimilar chunks:\n- This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.\n- That's a great point, let me finish this flow first, then we'll come back to it.\n- I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together."
+    },
+    {
+      "id": 41,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting a chart and need the right verb to describe a metric going down. Which chunk fits best?",
+      "options": {
+        "A": "collapsed",
+        "B": "That's our idea — now let's move to Q&A — please feel free to ask any questions!",
+        "C": "Any questions before we move on?",
+        "D": "The aim of this talk is to update you on..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"collapsed\" is a Describing a decrease chunk: used to describe a metric or figure going down, at varying degrees of intensity.\nExample: \"Engagement collapsed after the redesign confused long-time users.\"\nSimilar chunks:\n- tumbled\n- plunged\n- slumped\n\n✗ \"That's our idea — now let's move to Q&A — please feel free to ask any questions!\" belongs to Summarizing & closing a presentation — used to recap the main points of a presentation before closing or moving to Q&A, not this context.\nSimilar chunks:\n- With this improvement, the average time to create an order is reduced from around 5 minutes to about 1 minute.\n- Any questions before we move on?\n- The main takeaway is...\n\n✗ \"Any questions before we move on?\" belongs to Summarizing & closing a presentation — used to recap the main points of a presentation before closing or moving to Q&A, not this context.\nSimilar chunks:\n- With this improvement, the average time to create an order is reduced from around 5 minutes to about 1 minute.\n- That wraps up the response model enhancements.\n- Let me close now with a story that summarizes my talk. Thank you for coming.\n\n✗ \"The aim of this talk is to update you on...\" belongs to Opening & framing the talk — used to open a presentation or demo and state its purpose or agenda, not this context.\nSimilar chunks:\n- Good afternoon everyone. Today I'll walk you through the key enhancements delivered in this sprint.\n- Thank you for giving me the opportunity to present this issue.\n- Our solution is to use..."
+    },
+    {
+      "id": 42,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting a chart and need the right verb to describe a metric going down. Which chunk fits best?",
+      "options": {
+        "A": "This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.",
+        "B": "swung between X and Y",
+        "C": "How are you all?",
+        "D": "fell"
+      },
+      "correct": "D",
+      "explanation": "✗ \"This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.\" belongs to Handling interruptions — used to acknowledge an interruption during a demo without losing your train of thought, not this context.\nSimilar chunks:\n- I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together.\n- That's a great point, let me finish this flow first, then we'll come back to it.\n- Can anyone help to explain?\n\n✗ \"swung between X and Y\" belongs to Describing volatility — used to describe a metric that has fluctuated unpredictably over a period, not this context.\nSimilar chunks:\n- fluctuated\n- whipsawed\n- was volatile\n\n✗ \"How are you all?\" belongs to Opening & framing the talk — used to open a presentation or demo and state its purpose or agenda, not this context.\nSimilar chunks:\n- First, let me give you a quick context on this enhancement.\n- Let me brief you on...\n- The aim of this talk is to update you on...\n\n✓ Correct — \"fell\" is a Describing a decrease chunk: used to describe a metric or figure going down, at varying degrees of intensity.\nExample: \"Page load time fell from 3.2 seconds to 1.8 seconds after the CDN change.\"\nSimilar chunks:\n- dropped\n- declined\n- slumped"
+    },
+    {
+      "id": 43,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting a chart and need the right verb to describe a metric going down. Which chunk fits best?",
+      "options": {
+        "A": "attributable to",
+        "B": "dropped",
+        "C": "remains to be seen whether",
+        "D": "Previously..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"attributable to\" belongs to Explaining cause vs. correlation — used to explain why something happened in the data, or to flag correlation rather than proven causation, not this context.\nSimilar chunks:\n- correlation does not necessarily imply causation\n- can be traced back to\n- this coincided with\n\n✓ Correct — \"dropped\" is a Describing a decrease chunk: used to describe a metric or figure going down, at varying degrees of intensity.\nExample: \"Cart abandonment dropped after we simplified the checkout form.\"\nSimilar chunks:\n- edged down\n- slumped\n- collapsed\n\n✗ \"remains to be seen whether\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- could potentially\n- upside potential\n- downside risk\n\n✗ \"Previously...\" belongs to Explaining before vs. after / what changed — used to contrast old behavior with new behavior when demoing a change, not this context.\nSimilar chunks:\n- This new endpoint will perform calculations in the back to validate the data.\n- We've introduced...\n- This reduces confusion for end users because..."
+    },
+    {
+      "id": 44,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting a chart and need the right verb to describe a metric going down. Which chunk fits best?",
+      "options": {
+        "A": "Let me close now with a story that summarizes my talk. Thank you for coming.",
+        "B": "The system intelligently hides the edit option once the task is Approved.",
+        "C": "With this improvement, the average time to create an order is reduced from around 5 minutes to about 1 minute.",
+        "D": "slumped"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let me close now with a story that summarizes my talk. Thank you for coming.\" belongs to Summarizing & closing a presentation — used to recap the main points of a presentation before closing or moving to Q&A, not this context.\nSimilar chunks:\n- I'd like to leave you with some thoughts.\n- With this improvement, the average time to create an order is reduced from around 5 minutes to about 1 minute.\n- That's our idea — now let's move to Q&A — please feel free to ask any questions!\n\n✗ \"The system intelligently hides the edit option once the task is Approved.\" belongs to Directing attention & highlighting — used to point the audience's attention to a specific detail on screen during a demo, not this context.\nSimilar chunks:\n- Take a look at the icon next to the Stage field.\n- Please focus on this section here...\n- Let me draw your attention to this element...\n\n✗ \"With this improvement, the average time to create an order is reduced from around 5 minutes to about 1 minute.\" belongs to Summarizing & closing a presentation — used to recap the main points of a presentation before closing or moving to Q&A, not this context.\nSimilar chunks:\n- I'd like to leave you with some thoughts.\n- The main takeaway is...\n- That wraps up the response model enhancements.\n\n✓ Correct — \"slumped\" is a Describing a decrease chunk: used to describe a metric or figure going down, at varying degrees of intensity.\nExample: \"Ad click-through rates slumped after the platform changed its algorithm.\"\nSimilar chunks:\n- collapsed\n- plunged\n- fell"
+    },
+    {
+      "id": 45,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting a chart and need to describe a metric that hasn't moved much. Which chunk fits best?",
+      "options": {
+        "A": "it is worth noting that",
+        "B": "surged",
+        "C": "So, to summarize this section...",
+        "D": "plateaued"
+      },
+      "correct": "D",
+      "explanation": "✗ \"it is worth noting that\" belongs to Hedging in data analysis — used to soften a claim rather than stating it as an absolute fact when presenting an analysis, not this context.\nSimilar chunks:\n- based on available data\n- assuming [X] holds true\n- the data suggests\n\n✗ \"surged\" belongs to Describing an increase — used to describe a metric or figure going up, at varying degrees of intensity, not this context.\nSimilar chunks:\n- rose\n- jumped\n- edged up\n\n✗ \"So, to summarize this section...\" belongs to Summarizing & closing a presentation — used to recap the main points of a presentation before closing or moving to Q&A, not this context.\nSimilar chunks:\n- Any questions before we move on?\n- The main takeaway is...\n- Let me run over the key points again.\n\n✓ Correct — \"plateaued\" is a Describing stability chunk: used to describe a metric that has stayed roughly the same over a period.\nExample: \"Growth plateaued after the initial launch spike, as expected.\"\nSimilar chunks:\n- stabilized\n- held steady\n- remained flat"
+    },
+    {
+      "id": 46,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting a chart and need to describe a metric that hasn't moved much. Which chunk fits best?",
+      "options": {
+        "A": "I'm focusing on the big picture here.",
+        "B": "correlation does not necessarily imply causation",
+        "C": "Can anyone help to explain?",
+        "D": "held steady"
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'm focusing on the big picture here.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- Let me zoom out for a second.\n- Let me put it another way.\n- For today, I intentionally want to keep things at high-level.\n\n✗ \"correlation does not necessarily imply causation\" belongs to Explaining cause vs. correlation — used to explain why something happened in the data, or to flag correlation rather than proven causation, not this context.\nSimilar chunks:\n- can be traced back to\n- this coincided with\n- correlates with\n\n✗ \"Can anyone help to explain?\" belongs to Handling interruptions — used to acknowledge an interruption during a demo without losing your train of thought, not this context.\nSimilar chunks:\n- I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together.\n- This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.\n- That's a great point, let me finish this flow first, then we'll come back to it.\n\n✓ Correct — \"held steady\" is a Describing stability chunk: used to describe a metric that has stayed roughly the same over a period.\nExample: \"Retention held steady at around 82% for the third straight quarter.\"\nSimilar chunks:\n- plateaued\n- remained flat\n- stabilized"
+    },
+    {
+      "id": 47,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting a chart and need to describe a metric that's been jumping around unpredictably. Which chunk fits best?",
+      "options": {
+        "A": "Let me check the details and get back to you.",
+        "B": "relative to",
+        "C": "fluctuated",
+        "D": "For today, I intentionally want to keep things at high-level."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Let me check the details and get back to you.\" belongs to Admitting uncertainty & following up — used to admit you don't know an answer on the spot and commit to following up, not this context.\nSimilar chunks:\n- I don't have the exact answer off the top of my head.\n- I don't want to guess and give you a wrong answer. Let me take this offline and get back to you after this session.\n- I don't have a correct answer right now, but I know where this sits.\n\n✗ \"relative to\" belongs to Comparisons & benchmarking — used to compare a figure against a benchmark, forecast, or competitor when presenting results, not this context.\nSimilar chunks:\n- underperformed peers\n- compared to\n- widened the gap with\n\n✓ Correct — \"fluctuated\" is a Describing volatility chunk: used to describe a metric that has fluctuated unpredictably over a period.\nExample: \"Daily active users fluctuated a lot during the beta, depending on the day of the week.\"\nSimilar chunks:\n- whipsawed\n- was volatile\n- swung between X and Y\n\n✗ \"For today, I intentionally want to keep things at high-level.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- Let me put it another way.\n- I'll summarize this in one sentence.\n- You're right that there's more nuance — that's a good sign the model is landing."
+    },
+    {
+      "id": 48,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting a chart and need to describe a metric that's been jumping around unpredictably. Which chunk fits best?",
+      "options": {
+        "A": "whipsawed",
+        "B": "relative to",
+        "C": "stabilized",
+        "D": "Let me draw your attention to this element..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"whipsawed\" is a Describing volatility chunk: used to describe a metric that has fluctuated unpredictably over a period.\nExample: \"Conversion whipsawed between the two test variants before settling down.\"\nSimilar chunks:\n- fluctuated\n- was volatile\n- swung between X and Y\n\n✗ \"relative to\" belongs to Comparisons & benchmarking — used to compare a figure against a benchmark, forecast, or competitor when presenting results, not this context.\nSimilar chunks:\n- in line with expectations\n- hit a record high\n- compared to\n\n✗ \"stabilized\" belongs to Describing stability — used to describe a metric that has stayed roughly the same over a period, not this context.\nSimilar chunks:\n- remained flat\n- plateaued\n- held steady\n\n✗ \"Let me draw your attention to this element...\" belongs to Directing attention & highlighting — used to point the audience's attention to a specific detail on screen during a demo, not this context.\nSimilar chunks:\n- If you look closely at the status labels, you'll see...\n- Please focus on this section here...\n- This is the crucial update for this feature."
+    },
+    {
+      "id": 49,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting data and need an adverb to describe how large or sudden a change was. Which chunk fits best?",
+      "options": {
+        "A": "marginally",
+        "B": "Let's revisit that point from earlier...",
+        "C": "it is worth noting that",
+        "D": "We've introduced..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"marginally\" is a Describing the size or speed of a change chunk: used as an adverb to describe how large, small, or sudden a change in the data was.\nExample: \"The redesign only marginally improved conversion, from 3.1% to 3.3%.\"\nSimilar chunks:\n- slightly\n- substantially\n- gradually\n\n✗ \"Let's revisit that point from earlier...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- The key here is...\n- As you can see...\n- One possible explanation is...\n\n✗ \"it is worth noting that\" belongs to Hedging in data analysis — used to soften a claim rather than stating it as an absolute fact when presenting an analysis, not this context.\nSimilar chunks:\n- the data indicates\n- the data suggests\n- assuming [X] holds true\n\n✗ \"We've introduced...\" belongs to Explaining before vs. after / what changed — used to contrast old behavior with new behavior when demoing a change, not this context.\nSimilar chunks:\n- Previously...\n- Coming back to the original requirement...\n- This new endpoint will perform calculations in the back to validate the data."
+    },
+    {
+      "id": 50,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting data and need an adverb to describe how large or sudden a change was. Which chunk fits best?",
+      "options": {
+        "A": "moderately",
+        "B": "That's a really interesting angle. To keep us on time, let me park this for now.",
+        "C": "edged up",
+        "D": "in line with expectations"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"moderately\" is a Describing the size or speed of a change chunk: used as an adverb to describe how large, small, or sudden a change in the data was.\nExample: \"Engagement grew moderately after the onboarding tweak, nothing dramatic.\"\nSimilar chunks:\n- significantly\n- marginally\n- slightly\n\n✗ \"That's a really interesting angle. To keep us on time, let me park this for now.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- You're absolutely right — at a deeper level, it's way more complicated than this. For this session, I'm simplifying on purpose to keep the core idea clear.\n- That's helpful — let me pause you there so we can hear other views.\n- For today, I intentionally want to keep things at high-level.\n\n✗ \"edged up\" belongs to Describing an increase — used to describe a metric or figure going up, at varying degrees of intensity, not this context.\nSimilar chunks:\n- climbed\n- soared\n- skyrocketed\n\n✗ \"in line with expectations\" belongs to Comparisons & benchmarking — used to compare a figure against a benchmark, forecast, or competitor when presenting results, not this context.\nSimilar chunks:\n- underperformed peers\n- outperformed the sector\n- hit a record high"
+    },
+    {
+      "id": 51,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting data and need an adverb to describe how large or sudden a change was. Which chunk fits best?",
+      "options": {
+        "A": "Instead of a single \"Create a task\" button, we now have two: the buttons remain deactivated until all required fields are populated.",
+        "B": "So first things first, ...",
+        "C": "You will notice a clear difference between the old flow and the updated flow.",
+        "D": "slightly"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Instead of a single \"Create a task\" button, we now have two: the buttons remain deactivated until all required fields are populated.\" belongs to Explaining before vs. after / what changed — used to contrast old behavior with new behavior when demoing a change, not this context.\nSimilar chunks:\n- The flow is now more intuitive as users can...\n- You will notice a clear difference between the old flow and the updated flow.\n- Coming back to the original requirement...\n\n✗ \"So first things first, ...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- First... second... third...\n- Let's start by...\n- My first point is on...\n\n✗ \"You will notice a clear difference between the old flow and the updated flow.\" belongs to Explaining before vs. after / what changed — used to contrast old behavior with new behavior when demoing a change, not this context.\nSimilar chunks:\n- The old behaviour was..., and the new behaviour is...\n- This reduces confusion for end users because...\n- Prior to this release...\n\n✓ Correct — \"slightly\" is a Describing the size or speed of a change chunk: used as an adverb to describe how large, small, or sudden a change in the data was.\nExample: \"Load time increased slightly after we added the new tracking script.\"\nSimilar chunks:\n- gradually\n- substantially\n- steadily"
+    },
+    {
+      "id": 52,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting data and need an adverb to describe how large or sudden a change was. Which chunk fits best?",
+      "options": {
+        "A": "dramatically",
+        "B": "One possible explanation is...",
+        "C": "rose",
+        "D": "Let me brief you on..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"dramatically\" is a Describing the size or speed of a change chunk: used as an adverb to describe how large, small, or sudden a change in the data was.\nExample: \"Signups dropped dramatically the day the free tier was removed.\"\nSimilar chunks:\n- moderately\n- sharply\n- gradually\n\n✗ \"One possible explanation is...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- The key here is...\n- Before moving to the second point, I'd like to emphasize that...\n- Let's revisit that point from earlier...\n\n✗ \"rose\" belongs to Describing an increase — used to describe a metric or figure going up, at varying degrees of intensity, not this context.\nSimilar chunks:\n- surged\n- increased\n- climbed\n\n✗ \"Let me brief you on...\" belongs to Opening & framing the talk — used to open a presentation or demo and state its purpose or agenda, not this context.\nSimilar chunks:\n- Good afternoon everyone. Today I'll walk you through the key enhancements delivered in this sprint.\n- The bottom line of this talk is to suggest some alternatives...\n- I'd like to present you with some amazing findings."
+    },
+    {
+      "id": 53,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting results and need to compare a figure against a benchmark, forecast, or competitor. Which chunk fits best?",
+      "options": {
+        "A": "on a year-on-year (YoY) basis",
+        "B": "is poised to",
+        "C": "That's helpful — let me pause you there so we can hear other views.",
+        "D": "is likely to"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"on a year-on-year (YoY) basis\" is a Comparisons & benchmarking chunk: used to compare a figure against a benchmark, forecast, or competitor when presenting results.\nExample: \"Revenue is up 22% on a year-on-year (YoY) basis.\"\nSimilar chunks:\n- in line with expectations\n- widened the gap with\n- hit a record high\n\n✗ \"is poised to\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- upside potential\n- downside risk\n- is expected to\n\n✗ \"That's helpful — let me pause you there so we can hear other views.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- Let me zoom out for a second.\n- You're absolutely right — at a deeper level, it's way more complicated than this. For this session, I'm simplifying on purpose to keep the core idea clear.\n- I'll summarize this in one sentence.\n\n✗ \"is likely to\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- upside potential\n- is expected to\n- remains to be seen whether"
+    },
+    {
+      "id": 54,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting results and need to compare a figure against a benchmark, forecast, or competitor. Which chunk fits best?",
+      "options": {
+        "A": "all things considered",
+        "B": "hit a record high",
+        "C": "The system intelligently hides the edit option once the task is Approved.",
+        "D": "That's a very good question — let me pull up an example to explain further. Hang on a sec."
+      },
+      "correct": "B",
+      "explanation": "✗ \"all things considered\" belongs to Hedging in data analysis — used to soften a claim rather than stating it as an absolute fact when presenting an analysis, not this context.\nSimilar chunks:\n- the data suggests\n- the data indicates\n- on balance\n\n✓ Correct — \"hit a record high\" is a Comparisons & benchmarking chunk: used to compare a figure against a benchmark, forecast, or competitor when presenting results.\nExample: \"Daily active users hit a record high the week we launched the mobile app.\"\nSimilar chunks:\n- came in below forecasts\n- on a year-on-year (YoY) basis\n- compared to\n\n✗ \"The system intelligently hides the edit option once the task is Approved.\" belongs to Directing attention & highlighting — used to point the audience's attention to a specific detail on screen during a demo, not this context.\nSimilar chunks:\n- Pay attention to the behaviour when I click here.\n- This is the crucial update for this feature.\n- What's important here is that...\n\n✗ \"That's a very good question — let me pull up an example to explain further. Hang on a sec.\" belongs to Admitting uncertainty & following up — used to admit you don't know an answer on the spot and commit to following up, not this context.\nSimilar chunks:\n- I don't want to guess and give you a wrong answer. Let me take this offline and get back to you after this session.\n- I don't have the exact answer off the top of my head.\n- I don't have a correct answer right now, but I know where this sits."
+    },
+    {
+      "id": 55,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting results and need to compare a figure against a benchmark, forecast, or competitor. Which chunk fits best?",
+      "options": {
+        "A": "First, let me give you a quick context on this enhancement.",
+        "B": "came in above forecasts",
+        "C": "skyrocketed",
+        "D": "That's a great point, let me finish this flow first, then we'll come back to it."
+      },
+      "correct": "B",
+      "explanation": "✗ \"First, let me give you a quick context on this enhancement.\" belongs to Opening & framing the talk — used to open a presentation or demo and state its purpose or agenda, not this context.\nSimilar chunks:\n- This talk was designed to...\n- The aim of this talk is to update you on...\n- The bottom line of this talk is to suggest some alternatives...\n\n✓ Correct — \"came in above forecasts\" is a Comparisons & benchmarking chunk: used to compare a figure against a benchmark, forecast, or competitor when presenting results.\nExample: \"Sign-ups came in above forecasts for the third month running.\"\nSimilar chunks:\n- widened the gap with\n- came in below forecasts\n- compared to\n\n✗ \"skyrocketed\" belongs to Describing an increase — used to describe a metric or figure going up, at varying degrees of intensity, not this context.\nSimilar chunks:\n- soared\n- jumped\n- surged\n\n✗ \"That's a great point, let me finish this flow first, then we'll come back to it.\" belongs to Handling interruptions — used to acknowledge an interruption during a demo without losing your train of thought, not this context.\nSimilar chunks:\n- Can anyone help to explain?\n- This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.\n- I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together."
+    },
+    {
+      "id": 56,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting results and need to compare a figure against a benchmark, forecast, or competitor. Which chunk fits best?",
+      "options": {
+        "A": "The next change relates to...",
+        "B": "Before moving to the second point, I'd like to emphasize that...",
+        "C": "First... second... third...",
+        "D": "came in below forecasts"
+      },
+      "correct": "D",
+      "explanation": "✗ \"The next change relates to...\" belongs to Transitions & replacing filler words — used to transition cleanly between points in a presentation instead of using filler words, not this context.\nSimilar chunks:\n- More specifically...\n- In this case...\n- Let's look at...\n\n✗ \"Before moving to the second point, I'd like to emphasize that...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- The key here is...\n- So first things first, ...\n- One possible explanation is...\n\n✗ \"First... second... third...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- Let's start by...\n- Before moving to the second point, I'd like to emphasize that...\n- To give you some background,...\n\n✓ Correct — \"came in below forecasts\" is a Comparisons & benchmarking chunk: used to compare a figure against a benchmark, forecast, or competitor when presenting results.\nExample: \"Revenue came in below forecasts, mostly due to the delayed enterprise deal.\"\nSimilar chunks:\n- outperformed the sector\n- compared to\n- on a year-on-year (YoY) basis"
+    },
+    {
+      "id": 57,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting projections and need language to talk about what's likely to happen next. Which chunk fits best?",
+      "options": {
+        "A": "As you can see...",
+        "B": "dropped",
+        "C": "We've introduced...",
+        "D": "the outlook remains cautious"
+      },
+      "correct": "D",
+      "explanation": "✗ \"As you can see...\" belongs to Signposting & structuring a talk — used to signal how a presentation is structured while moving through it, not this context.\nSimilar chunks:\n- The key here is...\n- Let's start by...\n- So first things first, ...\n\n✗ \"dropped\" belongs to Describing a decrease — used to describe a metric or figure going down, at varying degrees of intensity, not this context.\nSimilar chunks:\n- declined\n- edged down\n- plunged\n\n✗ \"We've introduced...\" belongs to Explaining before vs. after / what changed — used to contrast old behavior with new behavior when demoing a change, not this context.\nSimilar chunks:\n- Going forward...\n- The flow is now more intuitive as users can...\n- Instead of a single \"Create a task\" button, we now have two: the buttons remain deactivated until all required fields are populated.\n\n✓ Correct — \"the outlook remains cautious\" is a Forecasting & outlook language chunk: used to talk about projections, likelihood, and outlook when presenting future results.\nExample: \"Given the supply chain delays, the outlook remains cautious for next quarter.\"\nSimilar chunks:\n- is poised to\n- could potentially\n- upside potential"
+    },
+    {
+      "id": 58,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting projections and need language to talk about what's likely to happen next. Which chunk fits best?",
+      "options": {
+        "A": "Good afternoon everyone. Today I'll walk you through the key enhancements delivered in this sprint.",
+        "B": "is likely to",
+        "C": "What's important here is that...",
+        "D": "skyrocketed"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Good afternoon everyone. Today I'll walk you through the key enhancements delivered in this sprint.\" belongs to Opening & framing the talk — used to open a presentation or demo and state its purpose or agenda, not this context.\nSimilar chunks:\n- Our solution is to use...\n- The aim of this talk is to update you on...\n- Thank you for giving me the opportunity to present this issue.\n\n✓ Correct — \"is likely to\" is a Forecasting & outlook language chunk: used to talk about projections, likelihood, and outlook when presenting future results.\nExample: \"Churn is likely to rise slightly once the promotional pricing ends.\"\nSimilar chunks:\n- could potentially\n- there is a risk that\n- is expected to\n\n✗ \"What's important here is that...\" belongs to Directing attention & highlighting — used to point the audience's attention to a specific detail on screen during a demo, not this context.\nSimilar chunks:\n- This is the crucial update for this feature.\n- Let me draw your attention to this element...\n- Please focus on this section here...\n\n✗ \"skyrocketed\" belongs to Describing an increase — used to describe a metric or figure going up, at varying degrees of intensity, not this context.\nSimilar chunks:\n- increased\n- edged up\n- jumped"
+    },
+    {
+      "id": 59,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting projections and need language to talk about what's likely to happen next. Which chunk fits best?",
+      "options": {
+        "A": "surged",
+        "B": "the outlook remains positive",
+        "C": "This talk was designed to...",
+        "D": "Let me check the details and get back to you."
+      },
+      "correct": "B",
+      "explanation": "✗ \"surged\" belongs to Describing an increase — used to describe a metric or figure going up, at varying degrees of intensity, not this context.\nSimilar chunks:\n- increased\n- soared\n- climbed\n\n✓ Correct — \"the outlook remains positive\" is a Forecasting & outlook language chunk: used to talk about projections, likelihood, and outlook when presenting future results.\nExample: \"Despite the slow start, the outlook remains positive heading into Q4.\"\nSimilar chunks:\n- could potentially\n- the outlook remains cautious\n- is poised to\n\n✗ \"This talk was designed to...\" belongs to Opening & framing the talk — used to open a presentation or demo and state its purpose or agenda, not this context.\nSimilar chunks:\n- The agenda is about...\n- The bottom line of this talk is to suggest some alternatives...\n- Thank you for giving me the opportunity to present this issue.\n\n✗ \"Let me check the details and get back to you.\" belongs to Admitting uncertainty & following up — used to admit you don't know an answer on the spot and commit to following up, not this context.\nSimilar chunks:\n- I don't have the exact answer off the top of my head.\n- That's a very good question — let me pull up an example to explain further. Hang on a sec.\n- I don't have a correct answer right now, but I know where this sits."
+    },
+    {
+      "id": 60,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting projections and need language to talk about what's likely to happen next. Which chunk fits best?",
+      "options": {
+        "A": "remains to be seen whether",
+        "B": "What's important here is that...",
+        "C": "Let me draw your attention to this element...",
+        "D": "The old behaviour was..., and the new behaviour is..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"remains to be seen whether\" is a Forecasting & outlook language chunk: used to talk about projections, likelihood, and outlook when presenting future results.\nExample: \"It remains to be seen whether this trend holds once the holiday season ends.\"\nSimilar chunks:\n- there is a risk that\n- is poised to\n- could potentially\n\n✗ \"What's important here is that...\" belongs to Directing attention & highlighting — used to point the audience's attention to a specific detail on screen during a demo, not this context.\nSimilar chunks:\n- This is the crucial update for this feature.\n- Behind the scenes, the API is now filtering...\n- If you look closely at the status labels, you'll see...\n\n✗ \"Let me draw your attention to this element...\" belongs to Directing attention & highlighting — used to point the audience's attention to a specific detail on screen during a demo, not this context.\nSimilar chunks:\n- If you look closely at the status labels, you'll see...\n- What's important here is that...\n- Notice how these buttons remain grayed out (disabled) until...\n\n✗ \"The old behaviour was..., and the new behaviour is...\" belongs to Explaining before vs. after / what changed — used to contrast old behavior with new behavior when demoing a change, not this context.\nSimilar chunks:\n- The flow is now more intuitive as users can...\n- We've introduced...\n- This allows users to..."
+    },
+    {
+      "id": 61,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting data and need to explain why something happened, or flag when it's only a correlation. Which chunk fits best?",
+      "options": {
+        "A": "We've introduced...",
+        "B": "a contributing factor was",
+        "C": "Let me show that again.",
+        "D": "on a year-on-year (YoY) basis"
+      },
+      "correct": "B",
+      "explanation": "✗ \"We've introduced...\" belongs to Explaining before vs. after / what changed — used to contrast old behavior with new behavior when demoing a change, not this context.\nSimilar chunks:\n- This allows users to...\n- Going forward...\n- This reduces confusion for end users because...\n\n✓ Correct — \"a contributing factor was\" is an Explaining cause vs. correlation chunk: used to explain why something happened in the data, or to flag correlation rather than proven causation.\nExample: \"A contributing factor was likely the seasonal dip we see every August.\"\nSimilar chunks:\n- attributable to\n- correlates with\n- correlation does not necessarily imply causation\n\n✗ \"Let me show that again.\" belongs to Technical failure recovery — used to recover smoothly when a demo environment glitches or fails mid-presentation, not this context.\nSimilar chunks:\n- We've tested this, and normally it works like this...\n- Since this isn't loading, I'll switch to screenshots for this example.\n- Let me navigate there.\n\n✗ \"on a year-on-year (YoY) basis\" belongs to Comparisons & benchmarking — used to compare a figure against a benchmark, forecast, or competitor when presenting results, not this context.\nSimilar chunks:\n- compared to\n- came in above forecasts\n- outperformed the sector"
+    },
+    {
+      "id": 62,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting data and need to explain why something happened, or flag when it's only a correlation. Which chunk fits best?",
+      "options": {
+        "A": "So, to summarize this section...",
+        "B": "Can anyone help to explain?",
+        "C": "declined",
+        "D": "can be traced back to"
+      },
+      "correct": "D",
+      "explanation": "✗ \"So, to summarize this section...\" belongs to Summarizing & closing a presentation — used to recap the main points of a presentation before closing or moving to Q&A, not this context.\nSimilar chunks:\n- With this improvement, the average time to create an order is reduced from around 5 minutes to about 1 minute.\n- That's our idea — now let's move to Q&A — please feel free to ask any questions!\n- Any questions before we move on?\n\n✗ \"Can anyone help to explain?\" belongs to Handling interruptions — used to acknowledge an interruption during a demo without losing your train of thought, not this context.\nSimilar chunks:\n- That's a great point, let me finish this flow first, then we'll come back to it.\n- This part is still in progress — what you're seeing is an early version, and we're planning to improve it next.\n- I'll call on a few of you to share your thoughts — don't be shy, we're here to learn together.\n\n✗ \"declined\" belongs to Describing a decrease — used to describe a metric or figure going down, at varying degrees of intensity, not this context.\nSimilar chunks:\n- slumped\n- edged down\n- collapsed\n\n✓ Correct — \"can be traced back to\" is an Explaining cause vs. correlation chunk: used to explain why something happened in the data, or to flag correlation rather than proven causation.\nExample: \"The drop in retention can be traced back to the pricing change in May.\"\nSimilar chunks:\n- a contributing factor was\n- correlates with\n- correlation does not necessarily imply causation"
+    },
+    {
+      "id": 63,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting data and need to explain why something happened, or flag when it's only a correlation. Which chunk fits best?",
+      "options": {
+        "A": "tumbled",
+        "B": "If you look closely at the status labels, you'll see...",
+        "C": "remains to be seen whether",
+        "D": "fueled by"
+      },
+      "correct": "D",
+      "explanation": "✗ \"tumbled\" belongs to Describing a decrease — used to describe a metric or figure going down, at varying degrees of intensity, not this context.\nSimilar chunks:\n- edged down\n- slumped\n- collapsed\n\n✗ \"If you look closely at the status labels, you'll see...\" belongs to Directing attention & highlighting — used to point the audience's attention to a specific detail on screen during a demo, not this context.\nSimilar chunks:\n- Behind the scenes, the API is now filtering...\n- Pay attention to the behaviour when I click here.\n- Take a look at the icon next to the Stage field.\n\n✗ \"remains to be seen whether\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- is expected to\n- the outlook remains cautious\n- is likely to\n\n✓ Correct — \"fueled by\" is an Explaining cause vs. correlation chunk: used to explain why something happened in the data, or to flag correlation rather than proven causation.\nExample: \"Growth this quarter was fueled by the referral program we launched in April.\"\nSimilar chunks:\n- attributable to\n- correlation does not necessarily imply causation\n- driven by"
+    },
+    {
+      "id": 64,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting data and need to explain why something happened, or flag when it's only a correlation. Which chunk fits best?",
+      "options": {
+        "A": "the outlook remains positive",
+        "B": "The main takeaway is...",
+        "C": "correlation does not necessarily imply causation",
+        "D": "Let me pause for a second and reframe this."
+      },
+      "correct": "C",
+      "explanation": "✗ \"the outlook remains positive\" belongs to Forecasting & outlook language — used to talk about projections, likelihood, and outlook when presenting future results, not this context.\nSimilar chunks:\n- downside risk\n- is likely to\n- the outlook remains cautious\n\n✗ \"The main takeaway is...\" belongs to Summarizing & closing a presentation — used to recap the main points of a presentation before closing or moving to Q&A, not this context.\nSimilar chunks:\n- Let me run over the key points again.\n- I'd like to leave you with some thoughts.\n- That completes the API changes.\n\n✓ Correct — \"correlation does not necessarily imply causation\" is an Explaining cause vs. correlation chunk: used to explain why something happened in the data, or to flag correlation rather than proven causation.\nExample: \"The two metrics move together, but correlation does not necessarily imply causation here.\"\nSimilar chunks:\n- driven by\n- a contributing factor was\n- this coincided with\n\n✗ \"Let me pause for a second and reframe this.\" belongs to Handling tough or deep questions — used to deflect or park a question that goes deeper than the scope of the current talk, not this context.\nSimilar chunks:\n- That's helpful — let me pause you there so we can hear other views.\n- The main idea here is...\n- Let me zoom out for a second."
+    },
+    {
+      "id": 65,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting an analysis and want to soften a claim rather than stating it as an absolute fact. Which chunk fits best?",
+      "options": {
+        "A": "The main takeaway is...",
+        "B": "widened the gap with",
+        "C": "Since this isn't loading, I'll switch to screenshots for this example.",
+        "D": "based on available data"
+      },
+      "correct": "D",
+      "explanation": "✗ \"The main takeaway is...\" belongs to Summarizing & closing a presentation — used to recap the main points of a presentation before closing or moving to Q&A, not this context.\nSimilar chunks:\n- That completes the API changes.\n- Any questions before we move on?\n- Let me close now with a story that summarizes my talk. Thank you for coming.\n\n✗ \"widened the gap with\" belongs to Comparisons & benchmarking — used to compare a figure against a benchmark, forecast, or competitor when presenting results, not this context.\nSimilar chunks:\n- hit a record high\n- on a year-on-year (YoY) basis\n- relative to\n\n✗ \"Since this isn't loading, I'll switch to screenshots for this example.\" belongs to Technical failure recovery — used to recover smoothly when a demo environment glitches or fails mid-presentation, not this context.\nSimilar chunks:\n- We've tested this, and normally it works like this...\n- Looks like this environment is a bit unstable — let me quickly show the expected behavior.\n- This might be an environment issue.\n\n✓ Correct — \"based on available data\" is a Hedging in data analysis chunk: used to soften a claim rather than stating it as an absolute fact when presenting an analysis.\nExample: \"Based on available data, the new pricing hasn't hurt conversion so far.\"\nSimilar chunks:\n- the data indicates\n- it is worth noting that\n- the data suggests"
+    },
+    {
+      "id": 66,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting an analysis and want to soften a claim rather than stating it as an absolute fact. Which chunk fits best?",
+      "options": {
+        "A": "Please focus on this section here...",
+        "B": "Let me show that again.",
+        "C": "the data suggests",
+        "D": "came in above forecasts"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Please focus on this section here...\" belongs to Directing attention & highlighting — used to point the audience's attention to a specific detail on screen during a demo, not this context.\nSimilar chunks:\n- The system intelligently hides the edit option once the task is Approved.\n- Take a look at the icon next to the Stage field.\n- Behind the scenes, the API is now filtering...\n\n✗ \"Let me show that again.\" belongs to Technical failure recovery — used to recover smoothly when a demo environment glitches or fails mid-presentation, not this context.\nSimilar chunks:\n- Since this isn't loading, I'll switch to screenshots for this example.\n- One moment while I open that endpoint.\n- This might be an environment issue.\n\n✓ Correct — \"the data suggests\" is a Hedging in data analysis chunk: used to soften a claim rather than stating it as an absolute fact when presenting an analysis.\nExample: \"The data suggests users are dropping off at the payment step, not the sign-up step.\"\nSimilar chunks:\n- based on available data\n- it is worth noting that\n- all things considered\n\n✗ \"came in above forecasts\" belongs to Comparisons & benchmarking — used to compare a figure against a benchmark, forecast, or competitor when presenting results, not this context.\nSimilar chunks:\n- on a year-on-year (YoY) basis\n- underperformed peers\n- in line with expectations"
+    },
+    {
+      "id": 67,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting an analysis and want to soften a claim rather than stating it as an absolute fact. Which chunk fits best?",
+      "options": {
+        "A": "Moving on to...",
+        "B": "That's a very good question — let me pull up an example to explain further. Hang on a sec.",
+        "C": "jumped",
+        "D": "on balance"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Moving on to...\" belongs to Transitions & replacing filler words — used to transition cleanly between points in a presentation instead of using filler words, not this context.\nSimilar chunks:\n- More specifically...\n- For example...\n- In this case...\n\n✗ \"That's a very good question — let me pull up an example to explain further. Hang on a sec.\" belongs to Admitting uncertainty & following up — used to admit you don't know an answer on the spot and commit to following up, not this context.\nSimilar chunks:\n- Let me check the details and get back to you.\n- I don't have the exact answer off the top of my head.\n- I don't have a correct answer right now, but I know where this sits.\n\n✗ \"jumped\" belongs to Describing an increase — used to describe a metric or figure going up, at varying degrees of intensity, not this context.\nSimilar chunks:\n- skyrocketed\n- soared\n- edged up\n\n✓ Correct — \"on balance\" is a Hedging in data analysis chunk: used to soften a claim rather than stating it as an absolute fact when presenting an analysis.\nExample: \"On balance, the pilot results support rolling this out to the rest of the team.\"\nSimilar chunks:\n- based on available data\n- the data suggests\n- assuming [X] holds true"
+    },
+    {
+      "id": 68,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're presenting an analysis and want to soften a claim rather than stating it as an absolute fact. Which chunk fits best?",
+      "options": {
+        "A": "Let me check the details and get back to you.",
+        "B": "the data indicates",
+        "C": "The main takeaway is...",
+        "D": "hit a record high"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Let me check the details and get back to you.\" belongs to Admitting uncertainty & following up — used to admit you don't know an answer on the spot and commit to following up, not this context.\nSimilar chunks:\n- I don't have the exact answer off the top of my head.\n- I don't have a correct answer right now, but I know where this sits.\n- That's a very good question — let me pull up an example to explain further. Hang on a sec.\n\n✓ Correct — \"the data indicates\" is a Hedging in data analysis chunk: used to soften a claim rather than stating it as an absolute fact when presenting an analysis.\nExample: \"The data indicates a strong preference for the annual plan over monthly.\"\nSimilar chunks:\n- all things considered\n- the data suggests\n- assuming [X] holds true\n\n✗ \"The main takeaway is...\" belongs to Summarizing & closing a presentation — used to recap the main points of a presentation before closing or moving to Q&A, not this context.\nSimilar chunks:\n- Any questions before we move on?\n- Let me close now with a story that summarizes my talk. Thank you for coming.\n- That's our idea — now let's move to Q&A — please feel free to ask any questions!\n\n✗ \"hit a record high\" belongs to Comparisons & benchmarking — used to compare a figure against a benchmark, forecast, or competitor when presenting results, not this context.\nSimilar chunks:\n- in line with expectations\n- came in above forecasts\n- underperformed peers"
+    }
+  ]
+}

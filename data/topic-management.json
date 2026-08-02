@@ -1,0 +1,440 @@
+{
+  "examId": "topic-management",
+  "title": "Chunk Atlas — Real-Time Fluency: Topic Management",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're catching up with a colleague you already know and need a natural way to start. Which chunk fits best?",
+      "options": {
+        "A": "You mentioned [X] earlier — how did that come about?",
+        "B": "You were telling me about...",
+        "C": "What made you go that route?",
+        "D": "Busy day?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"You mentioned [X] earlier — how did that come about?\" belongs to Digging deeper into what someone said — used to draw out more detail from a short answer and show genuine interest, not this context.\nSimilar chunks:\n- What drew you to that?\n- What are you working on that you're actually excited about?\n- I'll be honest, I found that hard at first. How about you?\n\n✗ \"You were telling me about...\" belongs to Returning to a topic you left — used to pick a topic back up after you got sidetracked, not this context.\nSimilar chunks:\n- Sorry, back to what you were saying...\n\n✗ \"What made you go that route?\" belongs to Digging deeper into what someone said — used to draw out more detail from a short answer and show genuine interest, not this context.\nSimilar chunks:\n- How so?\n- Tell me more about...\n- I'll be honest, I found that hard at first. How about you?\n\n✓ Correct — \"Busy day?\" is an Opening with someone you know chunk: used to open a conversation naturally with someone you already know.\nExample: \"Busy day? You look like you haven't stopped since nine.\"\nSimilar chunks:\n- How's your week going?\n- Alright?\n- Long time!"
+    },
+    {
+      "id": 2,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're catching up with a colleague you already know and need a natural way to start. Which chunk fits best?",
+      "options": {
+        "A": "Long time no see.",
+        "B": "What made you go that route?",
+        "C": "Is this seat taken?",
+        "D": "Are we all here?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Long time no see.\" is an Opening with someone you know chunk: used to open a conversation naturally with someone you already know.\nExample: \"Long time no see — did you switch teams or something?\"\nSimilar chunks:\n- How did that thing with [X] turn out?\n- It's been a while!\n- How's the [project] going?\n\n✗ \"What made you go that route?\" belongs to Digging deeper into what someone said — used to draw out more detail from a short answer and show genuine interest, not this context.\nSimilar chunks:\n- And how did that feel?\n- What are you working on that you're actually excited about?\n- What made you decide that?\n\n✗ \"Is this seat taken?\" belongs to Opening with strangers or new people — used to start a conversation with someone you don't know yet, not this context.\nSimilar chunks:\n- Is this seat free?\n- Hi, I'm [name].\n- Mind if I join?\n\n✗ \"Are we all here?\" belongs to Opening a call or a meeting — used to open a call or meeting with a quick check-in before the real topic starts, not this context.\nSimilar chunks:\n- Right, shall we?\n- Hi, is now still okay?\n- How's things on your end?"
+    },
+    {
+      "id": 3,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're catching up with a colleague you already know and need a natural way to start. Which chunk fits best?",
+      "options": {
+        "A": "It's been a while!",
+        "B": "Lovely to meet you — I'm going to say hello to a few people.",
+        "C": "What made you decide that?",
+        "D": "Hey, can you hear me okay?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"It's been a while!\" is an Opening with someone you know chunk: used to open a conversation naturally with someone you already know.\nExample: \"It's been a while! Last time I saw you was at the offsite.\"\nSimilar chunks:\n- Hey, how's it going?\n- Alright?\n- How have you been?\n\n✗ \"Lovely to meet you — I'm going to say hello to a few people.\" belongs to Politely exiting a group conversation — used to leave a group conversation politely, without seeming rude, not this context.\nSimilar chunks:\n- It was lovely to chat — I'm going to grab another coffee.\n\n✗ \"What made you decide that?\" belongs to Digging deeper into what someone said — used to draw out more detail from a short answer and show genuine interest, not this context.\nSimilar chunks:\n- And how did that feel?\n- What drew you to that?\n- I'll be honest, I found that hard at first. How about you?\n\n✗ \"Hey, can you hear me okay?\" belongs to Opening a call or a meeting — used to open a call or meeting with a quick check-in before the real topic starts, not this context.\nSimilar chunks:\n- Hi, is now still okay?\n- Have you got five minutes?\n- Are we all here?"
+    },
+    {
+      "id": 4,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're catching up with a colleague you already know and need a natural way to start. Which chunk fits best?",
+      "options": {
+        "A": "How's the [project] going?",
+        "B": "Sorry, back to what you were saying...",
+        "C": "Have you got five minutes?",
+        "D": "Are we all here?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"How's the [project] going?\" is an Opening with someone you know chunk: used to open a conversation naturally with someone you already know.\nExample: \"How's the migration project going? Did you get the sign-off yet?\"\nSimilar chunks:\n- It's been a while!\n- How have you been?\n- How did that thing with [X] turn out?\n\n✗ \"Sorry, back to what you were saying...\" belongs to Returning to a topic you left — used to pick a topic back up after you got sidetracked, not this context.\nSimilar chunks:\n- You were telling me about...\n\n✗ \"Have you got five minutes?\" belongs to Opening a call or a meeting — used to open a call or meeting with a quick check-in before the real topic starts, not this context.\nSimilar chunks:\n- Hey, can you hear me okay?\n- Are we all here?\n- How's things on your end?\n\n✗ \"Are we all here?\" belongs to Opening a call or a meeting — used to open a call or meeting with a quick check-in before the real topic starts, not this context.\nSimilar chunks:\n- How's things on your end?\n- Morning all.\n- Hey, can you hear me okay?"
+    },
+    {
+      "id": 5,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're striking up a conversation with someone you've never met — at an event, in a queue, or on a new team. Which chunk fits best?",
+      "options": {
+        "A": "Morning all.",
+        "B": "You were telling me about...",
+        "C": "Long time!",
+        "D": "Hi, I'm [name]."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Morning all.\" belongs to Opening a call or a meeting — used to open a call or meeting with a quick check-in before the real topic starts, not this context.\nSimilar chunks:\n- Have you got five minutes?\n- Hey, can you hear me okay?\n- Are we all here?\n\n✗ \"You were telling me about...\" belongs to Returning to a topic you left — used to pick a topic back up after you got sidetracked, not this context.\nSimilar chunks:\n- Sorry, back to what you were saying...\n\n✗ \"Long time!\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- Hey, how's it going?\n- How's your week going?\n- Long time no see.\n\n✓ Correct — \"Hi, I'm [name].\" is an Opening with strangers or new people chunk: used to start a conversation with someone you don't know yet.\nExample: \"Hi, I'm Linh — I just joined the design team last week.\"\nSimilar chunks:\n- Have you been to one of these before?\n- Is this seat taken?\n- Is this seat free?"
+    },
+    {
+      "id": 6,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're striking up a conversation with someone you've never met — at an event, in a queue, or on a new team. Which chunk fits best?",
+      "options": {
+        "A": "Busy day?",
+        "B": "Have you been to one of these before?",
+        "C": "On that note...",
+        "D": "Hi, is now still okay?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Busy day?\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- Long time no see.\n- It's been a while!\n- How's your week going?\n\n✓ Correct — \"Have you been to one of these before?\" is an Opening with strangers or new people chunk: used to start a conversation with someone you don't know yet.\nExample: \"Have you been to one of these before? It's my first company all-hands.\"\nSimilar chunks:\n- Hi, I'm [name].\n- Mind if I join?\n- Is this seat taken?\n\n✗ \"On that note...\" belongs to Bridging into a new topic — used to move to a related topic smoothly instead of switching abruptly, not this context.\nSimilar chunks:\n- That reminds me...\n- Speaking of which...\n\n✗ \"Hi, is now still okay?\" belongs to Opening a call or a meeting — used to open a call or meeting with a quick check-in before the real topic starts, not this context.\nSimilar chunks:\n- Are we all here?\n- Have you got five minutes?\n- Hey, can you hear me okay?"
+    },
+    {
+      "id": 7,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're starting a call or meeting and need a quick line before getting into the actual topic. Which chunk fits best?",
+      "options": {
+        "A": "You mentioned [X] earlier — how did that come about?",
+        "B": "What made you decide that?",
+        "C": "Oh, before I forget —...",
+        "D": "Right, shall we?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"You mentioned [X] earlier — how did that come about?\" belongs to Digging deeper into what someone said — used to draw out more detail from a short answer and show genuine interest, not this context.\nSimilar chunks:\n- What are you working on that you're actually excited about?\n- What drew you to that?\n- What happened then?\n\n✗ \"What made you decide that?\" belongs to Digging deeper into what someone said — used to draw out more detail from a short answer and show genuine interest, not this context.\nSimilar chunks:\n- What are you working on that you're actually excited about?\n- I'll be honest, I found that hard at first. How about you?\n- What happened then?\n\n✗ \"Oh, before I forget —...\" belongs to Introducing a new topic before you forget — used to bring up something new before it slips your mind, not this context.\nSimilar chunks:\n- Actually, while I have you...\n\n✓ Correct — \"Right, shall we?\" is an Opening a call or a meeting chunk: used to open a call or meeting with a quick check-in before the real topic starts.\nExample: \"Right, shall we? Looks like everyone's here now.\"\nSimilar chunks:\n- Have you got five minutes?\n- Morning all.\n- How's things on your end?"
+    },
+    {
+      "id": 8,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're starting a call or meeting and need a quick line before getting into the actual topic. Which chunk fits best?",
+      "options": {
+        "A": "Have a good one.",
+        "B": "Speaking of which...",
+        "C": "Alright?",
+        "D": "How's things on your end?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Have a good one.\" belongs to Saying goodbye — used as a friendly final line when closing out a conversation, not this context.\nSimilar chunks:\n- Take care.\n- Bye for now.\n- Cheers.\n\n✗ \"Speaking of which...\" belongs to Bridging into a new topic — used to move to a related topic smoothly instead of switching abruptly, not this context.\nSimilar chunks:\n- That reminds me...\n- On that note...\n\n✗ \"Alright?\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- How's your week going?\n- How have you been?\n- How's the [project] going?\n\n✓ Correct — \"How's things on your end?\" is an Opening a call or a meeting chunk: used to open a call or meeting with a quick check-in before the real topic starts.\nExample: \"How's things on your end — is the connection stable today?\"\nSimilar chunks:\n- Hey, can you hear me okay?\n- Have you got five minutes?\n- Hi, is now still okay?"
+    },
+    {
+      "id": 9,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're starting a call or meeting and need a quick line before getting into the actual topic. Which chunk fits best?",
+      "options": {
+        "A": "Have you got five minutes?",
+        "B": "Speaking of which...",
+        "C": "You were telling me about...",
+        "D": "You mentioned [X] earlier — how did that come about?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Have you got five minutes?\" is an Opening a call or a meeting chunk: used to open a call or meeting with a quick check-in before the real topic starts.\nExample: \"Have you got five minutes? I want to run something by you before the call.\"\nSimilar chunks:\n- Are we all here?\n- Morning all.\n- Hey, can you hear me okay?\n\n✗ \"Speaking of which...\" belongs to Bridging into a new topic — used to move to a related topic smoothly instead of switching abruptly, not this context.\nSimilar chunks:\n- That reminds me...\n- On that note...\n\n✗ \"You were telling me about...\" belongs to Returning to a topic you left — used to pick a topic back up after you got sidetracked, not this context.\nSimilar chunks:\n- Sorry, back to what you were saying...\n\n✗ \"You mentioned [X] earlier — how did that come about?\" belongs to Digging deeper into what someone said — used to draw out more detail from a short answer and show genuine interest, not this context.\nSimilar chunks:\n- Tell me more about...\n- What made you go that route?\n- And how did that feel?"
+    },
+    {
+      "id": 10,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You want to move the conversation to a related topic without switching subject abruptly. Which chunk fits best?",
+      "options": {
+        "A": "Actually, while I have you...",
+        "B": "What made you decide that?",
+        "C": "I won't keep you.",
+        "D": "Speaking of which..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Actually, while I have you...\" belongs to Introducing a new topic before you forget — used to bring up something new before it slips your mind, not this context.\nSimilar chunks:\n- Oh, before I forget —...\n\n✗ \"What made you decide that?\" belongs to Digging deeper into what someone said — used to draw out more detail from a short answer and show genuine interest, not this context.\nSimilar chunks:\n- What made you go that route?\n- You mentioned [X] earlier — how did that come about?\n- I'll be honest, I found that hard at first. How about you?\n\n✗ \"I won't keep you.\" belongs to Giving a reason to leave — used to give a polite reason for ending a conversation and stepping away, not this context.\nSimilar chunks:\n- I'd better let you go.\n- I should get back to it.\n\n✓ Correct — \"Speaking of which...\" is a Bridging into a new topic chunk: used to move to a related topic smoothly instead of switching abruptly.\nExample: \"Speaking of which, have you seen the new dashboard yet?\"\nSimilar chunks:\n- On that note...\n- That reminds me..."
+    },
+    {
+      "id": 11,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You want to move the conversation to a related topic without switching subject abruptly. Which chunk fits best?",
+      "options": {
+        "A": "On that note...",
+        "B": "How so?",
+        "C": "What made you go that route?",
+        "D": "How's the [project] going?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"On that note...\" is a Bridging into a new topic chunk: used to move to a related topic smoothly instead of switching abruptly.\nExample: \"On that note, I should probably loop in the QA lead too.\"\nSimilar chunks:\n- That reminds me...\n- Speaking of which...\n\n✗ \"How so?\" belongs to Digging deeper into what someone said — used to draw out more detail from a short answer and show genuine interest, not this context.\nSimilar chunks:\n- And how did that feel?\n- What made you decide that?\n- I'll be honest, I found that hard at first. How about you?\n\n✗ \"What made you go that route?\" belongs to Digging deeper into what someone said — used to draw out more detail from a short answer and show genuine interest, not this context.\nSimilar chunks:\n- What are you working on that you're actually excited about?\n- How so?\n- You mentioned [X] earlier — how did that come about?\n\n✗ \"How's the [project] going?\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- Hey, how's it going?\n- Alright?\n- Long time no see."
+    },
+    {
+      "id": 12,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You want to openly signal you're moving to a different topic, rather than switching without warning. Which chunk fits best?",
+      "options": {
+        "A": "How's things on your end?",
+        "B": "Oh, before I forget —...",
+        "C": "How have you been?",
+        "D": "Anyway, tell me about..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"How's things on your end?\" belongs to Opening a call or a meeting — used to open a call or meeting with a quick check-in before the real topic starts, not this context.\nSimilar chunks:\n- Hey, can you hear me okay?\n- Have you got five minutes?\n- Right, shall we?\n\n✗ \"Oh, before I forget —...\" belongs to Introducing a new topic before you forget — used to bring up something new before it slips your mind, not this context.\nSimilar chunks:\n- Actually, while I have you...\n\n✗ \"How have you been?\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- Busy day?\n- How's your week going?\n- How did that thing with [X] turn out?\n\n✓ Correct — \"Anyway, tell me about...\" is an Acknowledging you're changing the subject chunk: used to openly signal you're switching topics, instead of cutting away without warning.\nExample: \"Anyway, tell me about the interview — how did it go?\"\nSimilar chunks:\n- Right, shall we get to the agenda?\n- Anyway — how about you?"
+    },
+    {
+      "id": 13,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You want to openly signal you're moving to a different topic, rather than switching without warning. Which chunk fits best?",
+      "options": {
+        "A": "Speaking of which...",
+        "B": "Cheers.",
+        "C": "Anyway — how about you?",
+        "D": "Busy day?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Speaking of which...\" belongs to Bridging into a new topic — used to move to a related topic smoothly instead of switching abruptly, not this context.\nSimilar chunks:\n- That reminds me...\n- On that note...\n\n✗ \"Cheers.\" belongs to Saying goodbye — used as a friendly final line when closing out a conversation, not this context.\nSimilar chunks:\n- Take care.\n- Have a good one.\n- Bye for now.\n\n✓ Correct — \"Anyway — how about you?\" is an Acknowledging you're changing the subject chunk: used to openly signal you're switching topics, instead of cutting away without warning.\nExample: \"Anyway — how about you? How's the new apartment coming along?\"\nSimilar chunks:\n- Right, shall we get to the agenda?\n- Anyway, tell me about...\n\n✗ \"Busy day?\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- Long time no see.\n- Hey, how's it going?\n- It's been a while!"
+    },
+    {
+      "id": 14,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You got sidetracked and now want to pick the earlier topic back up. Which chunk fits best?",
+      "options": {
+        "A": "Sorry, back to what you were saying...",
+        "B": "What drew you to that?",
+        "C": "Long time no see.",
+        "D": "Let's catch up soon."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Sorry, back to what you were saying...\" is a Returning to a topic you left chunk: used to pick a topic back up after you got sidetracked.\nExample: \"Sorry, back to what you were saying about the budget cut — what happened next?\"\nSimilar chunks:\n- You were telling me about...\n\n✗ \"What drew you to that?\" belongs to Digging deeper into what someone said — used to draw out more detail from a short answer and show genuine interest, not this context.\nSimilar chunks:\n- What made you go that route?\n- What happened then?\n- I'll be honest, I found that hard at first. How about you?\n\n✗ \"Long time no see.\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- How did that thing with [X] turn out?\n- How's the [project] going?\n- How have you been?\n\n✗ \"Let's catch up soon.\" belongs to Promising to reconnect — used to end a conversation by leaving the door open for next time, not this context.\nSimilar chunks:\n- See you Thursday.\n- Speak soon.\n- Talk soon."
+    },
+    {
+      "id": 15,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You got sidetracked and now want to pick the earlier topic back up. Which chunk fits best?",
+      "options": {
+        "A": "I won't keep you.",
+        "B": "It's been a while!",
+        "C": "Take care.",
+        "D": "You were telling me about..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I won't keep you.\" belongs to Giving a reason to leave — used to give a polite reason for ending a conversation and stepping away, not this context.\nSimilar chunks:\n- I should get back to it.\n- I'd better let you go.\n\n✗ \"It's been a while!\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- Long time no see.\n- Long time!\n- How have you been?\n\n✗ \"Take care.\" belongs to Saying goodbye — used as a friendly final line when closing out a conversation, not this context.\nSimilar chunks:\n- Have a good one.\n- Bye for now.\n- Cheers.\n\n✓ Correct — \"You were telling me about...\" is a Returning to a topic you left chunk: used to pick a topic back up after you got sidetracked.\nExample: \"You were telling me about the new hire before we got interrupted.\"\nSimilar chunks:\n- Sorry, back to what you were saying..."
+    },
+    {
+      "id": 16,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You suddenly remember something you want to bring up before the conversation moves on. Which chunk fits best?",
+      "options": {
+        "A": "How's your week going?",
+        "B": "Oh, before I forget —...",
+        "C": "That reminds me...",
+        "D": "Hi, I'm [name]."
+      },
+      "correct": "B",
+      "explanation": "✗ \"How's your week going?\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- Busy day?\n- Long time!\n- How did that thing with [X] turn out?\n\n✓ Correct — \"Oh, before I forget —...\" is an Introducing a new topic before you forget chunk: used to bring up something new before it slips your mind.\nExample: \"Oh, before I forget — can you send me that spreadsheet later?\"\nSimilar chunks:\n- Actually, while I have you...\n\n✗ \"That reminds me...\" belongs to Bridging into a new topic — used to move to a related topic smoothly instead of switching abruptly, not this context.\nSimilar chunks:\n- Speaking of which...\n- On that note...\n\n✗ \"Hi, I'm [name].\" belongs to Opening with strangers or new people — used to start a conversation with someone you don't know yet, not this context.\nSimilar chunks:\n- Is this seat free?\n- Have you been to one of these before?\n- Is this seat taken?"
+    },
+    {
+      "id": 17,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You suddenly remember something you want to bring up before the conversation moves on. Which chunk fits best?",
+      "options": {
+        "A": "Hey, how's it going?",
+        "B": "What drew you to that?",
+        "C": "I won't keep you.",
+        "D": "Actually, while I have you..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Hey, how's it going?\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- Long time no see.\n- Busy day?\n- How's your week going?\n\n✗ \"What drew you to that?\" belongs to Digging deeper into what someone said — used to draw out more detail from a short answer and show genuine interest, not this context.\nSimilar chunks:\n- What made you decide that?\n- You mentioned [X] earlier — how did that come about?\n- How so?\n\n✗ \"I won't keep you.\" belongs to Giving a reason to leave — used to give a polite reason for ending a conversation and stepping away, not this context.\nSimilar chunks:\n- I'd better let you go.\n- I should get back to it.\n\n✓ Correct — \"Actually, while I have you...\" is an Introducing a new topic before you forget chunk: used to bring up something new before it slips your mind.\nExample: \"Actually, while I have you, can I ask about the leave request I sent?\"\nSimilar chunks:\n- Oh, before I forget —..."
+    },
+    {
+      "id": 18,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone gave you a short answer and you want to draw out more detail and show real interest. Which chunk fits best?",
+      "options": {
+        "A": "Tell me more about...",
+        "B": "Actually, while I have you...",
+        "C": "Speak soon.",
+        "D": "Anyway..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Tell me more about...\" is a Digging deeper into what someone said chunk: used to draw out more detail from a short answer and show genuine interest.\nExample: \"Tell me more about the trip — where did you end up going in the end?\"\nSimilar chunks:\n- What made you decide that?\n- What happened then?\n- I'll be honest, I found that hard at first. How about you?\n\n✗ \"Actually, while I have you...\" belongs to Introducing a new topic before you forget — used to bring up something new before it slips your mind, not this context.\nSimilar chunks:\n- Oh, before I forget —...\n\n✗ \"Speak soon.\" belongs to Promising to reconnect — used to end a conversation by leaving the door open for next time, not this context.\nSimilar chunks:\n- See you Thursday.\n- Let's catch up soon.\n- Talk soon.\n\n✗ \"Anyway...\" belongs to Signaling the conversation is winding down — used to signal a conversation is winding down, before you actually excuse yourself, not this context.\nSimilar chunks:\n- So yeah...\n- Right..."
+    },
+    {
+      "id": 19,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone gave you a short answer and you want to draw out more detail and show real interest. Which chunk fits best?",
+      "options": {
+        "A": "How's the [project] going?",
+        "B": "Hi, is now still okay?",
+        "C": "Hi, I'm [name].",
+        "D": "What made you decide that?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"How's the [project] going?\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- Busy day?\n- Hey, how's it going?\n- It's been a while!\n\n✗ \"Hi, is now still okay?\" belongs to Opening a call or a meeting — used to open a call or meeting with a quick check-in before the real topic starts, not this context.\nSimilar chunks:\n- Morning all.\n- How's things on your end?\n- Are we all here?\n\n✗ \"Hi, I'm [name].\" belongs to Opening with strangers or new people — used to start a conversation with someone you don't know yet, not this context.\nSimilar chunks:\n- Is this seat free?\n- Mind if I join?\n- Is this seat taken?\n\n✓ Correct — \"What made you decide that?\" is a Digging deeper into what someone said chunk: used to draw out more detail from a short answer and show genuine interest.\nExample: \"You decided to switch companies right before the bonus — what made you decide that?\"\nSimilar chunks:\n- What are you working on that you're actually excited about?\n- How so?\n- You mentioned [X] earlier — how did that come about?"
+    },
+    {
+      "id": 20,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone gave you a short answer and you want to draw out more detail and show real interest. Which chunk fits best?",
+      "options": {
+        "A": "How's things on your end?",
+        "B": "See you Thursday.",
+        "C": "You mentioned [X] earlier — how did that come about?",
+        "D": "Anyway..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"How's things on your end?\" belongs to Opening a call or a meeting — used to open a call or meeting with a quick check-in before the real topic starts, not this context.\nSimilar chunks:\n- Right, shall we?\n- Hi, is now still okay?\n- Hey, can you hear me okay?\n\n✗ \"See you Thursday.\" belongs to Promising to reconnect — used to end a conversation by leaving the door open for next time, not this context.\nSimilar chunks:\n- Let's catch up soon.\n- Talk soon.\n- Speak soon.\n\n✓ Correct — \"You mentioned [X] earlier — how did that come about?\" is a Digging deeper into what someone said chunk: used to draw out more detail from a short answer and show genuine interest.\nExample: \"You mentioned a possible move to Da Nang earlier — how did that come about?\"\nSimilar chunks:\n- How so?\n- What made you decide that?\n- What made you go that route?\n\n✗ \"Anyway...\" belongs to Signaling the conversation is winding down — used to signal a conversation is winding down, before you actually excuse yourself, not this context.\nSimilar chunks:\n- So yeah...\n- Right..."
+    },
+    {
+      "id": 21,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone gave you a short answer and you want to draw out more detail and show real interest. Which chunk fits best?",
+      "options": {
+        "A": "Lovely to meet you — I'm going to say hello to a few people.",
+        "B": "Alright?",
+        "C": "It's been a while!",
+        "D": "What drew you to that?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Lovely to meet you — I'm going to say hello to a few people.\" belongs to Politely exiting a group conversation — used to leave a group conversation politely, without seeming rude, not this context.\nSimilar chunks:\n- It was lovely to chat — I'm going to grab another coffee.\n\n✗ \"Alright?\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- How have you been?\n- How's the [project] going?\n- Hey, how's it going?\n\n✗ \"It's been a while!\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- Alright?\n- How's your week going?\n- How did that thing with [X] turn out?\n\n✓ Correct — \"What drew you to that?\" is a Digging deeper into what someone said chunk: used to draw out more detail from a short answer and show genuine interest.\nExample: \"You picked UX over engineering — what drew you to that?\"\nSimilar chunks:\n- What made you go that route?\n- And how did that feel?\n- How so?"
+    },
+    {
+      "id": 22,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You want to hint that the conversation is coming to a close, before you actually excuse yourself. Which chunk fits best?",
+      "options": {
+        "A": "Long time!",
+        "B": "Actually, while I have you...",
+        "C": "So yeah...",
+        "D": "Alright?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Long time!\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- It's been a while!\n- How's your week going?\n- Alright?\n\n✗ \"Actually, while I have you...\" belongs to Introducing a new topic before you forget — used to bring up something new before it slips your mind, not this context.\nSimilar chunks:\n- Oh, before I forget —...\n\n✓ Correct — \"So yeah...\" is a Signaling the conversation is winding down chunk: used to signal a conversation is winding down, before you actually excuse yourself.\nExample: \"So yeah... that's pretty much where things stand.\"\nSimilar chunks:\n- Right...\n- Anyway...\n\n✗ \"Alright?\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- How's your week going?\n- Busy day?\n- How's the [project] going?"
+    },
+    {
+      "id": 23,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You want to hint that the conversation is coming to a close, before you actually excuse yourself. Which chunk fits best?",
+      "options": {
+        "A": "Right...",
+        "B": "Lovely to meet you — I'm going to say hello to a few people.",
+        "C": "Have you got five minutes?",
+        "D": "Actually, while I have you..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Right...\" is a Signaling the conversation is winding down chunk: used to signal a conversation is winding down, before you actually excuse yourself.\nExample: \"Right... I think that covers everything for now.\"\nSimilar chunks:\n- Anyway...\n- So yeah...\n\n✗ \"Lovely to meet you — I'm going to say hello to a few people.\" belongs to Politely exiting a group conversation — used to leave a group conversation politely, without seeming rude, not this context.\nSimilar chunks:\n- It was lovely to chat — I'm going to grab another coffee.\n\n✗ \"Have you got five minutes?\" belongs to Opening a call or a meeting — used to open a call or meeting with a quick check-in before the real topic starts, not this context.\nSimilar chunks:\n- Hi, is now still okay?\n- How's things on your end?\n- Are we all here?\n\n✗ \"Actually, while I have you...\" belongs to Introducing a new topic before you forget — used to bring up something new before it slips your mind, not this context.\nSimilar chunks:\n- Oh, before I forget —..."
+    },
+    {
+      "id": 24,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need to end the conversation and want to give a polite reason for stepping away. Which chunk fits best?",
+      "options": {
+        "A": "I'd better let you go.",
+        "B": "You were telling me about...",
+        "C": "Busy day?",
+        "D": "Anyway, tell me about..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I'd better let you go.\" is a Giving a reason to leave chunk: used to give a polite reason for ending a conversation and stepping away.\nExample: \"I'd better let you go — I know you've got that call in five minutes.\"\nSimilar chunks:\n- I won't keep you.\n- I should get back to it.\n\n✗ \"You were telling me about...\" belongs to Returning to a topic you left — used to pick a topic back up after you got sidetracked, not this context.\nSimilar chunks:\n- Sorry, back to what you were saying...\n\n✗ \"Busy day?\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- How's your week going?\n- Long time no see.\n- Alright?\n\n✗ \"Anyway, tell me about...\" belongs to Acknowledging you're changing the subject — used to openly signal you're switching topics, instead of cutting away without warning, not this context.\nSimilar chunks:\n- Right, shall we get to the agenda?\n- Anyway — how about you?"
+    },
+    {
+      "id": 25,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need to end the conversation and want to give a polite reason for stepping away. Which chunk fits best?",
+      "options": {
+        "A": "I won't keep you.",
+        "B": "Let's catch up soon.",
+        "C": "How have you been?",
+        "D": "Actually, while I have you..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I won't keep you.\" is a Giving a reason to leave chunk: used to give a polite reason for ending a conversation and stepping away.\nExample: \"I won't keep you — I know it's a busy day for the whole team.\"\nSimilar chunks:\n- I should get back to it.\n- I'd better let you go.\n\n✗ \"Let's catch up soon.\" belongs to Promising to reconnect — used to end a conversation by leaving the door open for next time, not this context.\nSimilar chunks:\n- Speak soon.\n- See you Thursday.\n- Talk soon.\n\n✗ \"How have you been?\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- Busy day?\n- Alright?\n- Long time no see.\n\n✗ \"Actually, while I have you...\" belongs to Introducing a new topic before you forget — used to bring up something new before it slips your mind, not this context.\nSimilar chunks:\n- Oh, before I forget —..."
+    },
+    {
+      "id": 26,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're wrapping up a conversation and want to leave the door open for next time. Which chunk fits best?",
+      "options": {
+        "A": "Have you been to one of these before?",
+        "B": "Let's catch up soon.",
+        "C": "I won't keep you.",
+        "D": "On that note..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Have you been to one of these before?\" belongs to Opening with strangers or new people — used to start a conversation with someone you don't know yet, not this context.\nSimilar chunks:\n- Is this seat taken?\n- Mind if I join?\n- Hi, I'm [name].\n\n✓ Correct — \"Let's catch up soon.\" is a Promising to reconnect chunk: used to end a conversation by leaving the door open for next time.\nExample: \"Let's catch up soon — maybe grab lunch once things calm down.\"\nSimilar chunks:\n- Talk soon.\n- See you Thursday.\n- Speak soon.\n\n✗ \"I won't keep you.\" belongs to Giving a reason to leave — used to give a polite reason for ending a conversation and stepping away, not this context.\nSimilar chunks:\n- I'd better let you go.\n- I should get back to it.\n\n✗ \"On that note...\" belongs to Bridging into a new topic — used to move to a related topic smoothly instead of switching abruptly, not this context.\nSimilar chunks:\n- Speaking of which...\n- That reminds me..."
+    },
+    {
+      "id": 27,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're wrapping up a conversation and want to leave the door open for next time. Which chunk fits best?",
+      "options": {
+        "A": "Talk soon.",
+        "B": "Is this seat free?",
+        "C": "On that note...",
+        "D": "How's your week going?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Talk soon.\" is a Promising to reconnect chunk: used to end a conversation by leaving the door open for next time.\nExample: \"Talk soon — text me once you hear back from HR.\"\nSimilar chunks:\n- Speak soon.\n- See you Thursday.\n- Let's catch up soon.\n\n✗ \"Is this seat free?\" belongs to Opening with strangers or new people — used to start a conversation with someone you don't know yet, not this context.\nSimilar chunks:\n- Hi, I'm [name].\n- Mind if I join?\n- Have you been to one of these before?\n\n✗ \"On that note...\" belongs to Bridging into a new topic — used to move to a related topic smoothly instead of switching abruptly, not this context.\nSimilar chunks:\n- That reminds me...\n- Speaking of which...\n\n✗ \"How's your week going?\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- Hey, how's it going?\n- Long time no see.\n- Alright?"
+    },
+    {
+      "id": 28,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're closing out a conversation and need a friendly final line. Which chunk fits best?",
+      "options": {
+        "A": "Mind if I join?",
+        "B": "You mentioned [X] earlier — how did that come about?",
+        "C": "How's things on your end?",
+        "D": "Have a good one."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Mind if I join?\" belongs to Opening with strangers or new people — used to start a conversation with someone you don't know yet, not this context.\nSimilar chunks:\n- Hi, I'm [name].\n- Have you been to one of these before?\n- Is this seat taken?\n\n✗ \"You mentioned [X] earlier — how did that come about?\" belongs to Digging deeper into what someone said — used to draw out more detail from a short answer and show genuine interest, not this context.\nSimilar chunks:\n- What made you go that route?\n- What made you decide that?\n- Tell me more about...\n\n✗ \"How's things on your end?\" belongs to Opening a call or a meeting — used to open a call or meeting with a quick check-in before the real topic starts, not this context.\nSimilar chunks:\n- Morning all.\n- Have you got five minutes?\n- Are we all here?\n\n✓ Correct — \"Have a good one.\" is a Saying goodbye chunk: used as a friendly final line when closing out a conversation.\nExample: \"Have a good one — enjoy the long weekend.\"\nSimilar chunks:\n- Take care.\n- Cheers.\n- Bye for now."
+    },
+    {
+      "id": 29,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're closing out a conversation and need a friendly final line. Which chunk fits best?",
+      "options": {
+        "A": "How so?",
+        "B": "Talk soon.",
+        "C": "Cheers.",
+        "D": "How did that thing with [X] turn out?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"How so?\" belongs to Digging deeper into what someone said — used to draw out more detail from a short answer and show genuine interest, not this context.\nSimilar chunks:\n- And how did that feel?\n- What happened then?\n- You mentioned [X] earlier — how did that come about?\n\n✗ \"Talk soon.\" belongs to Promising to reconnect — used to end a conversation by leaving the door open for next time, not this context.\nSimilar chunks:\n- Let's catch up soon.\n- See you Thursday.\n- Speak soon.\n\n✓ Correct — \"Cheers.\" is a Saying goodbye chunk: used as a friendly final line when closing out a conversation.\nExample: \"Cheers, thanks again for the help earlier.\"\nSimilar chunks:\n- Bye for now.\n- Have a good one.\n- Take care.\n\n✗ \"How did that thing with [X] turn out?\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- How's the [project] going?\n- It's been a while!\n- How's your week going?"
+    },
+    {
+      "id": 30,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're at a group conversation or event and want to move on to talk to other people without being rude. Which chunk fits best?",
+      "options": {
+        "A": "Speaking of which...",
+        "B": "Long time!",
+        "C": "Right...",
+        "D": "It was lovely to chat — I'm going to grab another coffee."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Speaking of which...\" belongs to Bridging into a new topic — used to move to a related topic smoothly instead of switching abruptly, not this context.\nSimilar chunks:\n- That reminds me...\n- On that note...\n\n✗ \"Long time!\" belongs to Opening with someone you know — used to open a conversation naturally with someone you already know, not this context.\nSimilar chunks:\n- Busy day?\n- Alright?\n- How's your week going?\n\n✗ \"Right...\" belongs to Signaling the conversation is winding down — used to signal a conversation is winding down, before you actually excuse yourself, not this context.\nSimilar chunks:\n- Anyway...\n- So yeah...\n\n✓ Correct — \"It was lovely to chat — I'm going to grab another coffee.\" is a Politely exiting a group conversation chunk: used to leave a group conversation politely, without seeming rude.\nExample: \"It was lovely to chat — I'm going to grab another coffee before the next session starts.\"\nSimilar chunks:\n- Lovely to meet you — I'm going to say hello to a few people."
+    },
+    {
+      "id": 31,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're at a group conversation or event and want to move on to talk to other people without being rude. Which chunk fits best?",
+      "options": {
+        "A": "Cheers.",
+        "B": "Speak soon.",
+        "C": "Lovely to meet you — I'm going to say hello to a few people.",
+        "D": "Hi, is now still okay?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Cheers.\" belongs to Saying goodbye — used as a friendly final line when closing out a conversation, not this context.\nSimilar chunks:\n- Have a good one.\n- Take care.\n- Bye for now.\n\n✗ \"Speak soon.\" belongs to Promising to reconnect — used to end a conversation by leaving the door open for next time, not this context.\nSimilar chunks:\n- See you Thursday.\n- Talk soon.\n- Let's catch up soon.\n\n✓ Correct — \"Lovely to meet you — I'm going to say hello to a few people.\" is a Politely exiting a group conversation chunk: used to leave a group conversation politely, without seeming rude.\nExample: \"Lovely to meet you — I'm going to say hello to a few people before the room empties out.\"\nSimilar chunks:\n- It was lovely to chat — I'm going to grab another coffee.\n\n✗ \"Hi, is now still okay?\" belongs to Opening a call or a meeting — used to open a call or meeting with a quick check-in before the real topic starts, not this context.\nSimilar chunks:\n- Hey, can you hear me okay?\n- Have you got five minutes?\n- Are we all here?"
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "examId": "adjacency-pairs",
+  "title": "Chunk Atlas — Real-Time Fluency: Adjacency Pairs & Preference Design",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just made an invitation, assessment, suggestion, or compliment, and you need a natural second half of the exchange. Which chunk fits best?",
+      "options": {
+        "A": "Be my guest.",
+        "B": "Good idea.",
+        "C": "Oh, I wish I could. I'm completely swamped this week.",
+        "D": "You're welcome."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Be my guest.\" belongs to Agreeing to Requests & Suggestions — used to naturally agree to a permission request, a favor, or a suggestion, not this context.\nSimilar chunks:\n- Yeah, no problem.\n- Sure thing.\n- Let's do it.\n\n✓ Correct — \"Good idea.\" is a Standard Adjacency-Pair Responses (Preferred vs. Dispreferred) chunk: used as the natural second half of a common conversational pair (invitation, assessment, suggestion, or compliment).\nExample: \"\"Shall we park this?\" \"Good idea.\"\"\nSimilar chunks:\n- Thanks — the team did the heavy lifting.\n- Yeah... I mean, parts of it were.\n- I'd love to, but I've got...\n\n✗ \"Oh, I wish I could. I'm completely swamped this week.\" belongs to Refusing Gracefully — Delay, Soften, Give a Reason — used to decline an invitation or request politely, with hesitation, regret, and a reason built in, not this context.\nSimilar chunks:\n- I don't think I can commit to that, sorry. What I could do is...\n- Can I be really annoying and say no?\n- Ah, I'd love to, but I've got something on. Another time?\n\n✗ \"You're welcome.\" belongs to Responding to Thanks & Apologies — used as a natural response to being thanked or apologized to, not this context.\nSimilar chunks:\n- Not at all.\n- My pleasure.\n- No problem."
+    },
+    {
+      "id": 2,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just made an invitation, assessment, suggestion, or compliment, and you need a natural second half of the exchange. Which chunk fits best?",
+      "options": {
+        "A": "Have you got a minute?",
+        "B": "Don't worry about it.",
+        "C": "Are you busy?",
+        "D": "Wasn't it?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Have you got a minute?\" belongs to Pre-Expansion — Clearing the Way First — used to check the moment is right before asking a favor, making an invitation, or raising something difficult, not this context.\nSimilar chunks:\n- Do you mind if I ask...?\n- Can I ask you something?\n- Any plans this weekend?\n\n✗ \"Don't worry about it.\" belongs to Responding to Thanks & Apologies — used as a natural response to being thanked or apologized to, not this context.\nSimilar chunks:\n- Not at all.\n- No worries.\n- You're welcome.\n\n✗ \"Are you busy?\" belongs to Pre-Expansion — Clearing the Way First — used to check the moment is right before asking a favor, making an invitation, or raising something difficult, not this context.\nSimilar chunks:\n- Do you mind if I ask...?\n- Have you got a minute?\n- Are you sitting down?\n\n✓ Correct — \"Wasn't it?\" is a Standard Adjacency-Pair Responses (Preferred vs. Dispreferred) chunk: used as the natural second half of a common conversational pair (invitation, assessment, suggestion, or compliment).\nExample: \"\"That was a great session.\" \"Wasn't it? Really useful.\"\"\nSimilar chunks:\n- Thanks — the team did the heavy lifting.\n- Rain check?\n- I'd love to, but I've got..."
+    },
+    {
+      "id": 3,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just made an invitation, assessment, suggestion, or compliment, and you need a natural second half of the exchange. Which chunk fits best?",
+      "options": {
+        "A": "Are you sitting down?",
+        "B": "That's really kind — I can't this time, unfortunately.",
+        "C": "I'd love to, but I've got...",
+        "D": "Sorry, that came out wrong."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Are you sitting down?\" belongs to Pre-Expansion — Clearing the Way First — used to check the moment is right before asking a favor, making an invitation, or raising something difficult, not this context.\nSimilar chunks:\n- Any plans this weekend?\n- Is now a good time?\n- Do you mind if I ask...?\n\n✗ \"That's really kind — I can't this time, unfortunately.\" belongs to Refusing Gracefully — Delay, Soften, Give a Reason — used to decline an invitation or request politely, with hesitation, regret, and a reason built in, not this context.\nSimilar chunks:\n- Oh, I wish I could. I'm completely swamped this week.\n- Let me be honest — that doesn't work for me. Here's why.\n- Hmm, that's tricky for me. Could we do...\n\n✓ Correct — \"I'd love to, but I've got...\" is a Standard Adjacency-Pair Responses (Preferred vs. Dispreferred) chunk: used as the natural second half of a common conversational pair (invitation, assessment, suggestion, or compliment).\nExample: \"\"Fancy lunch?\" \"I'd love to, but I've got a call at twelve.\"\"\nSimilar chunks:\n- Rain check?\n- Good idea.\n- Thanks — the team did the heavy lifting.\n\n✗ \"Sorry, that came out wrong.\" belongs to Repair Sequences — Catching Misunderstandings — used to catch and repair a misunderstanding before it snowballs, not this context.\nSimilar chunks:\n- That's not quite what I meant.\n- I think we're talking past each other.\n- I don't think I said that clearly."
+    },
+    {
+      "id": 4,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're about to ask for a favor, make an invitation, or raise something difficult, and want to check the moment is right first. Which chunk fits best?",
+      "options": {
+        "A": "Rain check?",
+        "B": "Cheers!",
+        "C": "Is now a good time?",
+        "D": "That's really kind — I can't this time, unfortunately."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Rain check?\" belongs to Standard Adjacency-Pair Responses (Preferred vs. Dispreferred) — used as the natural second half of a common conversational pair (invitation, assessment, suggestion, or compliment), not this context.\nSimilar chunks:\n- Good idea.\n- Wasn't it?\n- Yeah, love to.\n\n✗ \"Cheers!\" belongs to Responding to News — Congrats, Luck & Sympathy — used as a natural reply to congratulations, well-wishes, or sympathy, not this context.\nSimilar chunks:\n- Thanks — I'm pleased.\n- Cheers.\n- Thanks, I'll need it!\n\n✓ Correct — \"Is now a good time?\" is a Pre-Expansion — Clearing the Way First chunk: used to check the moment is right before asking a favor, making an invitation, or raising something difficult.\nExample: \"Is now a good time, or should I come back later?\"\nSimilar chunks:\n- Any plans this weekend?\n- Are you busy?\n- Have you got a sec?\n\n✗ \"That's really kind — I can't this time, unfortunately.\" belongs to Refusing Gracefully — Delay, Soften, Give a Reason — used to decline an invitation or request politely, with hesitation, regret, and a reason built in, not this context.\nSimilar chunks:\n- Ah, I'd love to, but I've got something on. Another time?\n- Let me be honest — that doesn't work for me. Here's why.\n- I don't think I can commit to that, sorry. What I could do is..."
+    },
+    {
+      "id": 5,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're about to ask for a favor, make an invitation, or raise something difficult, and want to check the moment is right first. Which chunk fits best?",
+      "options": {
+        "A": "You too!",
+        "B": "Sorry, that came out wrong.",
+        "C": "What are you doing Friday?",
+        "D": "Just so I understand — you're saying...?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"You too!\" belongs to Meeting & Parting Exchanges — used as the natural second half of a greeting or parting exchange, not this context.\nSimilar chunks:\n- And you.\n- Cheers, you too.\n- You too.\n\n✗ \"Sorry, that came out wrong.\" belongs to Repair Sequences — Catching Misunderstandings — used to catch and repair a misunderstanding before it snowballs, not this context.\nSimilar chunks:\n- I don't think I said that clearly.\n- Let me clarify.\n- Just so I understand — you're saying...?\n\n✓ Correct — \"What are you doing Friday?\" is a Pre-Expansion — Clearing the Way First chunk: used to check the moment is right before asking a favor, making an invitation, or raising something difficult.\nExample: \"What are you doing Friday? A few of us are getting dinner.\"\nSimilar chunks:\n- Have you got a sec?\n- Any plans this weekend?\n- Is now a good time?\n\n✗ \"Just so I understand — you're saying...?\" belongs to Repair Sequences — Catching Misunderstandings — used to catch and repair a misunderstanding before it snowballs, not this context.\nSimilar chunks:\n- Can we reset?\n- I think we're talking past each other.\n- That's not quite what I meant."
+    },
+    {
+      "id": 6,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're about to ask for a favor, make an invitation, or raise something difficult, and want to check the moment is right first. Which chunk fits best?",
+      "options": {
+        "A": "Are you busy?",
+        "B": "All good.",
+        "C": "Any time.",
+        "D": "You too!"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Are you busy?\" is a Pre-Expansion — Clearing the Way First chunk: used to check the moment is right before asking a favor, making an invitation, or raising something difficult.\nExample: \"Are you busy? I wanted to ask you about the report.\"\nSimilar chunks:\n- Can I ask you something?\n- Is now a good time?\n- Are you sitting down?\n\n✗ \"All good.\" belongs to Responding to Thanks & Apologies — used as a natural response to being thanked or apologized to, not this context.\nSimilar chunks:\n- Any time.\n- No worries.\n- You're welcome.\n\n✗ \"Any time.\" belongs to Responding to Thanks & Apologies — used as a natural response to being thanked or apologized to, not this context.\nSimilar chunks:\n- You're welcome.\n- All good.\n- Not at all.\n\n✗ \"You too!\" belongs to Meeting & Parting Exchanges — used as the natural second half of a greeting or parting exchange, not this context.\nSimilar chunks:\n- Cheers, you too.\n- And you.\n- You too."
+    },
+    {
+      "id": 7,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're about to ask for a favor, make an invitation, or raise something difficult, and want to check the moment is right first. Which chunk fits best?",
+      "options": {
+        "A": "I don't think I can commit to that, sorry. What I could do is...",
+        "B": "Can I ask you something?",
+        "C": "Thanks, that's kind of you.",
+        "D": "You're welcome."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I don't think I can commit to that, sorry. What I could do is...\" belongs to Refusing Gracefully — Delay, Soften, Give a Reason — used to decline an invitation or request politely, with hesitation, regret, and a reason built in, not this context.\nSimilar chunks:\n- Ah, I'd love to, but I've got something on. Another time?\n- Let me be honest — that doesn't work for me. Here's why.\n- Oh, I wish I could. I'm completely swamped this week.\n\n✓ Correct — \"Can I ask you something?\" is a Pre-Expansion — Clearing the Way First chunk: used to check the moment is right before asking a favor, making an invitation, or raising something difficult.\nExample: \"Can I ask you something — has anyone else mentioned the layoffs?\"\nSimilar chunks:\n- Is now a good time?\n- Any plans this weekend?\n- Are you sitting down?\n\n✗ \"Thanks, that's kind of you.\" belongs to Responding to News — Congrats, Luck & Sympathy — used as a natural reply to congratulations, well-wishes, or sympathy, not this context.\nSimilar chunks:\n- Thank you!\n- Thanks, I'll need it!\n- Cheers!\n\n✗ \"You're welcome.\" belongs to Responding to Thanks & Apologies — used as a natural response to being thanked or apologized to, not this context.\nSimilar chunks:\n- Not at all.\n- Don't worry about it.\n- These things happen."
+    },
+    {
+      "id": 8,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You realize something you said (or heard) got misunderstood, and need to repair it before it snowballs. Which chunk fits best?",
+      "options": {
+        "A": "My pleasure.",
+        "B": "Just so I understand — you're saying...?",
+        "C": "I'd love to, but I've got...",
+        "D": "Good idea."
+      },
+      "correct": "B",
+      "explanation": "✗ \"My pleasure.\" belongs to Responding to Thanks & Apologies — used as a natural response to being thanked or apologized to, not this context.\nSimilar chunks:\n- All good.\n- You're welcome.\n- Any time.\n\n✓ Correct — \"Just so I understand — you're saying...?\" is a Repair Sequences — Catching Misunderstandings chunk: used to catch and repair a misunderstanding before it snowballs.\nExample: \"Just so I understand — you're saying we should pause the whole project?\"\nSimilar chunks:\n- Let me clarify.\n- Sorry, that came out wrong.\n- No no, I meant...\n\n✗ \"I'd love to, but I've got...\" belongs to Standard Adjacency-Pair Responses (Preferred vs. Dispreferred) — used as the natural second half of a common conversational pair (invitation, assessment, suggestion, or compliment), not this context.\nSimilar chunks:\n- Wasn't it?\n- Rain check?\n- Thanks — the team did the heavy lifting.\n\n✗ \"Good idea.\" belongs to Standard Adjacency-Pair Responses (Preferred vs. Dispreferred) — used as the natural second half of a common conversational pair (invitation, assessment, suggestion, or compliment), not this context.\nSimilar chunks:\n- Rain check?\n- Yeah... I mean, parts of it were.\n- Yeah, love to."
+    },
+    {
+      "id": 9,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You realize something you said (or heard) got misunderstood, and need to repair it before it snowballs. Which chunk fits best?",
+      "options": {
+        "A": "Are you busy?",
+        "B": "Cheers!",
+        "C": "Why not.",
+        "D": "That's not quite what I meant."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Are you busy?\" belongs to Pre-Expansion — Clearing the Way First — used to check the moment is right before asking a favor, making an invitation, or raising something difficult, not this context.\nSimilar chunks:\n- Do you mind if I ask...?\n- Is now a good time?\n- Can I ask you something?\n\n✗ \"Cheers!\" belongs to Responding to News — Congrats, Luck & Sympathy — used as a natural reply to congratulations, well-wishes, or sympathy, not this context.\nSimilar chunks:\n- Thanks, I'll need it!\n- Thanks, that's kind of you.\n- Thanks — I'm pleased.\n\n✗ \"Why not.\" belongs to Agreeing to Requests & Suggestions — used to naturally agree to a permission request, a favor, or a suggestion, not this context.\nSimilar chunks:\n- Let's do it.\n- Go ahead.\n- Sure thing.\n\n✓ Correct — \"That's not quite what I meant.\" is a Repair Sequences — Catching Misunderstandings chunk: used to catch and repair a misunderstanding before it snowballs.\nExample: \"That's not quite what I meant — I wasn't criticizing the design.\"\nSimilar chunks:\n- Sorry, that came out wrong.\n- Can we reset?\n- I don't think I said that clearly."
+    },
+    {
+      "id": 10,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You realize something you said (or heard) got misunderstood, and need to repair it before it snowballs. Which chunk fits best?",
+      "options": {
+        "A": "Can we reset?",
+        "B": "Ah, I'd love to, but I've got something on. Another time?",
+        "C": "Have you got a sec?",
+        "D": "Go ahead."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Can we reset?\" is a Repair Sequences — Catching Misunderstandings chunk: used to catch and repair a misunderstanding before it snowballs.\nExample: \"Can we reset? I don't think either of us is getting through.\"\nSimilar chunks:\n- That's not quite what I meant.\n- Let me clarify.\n- Sorry, that came out wrong.\n\n✗ \"Ah, I'd love to, but I've got something on. Another time?\" belongs to Refusing Gracefully — Delay, Soften, Give a Reason — used to decline an invitation or request politely, with hesitation, regret, and a reason built in, not this context.\nSimilar chunks:\n- I don't think I can commit to that, sorry. What I could do is...\n- Can I be really annoying and say no?\n- Let me be honest — that doesn't work for me. Here's why.\n\n✗ \"Have you got a sec?\" belongs to Pre-Expansion — Clearing the Way First — used to check the moment is right before asking a favor, making an invitation, or raising something difficult, not this context.\nSimilar chunks:\n- Is now a good time?\n- Any plans this weekend?\n- Are you busy?\n\n✗ \"Go ahead.\" belongs to Agreeing to Requests & Suggestions — used to naturally agree to a permission request, a favor, or a suggestion, not this context.\nSimilar chunks:\n- Why not.\n- Sure thing.\n- Please do."
+    },
+    {
+      "id": 11,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You realize something you said (or heard) got misunderstood, and need to repair it before it snowballs. Which chunk fits best?",
+      "options": {
+        "A": "You too.",
+        "B": "That's really kind — I can't this time, unfortunately.",
+        "C": "No no, I meant...",
+        "D": "Cheers."
+      },
+      "correct": "C",
+      "explanation": "✗ \"You too.\" belongs to Meeting & Parting Exchanges — used as the natural second half of a greeting or parting exchange, not this context.\nSimilar chunks:\n- Likewise.\n- You too!\n- Thanks, you as well.\n\n✗ \"That's really kind — I can't this time, unfortunately.\" belongs to Refusing Gracefully — Delay, Soften, Give a Reason — used to decline an invitation or request politely, with hesitation, regret, and a reason built in, not this context.\nSimilar chunks:\n- Hmm, that's tricky for me. Could we do...\n- Ah, I'd love to, but I've got something on. Another time?\n- Oh, I wish I could. I'm completely swamped this week.\n\n✓ Correct — \"No no, I meant...\" is a Repair Sequences — Catching Misunderstandings chunk: used to catch and repair a misunderstanding before it snowballs.\nExample: \"No no, I meant next Friday, not this Friday.\"\nSimilar chunks:\n- Can we reset?\n- Just so I understand — you're saying...?\n- Sorry, that came out wrong.\n\n✗ \"Cheers.\" belongs to Responding to News — Congrats, Luck & Sympathy — used as a natural reply to congratulations, well-wishes, or sympathy, not this context.\nSimilar chunks:\n- Thanks, that's kind of you.\n- Thank you!\n- Thanks, I'll need it!"
+    },
+    {
+      "id": 12,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone opens with casual small talk and you need a natural, quick response. Which chunk fits best?",
+      "options": {
+        "A": "Not bad, yourself?",
+        "B": "Can we reset?",
+        "C": "Thank you!",
+        "D": "I think we're talking past each other."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Not bad, yourself?\" is a Small Talk Openers — Responding chunk: used as a quick, natural reply to casual small talk.\nExample: \"\"How are you?\" \"Not bad, yourself?\"\"\nSimilar chunks:\n- Good thanks, you?\n- Yeah, all good.\n- Lovely, thanks — too short though.\n\n✗ \"Can we reset?\" belongs to Repair Sequences — Catching Misunderstandings — used to catch and repair a misunderstanding before it snowballs, not this context.\nSimilar chunks:\n- I think we're talking past each other.\n- Let me clarify.\n- I don't think I said that clearly.\n\n✗ \"Thank you!\" belongs to Responding to News — Congrats, Luck & Sympathy — used as a natural reply to congratulations, well-wishes, or sympathy, not this context.\nSimilar chunks:\n- Cheers.\n- Thanks — I'm pleased.\n- Cheers!\n\n✗ \"I think we're talking past each other.\" belongs to Repair Sequences — Catching Misunderstandings — used to catch and repair a misunderstanding before it snowballs, not this context.\nSimilar chunks:\n- Just so I understand — you're saying...?\n- I don't think I said that clearly.\n- No no, I meant..."
+    },
+    {
+      "id": 13,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone opens with casual small talk and you need a natural, quick response. Which chunk fits best?",
+      "options": {
+        "A": "Cheers!",
+        "B": "No problem.",
+        "C": "All good.",
+        "D": "Yeah, all good."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Cheers!\" belongs to Responding to News — Congrats, Luck & Sympathy — used as a natural reply to congratulations, well-wishes, or sympathy, not this context.\nSimilar chunks:\n- Thanks, I'll need it!\n- Thanks — I'm pleased.\n- Thank you!\n\n✗ \"No problem.\" belongs to Responding to Thanks & Apologies — used as a natural response to being thanked or apologized to, not this context.\nSimilar chunks:\n- Any time.\n- Don't worry about it.\n- You're welcome.\n\n✗ \"All good.\" belongs to Responding to Thanks & Apologies — used as a natural response to being thanked or apologized to, not this context.\nSimilar chunks:\n- You're welcome.\n- Don't worry about it.\n- No problem.\n\n✓ Correct — \"Yeah, all good.\" is a Small Talk Openers — Responding chunk: used as a quick, natural reply to casual small talk.\nExample: \"\"How are you?\" \"Yeah, all good.\"\"\nSimilar chunks:\n- Lovely, thanks — too short though.\n- Not bad, yourself?\n- Good thanks, you?"
+    },
+    {
+      "id": 14,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just thanked you or apologized to you, and you need a natural response. Which chunk fits best?",
+      "options": {
+        "A": "Are you busy?",
+        "B": "Hmm, that's tricky for me. Could we do...",
+        "C": "Any plans this weekend?",
+        "D": "These things happen."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Are you busy?\" belongs to Pre-Expansion — Clearing the Way First — used to check the moment is right before asking a favor, making an invitation, or raising something difficult, not this context.\nSimilar chunks:\n- Is now a good time?\n- Have you got a minute?\n- Do you mind if I ask...?\n\n✗ \"Hmm, that's tricky for me. Could we do...\" belongs to Refusing Gracefully — Delay, Soften, Give a Reason — used to decline an invitation or request politely, with hesitation, regret, and a reason built in, not this context.\nSimilar chunks:\n- Can I be really annoying and say no?\n- Oh, I wish I could. I'm completely swamped this week.\n- Ah, I'd love to, but I've got something on. Another time?\n\n✗ \"Any plans this weekend?\" belongs to Pre-Expansion — Clearing the Way First — used to check the moment is right before asking a favor, making an invitation, or raising something difficult, not this context.\nSimilar chunks:\n- Is now a good time?\n- Are you busy?\n- Are you sitting down?\n\n✓ Correct — \"These things happen.\" is a Responding to Thanks & Apologies chunk: used as a natural response to being thanked or apologized to.\nExample: \"\"Sorry about that.\" \"These things happen.\"\"\nSimilar chunks:\n- My pleasure.\n- No problem.\n- Any time."
+    },
+    {
+      "id": 15,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just thanked you or apologized to you, and you need a natural response. Which chunk fits best?",
+      "options": {
+        "A": "Good idea.",
+        "B": "Are you sitting down?",
+        "C": "Yeah, no problem.",
+        "D": "All good."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Good idea.\" belongs to Standard Adjacency-Pair Responses (Preferred vs. Dispreferred) — used as the natural second half of a common conversational pair (invitation, assessment, suggestion, or compliment), not this context.\nSimilar chunks:\n- Yeah... I mean, parts of it were.\n- Rain check?\n- Yeah, love to.\n\n✗ \"Are you sitting down?\" belongs to Pre-Expansion — Clearing the Way First — used to check the moment is right before asking a favor, making an invitation, or raising something difficult, not this context.\nSimilar chunks:\n- Are you busy?\n- Do you mind if I ask...?\n- What are you doing Friday?\n\n✗ \"Yeah, no problem.\" belongs to Agreeing to Requests & Suggestions — used to naturally agree to a permission request, a favor, or a suggestion, not this context.\nSimilar chunks:\n- Please do.\n- Let's do it.\n- Why not.\n\n✓ Correct — \"All good.\" is a Responding to Thanks & Apologies chunk: used as a natural response to being thanked or apologized to.\nExample: \"\"Sorry about that.\" \"All good.\"\"\nSimilar chunks:\n- My pleasure.\n- Any time.\n- No problem."
+    },
+    {
+      "id": 16,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just thanked you or apologized to you, and you need a natural response. Which chunk fits best?",
+      "options": {
+        "A": "Leave it with me.",
+        "B": "No problem.",
+        "C": "Yeah, no problem.",
+        "D": "Have you got a sec?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Leave it with me.\" belongs to Agreeing to Requests & Suggestions — used to naturally agree to a permission request, a favor, or a suggestion, not this context.\nSimilar chunks:\n- Of course.\n- Let's do it.\n- Please do.\n\n✓ Correct — \"No problem.\" is a Responding to Thanks & Apologies chunk: used as a natural response to being thanked or apologized to.\nExample: \"\"Thanks so much.\" \"No problem.\"\"\nSimilar chunks:\n- Don't worry about it.\n- No worries.\n- Not at all.\n\n✗ \"Yeah, no problem.\" belongs to Agreeing to Requests & Suggestions — used to naturally agree to a permission request, a favor, or a suggestion, not this context.\nSimilar chunks:\n- Of course.\n- Why not.\n- Leave it with me.\n\n✗ \"Have you got a sec?\" belongs to Pre-Expansion — Clearing the Way First — used to check the moment is right before asking a favor, making an invitation, or raising something difficult, not this context.\nSimilar chunks:\n- What are you doing Friday?\n- Any plans this weekend?\n- Are you busy?"
+    },
+    {
+      "id": 17,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just thanked you or apologized to you, and you need a natural response. Which chunk fits best?",
+      "options": {
+        "A": "Hmm, that's tricky for me. Could we do...",
+        "B": "And you.",
+        "C": "Cheers, you too.",
+        "D": "You're welcome."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Hmm, that's tricky for me. Could we do...\" belongs to Refusing Gracefully — Delay, Soften, Give a Reason — used to decline an invitation or request politely, with hesitation, regret, and a reason built in, not this context.\nSimilar chunks:\n- Ah, I'd love to, but I've got something on. Another time?\n- I don't think I can commit to that, sorry. What I could do is...\n- That's really kind — I can't this time, unfortunately.\n\n✗ \"And you.\" belongs to Meeting & Parting Exchanges — used as the natural second half of a greeting or parting exchange, not this context.\nSimilar chunks:\n- Likewise.\n- You too!\n- You too.\n\n✗ \"Cheers, you too.\" belongs to Meeting & Parting Exchanges — used as the natural second half of a greeting or parting exchange, not this context.\nSimilar chunks:\n- You too.\n- Likewise.\n- You too!\n\n✓ Correct — \"You're welcome.\" is a Responding to Thanks & Apologies chunk: used as a natural response to being thanked or apologized to.\nExample: \"\"Thanks so much.\" \"You're welcome.\"\"\nSimilar chunks:\n- Don't worry about it.\n- No problem.\n- Any time."
+    },
+    {
+      "id": 18,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just greeted you for the first time or wished you a good weekend, and you need the natural reply. Which chunk fits best?",
+      "options": {
+        "A": "Likewise.",
+        "B": "Not bad, yourself?",
+        "C": "What are you doing Friday?",
+        "D": "I'd love to, but I've got..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Likewise.\" is a Meeting & Parting Exchanges chunk: used as the natural second half of a greeting or parting exchange.\nExample: \"\"Nice to meet you.\" \"Likewise.\"\"\nSimilar chunks:\n- You too!\n- Thanks, you as well.\n- Cheers, you too.\n\n✗ \"Not bad, yourself?\" belongs to Small Talk Openers — Responding — used as a quick, natural reply to casual small talk, not this context.\nSimilar chunks:\n- Yeah, all good.\n- Lovely, thanks — too short though.\n- Good thanks, you?\n\n✗ \"What are you doing Friday?\" belongs to Pre-Expansion — Clearing the Way First — used to check the moment is right before asking a favor, making an invitation, or raising something difficult, not this context.\nSimilar chunks:\n- Can I ask you something?\n- Is now a good time?\n- Any plans this weekend?\n\n✗ \"I'd love to, but I've got...\" belongs to Standard Adjacency-Pair Responses (Preferred vs. Dispreferred) — used as the natural second half of a common conversational pair (invitation, assessment, suggestion, or compliment), not this context.\nSimilar chunks:\n- Yeah, love to.\n- Good idea.\n- Thanks — the team did the heavy lifting."
+    },
+    {
+      "id": 19,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just greeted you for the first time or wished you a good weekend, and you need the natural reply. Which chunk fits best?",
+      "options": {
+        "A": "You too!",
+        "B": "Don't worry about it.",
+        "C": "Ah, I'd love to, but I've got something on. Another time?",
+        "D": "Thank you!"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"You too!\" is a Meeting & Parting Exchanges chunk: used as the natural second half of a greeting or parting exchange.\nExample: \"\"Have a good weekend.\" \"You too!\"\"\nSimilar chunks:\n- And you.\n- Cheers, you too.\n- Likewise.\n\n✗ \"Don't worry about it.\" belongs to Responding to Thanks & Apologies — used as a natural response to being thanked or apologized to, not this context.\nSimilar chunks:\n- My pleasure.\n- Any time.\n- No worries.\n\n✗ \"Ah, I'd love to, but I've got something on. Another time?\" belongs to Refusing Gracefully — Delay, Soften, Give a Reason — used to decline an invitation or request politely, with hesitation, regret, and a reason built in, not this context.\nSimilar chunks:\n- Hmm, that's tricky for me. Could we do...\n- That's really kind — I can't this time, unfortunately.\n- Oh, I wish I could. I'm completely swamped this week.\n\n✗ \"Thank you!\" belongs to Responding to News — Congrats, Luck & Sympathy — used as a natural reply to congratulations, well-wishes, or sympathy, not this context.\nSimilar chunks:\n- Thanks, I'll need it!\n- Thanks, that's kind of you.\n- Cheers!"
+    },
+    {
+      "id": 20,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just greeted you for the first time or wished you a good weekend, and you need the natural reply. Which chunk fits best?",
+      "options": {
+        "A": "You're welcome.",
+        "B": "Thanks, that's kind of you.",
+        "C": "These things happen.",
+        "D": "Cheers, you too."
+      },
+      "correct": "D",
+      "explanation": "✗ \"You're welcome.\" belongs to Responding to Thanks & Apologies — used as a natural response to being thanked or apologized to, not this context.\nSimilar chunks:\n- Not at all.\n- All good.\n- Any time.\n\n✗ \"Thanks, that's kind of you.\" belongs to Responding to News — Congrats, Luck & Sympathy — used as a natural reply to congratulations, well-wishes, or sympathy, not this context.\nSimilar chunks:\n- Thank you!\n- Cheers!\n- Cheers.\n\n✗ \"These things happen.\" belongs to Responding to Thanks & Apologies — used as a natural response to being thanked or apologized to, not this context.\nSimilar chunks:\n- Any time.\n- My pleasure.\n- No worries.\n\n✓ Correct — \"Cheers, you too.\" is a Meeting & Parting Exchanges chunk: used as the natural second half of a greeting or parting exchange.\nExample: \"\"Have a good weekend.\" \"Cheers, you too.\"\"\nSimilar chunks:\n- You too!\n- Likewise.\n- You too."
+    },
+    {
+      "id": 21,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just congratulated you, wished you luck, or expressed sympathy, and you need a natural reply. Which chunk fits best?",
+      "options": {
+        "A": "Thanks, that's kind of you.",
+        "B": "Are you busy?",
+        "C": "You're welcome.",
+        "D": "Please do."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Thanks, that's kind of you.\" is a Responding to News — Congrats, Luck & Sympathy chunk: used as a natural reply to congratulations, well-wishes, or sympathy.\nExample: \"\"I'm so sorry to hear that.\" \"Thanks, that's kind of you.\"\"\nSimilar chunks:\n- Thanks, I'll need it!\n- Cheers!\n- Thank you!\n\n✗ \"Are you busy?\" belongs to Pre-Expansion — Clearing the Way First — used to check the moment is right before asking a favor, making an invitation, or raising something difficult, not this context.\nSimilar chunks:\n- Any plans this weekend?\n- Do you mind if I ask...?\n- Can I ask you something?\n\n✗ \"You're welcome.\" belongs to Responding to Thanks & Apologies — used as a natural response to being thanked or apologized to, not this context.\nSimilar chunks:\n- Don't worry about it.\n- All good.\n- No problem.\n\n✗ \"Please do.\" belongs to Agreeing to Requests & Suggestions — used to naturally agree to a permission request, a favor, or a suggestion, not this context.\nSimilar chunks:\n- Let's do it.\n- Yeah, no problem.\n- Leave it with me."
+    },
+    {
+      "id": 22,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just congratulated you, wished you luck, or expressed sympathy, and you need a natural reply. Which chunk fits best?",
+      "options": {
+        "A": "Cheers, you too.",
+        "B": "Let me clarify.",
+        "C": "Let me be honest — that doesn't work for me. Here's why.",
+        "D": "Thanks, I'll need it!"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Cheers, you too.\" belongs to Meeting & Parting Exchanges — used as the natural second half of a greeting or parting exchange, not this context.\nSimilar chunks:\n- Likewise.\n- You too.\n- Thanks, you as well.\n\n✗ \"Let me clarify.\" belongs to Repair Sequences — Catching Misunderstandings — used to catch and repair a misunderstanding before it snowballs, not this context.\nSimilar chunks:\n- Just so I understand — you're saying...?\n- That's not quite what I meant.\n- I think we're talking past each other.\n\n✗ \"Let me be honest — that doesn't work for me. Here's why.\" belongs to Refusing Gracefully — Delay, Soften, Give a Reason — used to decline an invitation or request politely, with hesitation, regret, and a reason built in, not this context.\nSimilar chunks:\n- I don't think I can commit to that, sorry. What I could do is...\n- Can I be really annoying and say no?\n- Hmm, that's tricky for me. Could we do...\n\n✓ Correct — \"Thanks, I'll need it!\" is a Responding to News — Congrats, Luck & Sympathy chunk: used as a natural reply to congratulations, well-wishes, or sympathy.\nExample: \"\"Good luck with the presentation!\" \"Thanks, I'll need it!\"\"\nSimilar chunks:\n- Thanks, that's kind of you.\n- Cheers!\n- Cheers."
+    },
+    {
+      "id": 23,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just congratulated you, wished you luck, or expressed sympathy, and you need a natural reply. Which chunk fits best?",
+      "options": {
+        "A": "No problem.",
+        "B": "Sure thing.",
+        "C": "I don't think I said that clearly.",
+        "D": "Thank you!"
+      },
+      "correct": "D",
+      "explanation": "✗ \"No problem.\" belongs to Responding to Thanks & Apologies — used as a natural response to being thanked or apologized to, not this context.\nSimilar chunks:\n- No worries.\n- My pleasure.\n- Don't worry about it.\n\n✗ \"Sure thing.\" belongs to Agreeing to Requests & Suggestions — used to naturally agree to a permission request, a favor, or a suggestion, not this context.\nSimilar chunks:\n- Of course.\n- Leave it with me.\n- Yeah, no problem.\n\n✗ \"I don't think I said that clearly.\" belongs to Repair Sequences — Catching Misunderstandings — used to catch and repair a misunderstanding before it snowballs, not this context.\nSimilar chunks:\n- Let me clarify.\n- No no, I meant...\n- Sorry, that came out wrong.\n\n✓ Correct — \"Thank you!\" is a Responding to News — Congrats, Luck & Sympathy chunk: used as a natural reply to congratulations, well-wishes, or sympathy.\nExample: \"\"Congratulations!\" \"Thank you!\"\"\nSimilar chunks:\n- Thanks — I'm pleased.\n- Cheers!\n- Thanks, I'll need it!"
+    },
+    {
+      "id": 24,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just asked permission, made a request, or suggested doing something, and you need to agree naturally. Which chunk fits best?",
+      "options": {
+        "A": "Leave it with me.",
+        "B": "You too.",
+        "C": "Thanks, that's kind of you.",
+        "D": "Wasn't it?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Leave it with me.\" is an Agreeing to Requests & Suggestions chunk: used to naturally agree to a permission request, a favor, or a suggestion.\nExample: \"\"Could you look into the invoice issue?\" \"Leave it with me.\"\"\nSimilar chunks:\n- Sure thing.\n- Why not.\n- Let's do it.\n\n✗ \"You too.\" belongs to Meeting & Parting Exchanges — used as the natural second half of a greeting or parting exchange, not this context.\nSimilar chunks:\n- And you.\n- Likewise.\n- Cheers, you too.\n\n✗ \"Thanks, that's kind of you.\" belongs to Responding to News — Congrats, Luck & Sympathy — used as a natural reply to congratulations, well-wishes, or sympathy, not this context.\nSimilar chunks:\n- Cheers.\n- Cheers!\n- Thanks, I'll need it!\n\n✗ \"Wasn't it?\" belongs to Standard Adjacency-Pair Responses (Preferred vs. Dispreferred) — used as the natural second half of a common conversational pair (invitation, assessment, suggestion, or compliment), not this context.\nSimilar chunks:\n- I'd love to, but I've got...\n- Yeah, love to.\n- Rain check?"
+    },
+    {
+      "id": 25,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just asked permission, made a request, or suggested doing something, and you need to agree naturally. Which chunk fits best?",
+      "options": {
+        "A": "Can we reset?",
+        "B": "Sure thing.",
+        "C": "I don't think I said that clearly.",
+        "D": "Lovely, thanks — too short though."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Can we reset?\" belongs to Repair Sequences — Catching Misunderstandings — used to catch and repair a misunderstanding before it snowballs, not this context.\nSimilar chunks:\n- I don't think I said that clearly.\n- Just so I understand — you're saying...?\n- Sorry, that came out wrong.\n\n✓ Correct — \"Sure thing.\" is an Agreeing to Requests & Suggestions chunk: used to naturally agree to a permission request, a favor, or a suggestion.\nExample: \"\"Could you close the door?\" \"Sure thing.\"\"\nSimilar chunks:\n- Please do.\n- Let's do it.\n- Why not.\n\n✗ \"I don't think I said that clearly.\" belongs to Repair Sequences — Catching Misunderstandings — used to catch and repair a misunderstanding before it snowballs, not this context.\nSimilar chunks:\n- Just so I understand — you're saying...?\n- Sorry, that came out wrong.\n- Let me clarify.\n\n✗ \"Lovely, thanks — too short though.\" belongs to Small Talk Openers — Responding — used as a quick, natural reply to casual small talk, not this context.\nSimilar chunks:\n- Good thanks, you?\n- Yeah, all good.\n- Not bad, yourself?"
+    },
+    {
+      "id": 26,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just asked permission, made a request, or suggested doing something, and you need to agree naturally. Which chunk fits best?",
+      "options": {
+        "A": "Why not.",
+        "B": "Can I ask you something?",
+        "C": "No worries.",
+        "D": "Thanks, I'll need it!"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Why not.\" is an Agreeing to Requests & Suggestions chunk: used to naturally agree to a permission request, a favor, or a suggestion.\nExample: \"\"Shall we try the new format this time?\" \"Why not.\"\"\nSimilar chunks:\n- Sure thing.\n- Leave it with me.\n- Let's do it.\n\n✗ \"Can I ask you something?\" belongs to Pre-Expansion — Clearing the Way First — used to check the moment is right before asking a favor, making an invitation, or raising something difficult, not this context.\nSimilar chunks:\n- Any plans this weekend?\n- Have you got a minute?\n- Are you sitting down?\n\n✗ \"No worries.\" belongs to Responding to Thanks & Apologies — used as a natural response to being thanked or apologized to, not this context.\nSimilar chunks:\n- Any time.\n- These things happen.\n- All good.\n\n✗ \"Thanks, I'll need it!\" belongs to Responding to News — Congrats, Luck & Sympathy — used as a natural reply to congratulations, well-wishes, or sympathy, not this context.\nSimilar chunks:\n- Thanks — I'm pleased.\n- Cheers.\n- Thank you!"
+    },
+    {
+      "id": 27,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just asked permission, made a request, or suggested doing something, and you need to agree naturally. Which chunk fits best?",
+      "options": {
+        "A": "Hmm, that's tricky for me. Could we do...",
+        "B": "Ah, I'd love to, but I've got something on. Another time?",
+        "C": "Of course.",
+        "D": "Can I ask you something?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Hmm, that's tricky for me. Could we do...\" belongs to Refusing Gracefully — Delay, Soften, Give a Reason — used to decline an invitation or request politely, with hesitation, regret, and a reason built in, not this context.\nSimilar chunks:\n- That's really kind — I can't this time, unfortunately.\n- Oh, I wish I could. I'm completely swamped this week.\n- I don't think I can commit to that, sorry. What I could do is...\n\n✗ \"Ah, I'd love to, but I've got something on. Another time?\" belongs to Refusing Gracefully — Delay, Soften, Give a Reason — used to decline an invitation or request politely, with hesitation, regret, and a reason built in, not this context.\nSimilar chunks:\n- That's really kind — I can't this time, unfortunately.\n- Oh, I wish I could. I'm completely swamped this week.\n- Let me be honest — that doesn't work for me. Here's why.\n\n✓ Correct — \"Of course.\" is an Agreeing to Requests & Suggestions chunk: used to naturally agree to a permission request, a favor, or a suggestion.\nExample: \"\"Could you send me the file?\" \"Of course.\"\"\nSimilar chunks:\n- Go ahead.\n- Leave it with me.\n- Sure thing.\n\n✗ \"Can I ask you something?\" belongs to Pre-Expansion — Clearing the Way First — used to check the moment is right before asking a favor, making an invitation, or raising something difficult, not this context.\nSimilar chunks:\n- Are you busy?\n- Have you got a sec?\n- Are you sitting down?"
+    },
+    {
+      "id": 28,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need to decline an invitation or request, but a flat \"no\" would sound rude — you need the full softened version. Which chunk fits best?",
+      "options": {
+        "A": "Let me be honest — that doesn't work for me. Here's why.",
+        "B": "Good idea.",
+        "C": "Let me clarify.",
+        "D": "Lovely, thanks — too short though."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Let me be honest — that doesn't work for me. Here's why.\" is a Refusing Gracefully — Delay, Soften, Give a Reason chunk: used to decline an invitation or request politely, with hesitation, regret, and a reason built in.\nExample: \"\"Can we push the deadline to you?\" \"Let me be honest — that doesn't work for me. Here's why.\"\"\nSimilar chunks:\n- Ah, I'd love to, but I've got something on. Another time?\n- That's really kind — I can't this time, unfortunately.\n- Hmm, that's tricky for me. Could we do...\n\n✗ \"Good idea.\" belongs to Standard Adjacency-Pair Responses (Preferred vs. Dispreferred) — used as the natural second half of a common conversational pair (invitation, assessment, suggestion, or compliment), not this context.\nSimilar chunks:\n- Yeah, love to.\n- Yeah... I mean, parts of it were.\n- Wasn't it?\n\n✗ \"Let me clarify.\" belongs to Repair Sequences — Catching Misunderstandings — used to catch and repair a misunderstanding before it snowballs, not this context.\nSimilar chunks:\n- Sorry, that came out wrong.\n- That's not quite what I meant.\n- Just so I understand — you're saying...?\n\n✗ \"Lovely, thanks — too short though.\" belongs to Small Talk Openers — Responding — used as a quick, natural reply to casual small talk, not this context.\nSimilar chunks:\n- Good thanks, you?\n- Yeah, all good.\n- Not bad, yourself?"
+    },
+    {
+      "id": 29,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need to decline an invitation or request, but a flat \"no\" would sound rude — you need the full softened version. Which chunk fits best?",
+      "options": {
+        "A": "Oh, I wish I could. I'm completely swamped this week.",
+        "B": "You too!",
+        "C": "Why not.",
+        "D": "Cheers!"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Oh, I wish I could. I'm completely swamped this week.\" is a Refusing Gracefully — Delay, Soften, Give a Reason chunk: used to decline an invitation or request politely, with hesitation, regret, and a reason built in.\nExample: \"\"Can you help me review the deck?\" \"Oh, I wish I could. I'm completely swamped this week.\"\"\nSimilar chunks:\n- That's really kind — I can't this time, unfortunately.\n- I don't think I can commit to that, sorry. What I could do is...\n- Hmm, that's tricky for me. Could we do...\n\n✗ \"You too!\" belongs to Meeting & Parting Exchanges — used as the natural second half of a greeting or parting exchange, not this context.\nSimilar chunks:\n- Likewise.\n- And you.\n- Thanks, you as well.\n\n✗ \"Why not.\" belongs to Agreeing to Requests & Suggestions — used to naturally agree to a permission request, a favor, or a suggestion, not this context.\nSimilar chunks:\n- Leave it with me.\n- Sure thing.\n- Let's do it.\n\n✗ \"Cheers!\" belongs to Responding to News — Congrats, Luck & Sympathy — used as a natural reply to congratulations, well-wishes, or sympathy, not this context.\nSimilar chunks:\n- Thanks, I'll need it!\n- Cheers.\n- Thanks — I'm pleased."
+    },
+    {
+      "id": 30,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need to decline an invitation or request, but a flat \"no\" would sound rude — you need the full softened version. Which chunk fits best?",
+      "options": {
+        "A": "Hmm, that's tricky for me. Could we do...",
+        "B": "You're welcome.",
+        "C": "That's not quite what I meant.",
+        "D": "I'd love to, but I've got..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Hmm, that's tricky for me. Could we do...\" is a Refusing Gracefully — Delay, Soften, Give a Reason chunk: used to decline an invitation or request politely, with hesitation, regret, and a reason built in.\nExample: \"\"Can we meet at 8am?\" \"Hmm, that's tricky for me. Could we do 9 instead?\"\"\nSimilar chunks:\n- I don't think I can commit to that, sorry. What I could do is...\n- Let me be honest — that doesn't work for me. Here's why.\n- That's really kind — I can't this time, unfortunately.\n\n✗ \"You're welcome.\" belongs to Responding to Thanks & Apologies — used as a natural response to being thanked or apologized to, not this context.\nSimilar chunks:\n- No problem.\n- No worries.\n- Not at all.\n\n✗ \"That's not quite what I meant.\" belongs to Repair Sequences — Catching Misunderstandings — used to catch and repair a misunderstanding before it snowballs, not this context.\nSimilar chunks:\n- I don't think I said that clearly.\n- Sorry, that came out wrong.\n- No no, I meant...\n\n✗ \"I'd love to, but I've got...\" belongs to Standard Adjacency-Pair Responses (Preferred vs. Dispreferred) — used as the natural second half of a common conversational pair (invitation, assessment, suggestion, or compliment), not this context.\nSimilar chunks:\n- Yeah... I mean, parts of it were.\n- Thanks — the team did the heavy lifting.\n- Wasn't it?"
+    }
+  ]
+}

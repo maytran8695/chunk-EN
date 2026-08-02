@@ -1,0 +1,342 @@
+{
+  "examId": "feedback-difficult",
+  "title": "Chunk Atlas — Situations: Feedback & Difficult Conversations",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to give constructive feedback to a peer or someone you manage, and want to do it directly but supportively. Which chunk fits best?",
+      "options": {
+        "A": "I'm pushing on this because I think it matters, not because I'm against you.",
+        "B": "Here's what I can commit to, and here's what I can't promise yet.",
+        "C": "I want the same outcome you do; I just see a different path to it.",
+        "D": "What would help you get there? Let's figure it out together."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'm pushing on this because I think it matters, not because I'm against you.\" belongs to Disagreeing Without Damaging the Relationship — used to disagree with an idea firmly while making clear it's not personal, not this context.\nSimilar chunks:\n- I respect that view. Here's where I land and why.\n- I see it differently, and I think that's actually useful here — let me explain.\n- Can I offer a counterpoint — not to shoot it down, but to stress-test it?\n\n✗ \"Here's what I can commit to, and here's what I can't promise yet.\" belongs to Delivering Bad News — used to deliver difficult news directly and early, with context and next steps, instead of burying it, not this context.\nSimilar chunks:\n- This isn't the update I was hoping to give, but here's where we are.\n- I take responsibility for this. Here's my plan to fix it.\n- Let me give you the headline first, then the context: [bad news]. Here's what we're doing about it.\n\n✗ \"I want the same outcome you do; I just see a different path to it.\" belongs to Disagreeing Without Damaging the Relationship — used to disagree with an idea firmly while making clear it's not personal, not this context.\nSimilar chunks:\n- Let's argue this out now so we don't have to redo it later.\n- I'm pushing on this because I think it matters, not because I'm against you.\n- Can I offer a counterpoint — not to shoot it down, but to stress-test it?\n\n✓ Correct — \"What would help you get there? Let's figure it out together.\" is a Giving Feedback to Peers or Reports chunk: used to give direct, supportive feedback to a peer or direct report, focused on behavior not the person.\nExample: \"What would help you get there? Let's figure it out together — maybe pairing with Sam on the next ticket.\"\nSimilar chunks:\n- The impact on the team was [X] — I don't think that was your intention, but I wanted you to know.\n- Here's what worked really well... and here's one thing I'd do differently next time.\n- Can I share some feedback? I think it'll help."
+    },
+    {
+      "id": 2,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to give constructive feedback to a peer or someone you manage, and want to do it directly but supportively. Which chunk fits best?",
+      "options": {
+        "A": "This is about the work, not about you — you're doing great overall.",
+        "B": "I want the same outcome you do; I just see a different path to it.",
+        "C": "Can I offer a perspective? You might not have visibility into this from where you sit.",
+        "D": "I appreciate the honesty — that couldn't have been easy to say."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"This is about the work, not about you — you're doing great overall.\" is a Giving Feedback to Peers or Reports chunk: used to give direct, supportive feedback to a peer or direct report, focused on behavior not the person.\nExample: \"This is about the work, not about you — you're doing great overall, I just want to flag one section.\"\nSimilar chunks:\n- Here's what worked really well... and here's one thing I'd do differently next time.\n- I noticed [specific behavior]. What was going on there?\n- The impact on the team was [X] — I don't think that was your intention, but I wanted you to know.\n\n✗ \"I want the same outcome you do; I just see a different path to it.\" belongs to Disagreeing Without Damaging the Relationship — used to disagree with an idea firmly while making clear it's not personal, not this context.\nSimilar chunks:\n- Can I offer a counterpoint — not to shoot it down, but to stress-test it?\n- We might just have to disagree on this one, and that's okay.\n- I respect that view. Here's where I land and why.\n\n✗ \"Can I offer a perspective? You might not have visibility into this from where you sit.\" belongs to Giving Feedback Upward — used to give feedback to someone senior — asks permission first and frames it around impact, not criticism, not this context.\nSimilar chunks:\n- I might be missing context, but from the team's side, here's how this landed.\n- This is just my read, and you may have reasons I'm not aware of, but...\n- Would it be helpful if I shared what I'm hearing on the ground?\n\n✗ \"I appreciate the honesty — that couldn't have been easy to say.\" belongs to Receiving Feedback Gracefully — used to respond to critical feedback with openness and curiosity instead of defensiveness, not this context.\nSimilar chunks:\n- You're right, and I'm going to work on that.\n- That's fair. Let me sit with that.\n- Can you give me a specific example so I can understand it better?"
+    },
+    {
+      "id": 3,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to give constructive feedback to a peer or someone you manage, and want to do it directly but supportively. Which chunk fits best?",
+      "options": {
+        "A": "I noticed [specific behavior]. What was going on there?",
+        "B": "I owe you an apology — I was short with you earlier, and that wasn't fair.",
+        "C": "I've been thinking about how that conversation went, and I don't think I handled it well.",
+        "D": "I think we got off on the wrong foot — can we start over?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I noticed [specific behavior]. What was going on there?\" is a Giving Feedback to Peers or Reports chunk: used to give direct, supportive feedback to a peer or direct report, focused on behavior not the person.\nExample: \"I noticed you skipped the code review on Tuesday's release. What was going on there?\"\nSimilar chunks:\n- Here's what worked really well... and here's one thing I'd do differently next time.\n- This is about the work, not about you — you're doing great overall.\n- Can I share some feedback? I think it'll help.\n\n✗ \"I owe you an apology — I was short with you earlier, and that wasn't fair.\" belongs to Repairing After Friction — used to proactively repair a relationship after tension or a bad exchange, not this context.\nSimilar chunks:\n- We're on the same team here. Let's not let this drive a wedge.\n- I hear that I upset you, and that wasn't my intention. Can we talk it through?\n- No hard feelings on my end — I hope none on yours either.\n\n✗ \"I've been thinking about how that conversation went, and I don't think I handled it well.\" belongs to Repairing After Friction — used to proactively repair a relationship after tension or a bad exchange, not this context.\nSimilar chunks:\n- We're on the same team here. Let's not let this drive a wedge.\n- I think we got off on the wrong foot — can we start over?\n- I hear that I upset you, and that wasn't my intention. Can we talk it through?\n\n✗ \"I think we got off on the wrong foot — can we start over?\" belongs to Repairing After Friction — used to proactively repair a relationship after tension or a bad exchange, not this context.\nSimilar chunks:\n- Can we reset? I value working with you and I don't want that to get lost.\n- I hear that I upset you, and that wasn't my intention. Can we talk it through?\n- We're on the same team here. Let's not let this drive a wedge."
+    },
+    {
+      "id": 4,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to give feedback to your manager or someone senior to you, and want to do it respectfully, framed around impact. Which chunk fits best?",
+      "options": {
+        "A": "I know this is frustrating. It's frustrating for me too — let's talk through options.",
+        "B": "Can you give me a specific example so I can understand it better?",
+        "C": "The honest answer is no, and here's why.",
+        "D": "I want to raise something — not to criticize, but because I think it affects the outcome you care about."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I know this is frustrating. It's frustrating for me too — let's talk through options.\" belongs to Delivering Bad News — used to deliver difficult news directly and early, with context and next steps, instead of burying it, not this context.\nSimilar chunks:\n- Let me give you the headline first, then the context: [bad news]. Here's what we're doing about it.\n- This isn't the update I was hoping to give, but here's where we are.\n- I've got some difficult news, and I want to be straight with you about it.\n\n✗ \"Can you give me a specific example so I can understand it better?\" belongs to Receiving Feedback Gracefully — used to respond to critical feedback with openness and curiosity instead of defensiveness, not this context.\nSimilar chunks:\n- I appreciate the honesty — that couldn't have been easy to say.\n- Help me understand — what would 'better' look like to you?\n- I hadn't seen it that way. Thanks for the perspective.\n\n✗ \"The honest answer is no, and here's why.\" belongs to Saying No Gracefully — used to decline a request clearly and kindly, without over-apologizing or leaving false hope, not this context.\nSimilar chunks:\n- I'd love to help, but I can't take this on without dropping something else — which should it be?\n- That doesn't work for me, but here's what I can do instead.\n- I'm going to pass on this one, but here's who might be a better fit.\n\n✓ Correct — \"I want to raise something — not to criticize, but because I think it affects the outcome you care about.\" is a Giving Feedback Upward chunk: used to give feedback to someone senior — asks permission first and frames it around impact, not criticism.\nExample: \"I want to raise something — not to criticize, but because I think it affects the outcome you care about: customer retention.\"\nSimilar chunks:\n- This is just my read, and you may have reasons I'm not aware of, but...\n- Can I offer a perspective? You might not have visibility into this from where you sit.\n- Would it be helpful if I shared what I'm hearing on the ground?"
+    },
+    {
+      "id": 5,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to give feedback to your manager or someone senior to you, and want to do it respectfully, framed around impact. Which chunk fits best?",
+      "options": {
+        "A": "Can I share some feedback? I think it'll help.",
+        "B": "No hard feelings on my end — I hope none on yours either.",
+        "C": "Can you give me a specific example so I can understand it better?",
+        "D": "Can I offer a perspective? You might not have visibility into this from where you sit."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Can I share some feedback? I think it'll help.\" belongs to Giving Feedback to Peers or Reports — used to give direct, supportive feedback to a peer or direct report, focused on behavior not the person, not this context.\nSimilar chunks:\n- I'm telling you this because I know you can handle it and I want you to grow.\n- The impact on the team was [X] — I don't think that was your intention, but I wanted you to know.\n- I noticed [specific behavior]. What was going on there?\n\n✗ \"No hard feelings on my end — I hope none on yours either.\" belongs to Repairing After Friction — used to proactively repair a relationship after tension or a bad exchange, not this context.\nSimilar chunks:\n- I hear that I upset you, and that wasn't my intention. Can we talk it through?\n- We're on the same team here. Let's not let this drive a wedge.\n- I think we got off on the wrong foot — can we start over?\n\n✗ \"Can you give me a specific example so I can understand it better?\" belongs to Receiving Feedback Gracefully — used to respond to critical feedback with openness and curiosity instead of defensiveness, not this context.\nSimilar chunks:\n- Thank you for telling me — I'd rather know than not know.\n- Help me understand — what would 'better' look like to you?\n- I hadn't seen it that way. Thanks for the perspective.\n\n✓ Correct — \"Can I offer a perspective? You might not have visibility into this from where you sit.\" is a Giving Feedback Upward chunk: used to give feedback to someone senior — asks permission first and frames it around impact, not criticism.\nExample: \"Can I offer a perspective? You might not have visibility into this from where you sit, since you're not in the daily standups.\"\nSimilar chunks:\n- I want to raise something — not to criticize, but because I think it affects the outcome you care about.\n- This is just my read, and you may have reasons I'm not aware of, but...\n- Would it be helpful if I shared what I'm hearing on the ground?"
+    },
+    {
+      "id": 6,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to give feedback to your manager or someone senior to you, and want to do it respectfully, framed around impact. Which chunk fits best?",
+      "options": {
+        "A": "Help me understand why this matters so much to you — I think I'm missing something.",
+        "B": "I can feel this getting heated. Can we slow down for a second?",
+        "C": "I might be missing context, but from the team's side, here's how this landed.",
+        "D": "We might just have to disagree on this one, and that's okay."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Help me understand why this matters so much to you — I think I'm missing something.\" belongs to Navigating Tension in the Moment — used to de-escalate a heated discussion in the moment, before it damages the conversation, not this context.\nSimilar chunks:\n- I might have said that badly. Let me try again.\n- I can feel this getting heated. Can we slow down for a second?\n- Let's park the emotion for a moment and look at the facts together.\n\n✗ \"I can feel this getting heated. Can we slow down for a second?\" belongs to Navigating Tension in the Moment — used to de-escalate a heated discussion in the moment, before it damages the conversation, not this context.\nSimilar chunks:\n- Let's park the emotion for a moment and look at the facts together.\n- Help me understand why this matters so much to you — I think I'm missing something.\n- Let's take a breath — I don't think we're as far apart as it feels right now.\n\n✓ Correct — \"I might be missing context, but from the team's side, here's how this landed.\" is a Giving Feedback Upward chunk: used to give feedback to someone senior — asks permission first and frames it around impact, not criticism.\nExample: \"I might be missing context, but from the team's side, here's how this landed: people felt blindsided by the new deadline.\"\nSimilar chunks:\n- Would it be helpful if I shared what I'm hearing on the ground?\n- This is just my read, and you may have reasons I'm not aware of, but...\n- When [X] happened, the effect was [Y] — I wanted to flag it in case it's useful.\n\n✗ \"We might just have to disagree on this one, and that's okay.\" belongs to Disagreeing Without Damaging the Relationship — used to disagree with an idea firmly while making clear it's not personal, not this context.\nSimilar chunks:\n- I want the same outcome you do; I just see a different path to it.\n- Let's argue this out now so we don't have to redo it later.\n- I see it differently, and I think that's actually useful here — let me explain."
+    },
+    {
+      "id": 7,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Someone just gave you critical feedback, and you want to respond with openness instead of getting defensive. Which chunk fits best?",
+      "options": {
+        "A": "Can I offer a counterpoint — not to shoot it down, but to stress-test it?",
+        "B": "I'm pushing on this because I think it matters, not because I'm against you.",
+        "C": "Let me give you the headline first, then the context: [bad news]. Here's what we're doing about it.",
+        "D": "I appreciate the honesty — that couldn't have been easy to say."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Can I offer a counterpoint — not to shoot it down, but to stress-test it?\" belongs to Disagreeing Without Damaging the Relationship — used to disagree with an idea firmly while making clear it's not personal, not this context.\nSimilar chunks:\n- I want the same outcome you do; I just see a different path to it.\n- I respect that view. Here's where I land and why.\n- Let's argue this out now so we don't have to redo it later.\n\n✗ \"I'm pushing on this because I think it matters, not because I'm against you.\" belongs to Disagreeing Without Damaging the Relationship — used to disagree with an idea firmly while making clear it's not personal, not this context.\nSimilar chunks:\n- Can I offer a counterpoint — not to shoot it down, but to stress-test it?\n- I respect that view. Here's where I land and why.\n- Let's argue this out now so we don't have to redo it later.\n\n✗ \"Let me give you the headline first, then the context: [bad news]. Here's what we're doing about it.\" belongs to Delivering Bad News — used to deliver difficult news directly and early, with context and next steps, instead of burying it, not this context.\nSimilar chunks:\n- I've got some difficult news, and I want to be straight with you about it.\n- Here's what I can commit to, and here's what I can't promise yet.\n- This isn't the update I was hoping to give, but here's where we are.\n\n✓ Correct — \"I appreciate the honesty — that couldn't have been easy to say.\" is a Receiving Feedback Gracefully chunk: used to respond to critical feedback with openness and curiosity instead of defensiveness.\nExample: \"I appreciate the honesty — that couldn't have been easy to say, especially in front of the team.\"\nSimilar chunks:\n- Help me understand — what would 'better' look like to you?\n- You're right, and I'm going to work on that.\n- Thank you for telling me — I'd rather know than not know."
+    },
+    {
+      "id": 8,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Someone just gave you critical feedback, and you want to respond with openness instead of getting defensive. Which chunk fits best?",
+      "options": {
+        "A": "I hadn't seen it that way. Thanks for the perspective.",
+        "B": "Can we agree to disagree on the 'how' and align on the 'what'?",
+        "C": "Here's what worked really well... and here's one thing I'd do differently next time.",
+        "D": "Let's park the emotion for a moment and look at the facts together."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I hadn't seen it that way. Thanks for the perspective.\" is a Receiving Feedback Gracefully chunk: used to respond to critical feedback with openness and curiosity instead of defensiveness.\nExample: \"I hadn't seen it that way. Thanks for the perspective — it changes how I'll approach the next release.\"\nSimilar chunks:\n- Can you give me a specific example so I can understand it better?\n- You're right, and I'm going to work on that.\n- I appreciate the honesty — that couldn't have been easy to say.\n\n✗ \"Can we agree to disagree on the 'how' and align on the 'what'?\" belongs to Navigating Tension in the Moment — used to de-escalate a heated discussion in the moment, before it damages the conversation, not this context.\nSimilar chunks:\n- Let's park the emotion for a moment and look at the facts together.\n- I don't want to win this argument, I want to solve the problem.\n- Let's take a breath — I don't think we're as far apart as it feels right now.\n\n✗ \"Here's what worked really well... and here's one thing I'd do differently next time.\" belongs to Giving Feedback to Peers or Reports — used to give direct, supportive feedback to a peer or direct report, focused on behavior not the person, not this context.\nSimilar chunks:\n- I'm telling you this because I know you can handle it and I want you to grow.\n- I noticed [specific behavior]. What was going on there?\n- What would help you get there? Let's figure it out together.\n\n✗ \"Let's park the emotion for a moment and look at the facts together.\" belongs to Navigating Tension in the Moment — used to de-escalate a heated discussion in the moment, before it damages the conversation, not this context.\nSimilar chunks:\n- Let's take a breath — I don't think we're as far apart as it feels right now.\n- I can feel this getting heated. Can we slow down for a second?\n- I don't want to win this argument, I want to solve the problem."
+    },
+    {
+      "id": 9,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Someone just gave you critical feedback, and you want to respond with openness instead of getting defensive. Which chunk fits best?",
+      "options": {
+        "A": "Can I offer a counterpoint — not to shoot it down, but to stress-test it?",
+        "B": "That's fair. Let me sit with that.",
+        "C": "Here's what worked really well... and here's one thing I'd do differently next time.",
+        "D": "What would help you get there? Let's figure it out together."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Can I offer a counterpoint — not to shoot it down, but to stress-test it?\" belongs to Disagreeing Without Damaging the Relationship — used to disagree with an idea firmly while making clear it's not personal, not this context.\nSimilar chunks:\n- Let's argue this out now so we don't have to redo it later.\n- I respect that view. Here's where I land and why.\n- I see it differently, and I think that's actually useful here — let me explain.\n\n✓ Correct — \"That's fair. Let me sit with that.\" is a Receiving Feedback Gracefully chunk: used to respond to critical feedback with openness and curiosity instead of defensiveness.\nExample: \"That's fair. Let me sit with that for a day before I respond properly.\"\nSimilar chunks:\n- I hadn't seen it that way. Thanks for the perspective.\n- Thank you for telling me — I'd rather know than not know.\n- Help me understand — what would 'better' look like to you?\n\n✗ \"Here's what worked really well... and here's one thing I'd do differently next time.\" belongs to Giving Feedback to Peers or Reports — used to give direct, supportive feedback to a peer or direct report, focused on behavior not the person, not this context.\nSimilar chunks:\n- I noticed [specific behavior]. What was going on there?\n- The impact on the team was [X] — I don't think that was your intention, but I wanted you to know.\n- This is about the work, not about you — you're doing great overall.\n\n✗ \"What would help you get there? Let's figure it out together.\" belongs to Giving Feedback to Peers or Reports — used to give direct, supportive feedback to a peer or direct report, focused on behavior not the person, not this context.\nSimilar chunks:\n- This is about the work, not about you — you're doing great overall.\n- I'm telling you this because I know you can handle it and I want you to grow.\n- The impact on the team was [X] — I don't think that was your intention, but I wanted you to know."
+    },
+    {
+      "id": 10,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You have to tell someone difficult news — a delay, a failure, a setback — and want to be direct and give them context and next steps right away. Which chunk fits best?",
+      "options": {
+        "A": "I've got some difficult news, and I want to be straight with you about it.",
+        "B": "I want to say yes, but I'd be overpromising, and I'd rather be reliable.",
+        "C": "Would it be helpful if I shared what I'm hearing on the ground?",
+        "D": "Help me understand why this matters so much to you — I think I'm missing something."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I've got some difficult news, and I want to be straight with you about it.\" is a Delivering Bad News chunk: used to deliver difficult news directly and early, with context and next steps, instead of burying it.\nExample: \"I've got some difficult news, and I want to be straight with you about it: we're going to miss the launch date.\"\nSimilar chunks:\n- I'd rather tell you now while we still have time to react.\n- Here's what I can commit to, and here's what I can't promise yet.\n- I take responsibility for this. Here's my plan to fix it.\n\n✗ \"I want to say yes, but I'd be overpromising, and I'd rather be reliable.\" belongs to Saying No Gracefully — used to decline a request clearly and kindly, without over-apologizing or leaving false hope, not this context.\nSimilar chunks:\n- The honest answer is no, and here's why.\n- Not right now — but let's revisit this next quarter.\n- That doesn't work for me, but here's what I can do instead.\n\n✗ \"Would it be helpful if I shared what I'm hearing on the ground?\" belongs to Giving Feedback Upward — used to give feedback to someone senior — asks permission first and frames it around impact, not criticism, not this context.\nSimilar chunks:\n- Can I offer a perspective? You might not have visibility into this from where you sit.\n- I might be missing context, but from the team's side, here's how this landed.\n- When [X] happened, the effect was [Y] — I wanted to flag it in case it's useful.\n\n✗ \"Help me understand why this matters so much to you — I think I'm missing something.\" belongs to Navigating Tension in the Moment — used to de-escalate a heated discussion in the moment, before it damages the conversation, not this context.\nSimilar chunks:\n- Let's park the emotion for a moment and look at the facts together.\n- I can feel this getting heated. Can we slow down for a second?\n- Can we agree to disagree on the 'how' and align on the 'what'?"
+    },
+    {
+      "id": 11,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You have to tell someone difficult news — a delay, a failure, a setback — and want to be direct and give them context and next steps right away. Which chunk fits best?",
+      "options": {
+        "A": "Can we agree to disagree on the 'how' and align on the 'what'?",
+        "B": "I know this is frustrating. It's frustrating for me too — let's talk through options.",
+        "C": "Thank you for telling me — I'd rather know than not know.",
+        "D": "The honest answer is no, and here's why."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Can we agree to disagree on the 'how' and align on the 'what'?\" belongs to Navigating Tension in the Moment — used to de-escalate a heated discussion in the moment, before it damages the conversation, not this context.\nSimilar chunks:\n- I don't want to win this argument, I want to solve the problem.\n- Let's take a breath — I don't think we're as far apart as it feels right now.\n- I can feel this getting heated. Can we slow down for a second?\n\n✓ Correct — \"I know this is frustrating. It's frustrating for me too — let's talk through options.\" is a Delivering Bad News chunk: used to deliver difficult news directly and early, with context and next steps, instead of burying it.\nExample: \"I know this is frustrating. It's frustrating for me too — let's talk through options for recovering the timeline.\"\nSimilar chunks:\n- I'd rather tell you now while we still have time to react.\n- Here's what I can commit to, and here's what I can't promise yet.\n- I take responsibility for this. Here's my plan to fix it.\n\n✗ \"Thank you for telling me — I'd rather know than not know.\" belongs to Receiving Feedback Gracefully — used to respond to critical feedback with openness and curiosity instead of defensiveness, not this context.\nSimilar chunks:\n- That's fair. Let me sit with that.\n- You're right, and I'm going to work on that.\n- Can you give me a specific example so I can understand it better?\n\n✗ \"The honest answer is no, and here's why.\" belongs to Saying No Gracefully — used to decline a request clearly and kindly, without over-apologizing or leaving false hope, not this context.\nSimilar chunks:\n- I'd love to help, but I can't take this on without dropping something else — which should it be?\n- I appreciate you thinking of me. This time I'll have to decline.\n- I'm going to pass on this one, but here's who might be a better fit."
+    },
+    {
+      "id": 12,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You have to tell someone difficult news — a delay, a failure, a setback — and want to be direct and give them context and next steps right away. Which chunk fits best?",
+      "options": {
+        "A": "I'd love to help, but I can't take this on without dropping something else — which should it be?",
+        "B": "Would it be helpful if I shared what I'm hearing on the ground?",
+        "C": "I noticed [specific behavior]. What was going on there?",
+        "D": "I take responsibility for this. Here's my plan to fix it."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'd love to help, but I can't take this on without dropping something else — which should it be?\" belongs to Saying No Gracefully — used to decline a request clearly and kindly, without over-apologizing or leaving false hope, not this context.\nSimilar chunks:\n- I'm going to pass on this one, but here's who might be a better fit.\n- Not right now — but let's revisit this next quarter.\n- I want to say yes, but I'd be overpromising, and I'd rather be reliable.\n\n✗ \"Would it be helpful if I shared what I'm hearing on the ground?\" belongs to Giving Feedback Upward — used to give feedback to someone senior — asks permission first and frames it around impact, not criticism, not this context.\nSimilar chunks:\n- I might be missing context, but from the team's side, here's how this landed.\n- I want to raise something — not to criticize, but because I think it affects the outcome you care about.\n- Can I offer a perspective? You might not have visibility into this from where you sit.\n\n✗ \"I noticed [specific behavior]. What was going on there?\" belongs to Giving Feedback to Peers or Reports — used to give direct, supportive feedback to a peer or direct report, focused on behavior not the person, not this context.\nSimilar chunks:\n- Here's what worked really well... and here's one thing I'd do differently next time.\n- I'm telling you this because I know you can handle it and I want you to grow.\n- This is about the work, not about you — you're doing great overall.\n\n✓ Correct — \"I take responsibility for this. Here's my plan to fix it.\" is a Delivering Bad News chunk: used to deliver difficult news directly and early, with context and next steps, instead of burying it.\nExample: \"I take responsibility for this. Here's my plan to fix it: I'll personally review every ticket before it ships this week.\"\nSimilar chunks:\n- I've got some difficult news, and I want to be straight with you about it.\n- Let me give you the headline first, then the context: [bad news]. Here's what we're doing about it.\n- This isn't the update I was hoping to give, but here's where we are."
+    },
+    {
+      "id": 13,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You disagree with someone on a substantive issue and want to push back on the idea without it feeling like an attack on them personally. Which chunk fits best?",
+      "options": {
+        "A": "When [X] happened, the effect was [Y] — I wanted to flag it in case it's useful.",
+        "B": "Help me understand why this matters so much to you — I think I'm missing something.",
+        "C": "Let's argue this out now so we don't have to redo it later.",
+        "D": "I appreciate you thinking of me. This time I'll have to decline."
+      },
+      "correct": "C",
+      "explanation": "✗ \"When [X] happened, the effect was [Y] — I wanted to flag it in case it's useful.\" belongs to Giving Feedback Upward — used to give feedback to someone senior — asks permission first and frames it around impact, not criticism, not this context.\nSimilar chunks:\n- Can I offer a perspective? You might not have visibility into this from where you sit.\n- I want to raise something — not to criticize, but because I think it affects the outcome you care about.\n- I might be missing context, but from the team's side, here's how this landed.\n\n✗ \"Help me understand why this matters so much to you — I think I'm missing something.\" belongs to Navigating Tension in the Moment — used to de-escalate a heated discussion in the moment, before it damages the conversation, not this context.\nSimilar chunks:\n- Can we agree to disagree on the 'how' and align on the 'what'?\n- I don't want to win this argument, I want to solve the problem.\n- I can feel this getting heated. Can we slow down for a second?\n\n✓ Correct — \"Let's argue this out now so we don't have to redo it later.\" is a Disagreeing Without Damaging the Relationship chunk: used to disagree with an idea firmly while making clear it's not personal.\nExample: \"Let's argue this out now so we don't have to redo it later, once the architecture is already locked in.\"\nSimilar chunks:\n- I respect that view. Here's where I land and why.\n- I want the same outcome you do; I just see a different path to it.\n- I'm pushing on this because I think it matters, not because I'm against you.\n\n✗ \"I appreciate you thinking of me. This time I'll have to decline.\" belongs to Saying No Gracefully — used to decline a request clearly and kindly, without over-apologizing or leaving false hope, not this context.\nSimilar chunks:\n- Not right now — but let's revisit this next quarter.\n- The honest answer is no, and here's why.\n- I'm going to pass on this one, but here's who might be a better fit."
+    },
+    {
+      "id": 14,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You disagree with someone on a substantive issue and want to push back on the idea without it feeling like an attack on them personally. Which chunk fits best?",
+      "options": {
+        "A": "I'd rather tell you now while we still have time to react.",
+        "B": "I hadn't seen it that way. Thanks for the perspective.",
+        "C": "Can I offer a counterpoint — not to shoot it down, but to stress-test it?",
+        "D": "We're on the same team here. Let's not let this drive a wedge."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I'd rather tell you now while we still have time to react.\" belongs to Delivering Bad News — used to deliver difficult news directly and early, with context and next steps, instead of burying it, not this context.\nSimilar chunks:\n- I've got some difficult news, and I want to be straight with you about it.\n- Here's what I can commit to, and here's what I can't promise yet.\n- I take responsibility for this. Here's my plan to fix it.\n\n✗ \"I hadn't seen it that way. Thanks for the perspective.\" belongs to Receiving Feedback Gracefully — used to respond to critical feedback with openness and curiosity instead of defensiveness, not this context.\nSimilar chunks:\n- That's fair. Let me sit with that.\n- Can you give me a specific example so I can understand it better?\n- You're right, and I'm going to work on that.\n\n✓ Correct — \"Can I offer a counterpoint — not to shoot it down, but to stress-test it?\" is a Disagreeing Without Damaging the Relationship chunk: used to disagree with an idea firmly while making clear it's not personal.\nExample: \"Can I offer a counterpoint — not to shoot it down, but to stress-test it before we present to the board?\"\nSimilar chunks:\n- I want the same outcome you do; I just see a different path to it.\n- I see it differently, and I think that's actually useful here — let me explain.\n- I'm pushing on this because I think it matters, not because I'm against you.\n\n✗ \"We're on the same team here. Let's not let this drive a wedge.\" belongs to Repairing After Friction — used to proactively repair a relationship after tension or a bad exchange, not this context.\nSimilar chunks:\n- I owe you an apology — I was short with you earlier, and that wasn't fair.\n- Can we reset? I value working with you and I don't want that to get lost.\n- No hard feelings on my end — I hope none on yours either."
+    },
+    {
+      "id": 15,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You disagree with someone on a substantive issue and want to push back on the idea without it feeling like an attack on them personally. Which chunk fits best?",
+      "options": {
+        "A": "This isn't the update I was hoping to give, but here's where we are.",
+        "B": "I take responsibility for this. Here's my plan to fix it.",
+        "C": "I hadn't seen it that way. Thanks for the perspective.",
+        "D": "I'm pushing on this because I think it matters, not because I'm against you."
+      },
+      "correct": "D",
+      "explanation": "✗ \"This isn't the update I was hoping to give, but here's where we are.\" belongs to Delivering Bad News — used to deliver difficult news directly and early, with context and next steps, instead of burying it, not this context.\nSimilar chunks:\n- Let me give you the headline first, then the context: [bad news]. Here's what we're doing about it.\n- I've got some difficult news, and I want to be straight with you about it.\n- I take responsibility for this. Here's my plan to fix it.\n\n✗ \"I take responsibility for this. Here's my plan to fix it.\" belongs to Delivering Bad News — used to deliver difficult news directly and early, with context and next steps, instead of burying it, not this context.\nSimilar chunks:\n- I'd rather tell you now while we still have time to react.\n- Here's what I can commit to, and here's what I can't promise yet.\n- Let me give you the headline first, then the context: [bad news]. Here's what we're doing about it.\n\n✗ \"I hadn't seen it that way. Thanks for the perspective.\" belongs to Receiving Feedback Gracefully — used to respond to critical feedback with openness and curiosity instead of defensiveness, not this context.\nSimilar chunks:\n- You're right, and I'm going to work on that.\n- That's fair. Let me sit with that.\n- Can you give me a specific example so I can understand it better?\n\n✓ Correct — \"I'm pushing on this because I think it matters, not because I'm against you.\" is a Disagreeing Without Damaging the Relationship chunk: used to disagree with an idea firmly while making clear it's not personal.\nExample: \"I'm pushing on this because I think it matters, not because I'm against you — the data retention policy affects every team.\"\nSimilar chunks:\n- I want the same outcome you do; I just see a different path to it.\n- Let's argue this out now so we don't have to redo it later.\n- We might just have to disagree on this one, and that's okay."
+    },
+    {
+      "id": 16,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Someone is asking you to take on something you can't or shouldn't say yes to, and you want to decline clearly but kindly. Which chunk fits best?",
+      "options": {
+        "A": "I hadn't seen it that way. Thanks for the perspective.",
+        "B": "I'd love to help, but I can't take this on without dropping something else — which should it be?",
+        "C": "I might have said that badly. Let me try again.",
+        "D": "Can we reset? I value working with you and I don't want that to get lost."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I hadn't seen it that way. Thanks for the perspective.\" belongs to Receiving Feedback Gracefully — used to respond to critical feedback with openness and curiosity instead of defensiveness, not this context.\nSimilar chunks:\n- Can you give me a specific example so I can understand it better?\n- Help me understand — what would 'better' look like to you?\n- Thank you for telling me — I'd rather know than not know.\n\n✓ Correct — \"I'd love to help, but I can't take this on without dropping something else — which should it be?\" is a Saying No Gracefully chunk: used to decline a request clearly and kindly, without over-apologizing or leaving false hope.\nExample: \"I'd love to help, but I can't take this on without dropping something else — which should it be, the audit or the migration?\"\nSimilar chunks:\n- That doesn't work for me, but here's what I can do instead.\n- The honest answer is no, and here's why.\n- I'm going to pass on this one, but here's who might be a better fit.\n\n✗ \"I might have said that badly. Let me try again.\" belongs to Navigating Tension in the Moment — used to de-escalate a heated discussion in the moment, before it damages the conversation, not this context.\nSimilar chunks:\n- Let's park the emotion for a moment and look at the facts together.\n- Can we agree to disagree on the 'how' and align on the 'what'?\n- Let's take a breath — I don't think we're as far apart as it feels right now.\n\n✗ \"Can we reset? I value working with you and I don't want that to get lost.\" belongs to Repairing After Friction — used to proactively repair a relationship after tension or a bad exchange, not this context.\nSimilar chunks:\n- I've been thinking about how that conversation went, and I don't think I handled it well.\n- I owe you an apology — I was short with you earlier, and that wasn't fair.\n- I hear that I upset you, and that wasn't my intention. Can we talk it through?"
+    },
+    {
+      "id": 17,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Someone is asking you to take on something you can't or shouldn't say yes to, and you want to decline clearly but kindly. Which chunk fits best?",
+      "options": {
+        "A": "What would help you get there? Let's figure it out together.",
+        "B": "The impact on the team was [X] — I don't think that was your intention, but I wanted you to know.",
+        "C": "I think we got off on the wrong foot — can we start over?",
+        "D": "I appreciate you thinking of me. This time I'll have to decline."
+      },
+      "correct": "D",
+      "explanation": "✗ \"What would help you get there? Let's figure it out together.\" belongs to Giving Feedback to Peers or Reports — used to give direct, supportive feedback to a peer or direct report, focused on behavior not the person, not this context.\nSimilar chunks:\n- The impact on the team was [X] — I don't think that was your intention, but I wanted you to know.\n- This is about the work, not about you — you're doing great overall.\n- Can I share some feedback? I think it'll help.\n\n✗ \"The impact on the team was [X] — I don't think that was your intention, but I wanted you to know.\" belongs to Giving Feedback to Peers or Reports — used to give direct, supportive feedback to a peer or direct report, focused on behavior not the person, not this context.\nSimilar chunks:\n- I noticed [specific behavior]. What was going on there?\n- Here's what worked really well... and here's one thing I'd do differently next time.\n- Can I share some feedback? I think it'll help.\n\n✗ \"I think we got off on the wrong foot — can we start over?\" belongs to Repairing After Friction — used to proactively repair a relationship after tension or a bad exchange, not this context.\nSimilar chunks:\n- We're on the same team here. Let's not let this drive a wedge.\n- I owe you an apology — I was short with you earlier, and that wasn't fair.\n- I've been thinking about how that conversation went, and I don't think I handled it well.\n\n✓ Correct — \"I appreciate you thinking of me. This time I'll have to decline.\" is a Saying No Gracefully chunk: used to decline a request clearly and kindly, without over-apologizing or leaving false hope.\nExample: \"I appreciate you thinking of me. This time I'll have to decline — my plate is already full through the end of the sprint.\"\nSimilar chunks:\n- That doesn't work for me, but here's what I can do instead.\n- Not right now — but let's revisit this next quarter.\n- I'm going to pass on this one, but here's who might be a better fit."
+    },
+    {
+      "id": 18,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Someone is asking you to take on something you can't or shouldn't say yes to, and you want to decline clearly but kindly. Which chunk fits best?",
+      "options": {
+        "A": "I want to raise something — not to criticize, but because I think it affects the outcome you care about.",
+        "B": "That doesn't work for me, but here's what I can do instead.",
+        "C": "Help me understand why this matters so much to you — I think I'm missing something.",
+        "D": "I might have said that badly. Let me try again."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I want to raise something — not to criticize, but because I think it affects the outcome you care about.\" belongs to Giving Feedback Upward — used to give feedback to someone senior — asks permission first and frames it around impact, not criticism, not this context.\nSimilar chunks:\n- This is just my read, and you may have reasons I'm not aware of, but...\n- Can I offer a perspective? You might not have visibility into this from where you sit.\n- I might be missing context, but from the team's side, here's how this landed.\n\n✓ Correct — \"That doesn't work for me, but here's what I can do instead.\" is a Saying No Gracefully chunk: used to decline a request clearly and kindly, without over-apologizing or leaving false hope.\nExample: \"That doesn't work for me, but here's what I can do instead: a shorter version by Friday, not the full report.\"\nSimilar chunks:\n- I'd love to help, but I can't take this on without dropping something else — which should it be?\n- I want to say yes, but I'd be overpromising, and I'd rather be reliable.\n- Not right now — but let's revisit this next quarter.\n\n✗ \"Help me understand why this matters so much to you — I think I'm missing something.\" belongs to Navigating Tension in the Moment — used to de-escalate a heated discussion in the moment, before it damages the conversation, not this context.\nSimilar chunks:\n- Let's park the emotion for a moment and look at the facts together.\n- Can we agree to disagree on the 'how' and align on the 'what'?\n- I might have said that badly. Let me try again.\n\n✗ \"I might have said that badly. Let me try again.\" belongs to Navigating Tension in the Moment — used to de-escalate a heated discussion in the moment, before it damages the conversation, not this context.\nSimilar chunks:\n- Help me understand why this matters so much to you — I think I'm missing something.\n- Can we agree to disagree on the 'how' and align on the 'what'?\n- I can feel this getting heated. Can we slow down for a second?"
+    },
+    {
+      "id": 19,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "There was some tension or a bad exchange with a colleague recently, and you want to proactively repair the relationship. Which chunk fits best?",
+      "options": {
+        "A": "I'm telling you this because I know you can handle it and I want you to grow.",
+        "B": "I might have said that badly. Let me try again.",
+        "C": "I've got some difficult news, and I want to be straight with you about it.",
+        "D": "I owe you an apology — I was short with you earlier, and that wasn't fair."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'm telling you this because I know you can handle it and I want you to grow.\" belongs to Giving Feedback to Peers or Reports — used to give direct, supportive feedback to a peer or direct report, focused on behavior not the person, not this context.\nSimilar chunks:\n- What would help you get there? Let's figure it out together.\n- I noticed [specific behavior]. What was going on there?\n- Here's what worked really well... and here's one thing I'd do differently next time.\n\n✗ \"I might have said that badly. Let me try again.\" belongs to Navigating Tension in the Moment — used to de-escalate a heated discussion in the moment, before it damages the conversation, not this context.\nSimilar chunks:\n- Help me understand why this matters so much to you — I think I'm missing something.\n- Can we agree to disagree on the 'how' and align on the 'what'?\n- I can feel this getting heated. Can we slow down for a second?\n\n✗ \"I've got some difficult news, and I want to be straight with you about it.\" belongs to Delivering Bad News — used to deliver difficult news directly and early, with context and next steps, instead of burying it, not this context.\nSimilar chunks:\n- I take responsibility for this. Here's my plan to fix it.\n- Here's what I can commit to, and here's what I can't promise yet.\n- Let me give you the headline first, then the context: [bad news]. Here's what we're doing about it.\n\n✓ Correct — \"I owe you an apology — I was short with you earlier, and that wasn't fair.\" is a Repairing After Friction chunk: used to proactively repair a relationship after tension or a bad exchange.\nExample: \"I owe you an apology — I was short with you earlier, and that wasn't fair, I was just stressed about the deadline.\"\nSimilar chunks:\n- I think we got off on the wrong foot — can we start over?\n- Can we reset? I value working with you and I don't want that to get lost.\n- No hard feelings on my end — I hope none on yours either."
+    },
+    {
+      "id": 20,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "There was some tension or a bad exchange with a colleague recently, and you want to proactively repair the relationship. Which chunk fits best?",
+      "options": {
+        "A": "Let's park the emotion for a moment and look at the facts together.",
+        "B": "Here's what worked really well... and here's one thing I'd do differently next time.",
+        "C": "No hard feelings on my end — I hope none on yours either.",
+        "D": "Can you give me a specific example so I can understand it better?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Let's park the emotion for a moment and look at the facts together.\" belongs to Navigating Tension in the Moment — used to de-escalate a heated discussion in the moment, before it damages the conversation, not this context.\nSimilar chunks:\n- I can feel this getting heated. Can we slow down for a second?\n- Let's take a breath — I don't think we're as far apart as it feels right now.\n- Help me understand why this matters so much to you — I think I'm missing something.\n\n✗ \"Here's what worked really well... and here's one thing I'd do differently next time.\" belongs to Giving Feedback to Peers or Reports — used to give direct, supportive feedback to a peer or direct report, focused on behavior not the person, not this context.\nSimilar chunks:\n- This is about the work, not about you — you're doing great overall.\n- Can I share some feedback? I think it'll help.\n- What would help you get there? Let's figure it out together.\n\n✓ Correct — \"No hard feelings on my end — I hope none on yours either.\" is a Repairing After Friction chunk: used to proactively repair a relationship after tension or a bad exchange.\nExample: \"No hard feelings on my end — I hope none on yours either, it was a tough call either way.\"\nSimilar chunks:\n- I think we got off on the wrong foot — can we start over?\n- I've been thinking about how that conversation went, and I don't think I handled it well.\n- I owe you an apology — I was short with you earlier, and that wasn't fair.\n\n✗ \"Can you give me a specific example so I can understand it better?\" belongs to Receiving Feedback Gracefully — used to respond to critical feedback with openness and curiosity instead of defensiveness, not this context.\nSimilar chunks:\n- I appreciate the honesty — that couldn't have been easy to say.\n- You're right, and I'm going to work on that.\n- Thank you for telling me — I'd rather know than not know."
+    },
+    {
+      "id": 21,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "There was some tension or a bad exchange with a colleague recently, and you want to proactively repair the relationship. Which chunk fits best?",
+      "options": {
+        "A": "Can we reset? I value working with you and I don't want that to get lost.",
+        "B": "I respect that view. Here's where I land and why.",
+        "C": "This is just my read, and you may have reasons I'm not aware of, but...",
+        "D": "I noticed [specific behavior]. What was going on there?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Can we reset? I value working with you and I don't want that to get lost.\" is a Repairing After Friction chunk: used to proactively repair a relationship after tension or a bad exchange.\nExample: \"Can we reset? I value working with you and I don't want that to get lost over one bad meeting.\"\nSimilar chunks:\n- I've been thinking about how that conversation went, and I don't think I handled it well.\n- I think we got off on the wrong foot — can we start over?\n- I owe you an apology — I was short with you earlier, and that wasn't fair.\n\n✗ \"I respect that view. Here's where I land and why.\" belongs to Disagreeing Without Damaging the Relationship — used to disagree with an idea firmly while making clear it's not personal, not this context.\nSimilar chunks:\n- Can I offer a counterpoint — not to shoot it down, but to stress-test it?\n- I'm pushing on this because I think it matters, not because I'm against you.\n- Let's argue this out now so we don't have to redo it later.\n\n✗ \"This is just my read, and you may have reasons I'm not aware of, but...\" belongs to Giving Feedback Upward — used to give feedback to someone senior — asks permission first and frames it around impact, not criticism, not this context.\nSimilar chunks:\n- When [X] happened, the effect was [Y] — I wanted to flag it in case it's useful.\n- I might be missing context, but from the team's side, here's how this landed.\n- I want to raise something — not to criticize, but because I think it affects the outcome you care about.\n\n✗ \"I noticed [specific behavior]. What was going on there?\" belongs to Giving Feedback to Peers or Reports — used to give direct, supportive feedback to a peer or direct report, focused on behavior not the person, not this context.\nSimilar chunks:\n- I'm telling you this because I know you can handle it and I want you to grow.\n- Here's what worked really well... and here's one thing I'd do differently next time.\n- The impact on the team was [X] — I don't think that was your intention, but I wanted you to know."
+    },
+    {
+      "id": 22,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A discussion is getting heated right now, and you want to de-escalate it before it damages the conversation or the relationship. Which chunk fits best?",
+      "options": {
+        "A": "This is just my read, and you may have reasons I'm not aware of, but...",
+        "B": "I want to say yes, but I'd be overpromising, and I'd rather be reliable.",
+        "C": "Let's argue this out now so we don't have to redo it later.",
+        "D": "Let's park the emotion for a moment and look at the facts together."
+      },
+      "correct": "D",
+      "explanation": "✗ \"This is just my read, and you may have reasons I'm not aware of, but...\" belongs to Giving Feedback Upward — used to give feedback to someone senior — asks permission first and frames it around impact, not criticism, not this context.\nSimilar chunks:\n- I might be missing context, but from the team's side, here's how this landed.\n- Can I offer a perspective? You might not have visibility into this from where you sit.\n- Would it be helpful if I shared what I'm hearing on the ground?\n\n✗ \"I want to say yes, but I'd be overpromising, and I'd rather be reliable.\" belongs to Saying No Gracefully — used to decline a request clearly and kindly, without over-apologizing or leaving false hope, not this context.\nSimilar chunks:\n- I appreciate you thinking of me. This time I'll have to decline.\n- The honest answer is no, and here's why.\n- I'd love to help, but I can't take this on without dropping something else — which should it be?\n\n✗ \"Let's argue this out now so we don't have to redo it later.\" belongs to Disagreeing Without Damaging the Relationship — used to disagree with an idea firmly while making clear it's not personal, not this context.\nSimilar chunks:\n- I want the same outcome you do; I just see a different path to it.\n- I'm pushing on this because I think it matters, not because I'm against you.\n- We might just have to disagree on this one, and that's okay.\n\n✓ Correct — \"Let's park the emotion for a moment and look at the facts together.\" is a Navigating Tension in the Moment chunk: used to de-escalate a heated discussion in the moment, before it damages the conversation.\nExample: \"Let's park the emotion for a moment and look at the facts together: what did the test data actually show?\"\nSimilar chunks:\n- Help me understand why this matters so much to you — I think I'm missing something.\n- I might have said that badly. Let me try again.\n- Let's take a breath — I don't think we're as far apart as it feels right now."
+    },
+    {
+      "id": 23,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A discussion is getting heated right now, and you want to de-escalate it before it damages the conversation or the relationship. Which chunk fits best?",
+      "options": {
+        "A": "I can feel this getting heated. Can we slow down for a second?",
+        "B": "I want the same outcome you do; I just see a different path to it.",
+        "C": "I hadn't seen it that way. Thanks for the perspective.",
+        "D": "Can I offer a perspective? You might not have visibility into this from where you sit."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I can feel this getting heated. Can we slow down for a second?\" is a Navigating Tension in the Moment chunk: used to de-escalate a heated discussion in the moment, before it damages the conversation.\nExample: \"I can feel this getting heated. Can we slow down for a second and go back to the actual numbers?\"\nSimilar chunks:\n- Help me understand why this matters so much to you — I think I'm missing something.\n- Let's park the emotion for a moment and look at the facts together.\n- Can we agree to disagree on the 'how' and align on the 'what'?\n\n✗ \"I want the same outcome you do; I just see a different path to it.\" belongs to Disagreeing Without Damaging the Relationship — used to disagree with an idea firmly while making clear it's not personal, not this context.\nSimilar chunks:\n- I'm pushing on this because I think it matters, not because I'm against you.\n- Let's argue this out now so we don't have to redo it later.\n- Can I offer a counterpoint — not to shoot it down, but to stress-test it?\n\n✗ \"I hadn't seen it that way. Thanks for the perspective.\" belongs to Receiving Feedback Gracefully — used to respond to critical feedback with openness and curiosity instead of defensiveness, not this context.\nSimilar chunks:\n- That's fair. Let me sit with that.\n- Thank you for telling me — I'd rather know than not know.\n- Can you give me a specific example so I can understand it better?\n\n✗ \"Can I offer a perspective? You might not have visibility into this from where you sit.\" belongs to Giving Feedback Upward — used to give feedback to someone senior — asks permission first and frames it around impact, not criticism, not this context.\nSimilar chunks:\n- I might be missing context, but from the team's side, here's how this landed.\n- I want to raise something — not to criticize, but because I think it affects the outcome you care about.\n- This is just my read, and you may have reasons I'm not aware of, but..."
+    },
+    {
+      "id": 24,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "A discussion is getting heated right now, and you want to de-escalate it before it damages the conversation or the relationship. Which chunk fits best?",
+      "options": {
+        "A": "I might have said that badly. Let me try again.",
+        "B": "Can I offer a perspective? You might not have visibility into this from where you sit.",
+        "C": "I'm pushing on this because I think it matters, not because I'm against you.",
+        "D": "I think we got off on the wrong foot — can we start over?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I might have said that badly. Let me try again.\" is a Navigating Tension in the Moment chunk: used to de-escalate a heated discussion in the moment, before it damages the conversation.\nExample: \"I might have said that badly. Let me try again — I didn't mean it to come across as blaming you.\"\nSimilar chunks:\n- Help me understand why this matters so much to you — I think I'm missing something.\n- I don't want to win this argument, I want to solve the problem.\n- Let's take a breath — I don't think we're as far apart as it feels right now.\n\n✗ \"Can I offer a perspective? You might not have visibility into this from where you sit.\" belongs to Giving Feedback Upward — used to give feedback to someone senior — asks permission first and frames it around impact, not criticism, not this context.\nSimilar chunks:\n- This is just my read, and you may have reasons I'm not aware of, but...\n- I want to raise something — not to criticize, but because I think it affects the outcome you care about.\n- When [X] happened, the effect was [Y] — I wanted to flag it in case it's useful.\n\n✗ \"I'm pushing on this because I think it matters, not because I'm against you.\" belongs to Disagreeing Without Damaging the Relationship — used to disagree with an idea firmly while making clear it's not personal, not this context.\nSimilar chunks:\n- I see it differently, and I think that's actually useful here — let me explain.\n- Can I offer a counterpoint — not to shoot it down, but to stress-test it?\n- I want the same outcome you do; I just see a different path to it.\n\n✗ \"I think we got off on the wrong foot — can we start over?\" belongs to Repairing After Friction — used to proactively repair a relationship after tension or a bad exchange, not this context.\nSimilar chunks:\n- I hear that I upset you, and that wasn't my intention. Can we talk it through?\n- I've been thinking about how that conversation went, and I don't think I handled it well.\n- Can we reset? I value working with you and I don't want that to get lost."
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "examId": "self-repair",
+  "title": "Chunk Atlas — Real-Time Fluency: Self-Repair & Recovery",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just said the wrong word mid-sentence and need to correct it smoothly, without stopping to apologize. Which chunk fits best?",
+      "options": {
+        "A": "Correct me if that's the wrong term.",
+        "B": "Does that sound right to you?",
+        "C": "I got that backwards.",
+        "D": "Or rather..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Correct me if that's the wrong term.\" belongs to Own-Accuracy Check — used to check a word you're unsure of right after saying it, not this context.\nSimilar chunks:\n- I think that's the term — you'd know better.\n- Am I using that correctly?\n- Is that the right word?\n\n✗ \"Does that sound right to you?\" belongs to More Self-Checks & Confirmations — used to quickly confirm a term with the other person right after using it, not this context.\nSimilar chunks:\n- I might have the wrong word — I mean...\n- What's the proper term for it?\n- Sorry, is it \"X\" or \"Y\"?\n\n✗ \"I got that backwards.\" belongs to More Instant Corrections — Flagging the Error — used to flag mid-sentence that what you just said was wrong, before correcting it, not this context.\nSimilar chunks:\n- I had that the wrong way round.\n- Hang on, that's wrong.\n- That's not the word I wanted.\n\n✓ Correct — \"Or rather...\" is a Fluent Self-Repair (Mid-Sentence) chunk: used to smoothly correct a slip mid-sentence, without stopping to apologize.\nExample: \"The client agreed — or rather, they agreed in principle, not in writing.\"\nSimilar chunks:\n- Actually, scratch that.\n- What I should have said is...\n- Sorry, I mean..."
+    },
+    {
+      "id": 2,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just said the wrong word mid-sentence and need to correct it smoothly, without stopping to apologize. Which chunk fits best?",
+      "options": {
+        "A": "Actually, that's not quite right.",
+        "B": "Is that the right word?",
+        "C": "Strike that.",
+        "D": "The better way to put it is..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Actually, that's not quite right.\" is a Fluent Self-Repair (Mid-Sentence) chunk: used to smoothly correct a slip mid-sentence, without stopping to apologize.\nExample: \"The bug started last week — actually, that's not quite right, it was two weeks ago.\"\nSimilar chunks:\n- What I should have said is...\n- That is...\n- Sorry, I mean...\n\n✗ \"Is that the right word?\" belongs to Own-Accuracy Check — used to check a word you're unsure of right after saying it, not this context.\nSimilar chunks:\n- \"Deprecated\" — is that what you'd call it?\n- Correct me if that's the wrong term.\n- I think that's the term — you'd know better.\n\n✗ \"Strike that.\" belongs to More Instant Corrections — Flagging the Error — used to flag mid-sentence that what you just said was wrong, before correcting it, not this context.\nSimilar chunks:\n- Scratch that.\n- Actually, no —...\n- I misspoke.\n\n✗ \"The better way to put it is...\" belongs to More Instant Corrections — Restating — used to quickly restate what you just said in a cleaner or more precise way, not this context.\nSimilar chunks:\n- Let me be precise.\n- Rather...\n- Let me try that again."
+    },
+    {
+      "id": 3,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just said the wrong word mid-sentence and need to correct it smoothly, without stopping to apologize. Which chunk fits best?",
+      "options": {
+        "A": "\"Deprecated\" — is that what you'd call it?",
+        "B": "Let me rephrase.",
+        "C": "Let me be precise.",
+        "D": "Sorry, I mean..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"\"Deprecated\" — is that what you'd call it?\" belongs to Own-Accuracy Check — used to check a word you're unsure of right after saying it, not this context.\nSimilar chunks:\n- Is that the right word?\n- I think that's the term — you'd know better.\n- Correct me if that's the wrong term.\n\n✗ \"Let me rephrase.\" belongs to More Instant Corrections — Restating — used to quickly restate what you just said in a cleaner or more precise way, not this context.\nSimilar chunks:\n- Rather...\n- More precisely: ...\n- I meant to say...\n\n✗ \"Let me be precise.\" belongs to More Instant Corrections — Restating — used to quickly restate what you just said in a cleaner or more precise way, not this context.\nSimilar chunks:\n- I meant to say...\n- Rather...\n- The better way to put it is...\n\n✓ Correct — \"Sorry, I mean...\" is a Fluent Self-Repair (Mid-Sentence) chunk: used to smoothly correct a slip mid-sentence, without stopping to apologize.\nExample: \"We finished Monday — sorry, I mean Tuesday.\"\nSimilar chunks:\n- Actually, that's not quite right.\n- Let me say that better.\n- Actually, scratch that."
+    },
+    {
+      "id": 4,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just said the wrong word mid-sentence and need to correct it smoothly, without stopping to apologize. Which chunk fits best?",
+      "options": {
+        "A": "Hang on, that's wrong.",
+        "B": "Sorry, wrong word.",
+        "C": "...well, not exactly — more like...",
+        "D": "Am I saying that right?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Hang on, that's wrong.\" belongs to More Instant Corrections — Flagging the Error — used to flag mid-sentence that what you just said was wrong, before correcting it, not this context.\nSimilar chunks:\n- Ignore that.\n- Sorry, wrong word.\n- Strike that.\n\n✗ \"Sorry, wrong word.\" belongs to More Instant Corrections — Flagging the Error — used to flag mid-sentence that what you just said was wrong, before correcting it, not this context.\nSimilar chunks:\n- Scratch that.\n- Ignore that.\n- I got that backwards.\n\n✓ Correct — \"...well, not exactly — more like...\" is a Fluent Self-Repair (Mid-Sentence) chunk: used to smoothly correct a slip mid-sentence, without stopping to apologize.\nExample: \"It's a bug — well, not exactly — more like a design flaw.\"\nSimilar chunks:\n- Sorry, I mean...\n- That is...\n- Let me say that better.\n\n✗ \"Am I saying that right?\" belongs to More Self-Checks & Confirmations — used to quickly confirm a term with the other person right after using it, not this context.\nSimilar chunks:\n- Tell me if I've got the term wrong.\n- Is that the term you use?\n- I might have the wrong word — I mean..."
+    },
+    {
+      "id": 5,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just used a word you're not fully sure is correct and want to check it in the moment. Which chunk fits best?",
+      "options": {
+        "A": "Correct me if that's the wrong term.",
+        "B": "The better way to put it is...",
+        "C": "Actually, let me give you the context first.",
+        "D": "I meant to say..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Correct me if that's the wrong term.\" is an Own-Accuracy Check chunk: used to check a word you're unsure of right after saying it.\nExample: \"I'll call it 'churn' — correct me if that's the wrong term.\"\nSimilar chunks:\n- I think that's the term — you'd know better.\n- Am I using that correctly?\n- Is that the right word?\n\n✗ \"The better way to put it is...\" belongs to More Instant Corrections — Restating — used to quickly restate what you just said in a cleaner or more precise way, not this context.\nSimilar chunks:\n- I meant to say...\n- Correction: ...\n- Let me be precise.\n\n✗ \"Actually, let me give you the context first.\" belongs to Restarting Without Losing Face — used to cleanly restart an explanation that's getting tangled, without an awkward apology, not this context.\nSimilar chunks:\n- Hmm, I'm overcomplicating this. Simply put: ...\n- Let me back up a second.\n- Right — let me try that again, more clearly.\n\n✗ \"I meant to say...\" belongs to More Instant Corrections — Restating — used to quickly restate what you just said in a cleaner or more precise way, not this context.\nSimilar chunks:\n- Let me be precise.\n- To be accurate: ...\n- More precisely: ..."
+    },
+    {
+      "id": 6,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just used a word you're not fully sure is correct and want to check it in the moment. Which chunk fits best?",
+      "options": {
+        "A": "Ignore that.",
+        "B": "Is that the right word?",
+        "C": "I meant to say...",
+        "D": "To be accurate: ..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Ignore that.\" belongs to More Instant Corrections — Flagging the Error — used to flag mid-sentence that what you just said was wrong, before correcting it, not this context.\nSimilar chunks:\n- I misspoke.\n- I got that backwards.\n- That's not the word I wanted.\n\n✓ Correct — \"Is that the right word?\" is an Own-Accuracy Check chunk: used to check a word you're unsure of right after saying it.\nExample: \"We should deprecate the old endpoint — is that the right word?\"\nSimilar chunks:\n- \"Deprecated\" — is that what you'd call it?\n- Correct me if that's the wrong term.\n- Am I using that correctly?\n\n✗ \"I meant to say...\" belongs to More Instant Corrections — Restating — used to quickly restate what you just said in a cleaner or more precise way, not this context.\nSimilar chunks:\n- Let me be precise.\n- To be accurate: ...\n- The better way to put it is...\n\n✗ \"To be accurate: ...\" belongs to More Instant Corrections — Restating — used to quickly restate what you just said in a cleaner or more precise way, not this context.\nSimilar chunks:\n- Correction: ...\n- More precisely: ...\n- I meant to say..."
+    },
+    {
+      "id": 7,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Your explanation is getting tangled and you need to restart it cleanly, without an awkward apology. Which chunk fits best?",
+      "options": {
+        "A": "Let me rephrase that.",
+        "B": "Is that the term you use?",
+        "C": "I think that's the term — you'd know better.",
+        "D": "Let me back up a second."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let me rephrase that.\" belongs to Fluent Self-Repair (Mid-Sentence) — used to smoothly correct a slip mid-sentence, without stopping to apologize, not this context.\nSimilar chunks:\n- ...well, not exactly — more like...\n- Actually, scratch that.\n- Or rather...\n\n✗ \"Is that the term you use?\" belongs to More Self-Checks & Confirmations — used to quickly confirm a term with the other person right after using it, not this context.\nSimilar chunks:\n- Is that how you say it?\n- What's the proper term for it?\n- Correct me if that's wrong.\n\n✗ \"I think that's the term — you'd know better.\" belongs to Own-Accuracy Check — used to check a word you're unsure of right after saying it, not this context.\nSimilar chunks:\n- Correct me if that's the wrong term.\n- Is that the right word?\n- Am I using that correctly?\n\n✓ Correct — \"Let me back up a second.\" is a Restarting Without Losing Face chunk: used to cleanly restart an explanation that's getting tangled, without an awkward apology.\nExample: \"Let me back up a second, because the context matters here.\"\nSimilar chunks:\n- Let me start over.\n- Actually, let me give you the context first.\n- Right — let me try that again, more clearly."
+    },
+    {
+      "id": 8,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Your explanation is getting tangled and you need to restart it cleanly, without an awkward apology. Which chunk fits best?",
+      "options": {
+        "A": "Sorry, is it \"X\" or \"Y\"?",
+        "B": "That's not the word I wanted.",
+        "C": "Let me start over.",
+        "D": "\"Deprecated\" — is that what you'd call it?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Sorry, is it \"X\" or \"Y\"?\" belongs to More Self-Checks & Confirmations — used to quickly confirm a term with the other person right after using it, not this context.\nSimilar chunks:\n- Does that sound right to you?\n- Is that the term you use?\n- What's the proper term for it?\n\n✗ \"That's not the word I wanted.\" belongs to More Instant Corrections — Flagging the Error — used to flag mid-sentence that what you just said was wrong, before correcting it, not this context.\nSimilar chunks:\n- Strike that.\n- Ignore that.\n- Hang on, that's wrong.\n\n✓ Correct — \"Let me start over.\" is a Restarting Without Losing Face chunk: used to cleanly restart an explanation that's getting tangled, without an awkward apology.\nExample: \"Let me start over — I think I explained that in the wrong order.\"\nSimilar chunks:\n- Right — let me try that again, more clearly.\n- Hmm, I'm overcomplicating this. Simply put: ...\n- Let me back up a second.\n\n✗ \"\"Deprecated\" — is that what you'd call it?\" belongs to Own-Accuracy Check — used to check a word you're unsure of right after saying it, not this context.\nSimilar chunks:\n- Correct me if that's the wrong term.\n- I think that's the term — you'd know better.\n- Am I using that correctly?"
+    },
+    {
+      "id": 9,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need to quickly restate something you just said, in a cleaner or more precise way. Which chunk fits best?",
+      "options": {
+        "A": "\"Deprecated\" — is that what you'd call it?",
+        "B": "Let me rephrase.",
+        "C": "I misspoke.",
+        "D": "Or rather..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"\"Deprecated\" — is that what you'd call it?\" belongs to Own-Accuracy Check — used to check a word you're unsure of right after saying it, not this context.\nSimilar chunks:\n- I think that's the term — you'd know better.\n- Correct me if that's the wrong term.\n- Is that the right word?\n\n✓ Correct — \"Let me rephrase.\" is a More Instant Corrections — Restating chunk: used to quickly restate what you just said in a cleaner or more precise way.\nExample: \"Let me rephrase — I'm not saying it's your fault, just that it happened on your team.\"\nSimilar chunks:\n- Let me be precise.\n- Let me try that again.\n- Correction: ...\n\n✗ \"I misspoke.\" belongs to More Instant Corrections — Flagging the Error — used to flag mid-sentence that what you just said was wrong, before correcting it, not this context.\nSimilar chunks:\n- Ignore that.\n- Hang on, that's wrong.\n- I had that the wrong way round.\n\n✗ \"Or rather...\" belongs to Fluent Self-Repair (Mid-Sentence) — used to smoothly correct a slip mid-sentence, without stopping to apologize, not this context.\nSimilar chunks:\n- Actually, that's not quite right.\n- What I should have said is...\n- That is..."
+    },
+    {
+      "id": 10,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need to quickly restate something you just said, in a cleaner or more precise way. Which chunk fits best?",
+      "options": {
+        "A": "Right — let me try that again, more clearly.",
+        "B": "Let me be precise.",
+        "C": "Is that how you say it?",
+        "D": "What I should have said is..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Right — let me try that again, more clearly.\" belongs to Restarting Without Losing Face — used to cleanly restart an explanation that's getting tangled, without an awkward apology, not this context.\nSimilar chunks:\n- Let me back up a second.\n- Actually, let me give you the context first.\n- Let me start over.\n\n✓ Correct — \"Let me be precise.\" is a More Instant Corrections — Restating chunk: used to quickly restate what you just said in a cleaner or more precise way.\nExample: \"Let me be precise: it's a 12% drop, not a 20% drop.\"\nSimilar chunks:\n- More precisely: ...\n- Let me rephrase.\n- Let me try that again.\n\n✗ \"Is that how you say it?\" belongs to More Self-Checks & Confirmations — used to quickly confirm a term with the other person right after using it, not this context.\nSimilar chunks:\n- What's the proper term for it?\n- Tell me if I've got the term wrong.\n- I might have the wrong word — I mean...\n\n✗ \"What I should have said is...\" belongs to Fluent Self-Repair (Mid-Sentence) — used to smoothly correct a slip mid-sentence, without stopping to apologize, not this context.\nSimilar chunks:\n- Actually, that's not quite right.\n- That is...\n- Let me rephrase that."
+    },
+    {
+      "id": 11,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need to quickly restate something you just said, in a cleaner or more precise way. Which chunk fits best?",
+      "options": {
+        "A": "Let me say that better.",
+        "B": "The better way to put it is...",
+        "C": "I had that the wrong way round.",
+        "D": "Hmm, I'm overcomplicating this. Simply put: ..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Let me say that better.\" belongs to Fluent Self-Repair (Mid-Sentence) — used to smoothly correct a slip mid-sentence, without stopping to apologize, not this context.\nSimilar chunks:\n- Sorry, I mean...\n- What I should have said is...\n- Let me rephrase that.\n\n✓ Correct — \"The better way to put it is...\" is a More Instant Corrections — Restating chunk: used to quickly restate what you just said in a cleaner or more precise way.\nExample: \"The better way to put it is: we're cautious, not opposed.\"\nSimilar chunks:\n- To be accurate: ...\n- I meant to say...\n- Rather...\n\n✗ \"I had that the wrong way round.\" belongs to More Instant Corrections — Flagging the Error — used to flag mid-sentence that what you just said was wrong, before correcting it, not this context.\nSimilar chunks:\n- Ignore that.\n- Strike that.\n- Sorry, wrong word.\n\n✗ \"Hmm, I'm overcomplicating this. Simply put: ...\" belongs to Restarting Without Losing Face — used to cleanly restart an explanation that's getting tangled, without an awkward apology, not this context.\nSimilar chunks:\n- Actually, let me give you the context first.\n- Let me start over.\n- Let me back up a second."
+    },
+    {
+      "id": 12,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You need to quickly restate something you just said, in a cleaner or more precise way. Which chunk fits best?",
+      "options": {
+        "A": "Correction: ...",
+        "B": "That's not the word I wanted.",
+        "C": "What I should have said is...",
+        "D": "Or rather..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Correction: ...\" is a More Instant Corrections — Restating chunk: used to quickly restate what you just said in a cleaner or more precise way.\nExample: \"Correction: the deadline is next Friday, not this one.\"\nSimilar chunks:\n- The better way to put it is...\n- Let me try that again.\n- To be accurate: ...\n\n✗ \"That's not the word I wanted.\" belongs to More Instant Corrections — Flagging the Error — used to flag mid-sentence that what you just said was wrong, before correcting it, not this context.\nSimilar chunks:\n- Ignore that.\n- I misspoke.\n- Strike that.\n\n✗ \"What I should have said is...\" belongs to Fluent Self-Repair (Mid-Sentence) — used to smoothly correct a slip mid-sentence, without stopping to apologize, not this context.\nSimilar chunks:\n- Or rather...\n- Let me rephrase that.\n- Sorry, I mean...\n\n✗ \"Or rather...\" belongs to Fluent Self-Repair (Mid-Sentence) — used to smoothly correct a slip mid-sentence, without stopping to apologize, not this context.\nSimilar chunks:\n- What I should have said is...\n- Let me say that better.\n- Sorry, I mean..."
+    },
+    {
+      "id": 13,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You realize mid-sentence that what you just said was wrong and need to flag it fast. Which chunk fits best?",
+      "options": {
+        "A": "I got that backwards.",
+        "B": "...well, not exactly — more like...",
+        "C": "Let me try that again.",
+        "D": "Rather..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I got that backwards.\" is a More Instant Corrections — Flagging the Error chunk: used to flag mid-sentence that what you just said was wrong, before correcting it.\nExample: \"I said the client called us — I got that backwards, we called them.\"\nSimilar chunks:\n- Scratch that.\n- I misspoke.\n- Actually, no —...\n\n✗ \"...well, not exactly — more like...\" belongs to Fluent Self-Repair (Mid-Sentence) — used to smoothly correct a slip mid-sentence, without stopping to apologize, not this context.\nSimilar chunks:\n- Actually, that's not quite right.\n- Let me say that better.\n- What I should have said is...\n\n✗ \"Let me try that again.\" belongs to More Instant Corrections — Restating — used to quickly restate what you just said in a cleaner or more precise way, not this context.\nSimilar chunks:\n- Let me be precise.\n- The better way to put it is...\n- More precisely: ...\n\n✗ \"Rather...\" belongs to More Instant Corrections — Restating — used to quickly restate what you just said in a cleaner or more precise way, not this context.\nSimilar chunks:\n- To be accurate: ...\n- Correction: ...\n- Let me be precise."
+    },
+    {
+      "id": 14,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You realize mid-sentence that what you just said was wrong and need to flag it fast. Which chunk fits best?",
+      "options": {
+        "A": "Is that the term you use?",
+        "B": "Let me be precise.",
+        "C": "Actually, no —...",
+        "D": "Correction: ..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Is that the term you use?\" belongs to More Self-Checks & Confirmations — used to quickly confirm a term with the other person right after using it, not this context.\nSimilar chunks:\n- What's the proper term for it?\n- Is that how you say it?\n- Correct me if that's wrong.\n\n✗ \"Let me be precise.\" belongs to More Instant Corrections — Restating — used to quickly restate what you just said in a cleaner or more precise way, not this context.\nSimilar chunks:\n- Let me rephrase.\n- The better way to put it is...\n- To be accurate: ...\n\n✓ Correct — \"Actually, no —...\" is a More Instant Corrections — Flagging the Error chunk: used to flag mid-sentence that what you just said was wrong, before correcting it.\nExample: \"Actually, no — the meeting's at three, not two.\"\nSimilar chunks:\n- Hang on, that's wrong.\n- I got that backwards.\n- Scratch that.\n\n✗ \"Correction: ...\" belongs to More Instant Corrections — Restating — used to quickly restate what you just said in a cleaner or more precise way, not this context.\nSimilar chunks:\n- I meant to say...\n- To be accurate: ...\n- Let me be precise."
+    },
+    {
+      "id": 15,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You realize mid-sentence that what you just said was wrong and need to flag it fast. Which chunk fits best?",
+      "options": {
+        "A": "Right — let me try that again, more clearly.",
+        "B": "I had that the wrong way round.",
+        "C": "Is that the right word?",
+        "D": "I meant to say..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Right — let me try that again, more clearly.\" belongs to Restarting Without Losing Face — used to cleanly restart an explanation that's getting tangled, without an awkward apology, not this context.\nSimilar chunks:\n- Let me back up a second.\n- Actually, let me give you the context first.\n- Let me start over.\n\n✓ Correct — \"I had that the wrong way round.\" is a More Instant Corrections — Flagging the Error chunk: used to flag mid-sentence that what you just said was wrong, before correcting it.\nExample: \"I said Dev handles it before QA — I had that the wrong way round.\"\nSimilar chunks:\n- That's not the word I wanted.\n- I got that backwards.\n- Ignore that.\n\n✗ \"Is that the right word?\" belongs to Own-Accuracy Check — used to check a word you're unsure of right after saying it, not this context.\nSimilar chunks:\n- Am I using that correctly?\n- I think that's the term — you'd know better.\n- \"Deprecated\" — is that what you'd call it?\n\n✗ \"I meant to say...\" belongs to More Instant Corrections — Restating — used to quickly restate what you just said in a cleaner or more precise way, not this context.\nSimilar chunks:\n- Let me try that again.\n- Rather...\n- To be accurate: ..."
+    },
+    {
+      "id": 16,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You realize mid-sentence that what you just said was wrong and need to flag it fast. Which chunk fits best?",
+      "options": {
+        "A": "Correct me if that's wrong.",
+        "B": "Am I using that correctly?",
+        "C": "That is...",
+        "D": "Sorry, wrong word."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Correct me if that's wrong.\" belongs to More Self-Checks & Confirmations — used to quickly confirm a term with the other person right after using it, not this context.\nSimilar chunks:\n- Is that the term you use?\n- Tell me if I've got the term wrong.\n- Am I saying that right?\n\n✗ \"Am I using that correctly?\" belongs to Own-Accuracy Check — used to check a word you're unsure of right after saying it, not this context.\nSimilar chunks:\n- I think that's the term — you'd know better.\n- \"Deprecated\" — is that what you'd call it?\n- Is that the right word?\n\n✗ \"That is...\" belongs to Fluent Self-Repair (Mid-Sentence) — used to smoothly correct a slip mid-sentence, without stopping to apologize, not this context.\nSimilar chunks:\n- Let me rephrase that.\n- ...well, not exactly — more like...\n- Actually, that's not quite right.\n\n✓ Correct — \"Sorry, wrong word.\" is a More Instant Corrections — Flagging the Error chunk: used to flag mid-sentence that what you just said was wrong, before correcting it.\nExample: \"It's a 'feature', sorry, wrong word — it's actually a bug.\"\nSimilar chunks:\n- Hang on, that's wrong.\n- Strike that.\n- I got that backwards."
+    },
+    {
+      "id": 17,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've just used a term you're unsure about and want to quickly confirm it with the other person. Which chunk fits best?",
+      "options": {
+        "A": "Actually, no —...",
+        "B": "Hang on, that's wrong.",
+        "C": "What I should have said is...",
+        "D": "Is that the term you use?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Actually, no —...\" belongs to More Instant Corrections — Flagging the Error — used to flag mid-sentence that what you just said was wrong, before correcting it, not this context.\nSimilar chunks:\n- Strike that.\n- Sorry, wrong word.\n- Ignore that.\n\n✗ \"Hang on, that's wrong.\" belongs to More Instant Corrections — Flagging the Error — used to flag mid-sentence that what you just said was wrong, before correcting it, not this context.\nSimilar chunks:\n- Scratch that.\n- Sorry, wrong word.\n- Actually, no —...\n\n✗ \"What I should have said is...\" belongs to Fluent Self-Repair (Mid-Sentence) — used to smoothly correct a slip mid-sentence, without stopping to apologize, not this context.\nSimilar chunks:\n- Sorry, I mean...\n- ...well, not exactly — more like...\n- Actually, that's not quite right.\n\n✓ Correct — \"Is that the term you use?\" is a More Self-Checks & Confirmations chunk: used to quickly confirm a term with the other person right after using it.\nExample: \"We say 'onboarding' for this step — is that the term you use?\"\nSimilar chunks:\n- I might have the wrong word — I mean...\n- Am I saying that right?\n- What's the proper term for it?"
+    },
+    {
+      "id": 18,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've just used a term you're unsure about and want to quickly confirm it with the other person. Which chunk fits best?",
+      "options": {
+        "A": "Actually, scratch that.",
+        "B": "Let me say that better.",
+        "C": "More precisely: ...",
+        "D": "Tell me if I've got the term wrong."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Actually, scratch that.\" belongs to Fluent Self-Repair (Mid-Sentence) — used to smoothly correct a slip mid-sentence, without stopping to apologize, not this context.\nSimilar chunks:\n- Sorry, I mean...\n- Let me say that better.\n- Let me rephrase that.\n\n✗ \"Let me say that better.\" belongs to Fluent Self-Repair (Mid-Sentence) — used to smoothly correct a slip mid-sentence, without stopping to apologize, not this context.\nSimilar chunks:\n- Actually, that's not quite right.\n- Or rather...\n- Sorry, I mean...\n\n✗ \"More precisely: ...\" belongs to More Instant Corrections — Restating — used to quickly restate what you just said in a cleaner or more precise way, not this context.\nSimilar chunks:\n- Let me be precise.\n- Correction: ...\n- I meant to say...\n\n✓ Correct — \"Tell me if I've got the term wrong.\" is a More Self-Checks & Confirmations chunk: used to quickly confirm a term with the other person right after using it.\nExample: \"We call it 'technical debt' — tell me if I've got the term wrong.\"\nSimilar chunks:\n- I might have the wrong word — I mean...\n- Sorry, is it \"X\" or \"Y\"?\n- Is that how you say it?"
+    },
+    {
+      "id": 19,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've just used a term you're unsure about and want to quickly confirm it with the other person. Which chunk fits best?",
+      "options": {
+        "A": "Correct me if that's the wrong term.",
+        "B": "I might have the wrong word — I mean...",
+        "C": "Sorry, I mean...",
+        "D": "Am I using that correctly?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Correct me if that's the wrong term.\" belongs to Own-Accuracy Check — used to check a word you're unsure of right after saying it, not this context.\nSimilar chunks:\n- Is that the right word?\n- Am I using that correctly?\n- \"Deprecated\" — is that what you'd call it?\n\n✓ Correct — \"I might have the wrong word — I mean...\" is a More Self-Checks & Confirmations chunk: used to quickly confirm a term with the other person right after using it.\nExample: \"I might have the wrong word — I mean the person who approves the budget.\"\nSimilar chunks:\n- Sorry, is it \"X\" or \"Y\"?\n- What's the proper term for it?\n- Tell me if I've got the term wrong.\n\n✗ \"Sorry, I mean...\" belongs to Fluent Self-Repair (Mid-Sentence) — used to smoothly correct a slip mid-sentence, without stopping to apologize, not this context.\nSimilar chunks:\n- Actually, scratch that.\n- That is...\n- What I should have said is...\n\n✗ \"Am I using that correctly?\" belongs to Own-Accuracy Check — used to check a word you're unsure of right after saying it, not this context.\nSimilar chunks:\n- I think that's the term — you'd know better.\n- Correct me if that's the wrong term.\n- \"Deprecated\" — is that what you'd call it?"
+    },
+    {
+      "id": 20,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've just used a term you're unsure about and want to quickly confirm it with the other person. Which chunk fits best?",
+      "options": {
+        "A": "I got that backwards.",
+        "B": "That's not the word I wanted.",
+        "C": "I misspoke.",
+        "D": "Is that how you say it?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"I got that backwards.\" belongs to More Instant Corrections — Flagging the Error — used to flag mid-sentence that what you just said was wrong, before correcting it, not this context.\nSimilar chunks:\n- Scratch that.\n- That's not the word I wanted.\n- Actually, no —...\n\n✗ \"That's not the word I wanted.\" belongs to More Instant Corrections — Flagging the Error — used to flag mid-sentence that what you just said was wrong, before correcting it, not this context.\nSimilar chunks:\n- I had that the wrong way round.\n- I misspoke.\n- Scratch that.\n\n✗ \"I misspoke.\" belongs to More Instant Corrections — Flagging the Error — used to flag mid-sentence that what you just said was wrong, before correcting it, not this context.\nSimilar chunks:\n- That's not the word I wanted.\n- Ignore that.\n- Scratch that.\n\n✓ Correct — \"Is that how you say it?\" is a More Self-Checks & Confirmations chunk: used to quickly confirm a term with the other person right after using it.\nExample: \"The word is 'niche' — is that how you say it?\"\nSimilar chunks:\n- Correct me if that's wrong.\n- Tell me if I've got the term wrong.\n- What's the proper term for it?"
+    }
+  ]
+}

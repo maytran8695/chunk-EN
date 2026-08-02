@@ -1,0 +1,258 @@
+{
+  "examId": "under-fire",
+  "title": "Chunk Atlas — Real-Time Fluency: Under Fire",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've just been asked a direct question you genuinely don't know the answer to, in front of others. Which chunk fits best?",
+      "options": {
+        "A": "Can I come back to you?",
+        "B": "Can I have thirty seconds on that?",
+        "C": "One second, let me land this.",
+        "D": "Can I park the second question and come back to it?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Can I come back to you?\" is an Admitting you don't know, with a next step chunk: used to admit you don't know something confidently, while committing to a next step.\nExample: \"Can I come back to you on the exact figure? I don't want to misquote it.\"\nSimilar chunks:\n- I don't want to guess and give you the wrong answer.\n- I don't know — but I'll find out and come back to you by [time].\n- I don't have that off the top of my head. Can I follow up this afternoon?\n\n✗ \"Can I have thirty seconds on that?\" belongs to Buying structured thinking time when put on the spot — used to buy structured thinking time out loud, right after being put on the spot, not this context.\nSimilar chunks:\n- Can you come back to me at the end?\n- I'd have to look.\n- I'd rather give you a considered answer than a fast one.\n\n✗ \"One second, let me land this.\" belongs to Holding the floor when talked over — used to hold onto your turn when someone talks over you, not this context.\nSimilar chunks:\n- Hang on — I'm almost there.\n- I'd like to finish.\n- Let me finish this point.\n\n✗ \"Can I park the second question and come back to it?\" belongs to Handling multiple questions at once — used to organize your response when someone asks several questions at once, not this context.\nSimilar chunks:\n- There are three questions there. Let me take them one at a time.\n- Let me start with the last one, because it's the most important.\n- Which of those matters most to you? I'll start there."
+    },
+    {
+      "id": 2,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've just been asked a direct question you genuinely don't know the answer to, in front of others. Which chunk fits best?",
+      "options": {
+        "A": "I think the more useful question is...",
+        "B": "Which of those matters most to you? I'll start there.",
+        "C": "Good question — I should know that, and I don't. Let me check.",
+        "D": "Off the top of my head..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I think the more useful question is...\" belongs to Defusing a loaded or hostile question — used to calmly defuse a loaded or hostile question instead of getting defensive, not this context.\nSimilar chunks:\n- I hear the frustration. Let's look at the facts.\n- That's a fair challenge. Let me address it directly.\n- I wouldn't frame it that way. Here's how I'd put it.\n\n✗ \"Which of those matters most to you? I'll start there.\" belongs to Handling multiple questions at once — used to organize your response when someone asks several questions at once, not this context.\nSimilar chunks:\n- Can I park the second question and come back to it?\n- Let me start with the last one, because it's the most important.\n- Remind me of the second part after I answer this one.\n\n✓ Correct — \"Good question — I should know that, and I don't. Let me check.\" is an Admitting you don't know, with a next step chunk: used to admit you don't know something confidently, while committing to a next step.\nExample: \"Good question — I should know that, and I don't. Let me check and get back to you.\"\nSimilar chunks:\n- I don't know — but I'll find out and come back to you by [time].\n- I don't want to guess and give you the wrong answer.\n- Can I come back to you?\n\n✗ \"Off the top of my head...\" belongs to Buying structured thinking time when put on the spot — used to buy structured thinking time out loud, right after being put on the spot, not this context.\nSimilar chunks:\n- Without having looked at it recently...\n- Can I have thirty seconds on that?\n- There are two ways to answer that."
+    },
+    {
+      "id": 3,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've just been asked a direct question you genuinely don't know the answer to, in front of others. Which chunk fits best?",
+      "options": {
+        "A": "I'd rather give you a considered answer than a fast one.",
+        "B": "I don't have that off the top of my head. Can I follow up this afternoon?",
+        "C": "There are three questions there. Let me take them one at a time.",
+        "D": "Hang on — I'm almost there."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'd rather give you a considered answer than a fast one.\" belongs to Buying structured thinking time when put on the spot — used to buy structured thinking time out loud, right after being put on the spot, not this context.\nSimilar chunks:\n- I'll give you my instinct, and I'll verify it after.\n- Can I have thirty seconds on that?\n- Let me think out loud for a second.\n\n✓ Correct — \"I don't have that off the top of my head. Can I follow up this afternoon?\" is an Admitting you don't know, with a next step chunk: used to admit you don't know something confidently, while committing to a next step.\nExample: \"I don't have that off the top of my head. Can I follow up this afternoon?\"\nSimilar chunks:\n- I don't want to guess and give you the wrong answer.\n- Good question — I should know that, and I don't. Let me check.\n- I don't know — but I'll find out and come back to you by [time].\n\n✗ \"There are three questions there. Let me take them one at a time.\" belongs to Handling multiple questions at once — used to organize your response when someone asks several questions at once, not this context.\nSimilar chunks:\n- Which of those matters most to you? I'll start there.\n- Let me start with the last one, because it's the most important.\n- Remind me of the second part after I answer this one.\n\n✗ \"Hang on — I'm almost there.\" belongs to Holding the floor when talked over — used to hold onto your turn when someone talks over you, not this context.\nSimilar chunks:\n- I'd like to finish.\n- Coming back to what I was saying...\n- Let me finish this point."
+    },
+    {
+      "id": 4,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've been put on the spot with a question you weren't prepared for and need a moment to think without going silent. Which chunk fits best?",
+      "options": {
+        "A": "I don't know — but I'll find out and come back to you by [time].",
+        "B": "Honestly, that's outside what I know. [Name] would be the person to ask.",
+        "C": "I haven't had a chance to finish.",
+        "D": "Off the top of my head..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I don't know — but I'll find out and come back to you by [time].\" belongs to Admitting you don't know, with a next step — used to admit you don't know something confidently, while committing to a next step, not this context.\nSimilar chunks:\n- I don't want to guess and give you the wrong answer.\n- Good question — I should know that, and I don't. Let me check.\n- Can I come back to you?\n\n✗ \"Honestly, that's outside what I know. [Name] would be the person to ask.\" belongs to Admitting you don't know, with a next step — used to admit you don't know something confidently, while committing to a next step, not this context.\nSimilar chunks:\n- Good question — I should know that, and I don't. Let me check.\n- I don't have that off the top of my head. Can I follow up this afternoon?\n- I don't know — but I'll find out and come back to you by [time].\n\n✗ \"I haven't had a chance to finish.\" belongs to Holding the floor when talked over — used to hold onto your turn when someone talks over you, not this context.\nSimilar chunks:\n- You cut me off earlier — my point was...\n- One second, let me land this.\n- Good point — let me finish and I'll come to it.\n\n✓ Correct — \"Off the top of my head...\" is a Buying structured thinking time when put on the spot chunk: used to buy structured thinking time out loud, right after being put on the spot.\nExample: \"Off the top of my head, I'd say we're around 80% done, but let me confirm.\"\nSimilar chunks:\n- Without having looked at it recently...\n- I'd rather give you a considered answer than a fast one.\n- I'll give you my instinct, and I'll verify it after."
+    },
+    {
+      "id": 5,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've been put on the spot with a question you weren't prepared for and need a moment to think without going silent. Which chunk fits best?",
+      "options": {
+        "A": "I don't want to guess and give you the wrong answer.",
+        "B": "Give me a second to gather my thoughts.",
+        "C": "There are two ways to answer that.",
+        "D": "Bear with me, I'm a bit nervous — this matters to me."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I don't want to guess and give you the wrong answer.\" belongs to Admitting you don't know, with a next step — used to admit you don't know something confidently, while committing to a next step, not this context.\nSimilar chunks:\n- Honestly, that's outside what I know. [Name] would be the person to ask.\n- I don't have that off the top of my head. Can I follow up this afternoon?\n- Can I come back to you?\n\n✗ \"Give me a second to gather my thoughts.\" belongs to Steadying your nerves out loud — used to acknowledge nerves out loud instead of pretending they're not there, not this context.\nSimilar chunks:\n- Let me take that from the top.\n- Can I have a moment?\n- Bear with me, I'm a bit nervous — this matters to me.\n\n✓ Correct — \"There are two ways to answer that.\" is a Buying structured thinking time when put on the spot chunk: used to buy structured thinking time out loud, right after being put on the spot.\nExample: \"There are two ways to answer that — depends on whether you mean this sprint or this quarter.\"\nSimilar chunks:\n- I'd have to look.\n- Off the top of my head...\n- Can I have thirty seconds on that?\n\n✗ \"Bear with me, I'm a bit nervous — this matters to me.\" belongs to Steadying your nerves out loud — used to acknowledge nerves out loud instead of pretending they're not there, not this context.\nSimilar chunks:\n- Can I have a moment?\n- Let me take that from the top.\n- Give me a second to gather my thoughts."
+    },
+    {
+      "id": 6,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've been put on the spot with a question you weren't prepared for and need a moment to think without going silent. Which chunk fits best?",
+      "options": {
+        "A": "I don't want to guess and give you the wrong answer.",
+        "B": "I don't have that off the top of my head. Can I follow up this afternoon?",
+        "C": "Without having looked at it recently...",
+        "D": "Which of those matters most to you? I'll start there."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I don't want to guess and give you the wrong answer.\" belongs to Admitting you don't know, with a next step — used to admit you don't know something confidently, while committing to a next step, not this context.\nSimilar chunks:\n- Can I come back to you?\n- I don't have that off the top of my head. Can I follow up this afternoon?\n- I don't know — but I'll find out and come back to you by [time].\n\n✗ \"I don't have that off the top of my head. Can I follow up this afternoon?\" belongs to Admitting you don't know, with a next step — used to admit you don't know something confidently, while committing to a next step, not this context.\nSimilar chunks:\n- Honestly, that's outside what I know. [Name] would be the person to ask.\n- Good question — I should know that, and I don't. Let me check.\n- I don't want to guess and give you the wrong answer.\n\n✓ Correct — \"Without having looked at it recently...\" is a Buying structured thinking time when put on the spot chunk: used to buy structured thinking time out loud, right after being put on the spot.\nExample: \"Without having looked at it recently, I believe the contract renews in March.\"\nSimilar chunks:\n- There are two ways to answer that.\n- Off the top of my head...\n- Let me think out loud for a second.\n\n✗ \"Which of those matters most to you? I'll start there.\" belongs to Handling multiple questions at once — used to organize your response when someone asks several questions at once, not this context.\nSimilar chunks:\n- Remind me of the second part after I answer this one.\n- Let me start with the last one, because it's the most important.\n- There are three questions there. Let me take them one at a time."
+    },
+    {
+      "id": 7,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've been put on the spot with a question you weren't prepared for and need a moment to think without going silent. Which chunk fits best?",
+      "options": {
+        "A": "I think the more useful question is...",
+        "B": "That question assumes [X] — I'd challenge that first.",
+        "C": "One second, let me land this.",
+        "D": "Can you come back to me at the end?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"I think the more useful question is...\" belongs to Defusing a loaded or hostile question — used to calmly defuse a loaded or hostile question instead of getting defensive, not this context.\nSimilar chunks:\n- I wouldn't frame it that way. Here's how I'd put it.\n- That's a fair challenge. Let me address it directly.\n- Can you be more specific about what concerns you?\n\n✗ \"That question assumes [X] — I'd challenge that first.\" belongs to Defusing a loaded or hostile question — used to calmly defuse a loaded or hostile question instead of getting defensive, not this context.\nSimilar chunks:\n- I wouldn't frame it that way. Here's how I'd put it.\n- I think the more useful question is...\n- That's a fair challenge. Let me address it directly.\n\n✗ \"One second, let me land this.\" belongs to Holding the floor when talked over — used to hold onto your turn when someone talks over you, not this context.\nSimilar chunks:\n- Coming back to what I was saying...\n- Can I just finish this thought?\n- I'd like to finish.\n\n✓ Correct — \"Can you come back to me at the end?\" is a Buying structured thinking time when put on the spot chunk: used to buy structured thinking time out loud, right after being put on the spot.\nExample: \"Can you come back to me at the end? I'd like to check something first.\"\nSimilar chunks:\n- There are two ways to answer that.\n- I'd have to look.\n- I'd rather give you a considered answer than a fast one."
+    },
+    {
+      "id": 8,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just fired off several questions at once and you need to answer them in an organized way. Which chunk fits best?",
+      "options": {
+        "A": "Can you come back to me at the end?",
+        "B": "Off the top of my head...",
+        "C": "Let me start with the last one, because it's the most important.",
+        "D": "I hear the frustration. Let's look at the facts."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Can you come back to me at the end?\" belongs to Buying structured thinking time when put on the spot — used to buy structured thinking time out loud, right after being put on the spot, not this context.\nSimilar chunks:\n- Can I have thirty seconds on that?\n- I'd have to look.\n- There are two ways to answer that.\n\n✗ \"Off the top of my head...\" belongs to Buying structured thinking time when put on the spot — used to buy structured thinking time out loud, right after being put on the spot, not this context.\nSimilar chunks:\n- I'll give you my instinct, and I'll verify it after.\n- I'd rather give you a considered answer than a fast one.\n- I'd have to look.\n\n✓ Correct — \"Let me start with the last one, because it's the most important.\" is a Handling multiple questions at once chunk: used to organize your response when someone asks several questions at once.\nExample: \"Let me start with the last one, because it's the most important: yes, we can hit the date.\"\nSimilar chunks:\n- Remind me of the second part after I answer this one.\n- Which of those matters most to you? I'll start there.\n- There are three questions there. Let me take them one at a time.\n\n✗ \"I hear the frustration. Let's look at the facts.\" belongs to Defusing a loaded or hostile question — used to calmly defuse a loaded or hostile question instead of getting defensive, not this context.\nSimilar chunks:\n- I think the more useful question is...\n- Can you be more specific about what concerns you?\n- That question assumes [X] — I'd challenge that first."
+    },
+    {
+      "id": 9,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just fired off several questions at once and you need to answer them in an organized way. Which chunk fits best?",
+      "options": {
+        "A": "I'd like to finish.",
+        "B": "One second, let me land this.",
+        "C": "There are three questions there. Let me take them one at a time.",
+        "D": "That's a fair challenge. Let me address it directly."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I'd like to finish.\" belongs to Holding the floor when talked over — used to hold onto your turn when someone talks over you, not this context.\nSimilar chunks:\n- One second, let me land this.\n- I haven't had a chance to finish.\n- Coming back to what I was saying...\n\n✗ \"One second, let me land this.\" belongs to Holding the floor when talked over — used to hold onto your turn when someone talks over you, not this context.\nSimilar chunks:\n- I'd like to finish.\n- Let me finish this point.\n- Good point — let me finish and I'll come to it.\n\n✓ Correct — \"There are three questions there. Let me take them one at a time.\" is a Handling multiple questions at once chunk: used to organize your response when someone asks several questions at once.\nExample: \"There are three questions there. Let me take them one at a time, starting with the budget.\"\nSimilar chunks:\n- Let me start with the last one, because it's the most important.\n- Remind me of the second part after I answer this one.\n- Can I park the second question and come back to it?\n\n✗ \"That's a fair challenge. Let me address it directly.\" belongs to Defusing a loaded or hostile question — used to calmly defuse a loaded or hostile question instead of getting defensive, not this context.\nSimilar chunks:\n- I hear the frustration. Let's look at the facts.\n- Can you be more specific about what concerns you?\n- That question assumes [X] — I'd challenge that first."
+    },
+    {
+      "id": 10,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just asked you a loaded or hostile question that has a shaky assumption baked into it. Which chunk fits best?",
+      "options": {
+        "A": "Give me a second to gather my thoughts.",
+        "B": "One second, let me land this.",
+        "C": "Let me take that from the top.",
+        "D": "I hear the frustration. Let's look at the facts."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Give me a second to gather my thoughts.\" belongs to Steadying your nerves out loud — used to acknowledge nerves out loud instead of pretending they're not there, not this context.\nSimilar chunks:\n- Can I have a moment?\n- Bear with me, I'm a bit nervous — this matters to me.\n- Let me take that from the top.\n\n✗ \"One second, let me land this.\" belongs to Holding the floor when talked over — used to hold onto your turn when someone talks over you, not this context.\nSimilar chunks:\n- Can I just finish this thought?\n- I'd like to finish.\n- Hang on — I'm almost there.\n\n✗ \"Let me take that from the top.\" belongs to Steadying your nerves out loud — used to acknowledge nerves out loud instead of pretending they're not there, not this context.\nSimilar chunks:\n- Bear with me, I'm a bit nervous — this matters to me.\n- Can I have a moment?\n- Give me a second to gather my thoughts.\n\n✓ Correct — \"I hear the frustration. Let's look at the facts.\" is a Defusing a loaded or hostile question chunk: used to calmly defuse a loaded or hostile question instead of getting defensive.\nExample: \"I hear the frustration. Let's look at the facts before we decide anything.\"\nSimilar chunks:\n- Can you be more specific about what concerns you?\n- That question assumes [X] — I'd challenge that first.\n- I wouldn't frame it that way. Here's how I'd put it."
+    },
+    {
+      "id": 11,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just asked you a loaded or hostile question that has a shaky assumption baked into it. Which chunk fits best?",
+      "options": {
+        "A": "Bear with me, I'm a bit nervous — this matters to me.",
+        "B": "That question assumes [X] — I'd challenge that first.",
+        "C": "Coming back to what I was saying...",
+        "D": "I don't know — but I'll find out and come back to you by [time]."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Bear with me, I'm a bit nervous — this matters to me.\" belongs to Steadying your nerves out loud — used to acknowledge nerves out loud instead of pretending they're not there, not this context.\nSimilar chunks:\n- Give me a second to gather my thoughts.\n- Can I have a moment?\n- Let me take that from the top.\n\n✓ Correct — \"That question assumes [X] — I'd challenge that first.\" is a Defusing a loaded or hostile question chunk: used to calmly defuse a loaded or hostile question instead of getting defensive.\nExample: \"That question assumes we already agreed on scope — I'd challenge that first.\"\nSimilar chunks:\n- That's a fair challenge. Let me address it directly.\n- I wouldn't frame it that way. Here's how I'd put it.\n- I hear the frustration. Let's look at the facts.\n\n✗ \"Coming back to what I was saying...\" belongs to Holding the floor when talked over — used to hold onto your turn when someone talks over you, not this context.\nSimilar chunks:\n- One second, let me land this.\n- I'd like to finish.\n- I haven't had a chance to finish.\n\n✗ \"I don't know — but I'll find out and come back to you by [time].\" belongs to Admitting you don't know, with a next step — used to admit you don't know something confidently, while committing to a next step, not this context.\nSimilar chunks:\n- Can I come back to you?\n- Honestly, that's outside what I know. [Name] would be the person to ask.\n- I don't have that off the top of my head. Can I follow up this afternoon?"
+    },
+    {
+      "id": 12,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone just asked you a loaded or hostile question that has a shaky assumption baked into it. Which chunk fits best?",
+      "options": {
+        "A": "I think the more useful question is...",
+        "B": "Can I come back to you?",
+        "C": "Coming back to what I was saying...",
+        "D": "Good point — let me finish and I'll come to it."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I think the more useful question is...\" is a Defusing a loaded or hostile question chunk: used to calmly defuse a loaded or hostile question instead of getting defensive.\nExample: \"I think the more useful question is whether we have the resources, not whether we should try.\"\nSimilar chunks:\n- I hear the frustration. Let's look at the facts.\n- Can you be more specific about what concerns you?\n- That question assumes [X] — I'd challenge that first.\n\n✗ \"Can I come back to you?\" belongs to Admitting you don't know, with a next step — used to admit you don't know something confidently, while committing to a next step, not this context.\nSimilar chunks:\n- I don't want to guess and give you the wrong answer.\n- Honestly, that's outside what I know. [Name] would be the person to ask.\n- Good question — I should know that, and I don't. Let me check.\n\n✗ \"Coming back to what I was saying...\" belongs to Holding the floor when talked over — used to hold onto your turn when someone talks over you, not this context.\nSimilar chunks:\n- You cut me off earlier — my point was...\n- I haven't had a chance to finish.\n- Good point — let me finish and I'll come to it.\n\n✗ \"Good point — let me finish and I'll come to it.\" belongs to Holding the floor when talked over — used to hold onto your turn when someone talks over you, not this context.\nSimilar chunks:\n- Can I just finish this thought?\n- I haven't had a chance to finish.\n- I'd like to finish."
+    },
+    {
+      "id": 13,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You can feel your nerves creeping into your voice and want to acknowledge it instead of pretending it's not happening. Which chunk fits best?",
+      "options": {
+        "A": "That's a fair challenge. Let me address it directly.",
+        "B": "I'd rather give you a considered answer than a fast one.",
+        "C": "Which of those matters most to you? I'll start there.",
+        "D": "Can I have a moment?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"That's a fair challenge. Let me address it directly.\" belongs to Defusing a loaded or hostile question — used to calmly defuse a loaded or hostile question instead of getting defensive, not this context.\nSimilar chunks:\n- I hear the frustration. Let's look at the facts.\n- That question assumes [X] — I'd challenge that first.\n- I think the more useful question is...\n\n✗ \"I'd rather give you a considered answer than a fast one.\" belongs to Buying structured thinking time when put on the spot — used to buy structured thinking time out loud, right after being put on the spot, not this context.\nSimilar chunks:\n- I'll give you my instinct, and I'll verify it after.\n- Can you come back to me at the end?\n- Let me think out loud for a second.\n\n✗ \"Which of those matters most to you? I'll start there.\" belongs to Handling multiple questions at once — used to organize your response when someone asks several questions at once, not this context.\nSimilar chunks:\n- Let me start with the last one, because it's the most important.\n- Remind me of the second part after I answer this one.\n- Can I park the second question and come back to it?\n\n✓ Correct — \"Can I have a moment?\" is a Steadying your nerves out loud chunk: used to acknowledge nerves out loud instead of pretending they're not there.\nExample: \"Can I have a moment? I want to answer this properly.\"\nSimilar chunks:\n- Bear with me, I'm a bit nervous — this matters to me.\n- Let me take that from the top.\n- Give me a second to gather my thoughts."
+    },
+    {
+      "id": 14,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You can feel your nerves creeping into your voice and want to acknowledge it instead of pretending it's not happening. Which chunk fits best?",
+      "options": {
+        "A": "Which of those matters most to you? I'll start there.",
+        "B": "Good point — let me finish and I'll come to it.",
+        "C": "Let me take that from the top.",
+        "D": "There are two ways to answer that."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Which of those matters most to you? I'll start there.\" belongs to Handling multiple questions at once — used to organize your response when someone asks several questions at once, not this context.\nSimilar chunks:\n- Remind me of the second part after I answer this one.\n- Let me start with the last one, because it's the most important.\n- There are three questions there. Let me take them one at a time.\n\n✗ \"Good point — let me finish and I'll come to it.\" belongs to Holding the floor when talked over — used to hold onto your turn when someone talks over you, not this context.\nSimilar chunks:\n- Can I just finish this thought?\n- Let me finish this point.\n- I haven't had a chance to finish.\n\n✓ Correct — \"Let me take that from the top.\" is a Steadying your nerves out loud chunk: used to acknowledge nerves out loud instead of pretending they're not there.\nExample: \"Let me take that from the top — I don't think I explained it well.\"\nSimilar chunks:\n- Give me a second to gather my thoughts.\n- Bear with me, I'm a bit nervous — this matters to me.\n- Can I have a moment?\n\n✗ \"There are two ways to answer that.\" belongs to Buying structured thinking time when put on the spot — used to buy structured thinking time out loud, right after being put on the spot, not this context.\nSimilar chunks:\n- Can you come back to me at the end?\n- I'd rather give you a considered answer than a fast one.\n- Let me think out loud for a second."
+    },
+    {
+      "id": 15,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone keeps talking over you and you need to hold onto your turn without losing your temper. Which chunk fits best?",
+      "options": {
+        "A": "I don't have that off the top of my head. Can I follow up this afternoon?",
+        "B": "Remind me of the second part after I answer this one.",
+        "C": "I'd like to finish.",
+        "D": "Bear with me, I'm a bit nervous — this matters to me."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I don't have that off the top of my head. Can I follow up this afternoon?\" belongs to Admitting you don't know, with a next step — used to admit you don't know something confidently, while committing to a next step, not this context.\nSimilar chunks:\n- I don't know — but I'll find out and come back to you by [time].\n- Honestly, that's outside what I know. [Name] would be the person to ask.\n- Can I come back to you?\n\n✗ \"Remind me of the second part after I answer this one.\" belongs to Handling multiple questions at once — used to organize your response when someone asks several questions at once, not this context.\nSimilar chunks:\n- Can I park the second question and come back to it?\n- Let me start with the last one, because it's the most important.\n- Which of those matters most to you? I'll start there.\n\n✓ Correct — \"I'd like to finish.\" is a Holding the floor when talked over chunk: used to hold onto your turn when someone talks over you.\nExample: \"I'd like to finish, if that's okay — I'm nearly done.\"\nSimilar chunks:\n- Coming back to what I was saying...\n- I haven't had a chance to finish.\n- Good point — let me finish and I'll come to it.\n\n✗ \"Bear with me, I'm a bit nervous — this matters to me.\" belongs to Steadying your nerves out loud — used to acknowledge nerves out loud instead of pretending they're not there, not this context.\nSimilar chunks:\n- Can I have a moment?\n- Give me a second to gather my thoughts.\n- Let me take that from the top."
+    },
+    {
+      "id": 16,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone keeps talking over you and you need to hold onto your turn without losing your temper. Which chunk fits best?",
+      "options": {
+        "A": "Let me start with the last one, because it's the most important.",
+        "B": "Give me a second to gather my thoughts.",
+        "C": "Can I come back to you?",
+        "D": "Can I just finish this thought?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let me start with the last one, because it's the most important.\" belongs to Handling multiple questions at once — used to organize your response when someone asks several questions at once, not this context.\nSimilar chunks:\n- Can I park the second question and come back to it?\n- There are three questions there. Let me take them one at a time.\n- Remind me of the second part after I answer this one.\n\n✗ \"Give me a second to gather my thoughts.\" belongs to Steadying your nerves out loud — used to acknowledge nerves out loud instead of pretending they're not there, not this context.\nSimilar chunks:\n- Bear with me, I'm a bit nervous — this matters to me.\n- Let me take that from the top.\n- Can I have a moment?\n\n✗ \"Can I come back to you?\" belongs to Admitting you don't know, with a next step — used to admit you don't know something confidently, while committing to a next step, not this context.\nSimilar chunks:\n- I don't know — but I'll find out and come back to you by [time].\n- I don't want to guess and give you the wrong answer.\n- Honestly, that's outside what I know. [Name] would be the person to ask.\n\n✓ Correct — \"Can I just finish this thought?\" is a Holding the floor when talked over chunk: used to hold onto your turn when someone talks over you.\nExample: \"Can I just finish this thought? I'm almost at the point.\"\nSimilar chunks:\n- Hang on — I'm almost there.\n- One second, let me land this.\n- Good point — let me finish and I'll come to it."
+    },
+    {
+      "id": 17,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone keeps talking over you and you need to hold onto your turn without losing your temper. Which chunk fits best?",
+      "options": {
+        "A": "Let me think out loud for a second.",
+        "B": "One second, let me land this.",
+        "C": "Can I have a moment?",
+        "D": "Can you be more specific about what concerns you?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Let me think out loud for a second.\" belongs to Buying structured thinking time when put on the spot — used to buy structured thinking time out loud, right after being put on the spot, not this context.\nSimilar chunks:\n- I'll give you my instinct, and I'll verify it after.\n- Can you come back to me at the end?\n- There are two ways to answer that.\n\n✓ Correct — \"One second, let me land this.\" is a Holding the floor when talked over chunk: used to hold onto your turn when someone talks over you.\nExample: \"One second, let me land this before we move on.\"\nSimilar chunks:\n- You cut me off earlier — my point was...\n- Let me finish this point.\n- I haven't had a chance to finish.\n\n✗ \"Can I have a moment?\" belongs to Steadying your nerves out loud — used to acknowledge nerves out loud instead of pretending they're not there, not this context.\nSimilar chunks:\n- Bear with me, I'm a bit nervous — this matters to me.\n- Let me take that from the top.\n- Give me a second to gather my thoughts.\n\n✗ \"Can you be more specific about what concerns you?\" belongs to Defusing a loaded or hostile question — used to calmly defuse a loaded or hostile question instead of getting defensive, not this context.\nSimilar chunks:\n- I think the more useful question is...\n- I hear the frustration. Let's look at the facts.\n- I wouldn't frame it that way. Here's how I'd put it."
+    },
+    {
+      "id": 18,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Someone keeps talking over you and you need to hold onto your turn without losing your temper. Which chunk fits best?",
+      "options": {
+        "A": "Can I have thirty seconds on that?",
+        "B": "I'd have to look.",
+        "C": "Can I park the second question and come back to it?",
+        "D": "Coming back to what I was saying..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Can I have thirty seconds on that?\" belongs to Buying structured thinking time when put on the spot — used to buy structured thinking time out loud, right after being put on the spot, not this context.\nSimilar chunks:\n- Without having looked at it recently...\n- Off the top of my head...\n- There are two ways to answer that.\n\n✗ \"I'd have to look.\" belongs to Buying structured thinking time when put on the spot — used to buy structured thinking time out loud, right after being put on the spot, not this context.\nSimilar chunks:\n- I'll give you my instinct, and I'll verify it after.\n- Without having looked at it recently...\n- Can you come back to me at the end?\n\n✗ \"Can I park the second question and come back to it?\" belongs to Handling multiple questions at once — used to organize your response when someone asks several questions at once, not this context.\nSimilar chunks:\n- Which of those matters most to you? I'll start there.\n- Let me start with the last one, because it's the most important.\n- Remind me of the second part after I answer this one.\n\n✓ Correct — \"Coming back to what I was saying...\" is a Holding the floor when talked over chunk: used to hold onto your turn when someone talks over you.\nExample: \"Coming back to what I was saying, before we got interrupted.\"\nSimilar chunks:\n- I haven't had a chance to finish.\n- You cut me off earlier — my point was...\n- One second, let me land this."
+    }
+  ]
+}

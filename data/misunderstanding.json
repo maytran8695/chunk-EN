@@ -1,0 +1,202 @@
+{
+  "examId": "misunderstanding",
+  "title": "Chunk Atlas — Real-Time Fluency: Misunderstanding, Both Ways",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just said something and the listener clearly took it the wrong way — you need to fix it fast without making them feel bad. Which chunk fits best?",
+      "options": {
+        "A": "Sorry — I'm struggling with the line, not with you.",
+        "B": "Did you say [X]?",
+        "C": "Let me put it differently...",
+        "D": "Could you drop that in the chat?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Sorry — I'm struggling with the line, not with you.\" belongs to Admitting you truly can't understand, after repeated tries — used when you genuinely can't understand someone even after asking a couple of times, not this context.\nSimilar chunks:\n- I want to make sure I get this right — could you type it?\n- Let's do this: send me a message and I'll pick it up after.\n- I'll be honest, I didn't catch that at all. One more time, slowly?\n\n✗ \"Did you say [X]?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- So, just to be clear, you're saying...?\n- How do you spell that?\n- Come again?\n\n✓ Correct — \"Let me put it differently...\" is a Fixing it when they misunderstood you chunk: used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad.\nExample: \"Let me put it differently — we're not cutting the feature, just delaying it.\"\nSimilar chunks:\n- That's not quite what I meant. I meant [X], not [Y].\n- Sorry, that's my fault — let me be clearer.\n- My fault — let me rephrase.\n\n✗ \"Could you drop that in the chat?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- Let me play that back.\n- Sorry?\n- Sorry, you lost me after [X]."
+    },
+    {
+      "id": 2,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just said something and the listener clearly took it the wrong way — you need to fix it fast without making them feel bad. Which chunk fits best?",
+      "options": {
+        "A": "Come again?",
+        "B": "So, just to be clear, you're saying...?",
+        "C": "My fault — let me rephrase.",
+        "D": "Sorry — I don't think I'm answering what you actually asked."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Come again?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- Let me play that back.\n- The last bit?\n- So, just to be clear, you're saying...?\n\n✗ \"So, just to be clear, you're saying...?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- Sorry?\n- Did you say [X]?\n- Sorry, you lost me after [X].\n\n✓ Correct — \"My fault — let me rephrase.\" is a Fixing it when they misunderstood you chunk: used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad.\nExample: \"My fault — let me rephrase: I meant next week, not this week.\"\nSimilar chunks:\n- Sorry, that's my fault — let me be clearer.\n- Let me put it differently...\n- No no — I think I said that badly. What I meant was...\n\n✗ \"Sorry — I don't think I'm answering what you actually asked.\" belongs to Realizing you misunderstood and answered the wrong question — used when you realize partway through that you misunderstood the question, not this context.\nSimilar chunks:\n- I may have misread your question. Could you say it again?\n- Let me back up — what were you actually asking?\n- Hang on, did you mean [X] or [Y]?"
+    },
+    {
+      "id": 3,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just said something and the listener clearly took it the wrong way — you need to fix it fast without making them feel bad. Which chunk fits best?",
+      "options": {
+        "A": "How do you spell that?",
+        "B": "No no — I think I said that badly. What I meant was...",
+        "C": "The last bit?",
+        "D": "Come again?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"How do you spell that?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- Could you drop that in the chat?\n- Did you say [X]?\n- Sorry — [X]?\n\n✓ Correct — \"No no — I think I said that badly. What I meant was...\" is a Fixing it when they misunderstood you chunk: used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad.\nExample: \"No no — I think I said that badly. What I meant was we should pause the feature, not cancel it.\"\nSimilar chunks:\n- My fault — let me rephrase.\n- That's not quite what I meant. I meant [X], not [Y].\n- I don't think I explained that well. Let me try again.\n\n✗ \"The last bit?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- Say that again?\n- Sorry, could you rephrase that?\n- Did you say [X]?\n\n✗ \"Come again?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- Sorry?\n- The last bit?\n- Sorry — [X]?"
+    },
+    {
+      "id": 4,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've been answering for a while and just realized you misunderstood the question entirely. Which chunk fits best?",
+      "options": {
+        "A": "My fault — let me rephrase.",
+        "B": "Come again?",
+        "C": "Let me back up — what were you actually asking?",
+        "D": "Say that again?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"My fault — let me rephrase.\" belongs to Fixing it when they misunderstood you — used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad, not this context.\nSimilar chunks:\n- I don't think I explained that well. Let me try again.\n- Ah, I see the confusion — I wasn't clear about [X].\n- Let me put it differently...\n\n✗ \"Come again?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- The last bit?\n- Sorry, you lost me after [X].\n- Say that again?\n\n✓ Correct — \"Let me back up — what were you actually asking?\" is a Realizing you misunderstood and answered the wrong question chunk: used when you realize partway through that you misunderstood the question.\nExample: \"Let me back up — what were you actually asking about the rollout?\"\nSimilar chunks:\n- Hang on, did you mean [X] or [Y]?\n- I may have misread your question. Could you say it again?\n- Ah — you meant [X]. I was answering a different question entirely.\n\n✗ \"Say that again?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- Sorry — [X]?\n- Did you say [X]?\n- Sorry?"
+    },
+    {
+      "id": 5,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You've been answering for a while and just realized you misunderstood the question entirely. Which chunk fits best?",
+      "options": {
+        "A": "That's not quite what I meant. I meant [X], not [Y].",
+        "B": "I want to make sure I get this right — could you type it?",
+        "C": "Sorry — I don't think I'm answering what you actually asked.",
+        "D": "Say that again?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"That's not quite what I meant. I meant [X], not [Y].\" belongs to Fixing it when they misunderstood you — used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad, not this context.\nSimilar chunks:\n- My fault — let me rephrase.\n- I don't think I explained that well. Let me try again.\n- No no — I think I said that badly. What I meant was...\n\n✗ \"I want to make sure I get this right — could you type it?\" belongs to Admitting you truly can't understand, after repeated tries — used when you genuinely can't understand someone even after asking a couple of times, not this context.\nSimilar chunks:\n- Let's do this: send me a message and I'll pick it up after.\n- I'll be honest, I didn't catch that at all. One more time, slowly?\n- Sorry — I'm struggling with the line, not with you.\n\n✓ Correct — \"Sorry — I don't think I'm answering what you actually asked.\" is a Realizing you misunderstood and answered the wrong question chunk: used when you realize partway through that you misunderstood the question.\nExample: \"Sorry — I don't think I'm answering what you actually asked. Could you say it again?\"\nSimilar chunks:\n- I may have misread your question. Could you say it again?\n- Ah — you meant [X]. I was answering a different question entirely.\n- Let me back up — what were you actually asking?\n\n✗ \"Say that again?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- Let me play that back.\n- Sorry — [X]?\n- So, just to be clear, you're saying...?"
+    },
+    {
+      "id": 6,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You didn't catch what someone said and need to ask them to repeat it — more specifically than just saying 'Sorry?' again. Which chunk fits best?",
+      "options": {
+        "A": "I'll be honest, I didn't catch that at all. One more time, slowly?",
+        "B": "That's not quite what I meant. I meant [X], not [Y].",
+        "C": "Ah — you meant [X]. I was answering a different question entirely.",
+        "D": "How do you spell that?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'll be honest, I didn't catch that at all. One more time, slowly?\" belongs to Admitting you truly can't understand, after repeated tries — used when you genuinely can't understand someone even after asking a couple of times, not this context.\nSimilar chunks:\n- Let's do this: send me a message and I'll pick it up after.\n- Sorry — I'm struggling with the line, not with you.\n- I want to make sure I get this right — could you type it?\n\n✗ \"That's not quite what I meant. I meant [X], not [Y].\" belongs to Fixing it when they misunderstood you — used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad, not this context.\nSimilar chunks:\n- Sorry, that's my fault — let me be clearer.\n- No no — I think I said that badly. What I meant was...\n- My fault — let me rephrase.\n\n✗ \"Ah — you meant [X]. I was answering a different question entirely.\" belongs to Realizing you misunderstood and answered the wrong question — used when you realize partway through that you misunderstood the question, not this context.\nSimilar chunks:\n- Hang on, did you mean [X] or [Y]?\n- Sorry — I don't think I'm answering what you actually asked.\n- Let me back up — what were you actually asking?\n\n✓ Correct — \"How do you spell that?\" is an Asking someone to repeat themselves, more specifically each time chunk: used to ask someone to repeat or clarify something, with increasing specificity each time.\nExample: \"How do you spell that? I've never heard that term before.\"\nSimilar chunks:\n- Sorry?\n- Sorry, you lost me after [X].\n- Did you say [X]?"
+    },
+    {
+      "id": 7,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You didn't catch what someone said and need to ask them to repeat it — more specifically than just saying 'Sorry?' again. Which chunk fits best?",
+      "options": {
+        "A": "I may have misread your question. Could you say it again?",
+        "B": "Ah — you meant [X]. I was answering a different question entirely.",
+        "C": "Sorry — I'm struggling with the line, not with you.",
+        "D": "Sorry, you lost me after [X]."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I may have misread your question. Could you say it again?\" belongs to Realizing you misunderstood and answered the wrong question — used when you realize partway through that you misunderstood the question, not this context.\nSimilar chunks:\n- Ah — you meant [X]. I was answering a different question entirely.\n- Sorry — I don't think I'm answering what you actually asked.\n- Let me back up — what were you actually asking?\n\n✗ \"Ah — you meant [X]. I was answering a different question entirely.\" belongs to Realizing you misunderstood and answered the wrong question — used when you realize partway through that you misunderstood the question, not this context.\nSimilar chunks:\n- Hang on, did you mean [X] or [Y]?\n- Sorry — I don't think I'm answering what you actually asked.\n- Let me back up — what were you actually asking?\n\n✗ \"Sorry — I'm struggling with the line, not with you.\" belongs to Admitting you truly can't understand, after repeated tries — used when you genuinely can't understand someone even after asking a couple of times, not this context.\nSimilar chunks:\n- I'll be honest, I didn't catch that at all. One more time, slowly?\n- I want to make sure I get this right — could you type it?\n- Let's do this: send me a message and I'll pick it up after.\n\n✓ Correct — \"Sorry, you lost me after [X].\" is an Asking someone to repeat themselves, more specifically each time chunk: used to ask someone to repeat or clarify something, with increasing specificity each time.\nExample: \"Sorry, you lost me after 'the second endpoint' — could you continue from there?\"\nSimilar chunks:\n- The last bit?\n- Say that again?\n- So, just to be clear, you're saying...?"
+    },
+    {
+      "id": 8,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You didn't catch what someone said and need to ask them to repeat it — more specifically than just saying 'Sorry?' again. Which chunk fits best?",
+      "options": {
+        "A": "Sorry, that's my fault — let me be clearer.",
+        "B": "Hang on, did you mean [X] or [Y]?",
+        "C": "So, just to be clear, you're saying...?",
+        "D": "How do you say it?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Sorry, that's my fault — let me be clearer.\" belongs to Fixing it when they misunderstood you — used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad, not this context.\nSimilar chunks:\n- Ah, I see the confusion — I wasn't clear about [X].\n- Let me put it differently...\n- No no — I think I said that badly. What I meant was...\n\n✗ \"Hang on, did you mean [X] or [Y]?\" belongs to Realizing you misunderstood and answered the wrong question — used when you realize partway through that you misunderstood the question, not this context.\nSimilar chunks:\n- Sorry — I don't think I'm answering what you actually asked.\n- Let me back up — what were you actually asking?\n- Ah — you meant [X]. I was answering a different question entirely.\n\n✓ Correct — \"So, just to be clear, you're saying...?\" is an Asking someone to repeat themselves, more specifically each time chunk: used to ask someone to repeat or clarify something, with increasing specificity each time.\nExample: \"So, just to be clear, you're saying we should push the release, not cancel it?\"\nSimilar chunks:\n- Sorry, could you rephrase that?\n- How do you spell that?\n- Sorry, you lost me after [X].\n\n✗ \"How do you say it?\" belongs to Getting a mispronounced word understood — used to get a mispronounced or unfamiliar word understood, without just repeating it louder, not this context.\nSimilar chunks:\n- Am I saying that right?\n- My accent's doing me no favours today.\n- It's [X] — spelled out letter by letter."
+    },
+    {
+      "id": 9,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You didn't catch what someone said and need to ask them to repeat it — more specifically than just saying 'Sorry?' again. Which chunk fits best?",
+      "options": {
+        "A": "Let me put it differently...",
+        "B": "How do you say it?",
+        "C": "Sorry, that's my fault — let me be clearer.",
+        "D": "Let me play that back."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let me put it differently...\" belongs to Fixing it when they misunderstood you — used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad, not this context.\nSimilar chunks:\n- No no — I think I said that badly. What I meant was...\n- My fault — let me rephrase.\n- Sorry, that's my fault — let me be clearer.\n\n✗ \"How do you say it?\" belongs to Getting a mispronounced word understood — used to get a mispronounced or unfamiliar word understood, without just repeating it louder, not this context.\nSimilar chunks:\n- Am I saying that right?\n- My accent's doing me no favours today.\n- It's [X] — spelled out letter by letter.\n\n✗ \"Sorry, that's my fault — let me be clearer.\" belongs to Fixing it when they misunderstood you — used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad, not this context.\nSimilar chunks:\n- No no — I think I said that badly. What I meant was...\n- Let me put it differently...\n- That's not quite what I meant. I meant [X], not [Y].\n\n✓ Correct — \"Let me play that back.\" is an Asking someone to repeat themselves, more specifically each time chunk: used to ask someone to repeat or clarify something, with increasing specificity each time.\nExample: \"Let me play that back to make sure I got it: we're moving the deadline to Friday.\"\nSimilar chunks:\n- Could you drop that in the chat?\n- Did you say [X]?\n- So, just to be clear, you're saying...?"
+    },
+    {
+      "id": 10,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You genuinely can't make out what someone is saying, even after asking a couple of times, and need to find another way through. Which chunk fits best?",
+      "options": {
+        "A": "I'll be honest, I didn't catch that at all. One more time, slowly?",
+        "B": "Let me play that back.",
+        "C": "Sorry, that's my fault — let me be clearer.",
+        "D": "Ah — you meant [X]. I was answering a different question entirely."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I'll be honest, I didn't catch that at all. One more time, slowly?\" is an Admitting you truly can't understand, after repeated tries chunk: used when you genuinely can't understand someone even after asking a couple of times.\nExample: \"I'll be honest, I didn't catch that at all. One more time, slowly?\"\nSimilar chunks:\n- I want to make sure I get this right — could you type it?\n- Let's do this: send me a message and I'll pick it up after.\n- Sorry — I'm struggling with the line, not with you.\n\n✗ \"Let me play that back.\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- In other words?\n- Say that again?\n- So, just to be clear, you're saying...?\n\n✗ \"Sorry, that's my fault — let me be clearer.\" belongs to Fixing it when they misunderstood you — used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad, not this context.\nSimilar chunks:\n- My fault — let me rephrase.\n- That's not quite what I meant. I meant [X], not [Y].\n- Let me put it differently...\n\n✗ \"Ah — you meant [X]. I was answering a different question entirely.\" belongs to Realizing you misunderstood and answered the wrong question — used when you realize partway through that you misunderstood the question, not this context.\nSimilar chunks:\n- Sorry — I don't think I'm answering what you actually asked.\n- Hang on, did you mean [X] or [Y]?\n- I may have misread your question. Could you say it again?"
+    },
+    {
+      "id": 11,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You genuinely can't make out what someone is saying, even after asking a couple of times, and need to find another way through. Which chunk fits best?",
+      "options": {
+        "A": "No no — I think I said that badly. What I meant was...",
+        "B": "Sorry, could you rephrase that?",
+        "C": "Let's do this: send me a message and I'll pick it up after.",
+        "D": "How do you spell that?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"No no — I think I said that badly. What I meant was...\" belongs to Fixing it when they misunderstood you — used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad, not this context.\nSimilar chunks:\n- Let me put it differently...\n- Sorry, that's my fault — let me be clearer.\n- I don't think I explained that well. Let me try again.\n\n✗ \"Sorry, could you rephrase that?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- Did you say [X]?\n- In other words?\n- Come again?\n\n✓ Correct — \"Let's do this: send me a message and I'll pick it up after.\" is an Admitting you truly can't understand, after repeated tries chunk: used when you genuinely can't understand someone even after asking a couple of times.\nExample: \"Let's do this: send me a message and I'll pick it up after the call.\"\nSimilar chunks:\n- I want to make sure I get this right — could you type it?\n- Sorry — I'm struggling with the line, not with you.\n- I'll be honest, I didn't catch that at all. One more time, slowly?\n\n✗ \"How do you spell that?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- Come again?\n- In other words?\n- Could you drop that in the chat?"
+    },
+    {
+      "id": 12,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You said a word and the other person clearly didn't catch it — repeating it louder isn't helping. Which chunk fits best?",
+      "options": {
+        "A": "How do you spell that?",
+        "B": "The last bit?",
+        "C": "My accent's doing me no favours today.",
+        "D": "Sorry, that's my fault — let me be clearer."
+      },
+      "correct": "C",
+      "explanation": "✗ \"How do you spell that?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- So, just to be clear, you're saying...?\n- Say that again?\n- The last bit?\n\n✗ \"The last bit?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- Could you drop that in the chat?\n- Sorry?\n- Did you say [X]?\n\n✓ Correct — \"My accent's doing me no favours today.\" is a Getting a mispronounced word understood chunk: used to get a mispronounced or unfamiliar word understood, without just repeating it louder.\nExample: \"My accent's doing me no favours today — let me try that word again.\"\nSimilar chunks:\n- Am I saying that right?\n- How do you say it?\n- It's [X] — spelled out letter by letter.\n\n✗ \"Sorry, that's my fault — let me be clearer.\" belongs to Fixing it when they misunderstood you — used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad, not this context.\nSimilar chunks:\n- My fault — let me rephrase.\n- No no — I think I said that badly. What I meant was...\n- I don't think I explained that well. Let me try again."
+    },
+    {
+      "id": 13,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You said a word and the other person clearly didn't catch it — repeating it louder isn't helping. Which chunk fits best?",
+      "options": {
+        "A": "I don't think I explained that well. Let me try again.",
+        "B": "It's [X] — spelled out letter by letter.",
+        "C": "Sorry?",
+        "D": "Ah, I see the confusion — I wasn't clear about [X]."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I don't think I explained that well. Let me try again.\" belongs to Fixing it when they misunderstood you — used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad, not this context.\nSimilar chunks:\n- No no — I think I said that badly. What I meant was...\n- Sorry, that's my fault — let me be clearer.\n- Ah, I see the confusion — I wasn't clear about [X].\n\n✓ Correct — \"It's [X] — spelled out letter by letter.\" is a Getting a mispronounced word understood chunk: used to get a mispronounced or unfamiliar word understood, without just repeating it louder.\nExample: \"It's Kubernetes — spelled out letter by letter: K-U-B-E-R-N-E-T-E-S.\"\nSimilar chunks:\n- [X] — you know, the thing we use for...\n- Sorry — let me use another word for that.\n- My accent's doing me no favours today.\n\n✗ \"Sorry?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- Sorry, you lost me after [X].\n- Come again?\n- Sorry, could you rephrase that?\n\n✗ \"Ah, I see the confusion — I wasn't clear about [X].\" belongs to Fixing it when they misunderstood you — used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad, not this context.\nSimilar chunks:\n- Let me put it differently...\n- No no — I think I said that badly. What I meant was...\n- My fault — let me rephrase."
+    },
+    {
+      "id": 14,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You said a word and the other person clearly didn't catch it — repeating it louder isn't helping. Which chunk fits best?",
+      "options": {
+        "A": "How do you say it?",
+        "B": "Ah, I see the confusion — I wasn't clear about [X].",
+        "C": "Let me put it differently...",
+        "D": "Sorry — [X]?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"How do you say it?\" is a Getting a mispronounced word understood chunk: used to get a mispronounced or unfamiliar word understood, without just repeating it louder.\nExample: \"How do you say it? I've only ever seen it written down.\"\nSimilar chunks:\n- It's [X] — spelled out letter by letter.\n- Am I saying that right?\n- [X] — you know, the thing we use for...\n\n✗ \"Ah, I see the confusion — I wasn't clear about [X].\" belongs to Fixing it when they misunderstood you — used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad, not this context.\nSimilar chunks:\n- No no — I think I said that badly. What I meant was...\n- Let me put it differently...\n- Sorry, that's my fault — let me be clearer.\n\n✗ \"Let me put it differently...\" belongs to Fixing it when they misunderstood you — used to fix a misunderstanding by taking the blame yourself, without making the listener feel bad, not this context.\nSimilar chunks:\n- I don't think I explained that well. Let me try again.\n- Ah, I see the confusion — I wasn't clear about [X].\n- That's not quite what I meant. I meant [X], not [Y].\n\n✗ \"Sorry — [X]?\" belongs to Asking someone to repeat themselves, more specifically each time — used to ask someone to repeat or clarify something, with increasing specificity each time, not this context.\nSimilar chunks:\n- Come again?\n- Sorry, could you rephrase that?\n- Sorry?"
+    }
+  ]
+}

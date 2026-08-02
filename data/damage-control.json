@@ -1,0 +1,216 @@
+{
+  "examId": "damage-control",
+  "title": "Chunk Atlas — Real-Time Fluency: Damage Control",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just realized you said the wrong number or fact, seconds after saying it. Which chunk fits best?",
+      "options": {
+        "A": "Right, I'll stick to the day job.",
+        "B": "I apologise — that was out of line.",
+        "C": "I think that's right, but let me verify and confirm after.",
+        "D": "Okay, moving on."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Right, I'll stick to the day job.\" belongs to Recovering from a joke that fell flat — used to recover gracefully when a joke falls flat, instead of explaining it, not this context.\nSimilar chunks:\n- Wow, nothing. Noted.\n- Tough crowd.\n- Okay, moving on.\n\n✗ \"I apologise — that was out of line.\" belongs to Recovering from a comment that came out wrong — used to recover quickly from a comment that came out harsher than intended, not this context.\nSimilar chunks:\n- I think I said that badly — are we okay?\n- That was a poor choice of words.\n- Sorry, that came out wrong.\n\n✓ Correct — \"I think that's right, but let me verify and confirm after.\" is a Correcting a wrong fact or number on the spot chunk: used to correct a wrong fact or number immediately, without dwelling on it.\nExample: \"I think that's right, but let me verify and confirm after the call.\"\nSimilar chunks:\n- Going back a slide — I gave you the wrong number earlier. It's [X].\n- Let me correct that figure — it's actually [X].\n- Correction: that's Q3, not Q2.\n\n✗ \"Okay, moving on.\" belongs to Recovering from a joke that fell flat — used to recover gracefully when a joke falls flat, instead of explaining it, not this context.\nSimilar chunks:\n- Wow, nothing. Noted.\n- That was funnier in my head.\n- Tough crowd."
+    },
+    {
+      "id": 2,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just realized you said the wrong number or fact, seconds after saying it. Which chunk fits best?",
+      "options": {
+        "A": "Going back a slide — I gave you the wrong number earlier. It's [X].",
+        "B": "Sorry, that came out wrong.",
+        "C": "...sorry, that sounded like a press release. What I mean is...",
+        "D": "Actually, let me walk that back — I need to check capacity first."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Going back a slide — I gave you the wrong number earlier. It's [X].\" is a Correcting a wrong fact or number on the spot chunk: used to correct a wrong fact or number immediately, without dwelling on it.\nExample: \"Going back a slide — I gave you the wrong number earlier. It's actually $12,000, not $1,200.\"\nSimilar chunks:\n- I misspoke — [X], not [Y].\n- I think that's right, but let me verify and confirm after.\n- Let me correct that figure — it's actually [X].\n\n✗ \"Sorry, that came out wrong.\" belongs to Recovering from a comment that came out wrong — used to recover quickly from a comment that came out harsher than intended, not this context.\nSimilar chunks:\n- That sounded harsher than I meant it.\n- That was a poor choice of words.\n- I think I said that badly — are we okay?\n\n✗ \"...sorry, that sounded like a press release. What I mean is...\" belongs to Correcting your tone or register mid-conversation — used to correct your tone or register mid-conversation, without making a big deal of it, not this context.\nSimilar chunks:\n- Let me put that more plainly.\n- Sorry — that was flippant. To be serious for a moment...\n- Sorry, that's internal jargon — [explanation].\n\n✗ \"Actually, let me walk that back — I need to check capacity first.\" belongs to Walking back a promise you shouldn't have made — used to walk back a promise you shouldn't have made, before it becomes a broken commitment, not this context.\nSimilar chunks:\n- Let me revise that: I can commit to [X], but not [Y].\n- That works, assuming [condition]. If not, we'd need to revisit.\n- Actually, I shouldn't commit to that until I've spoken to the team."
+    },
+    {
+      "id": 3,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just realized you said the wrong number or fact, seconds after saying it. Which chunk fits best?",
+      "options": {
+        "A": "Sorry — 15%, not 50%. Let me say that again: 15%.",
+        "B": "Actually, I shouldn't commit to that until I've spoken to the team.",
+        "C": "Actually, let me walk that back — I need to check capacity first.",
+        "D": "I apologise — that was out of line."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Sorry — 15%, not 50%. Let me say that again: 15%.\" is a Correcting a wrong fact or number on the spot chunk: used to correct a wrong fact or number immediately, without dwelling on it.\nExample: \"Sorry — 15%, not 50%. Let me say that again: 15%, that's the actual conversion rate.\"\nSimilar chunks:\n- Let me correct that figure — it's actually [X].\n- I misspoke — [X], not [Y].\n- Going back a slide — I gave you the wrong number earlier. It's [X].\n\n✗ \"Actually, I shouldn't commit to that until I've spoken to the team.\" belongs to Walking back a promise you shouldn't have made — used to walk back a promise you shouldn't have made, before it becomes a broken commitment, not this context.\nSimilar chunks:\n- Actually, let me walk that back — I need to check capacity first.\n- That works, assuming [condition]. If not, we'd need to revisit.\n- I've had a think — I was too optimistic on the timeline. Here's what's realistic.\n\n✗ \"Actually, let me walk that back — I need to check capacity first.\" belongs to Walking back a promise you shouldn't have made — used to walk back a promise you shouldn't have made, before it becomes a broken commitment, not this context.\nSimilar chunks:\n- That works, assuming [condition]. If not, we'd need to revisit.\n- I've had a think — I was too optimistic on the timeline. Here's what's realistic.\n- Let me revise that: I can commit to [X], but not [Y].\n\n✗ \"I apologise — that was out of line.\" belongs to Recovering from a comment that came out wrong — used to recover quickly from a comment that came out harsher than intended, not this context.\nSimilar chunks:\n- Sorry, that came out wrong.\n- That sounded harsher than I meant it.\n- Let me rephrase that — I didn't mean it the way it sounded."
+    },
+    {
+      "id": 4,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just promised something in the moment that you're not actually sure you can deliver. Which chunk fits best?",
+      "options": {
+        "A": "Wow, nothing. Noted.",
+        "B": "That works, assuming [condition]. If not, we'd need to revisit.",
+        "C": "Sorry — that was flippant. To be serious for a moment...",
+        "D": "...sorry, that sounded like a press release. What I mean is..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Wow, nothing. Noted.\" belongs to Recovering from a joke that fell flat — used to recover gracefully when a joke falls flat, instead of explaining it, not this context.\nSimilar chunks:\n- I'll see myself out.\n- Tough crowd.\n- Okay, moving on.\n\n✓ Correct — \"That works, assuming [condition]. If not, we'd need to revisit.\" is a Walking back a promise you shouldn't have made chunk: used to walk back a promise you shouldn't have made, before it becomes a broken commitment.\nExample: \"That works, assuming the vendor delivers on time. If not, we'd need to revisit.\"\nSimilar chunks:\n- I've had a think — I was too optimistic on the timeline. Here's what's realistic.\n- Let me revise that: I can commit to [X], but not [Y].\n- Actually, I shouldn't commit to that until I've spoken to the team.\n\n✗ \"Sorry — that was flippant. To be serious for a moment...\" belongs to Correcting your tone or register mid-conversation — used to correct your tone or register mid-conversation, without making a big deal of it, not this context.\nSimilar chunks:\n- Let me put that more plainly.\n- Sorry, that's internal jargon — [explanation].\n- ...sorry, that sounded like a press release. What I mean is...\n\n✗ \"...sorry, that sounded like a press release. What I mean is...\" belongs to Correcting your tone or register mid-conversation — used to correct your tone or register mid-conversation, without making a big deal of it, not this context.\nSimilar chunks:\n- Let me put that more plainly.\n- Sorry, that's internal jargon — [explanation].\n- Sorry — that was flippant. To be serious for a moment..."
+    },
+    {
+      "id": 5,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You just promised something in the moment that you're not actually sure you can deliver. Which chunk fits best?",
+      "options": {
+        "A": "Sorry, remind me of your name — I'm terrible with names, it's not personal.",
+        "B": "That sounded harsher than I meant it.",
+        "C": "Correction: that's Q3, not Q2.",
+        "D": "Actually, let me walk that back — I need to check capacity first."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Sorry, remind me of your name — I'm terrible with names, it's not personal.\" belongs to Recovering when you forget a name or term — used to recover honestly when you forget a name or term mid-introduction, not this context.\nSimilar chunks:\n- The... you know the one — [description]. Help me out.\n- I'm so sorry — your name has completely gone.\n- What's the official term for this? I've blanked.\n\n✗ \"That sounded harsher than I meant it.\" belongs to Recovering from a comment that came out wrong — used to recover quickly from a comment that came out harsher than intended, not this context.\nSimilar chunks:\n- Let me rephrase that — I didn't mean it the way it sounded.\n- I apologise — that was out of line.\n- That was a poor choice of words.\n\n✗ \"Correction: that's Q3, not Q2.\" belongs to Correcting a wrong fact or number on the spot — used to correct a wrong fact or number immediately, without dwelling on it, not this context.\nSimilar chunks:\n- I misspoke — [X], not [Y].\n- I think that's right, but let me verify and confirm after.\n- Going back a slide — I gave you the wrong number earlier. It's [X].\n\n✓ Correct — \"Actually, let me walk that back — I need to check capacity first.\" is a Walking back a promise you shouldn't have made chunk: used to walk back a promise you shouldn't have made, before it becomes a broken commitment.\nExample: \"Actually, let me walk that back — I need to check capacity with the team first.\"\nSimilar chunks:\n- Let me revise that: I can commit to [X], but not [Y].\n- That works, assuming [condition]. If not, we'd need to revisit.\n- I've had a think — I was too optimistic on the timeline. Here's what's realistic."
+    },
+    {
+      "id": 6,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Something you said came out sounding harsher or ruder than you intended. Which chunk fits best?",
+      "options": {
+        "A": "Let me correct that figure — it's actually [X].",
+        "B": "Have you two met?",
+        "C": "Let me rephrase that — I didn't mean it the way it sounded.",
+        "D": "Okay, moving on."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Let me correct that figure — it's actually [X].\" belongs to Correcting a wrong fact or number on the spot — used to correct a wrong fact or number immediately, without dwelling on it, not this context.\nSimilar chunks:\n- Sorry — 15%, not 50%. Let me say that again: 15%.\n- Going back a slide — I gave you the wrong number earlier. It's [X].\n- I misspoke — [X], not [Y].\n\n✗ \"Have you two met?\" belongs to Recovering when you forget a name or term — used to recover honestly when you forget a name or term mid-introduction, not this context.\nSimilar chunks:\n- What's the official term for this? I've blanked.\n- I'm so sorry — your name has completely gone.\n- The... you know the one — [description]. Help me out.\n\n✓ Correct — \"Let me rephrase that — I didn't mean it the way it sounded.\" is a Recovering from a comment that came out wrong chunk: used to recover quickly from a comment that came out harsher than intended.\nExample: \"Let me rephrase that — I didn't mean it the way it sounded.\"\nSimilar chunks:\n- That sounded harsher than I meant it.\n- I think I said that badly — are we okay?\n- Sorry, that came out wrong.\n\n✗ \"Okay, moving on.\" belongs to Recovering from a joke that fell flat — used to recover gracefully when a joke falls flat, instead of explaining it, not this context.\nSimilar chunks:\n- That was funnier in my head.\n- I'll see myself out.\n- Right, I'll stick to the day job."
+    },
+    {
+      "id": 7,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Something you said came out sounding harsher or ruder than you intended. Which chunk fits best?",
+      "options": {
+        "A": "I misspoke — [X], not [Y].",
+        "B": "I'll see myself out.",
+        "C": "Sorry, that came out wrong.",
+        "D": "That works, assuming [condition]. If not, we'd need to revisit."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I misspoke — [X], not [Y].\" belongs to Correcting a wrong fact or number on the spot — used to correct a wrong fact or number immediately, without dwelling on it, not this context.\nSimilar chunks:\n- Correction: that's Q3, not Q2.\n- Sorry — 15%, not 50%. Let me say that again: 15%.\n- Let me correct that figure — it's actually [X].\n\n✗ \"I'll see myself out.\" belongs to Recovering from a joke that fell flat — used to recover gracefully when a joke falls flat, instead of explaining it, not this context.\nSimilar chunks:\n- Okay, moving on.\n- That was funnier in my head.\n- Wow, nothing. Noted.\n\n✓ Correct — \"Sorry, that came out wrong.\" is a Recovering from a comment that came out wrong chunk: used to recover quickly from a comment that came out harsher than intended.\nExample: \"Sorry, that came out wrong — I didn't mean it as a criticism.\"\nSimilar chunks:\n- Let me rephrase that — I didn't mean it the way it sounded.\n- I apologise — that was out of line.\n- That was a poor choice of words.\n\n✗ \"That works, assuming [condition]. If not, we'd need to revisit.\" belongs to Walking back a promise you shouldn't have made — used to walk back a promise you shouldn't have made, before it becomes a broken commitment, not this context.\nSimilar chunks:\n- Actually, I shouldn't commit to that until I've spoken to the team.\n- Let me revise that: I can commit to [X], but not [Y].\n- Actually, let me walk that back — I need to check capacity first."
+    },
+    {
+      "id": 8,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "Something you said came out sounding harsher or ruder than you intended. Which chunk fits best?",
+      "options": {
+        "A": "Correction: that's Q3, not Q2.",
+        "B": "Tough crowd.",
+        "C": "I've had a think — I was too optimistic on the timeline. Here's what's realistic.",
+        "D": "That sounded harsher than I meant it."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Correction: that's Q3, not Q2.\" belongs to Correcting a wrong fact or number on the spot — used to correct a wrong fact or number immediately, without dwelling on it, not this context.\nSimilar chunks:\n- Going back a slide — I gave you the wrong number earlier. It's [X].\n- Let me correct that figure — it's actually [X].\n- Sorry — 15%, not 50%. Let me say that again: 15%.\n\n✗ \"Tough crowd.\" belongs to Recovering from a joke that fell flat — used to recover gracefully when a joke falls flat, instead of explaining it, not this context.\nSimilar chunks:\n- Right, I'll stick to the day job.\n- I'll see myself out.\n- Wow, nothing. Noted.\n\n✗ \"I've had a think — I was too optimistic on the timeline. Here's what's realistic.\" belongs to Walking back a promise you shouldn't have made — used to walk back a promise you shouldn't have made, before it becomes a broken commitment, not this context.\nSimilar chunks:\n- Actually, let me walk that back — I need to check capacity first.\n- Let me revise that: I can commit to [X], but not [Y].\n- That works, assuming [condition]. If not, we'd need to revisit.\n\n✓ Correct — \"That sounded harsher than I meant it.\" is a Recovering from a comment that came out wrong chunk: used to recover quickly from a comment that came out harsher than intended.\nExample: \"That sounded harsher than I meant it — I was just frustrated with the delay.\"\nSimilar chunks:\n- I apologise — that was out of line.\n- Let me rephrase that — I didn't mean it the way it sounded.\n- That was a poor choice of words."
+    },
+    {
+      "id": 9,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You made a joke and it landed with dead silence. Which chunk fits best?",
+      "options": {
+        "A": "I think I said that badly — are we okay?",
+        "B": "Correction: that's Q3, not Q2.",
+        "C": "Right, I'll stick to the day job.",
+        "D": "That sounded harsher than I meant it."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I think I said that badly — are we okay?\" belongs to Recovering from a comment that came out wrong — used to recover quickly from a comment that came out harsher than intended, not this context.\nSimilar chunks:\n- Sorry, that came out wrong.\n- I apologise — that was out of line.\n- Let me rephrase that — I didn't mean it the way it sounded.\n\n✗ \"Correction: that's Q3, not Q2.\" belongs to Correcting a wrong fact or number on the spot — used to correct a wrong fact or number immediately, without dwelling on it, not this context.\nSimilar chunks:\n- Let me correct that figure — it's actually [X].\n- I misspoke — [X], not [Y].\n- Going back a slide — I gave you the wrong number earlier. It's [X].\n\n✓ Correct — \"Right, I'll stick to the day job.\" is a Recovering from a joke that fell flat chunk: used to recover gracefully when a joke falls flat, instead of explaining it.\nExample: \"Right, I'll stick to the day job — back to the roadmap.\"\nSimilar chunks:\n- That was funnier in my head.\n- I'll see myself out.\n- Wow, nothing. Noted.\n\n✗ \"That sounded harsher than I meant it.\" belongs to Recovering from a comment that came out wrong — used to recover quickly from a comment that came out harsher than intended, not this context.\nSimilar chunks:\n- That was a poor choice of words.\n- I think I said that badly — are we okay?\n- Sorry, that came out wrong."
+    },
+    {
+      "id": 10,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You made a joke and it landed with dead silence. Which chunk fits best?",
+      "options": {
+        "A": "Sorry, that's internal jargon — [explanation].",
+        "B": "I apologise — that was out of line.",
+        "C": "That was funnier in my head.",
+        "D": "I've had a think — I was too optimistic on the timeline. Here's what's realistic."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Sorry, that's internal jargon — [explanation].\" belongs to Correcting your tone or register mid-conversation — used to correct your tone or register mid-conversation, without making a big deal of it, not this context.\nSimilar chunks:\n- ...sorry, that sounded like a press release. What I mean is...\n- Let me put that more plainly.\n- Sorry — that was flippant. To be serious for a moment...\n\n✗ \"I apologise — that was out of line.\" belongs to Recovering from a comment that came out wrong — used to recover quickly from a comment that came out harsher than intended, not this context.\nSimilar chunks:\n- I think I said that badly — are we okay?\n- Sorry, that came out wrong.\n- That sounded harsher than I meant it.\n\n✓ Correct — \"That was funnier in my head.\" is a Recovering from a joke that fell flat chunk: used to recover gracefully when a joke falls flat, instead of explaining it.\nExample: \"That was funnier in my head. Anyway, moving on.\"\nSimilar chunks:\n- Right, I'll stick to the day job.\n- Wow, nothing. Noted.\n- I'll see myself out.\n\n✗ \"I've had a think — I was too optimistic on the timeline. Here's what's realistic.\" belongs to Walking back a promise you shouldn't have made — used to walk back a promise you shouldn't have made, before it becomes a broken commitment, not this context.\nSimilar chunks:\n- Actually, let me walk that back — I need to check capacity first.\n- Let me revise that: I can commit to [X], but not [Y].\n- Actually, I shouldn't commit to that until I've spoken to the team."
+    },
+    {
+      "id": 11,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You made a joke and it landed with dead silence. Which chunk fits best?",
+      "options": {
+        "A": "...sorry, that sounded like a press release. What I mean is...",
+        "B": "I apologise — that was out of line.",
+        "C": "Tough crowd.",
+        "D": "Have you two met?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"...sorry, that sounded like a press release. What I mean is...\" belongs to Correcting your tone or register mid-conversation — used to correct your tone or register mid-conversation, without making a big deal of it, not this context.\nSimilar chunks:\n- Let me put that more plainly.\n- Sorry, that's internal jargon — [explanation].\n- Sorry — that was flippant. To be serious for a moment...\n\n✗ \"I apologise — that was out of line.\" belongs to Recovering from a comment that came out wrong — used to recover quickly from a comment that came out harsher than intended, not this context.\nSimilar chunks:\n- I think I said that badly — are we okay?\n- That sounded harsher than I meant it.\n- Sorry, that came out wrong.\n\n✓ Correct — \"Tough crowd.\" is a Recovering from a joke that fell flat chunk: used to recover gracefully when a joke falls flat, instead of explaining it.\nExample: \"Tough crowd. Okay, let's get back to the roadmap.\"\nSimilar chunks:\n- That was funnier in my head.\n- Okay, moving on.\n- Wow, nothing. Noted.\n\n✗ \"Have you two met?\" belongs to Recovering when you forget a name or term — used to recover honestly when you forget a name or term mid-introduction, not this context.\nSimilar chunks:\n- I'm so sorry — your name has completely gone.\n- Sorry, remind me of your name — I'm terrible with names, it's not personal.\n- The... you know the one — [description]. Help me out."
+    },
+    {
+      "id": 12,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You realize you just used the wrong tone or register for the audience you're talking to. Which chunk fits best?",
+      "options": {
+        "A": "Let me correct that figure — it's actually [X].",
+        "B": "I apologise — that was out of line.",
+        "C": "I'll see myself out.",
+        "D": "Sorry, that's internal jargon — [explanation]."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let me correct that figure — it's actually [X].\" belongs to Correcting a wrong fact or number on the spot — used to correct a wrong fact or number immediately, without dwelling on it, not this context.\nSimilar chunks:\n- I think that's right, but let me verify and confirm after.\n- Going back a slide — I gave you the wrong number earlier. It's [X].\n- I misspoke — [X], not [Y].\n\n✗ \"I apologise — that was out of line.\" belongs to Recovering from a comment that came out wrong — used to recover quickly from a comment that came out harsher than intended, not this context.\nSimilar chunks:\n- That was a poor choice of words.\n- Let me rephrase that — I didn't mean it the way it sounded.\n- Sorry, that came out wrong.\n\n✗ \"I'll see myself out.\" belongs to Recovering from a joke that fell flat — used to recover gracefully when a joke falls flat, instead of explaining it, not this context.\nSimilar chunks:\n- That was funnier in my head.\n- Right, I'll stick to the day job.\n- Wow, nothing. Noted.\n\n✓ Correct — \"Sorry, that's internal jargon — [explanation].\" is a Correcting your tone or register mid-conversation chunk: used to correct your tone or register mid-conversation, without making a big deal of it.\nExample: \"Sorry, that's internal jargon — I meant our ticket triage process.\"\nSimilar chunks:\n- Sorry — that was flippant. To be serious for a moment...\n- Let me put that more plainly.\n- ...sorry, that sounded like a press release. What I mean is..."
+    },
+    {
+      "id": 13,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You realize you just used the wrong tone or register for the audience you're talking to. Which chunk fits best?",
+      "options": {
+        "A": "Let me put that more plainly.",
+        "B": "I think that's right, but let me verify and confirm after.",
+        "C": "That was a poor choice of words.",
+        "D": "That was funnier in my head."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Let me put that more plainly.\" is a Correcting your tone or register mid-conversation chunk: used to correct your tone or register mid-conversation, without making a big deal of it.\nExample: \"Let me put that more plainly: we're behind schedule.\"\nSimilar chunks:\n- Sorry — that was flippant. To be serious for a moment...\n- ...sorry, that sounded like a press release. What I mean is...\n- Sorry, that's internal jargon — [explanation].\n\n✗ \"I think that's right, but let me verify and confirm after.\" belongs to Correcting a wrong fact or number on the spot — used to correct a wrong fact or number immediately, without dwelling on it, not this context.\nSimilar chunks:\n- Sorry — 15%, not 50%. Let me say that again: 15%.\n- Let me correct that figure — it's actually [X].\n- Going back a slide — I gave you the wrong number earlier. It's [X].\n\n✗ \"That was a poor choice of words.\" belongs to Recovering from a comment that came out wrong — used to recover quickly from a comment that came out harsher than intended, not this context.\nSimilar chunks:\n- Sorry, that came out wrong.\n- I think I said that badly — are we okay?\n- I apologise — that was out of line.\n\n✗ \"That was funnier in my head.\" belongs to Recovering from a joke that fell flat — used to recover gracefully when a joke falls flat, instead of explaining it, not this context.\nSimilar chunks:\n- Wow, nothing. Noted.\n- Tough crowd.\n- Right, I'll stick to the day job."
+    },
+    {
+      "id": 14,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're in the middle of introducing someone and suddenly forget their name. Which chunk fits best?",
+      "options": {
+        "A": "Sorry — that was flippant. To be serious for a moment...",
+        "B": "I think I said that badly — are we okay?",
+        "C": "Sorry, remind me of your name — I'm terrible with names, it's not personal.",
+        "D": "Wow, nothing. Noted."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Sorry — that was flippant. To be serious for a moment...\" belongs to Correcting your tone or register mid-conversation — used to correct your tone or register mid-conversation, without making a big deal of it, not this context.\nSimilar chunks:\n- ...sorry, that sounded like a press release. What I mean is...\n- Sorry, that's internal jargon — [explanation].\n- Let me put that more plainly.\n\n✗ \"I think I said that badly — are we okay?\" belongs to Recovering from a comment that came out wrong — used to recover quickly from a comment that came out harsher than intended, not this context.\nSimilar chunks:\n- Let me rephrase that — I didn't mean it the way it sounded.\n- Sorry, that came out wrong.\n- I apologise — that was out of line.\n\n✓ Correct — \"Sorry, remind me of your name — I'm terrible with names, it's not personal.\" is a Recovering when you forget a name or term chunk: used to recover honestly when you forget a name or term mid-introduction.\nExample: \"Sorry, remind me of your name — I'm terrible with names, it's not personal.\"\nSimilar chunks:\n- I'm so sorry — your name has completely gone.\n- The... you know the one — [description]. Help me out.\n- Have you two met?\n\n✗ \"Wow, nothing. Noted.\" belongs to Recovering from a joke that fell flat — used to recover gracefully when a joke falls flat, instead of explaining it, not this context.\nSimilar chunks:\n- Right, I'll stick to the day job.\n- That was funnier in my head.\n- Okay, moving on."
+    },
+    {
+      "id": 15,
+      "ka": "fluency",
+      "kaName": "Real-Time Fluency",
+      "question": "You're in the middle of introducing someone and suddenly forget their name. Which chunk fits best?",
+      "options": {
+        "A": "I'll see myself out.",
+        "B": "Have you two met?",
+        "C": "That works, assuming [condition]. If not, we'd need to revisit.",
+        "D": "Let me revise that: I can commit to [X], but not [Y]."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'll see myself out.\" belongs to Recovering from a joke that fell flat — used to recover gracefully when a joke falls flat, instead of explaining it, not this context.\nSimilar chunks:\n- Okay, moving on.\n- Right, I'll stick to the day job.\n- That was funnier in my head.\n\n✓ Correct — \"Have you two met?\" is a Recovering when you forget a name or term chunk: used to recover honestly when you forget a name or term mid-introduction.\nExample: \"Have you two met? You're both on the platform team, right?\"\nSimilar chunks:\n- Sorry, remind me of your name — I'm terrible with names, it's not personal.\n- The... you know the one — [description]. Help me out.\n- I'm so sorry — your name has completely gone.\n\n✗ \"That works, assuming [condition]. If not, we'd need to revisit.\" belongs to Walking back a promise you shouldn't have made — used to walk back a promise you shouldn't have made, before it becomes a broken commitment, not this context.\nSimilar chunks:\n- Actually, I shouldn't commit to that until I've spoken to the team.\n- Let me revise that: I can commit to [X], but not [Y].\n- I've had a think — I was too optimistic on the timeline. Here's what's realistic.\n\n✗ \"Let me revise that: I can commit to [X], but not [Y].\" belongs to Walking back a promise you shouldn't have made — used to walk back a promise you shouldn't have made, before it becomes a broken commitment, not this context.\nSimilar chunks:\n- That works, assuming [condition]. If not, we'd need to revisit.\n- I've had a think — I was too optimistic on the timeline. Here's what's realistic.\n- Actually, let me walk that back — I need to check capacity first."
+    }
+  ]
+}

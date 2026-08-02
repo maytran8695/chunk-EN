@@ -1,29 +1,20 @@
-import json, os, random
-
-random.seed(42)
+import os
+import sys
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-OUT_PATH = os.path.join(SCRIPT_DIR, "..", "data", "core-patterns.json")
+sys.path.insert(0, SCRIPT_DIR)
+from lib import generate_topic
+
+OUT_PATH = os.path.join(SCRIPT_DIR, "..", "data", "core.json")
 
 # Phrase content below is copied by hand from the "Core Patterns" topic
 # (tier "core" / nav tab "Situations") in ChunkAtlas_EN.jsx — sections
 # H1-H14 (H15 skipped: it's meta-advice, not a distinct phrase set).
 # H14 is split into 5 finer sub-groups since it bundles 5 unrelated
 # functions (structuring / opinion / hedging-degree / contrast / cause-effect).
-#
-# Filtering/scoring in the app is done at TIER level (the 5 big nav tabs of
-# ChunkAtlas_EN.jsx) — NOT at this fine function-group level (too many for a
-# filter UI). The fine group name/usage_note/example ARE used inside each
-# question's explanation text, for learning value.
 TIER_ID = "core"
 TIER_NAME = "Situations"
 
-# Each group: (function_label, question_context_en, usage_note_en, [(phrase, example_sentence), ...])
-# - question_context_en: the situation described in the question stem ("You...")
-# - usage_note_en: general "used when..." explanation, used when a phrase from
-#   this group appears as a WRONG answer, to explain what it actually fits.
-# - example_sentence: a natural sentence using that exact phrase, shown for
-#   whichever phrase ends up as the CORRECT answer.
 groups_def = [
     ("Opening",
      "You've just joined a meeting and need to open it so people get started.",
@@ -230,102 +221,12 @@ groups_def = [
      ]),
 ]
 
-# flat lookup: group name -> (context, usage_note, [(phrase, example), ...])
-GROUPS = {name: (ctx, note, phrases) for name, ctx, note, phrases in groups_def}
-# global phrase -> group name map (for distractor sourcing)
-all_phrases = []
-for name, ctx, note, phrases in groups_def:
-    for phrase, example in phrases:
-        all_phrases.append((name, phrase))
-
-
-def equivalents_for(group_name, exclude_phrase, k=3):
-    _, _, phrases = GROUPS[group_name]
-    pool = [p for p, _ in phrases if p != exclude_phrase]
-    random.shuffle(pool)
-    return pool[:k]
-
-
-def build_question(qid, name, ctx, usage_note, phrases, used_correct):
-    # pick a correct phrase not yet used for this group if possible
-    candidates = [p for p, _ in phrases if p not in used_correct.get(name, set())]
-    if not candidates:
-        candidates = [p for p, _ in phrases]
-    correct_phrase = random.choice(candidates)
-    correct_example = dict(phrases)[correct_phrase]
-    used_correct.setdefault(name, set()).add(correct_phrase)
-
-    # distractors: 3 phrases from OTHER groups, no repeats
-    other_pool = [(n, p) for n, p in all_phrases if n != name]
-    random.shuffle(other_pool)
-    distractors = []
-    seen_phrases = set()
-    for n, p in other_pool:
-        if p == correct_phrase or p in seen_phrases:
-            continue
-        distractors.append((n, p))
-        seen_phrases.add(p)
-        if len(distractors) == 3:
-            break
-
-    # assemble the 4 options: (phrase, is_correct, group_name)
-    all_options = [(correct_phrase, True, name)] + [(p, False, n) for n, p in distractors]
-    random.shuffle(all_options)
-    letters = ["A", "B", "C", "D"]
-    options = {}
-    explanation_blocks = []
-    correct_letter = None
-    for letter, (phrase, is_correct, group_name) in zip(letters, all_options):
-        options[letter] = phrase
-        if is_correct:
-            correct_letter = letter
-            eqs = equivalents_for(group_name, phrase, k=3)
-            eqs_str = " · ".join(f'"{e}"' for e in eqs)
-            article = "an" if group_name[0] in "AEIOU" else "a"
-            block = (
-                f'✓ Correct — "{phrase}" is {article} {group_name} chunk: {usage_note}.\n'
-                f'Example: "{correct_example}"'
-                + (f'\nOther ways to say it: {eqs_str}' if eqs else '')
-            )
-        else:
-            g_ctx, g_note, g_phrases = GROUPS[group_name]
-            eqs = equivalents_for(group_name, phrase, k=3)
-            eqs_str = " · ".join(f'"{e}"' for e in eqs)
-            block = (
-                f'✗ "{phrase}" belongs to {group_name} — {g_note}, not this context.'
-                + (f'\nOther ways to say it (same group): {eqs_str}' if eqs else '')
-            )
-        explanation_blocks.append(block)
-
-    explanation = "\n\n".join(explanation_blocks)
-
-    return {
-        "id": qid,
-        "ka": TIER_ID,
-        "kaName": TIER_NAME,
-        "question": ctx + " Which chunk fits best?",
-        "options": options,
-        "correct": correct_letter,
-        "explanation": explanation,
-    }
-
-
-questions = []
-qid = 1
-used_correct = {}
-# generate ~3 questions per group (or len(phrases) if fewer), capped at 4
-for name, ctx, usage_note, phrases in groups_def:
-    n = min(4, max(2, len(phrases) // 2))
-    for _ in range(n):
-        questions.append(build_question(qid, name, ctx, usage_note, phrases, used_correct))
-        qid += 1
-
-print("total questions:", len(questions))
-out = {
-    "examId": "core",
-    "title": "Chunk Atlas — Situations: Core Patterns",
-    "questions": questions,
-}
-with open(OUT_PATH, 'w') as f:
-    json.dump(out, f, ensure_ascii=False, indent=2)
-print("wrote", OUT_PATH)
+if __name__ == "__main__":
+    generate_topic(
+        out_path=OUT_PATH,
+        exam_id="core",
+        title="Chunk Atlas — Situations: Core Patterns",
+        tier_id=TIER_ID,
+        tier_name=TIER_NAME,
+        groups_def=groups_def,
+    )

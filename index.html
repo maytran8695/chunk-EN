@@ -14,11 +14,18 @@
   <section id="screen-home" class="screen">
     <header class="app-header">
       <h1>Chunk Atlas Quiz</h1>
-      <p class="subtitle">Practice English business-communication chunks — pilot: Core Patterns <small id="count-core"></small></p>
+      <p class="subtitle">Practice English business-communication chunks</p>
     </header>
 
     <div class="card">
-      <h2>1. Filter by tab</h2>
+      <h2>1. Choose a topic</h2>
+      <div id="source-select">
+        <!-- filled dynamically from TOPICS, see app.js renderSourceSelect() -->
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>2. Filter by tab</h2>
       <div class="ka-actions">
         <button type="button" class="link-btn" id="ka-select-all">Select all</button>
         <button type="button" class="link-btn" id="ka-select-none">Deselect all</button>
@@ -29,7 +36,7 @@
     </div>
 
     <div class="card">
-      <h2>2. Mode</h2>
+      <h2>3. Mode</h2>
       <div class="option-grid" id="mode-select">
         <label class="pill-radio">
           <input type="radio" name="mode" value="practice" checked>

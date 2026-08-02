@@ -1,0 +1,846 @@
+{
+  "examId": "nuance-delivery",
+  "title": "Chunk Atlas — Situations: Nuance, Delivery & Written Register",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to react to something you don't actually like, or make a request, without sounding blunt or starting a confrontation. Which chunk fits best?",
+      "options": {
+        "A": "I hear what you're saying.",
+        "B": "I took the initiative to...",
+        "C": "Many thanks,",
+        "D": "Ideas propagate like viruses..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I hear what you're saying.\" is a Reading & Using Indirect, Understated Signals chunk: used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words.\nExample: \"I hear what you're saying, but I still think we should wait until Q2.\"\nSimilar chunks:\n- With all due respect...\n- That's interesting.\n- Perhaps we could consider...\n\n✗ \"I took the initiative to...\" belongs to Answering Behavioral Questions (STAR Method) — used to structure a behavioral interview answer using the STAR method (Situation, Task, Action, Result), not this context.\nSimilar chunks:\n- In my previous role, we were facing...\n- This led to a 20% improvement in...\n- As a result, we were able to...\n\n✗ \"Many thanks,\" belongs to Closing a Professional Email — used to close a professional email politely, not this context.\nSimilar chunks:\n- I look forward to hearing from you.\n- Kind regards,\n- Please do not hesitate to reach out should you have any questions.\n\n✗ \"Ideas propagate like viruses...\" belongs to Academic Metaphors & Analogies — used in academic writing to explain an abstract idea through a vivid metaphor or analogy, not this context.\nSimilar chunks:\n- The self is a center of narrative gravity..."
+    },
+    {
+      "id": 2,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to react to something you don't actually like, or make a request, without sounding blunt or starting a confrontation. Which chunk fits best?",
+      "options": {
+        "A": "Could we move the deadline?",
+        "B": "I am writing to request...",
+        "C": "No worries if not!",
+        "D": "I would be grateful if you could clarify..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Could we move the deadline?\" belongs to Adjusting Directness of a Request by Formality — used to make the same request at different levels of directness, depending on seniority and closeness of the relationship, not this context.\nSimilar chunks:\n- We need to move the deadline.\n- I don't suppose there's any chance we could move the deadline?\n- Would it be possible to move the deadline?\n\n✗ \"I am writing to request...\" belongs to Opening & Stating Purpose in an Email — used to open a professional email and state its purpose clearly, not this context.\nSimilar chunks:\n- I hope this email finds you well.\n- Further to our conversation earlier today, ...\n- Following up on our call, I wanted to confirm...\n\n✓ Correct — \"No worries if not!\" is a Reading & Using Indirect, Understated Signals chunk: used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words.\nExample: \"Could you send that over today? No worries if not!\"\nSimilar chunks:\n- We should catch up sometime.\n- I hear what you're saying.\n- That's interesting.\n\n✗ \"I would be grateful if you could clarify...\" belongs to Making a Clear Written Request — used to make a clear, polite written request for action, not this context.\nSimilar chunks:\n- I would appreciate it if you could review this by [date].\n- Kindly find attached...\n- Please see attached for your reference."
+    },
+    {
+      "id": 3,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to react to something you don't actually like, or make a request, without sounding blunt or starting a confrontation. Which chunk fits best?",
+      "options": {
+        "A": "It's not bad.",
+        "B": "I was responsible for...",
+        "C": "per my last email",
+        "D": "So what I did was..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"It's not bad.\" is a Reading & Using Indirect, Understated Signals chunk: used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words.\nExample: \"I tried the new dashboard — it's not bad, actually.\"\nSimilar chunks:\n- I hear what you're saying.\n- I only have a few minor comments.\n- With respect...\n\n✗ \"I was responsible for...\" belongs to Answering Behavioral Questions (STAR Method) — used to structure a behavioral interview answer using the STAR method (Situation, Task, Action, Result), not this context.\nSimilar chunks:\n- This led to a 20% improvement in...\n- As a result, we were able to...\n- I took the initiative to...\n\n✗ \"per my last email\" belongs to Decoding Passive or Deflecting Written Signals — a short or formal-sounding phrase that often signals irritation, reluctant agreement, or a soft no, rather than its literal meaning, not this context.\nSimilar chunks:\n- Ok.\n- as mentioned below\n- Let me think about it.\n\n✗ \"So what I did was...\" belongs to Answering Behavioral Questions (STAR Method) — used to structure a behavioral interview answer using the STAR method (Situation, Task, Action, Result), not this context.\nSimilar chunks:\n- As a result, we were able to...\n- In my previous role, we were facing...\n- This led to a 20% improvement in..."
+    },
+    {
+      "id": 4,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to react to something you don't actually like, or make a request, without sounding blunt or starting a confrontation. Which chunk fits best?",
+      "options": {
+        "A": "Ideas propagate like viruses...",
+        "B": "Let's steelman the opposing view...",
+        "C": "Please do not hesitate to reach out should you have any questions.",
+        "D": "I only have a few minor comments."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Ideas propagate like viruses...\" belongs to Academic Metaphors & Analogies — used in academic writing to explain an abstract idea through a vivid metaphor or analogy, not this context.\nSimilar chunks:\n- The self is a center of narrative gravity...\n\n✗ \"Let's steelman the opposing view...\" belongs to Addressing Counterarguments (Academic) — used in academic register to acknowledge an opposing view fairly before responding to it, not this context.\nSimilar chunks:\n- It might be tempting to think that..., however...\n\n✗ \"Please do not hesitate to reach out should you have any questions.\" belongs to Closing a Professional Email — used to close a professional email politely, not this context.\nSimilar chunks:\n- I look forward to hearing from you.\n- Looking forward to your feedback.\n- Thank you for your time and consideration.\n\n✓ Correct — \"I only have a few minor comments.\" is a Reading & Using Indirect, Understated Signals chunk: used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words.\nExample: \"I only have a few minor comments on the draft — mostly around section three.\"\nSimilar chunks:\n- It's not bad.\n- With all due respect...\n- No worries if not!"
+    },
+    {
+      "id": 5,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to ask someone to change a deadline, and want to choose how direct or cushioned the request sounds depending on who you're asking. Which chunk fits best?",
+      "options": {
+        "A": "We need to move the deadline.",
+        "B": "Best regards,",
+        "C": "Please accept my apologies for the oversight.",
+        "D": "I hope this email finds you well."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"We need to move the deadline.\" is an Adjusting Directness of a Request by Formality chunk: used to make the same request at different levels of directness, depending on seniority and closeness of the relationship.\nExample: \"We need to move the deadline — there's no way we finish testing by Thursday.\"\nSimilar chunks:\n- I don't suppose there's any chance we could move the deadline?\n- Could we move the deadline?\n- Would it be possible to move the deadline?\n\n✗ \"Best regards,\" belongs to Closing a Professional Email — used to close a professional email politely, not this context.\nSimilar chunks:\n- Please do not hesitate to reach out should you have any questions.\n- Many thanks,\n- Looking forward to your feedback.\n\n✗ \"Please accept my apologies for the oversight.\" belongs to Apologizing in Writing — used to apologize for a mistake or delay in formal written communication, not this context.\nSimilar chunks:\n- I take full responsibility for this and will ensure it does not happen again.\n- Apologies for the delay in responding.\n- I apologize for any inconvenience this may have caused.\n\n✗ \"I hope this email finds you well.\" belongs to Opening & Stating Purpose in an Email — used to open a professional email and state its purpose clearly, not this context.\nSimilar chunks:\n- I am writing to request...\n- I am writing to follow up on...\n- I wanted to flag/highlight the following before we proceed."
+    },
+    {
+      "id": 6,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to ask someone to change a deadline, and want to choose how direct or cushioned the request sounds depending on who you're asking. Which chunk fits best?",
+      "options": {
+        "A": "Would it be possible to move the deadline?",
+        "B": "It might be tempting to think that..., however...",
+        "C": "I only have a few minor comments.",
+        "D": "To a certain extent..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Would it be possible to move the deadline?\" is an Adjusting Directness of a Request by Formality chunk: used to make the same request at different levels of directness, depending on seniority and closeness of the relationship.\nExample: \"Would it be possible to move the deadline by a few days?\"\nSimilar chunks:\n- We need to move the deadline.\n- I don't suppose there's any chance we could move the deadline?\n- Could we move the deadline?\n\n✗ \"It might be tempting to think that..., however...\" belongs to Addressing Counterarguments (Academic) — used in academic register to acknowledge an opposing view fairly before responding to it, not this context.\nSimilar chunks:\n- Let's steelman the opposing view...\n\n✗ \"I only have a few minor comments.\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- With all due respect...\n- We should catch up sometime.\n- No worries if not!\n\n✗ \"To a certain extent...\" belongs to Academic Hedging — used in academic register to avoid stating a claim as an absolute fact, not this context.\nSimilar chunks:\n- It could be argued that...\n- There's a tendency to..."
+    },
+    {
+      "id": 7,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've received a short, clipped, or oddly formal reply and need to recognize the real signal behind the wording. Which chunk fits best?",
+      "options": {
+        "A": "With all due respect...",
+        "B": "Just to play devil's advocate...",
+        "C": "as mentioned below",
+        "D": "I appreciate the feedback — just to clarify, are we saying X or Y?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"With all due respect...\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- I hear what you're saying.\n- I only have a few minor comments.\n- That's interesting.\n\n✗ \"Just to play devil's advocate...\" belongs to Softening & Face-Saving Language — used to soften a disagreement or suggestion so the other person doesn't feel attacked or cornered, not this context.\nSimilar chunks:\n- That's a fair point — and...\n- I might be missing something, but...\n- I'd lean towards X, but I'm open.\n\n✓ Correct — \"as mentioned below\" is a Decoding Passive or Deflecting Written Signals chunk: a short or formal-sounding phrase that often signals irritation, reluctant agreement, or a soft no, rather than its literal meaning.\nExample: \"The reply just said 'as mentioned below' — a polite way of saying I'd missed it the first time.\"\nSimilar chunks:\n- Noted.\n- Let me think about it.\n- per my last email\n\n✗ \"I appreciate the feedback — just to clarify, are we saying X or Y?\" belongs to Diplomatic Responses to Pushback — used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive, not this context.\nSimilar chunks:\n- That's a fair observation — could we explore an alternative?\n- Let me make sure I understand before I respond.\n- I take your point, though I'd offer a different perspective."
+    },
+    {
+      "id": 8,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've received a short, clipped, or oddly formal reply and need to recognize the real signal behind the wording. Which chunk fits best?",
+      "options": {
+        "A": "My background is in [finance], and I've spent the last [X years] specializing in...",
+        "B": "I was responsible for...",
+        "C": "Ok.",
+        "D": "Based on my research and experience, I was expecting a range closer to..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"My background is in [finance], and I've spent the last [X years] specializing in...\" belongs to Self-Introduction (Elevator Pitch) — used to introduce yourself professionally in a concise elevator pitch, not this context.\nSimilar chunks:\n- I'm currently a Business Analyst working across fintech and mortgage domains for UK clients.\n- What draws me to this role is the opportunity to combine my BA experience with my growing finance/investment background.\n\n✗ \"I was responsible for...\" belongs to Answering Behavioral Questions (STAR Method) — used to structure a behavioral interview answer using the STAR method (Situation, Task, Action, Result), not this context.\nSimilar chunks:\n- So what I did was...\n- As a result, we were able to...\n- In my previous role, we were facing...\n\n✓ Correct — \"Ok.\" is a Decoding Passive or Deflecting Written Signals chunk: a short or formal-sounding phrase that often signals irritation, reluctant agreement, or a soft no, rather than its literal meaning.\nExample: \"He replied with a flat 'Ok.' — I couldn't tell if he was on board or just done arguing.\"\nSimilar chunks:\n- Let me think about it.\n- per my last email\n- Noted.\n\n✗ \"Based on my research and experience, I was expecting a range closer to...\" belongs to Negotiating Salary & Offers — used to negotiate salary or offer terms professionally after receiving a job offer, not this context.\nSimilar chunks:\n- I'm confident I can bring strong value here — is there room to revisit this number?\n- Is there any flexibility on the base salary?\n- Is there any flexibility on the remote work arrangement?"
+    },
+    {
+      "id": 9,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to ask someone for five minutes of their time, and need to pick the wording that matches how well you know them. Which chunk fits best?",
+      "options": {
+        "A": "Would you have five minutes to align on this?",
+        "B": "It could be argued that...",
+        "C": "I am writing to request...",
+        "D": "I take full responsibility for this and will ensure it does not happen again."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Would you have five minutes to align on this?\" is a Matching Formality to Audience (Register) chunk: used to ask for the same thing at a formality level matched to the audience — casual chat, work peer, or senior/client.\nExample: \"Would you have five minutes to align on this before the client call?\"\nSimilar chunks:\n- Do you have five minutes to sync?\n- wanna grab 5 mins?\n\n✗ \"It could be argued that...\" belongs to Academic Hedging — used in academic register to avoid stating a claim as an absolute fact, not this context.\nSimilar chunks:\n- To a certain extent...\n- There's a tendency to...\n\n✗ \"I am writing to request...\" belongs to Opening & Stating Purpose in an Email — used to open a professional email and state its purpose clearly, not this context.\nSimilar chunks:\n- Further to our conversation earlier today, ...\n- I am writing to follow up on...\n- I hope this email finds you well.\n\n✗ \"I take full responsibility for this and will ensure it does not happen again.\" belongs to Apologizing in Writing — used to apologize for a mistake or delay in formal written communication, not this context.\nSimilar chunks:\n- Thank you for your patience while we resolve this.\n- Please accept my apologies for the oversight.\n- I apologize for any inconvenience this may have caused."
+    },
+    {
+      "id": 10,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to ask someone for five minutes of their time, and need to pick the wording that matches how well you know them. Which chunk fits best?",
+      "options": {
+        "A": "Thank you for your patience while we resolve this.",
+        "B": "Would you be able to share a bit more context on that?",
+        "C": "This is a multifaceted issue...",
+        "D": "Do you have five minutes to sync?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Thank you for your patience while we resolve this.\" belongs to Apologizing in Writing — used to apologize for a mistake or delay in formal written communication, not this context.\nSimilar chunks:\n- I apologize for any inconvenience this may have caused.\n- I take full responsibility for this and will ensure it does not happen again.\n- Apologies for the delay in responding.\n\n✗ \"Would you be able to share a bit more context on that?\" belongs to Diplomatic Responses to Pushback — used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive, not this context.\nSimilar chunks:\n- I appreciate the feedback — just to clarify, are we saying X or Y?\n- I take your point, though I'd offer a different perspective.\n- That's a fair observation — could we explore an alternative?\n\n✗ \"This is a multifaceted issue...\" belongs to Acknowledging Complexity (Academic) — used in academic writing to acknowledge that an issue is more complicated than it first appears, not this context.\nSimilar chunks:\n- The situation is more layered than it appears...\n\n✓ Correct — \"Do you have five minutes to sync?\" is a Matching Formality to Audience (Register) chunk: used to ask for the same thing at a formality level matched to the audience — casual chat, work peer, or senior/client.\nExample: \"Do you have five minutes to sync on the ticket before standup?\"\nSimilar chunks:\n- wanna grab 5 mins?\n- Would you have five minutes to align on this?"
+    },
+    {
+      "id": 11,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to disagree with an idea or make a suggestion, without sounding confrontational or overly certain. Which chunk fits best?",
+      "options": {
+        "A": "What are we to make of this?",
+        "B": "To begin with...",
+        "C": "Just to play devil's advocate...",
+        "D": "To a certain extent..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"What are we to make of this?\" belongs to Academic Rhetorical Questions — used to pose a rhetorical question that highlights a tension or contradiction in an academic argument, not this context.\nSimilar chunks:\n- How do we reconcile these ideas?\n\n✗ \"To begin with...\" belongs to Academic Signposting — used in formal academic writing or speaking to signal a new stage in the argument, not this context.\nSimilar chunks:\n- To put a finer point on it...\n- Let's unpack this...\n- This brings us to...\n\n✓ Correct — \"Just to play devil's advocate...\" is a Softening & Face-Saving Language chunk: used to soften a disagreement or suggestion so the other person doesn't feel attacked or cornered.\nExample: \"Just to play devil's advocate, what happens if the vendor misses this deadline too?\"\nSimilar chunks:\n- I'd lean towards X, but I'm open.\n- Correct me if I'm wrong...\n- That's a fair point — and...\n\n✗ \"To a certain extent...\" belongs to Academic Hedging — used in academic register to avoid stating a claim as an absolute fact, not this context.\nSimilar chunks:\n- It could be argued that...\n- There's a tendency to..."
+    },
+    {
+      "id": 12,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to disagree with an idea or make a suggestion, without sounding confrontational or overly certain. Which chunk fits best?",
+      "options": {
+        "A": "I might be missing something, but...",
+        "B": "By 'X,' I mean...",
+        "C": "What growth opportunities exist for someone moving from a general BA background into capital markets?",
+        "D": "This is a multifaceted issue..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I might be missing something, but...\" is a Softening & Face-Saving Language chunk: used to soften a disagreement or suggestion so the other person doesn't feel attacked or cornered.\nExample: \"I might be missing something, but doesn't this contradict the numbers from last week?\"\nSimilar chunks:\n- Would it make sense to...?\n- Just to play devil's advocate...\n- Correct me if I'm wrong...\n\n✗ \"By 'X,' I mean...\" belongs to Clarifying Definitions (Academic) — used in academic register to define precisely what you mean by a key term, not this context.\nSimilar chunks:\n- Let's operationalize this term...\n\n✗ \"What growth opportunities exist for someone moving from a general BA background into capital markets?\" belongs to Asking Thoughtful Questions in an Interview — used to ask a thoughtful, engaged question at the end of a job interview, not this context.\nSimilar chunks:\n- What does success look like in this role after the first six months?\n- How is the BA function positioned within the broader product/investment team?\n- What are the biggest challenges the team is currently facing?\n\n✗ \"This is a multifaceted issue...\" belongs to Acknowledging Complexity (Academic) — used in academic writing to acknowledge that an issue is more complicated than it first appears, not this context.\nSimilar chunks:\n- The situation is more layered than it appears..."
+    },
+    {
+      "id": 13,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You want to disagree with an idea or make a suggestion, without sounding confrontational or overly certain. Which chunk fits best?",
+      "options": {
+        "A": "I am writing to follow up on...",
+        "B": "moral framework",
+        "C": "Is there any flexibility on the base salary?",
+        "D": "I'd lean towards X, but I'm open."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I am writing to follow up on...\" belongs to Opening & Stating Purpose in an Email — used to open a professional email and state its purpose clearly, not this context.\nSimilar chunks:\n- I wanted to flag/highlight the following before we proceed.\n- I am writing to request...\n- Following up on our call, I wanted to confirm...\n\n✗ \"moral framework\" belongs to Philosophical & Academic Terms — a precise academic or philosophical term used in formal discussion or writing, not this context.\nSimilar chunks:\n- epistemic humility\n- phenomenological experience\n- the illusion of the self\n\n✗ \"Is there any flexibility on the base salary?\" belongs to Negotiating Salary & Offers — used to negotiate salary or offer terms professionally after receiving a job offer, not this context.\nSimilar chunks:\n- Could we possibly meet in the middle at...?\n- Is there any flexibility on the sign-on bonus?\n- I'm confident I can bring strong value here — is there room to revisit this number?\n\n✓ Correct — \"I'd lean towards X, but I'm open.\" is a Softening & Face-Saving Language chunk: used to soften a disagreement or suggestion so the other person doesn't feel attacked or cornered.\nExample: \"I'd lean towards the in-house build, but I'm open to hearing the vendor's pitch first.\"\nSimilar chunks:\n- That's a fair point — and...\n- Would it make sense to...?\n- I might be missing something, but..."
+    },
+    {
+      "id": 14,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Someone has just challenged your idea or asked a pointed question, and you want to respond diplomatically while holding your ground. Which chunk fits best?",
+      "options": {
+        "A": "That's a fair point — and...",
+        "B": "This is a multifaceted issue...",
+        "C": "How do we reconcile these ideas?",
+        "D": "I appreciate the feedback — just to clarify, are we saying X or Y?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"That's a fair point — and...\" belongs to Softening & Face-Saving Language — used to soften a disagreement or suggestion so the other person doesn't feel attacked or cornered, not this context.\nSimilar chunks:\n- Would it make sense to...?\n- Just to play devil's advocate...\n- Correct me if I'm wrong...\n\n✗ \"This is a multifaceted issue...\" belongs to Acknowledging Complexity (Academic) — used in academic writing to acknowledge that an issue is more complicated than it first appears, not this context.\nSimilar chunks:\n- The situation is more layered than it appears...\n\n✗ \"How do we reconcile these ideas?\" belongs to Academic Rhetorical Questions — used to pose a rhetorical question that highlights a tension or contradiction in an academic argument, not this context.\nSimilar chunks:\n- What are we to make of this?\n\n✓ Correct — \"I appreciate the feedback — just to clarify, are we saying X or Y?\" is a Diplomatic Responses to Pushback chunk: used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive.\nExample: \"I appreciate the feedback — just to clarify, are we saying we cut scope or extend the deadline?\"\nSimilar chunks:\n- That's a fair observation — could we explore an alternative?\n- I take your point, though I'd offer a different perspective.\n- Would you be able to share a bit more context on that?"
+    },
+    {
+      "id": 15,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "Someone has just challenged your idea or asked a pointed question, and you want to respond diplomatically while holding your ground. Which chunk fits best?",
+      "options": {
+        "A": "phenomenological experience",
+        "B": "To begin with...",
+        "C": "Let me make sure I understand before I respond.",
+        "D": "This is the linchpin of the argument..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"phenomenological experience\" belongs to Philosophical & Academic Terms — a precise academic or philosophical term used in formal discussion or writing, not this context.\nSimilar chunks:\n- epistemic humility\n- the illusion of the self\n- moral framework\n\n✗ \"To begin with...\" belongs to Academic Signposting — used in formal academic writing or speaking to signal a new stage in the argument, not this context.\nSimilar chunks:\n- To put a finer point on it...\n- This brings us to...\n- Let's unpack this...\n\n✓ Correct — \"Let me make sure I understand before I respond.\" is a Diplomatic Responses to Pushback chunk: used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive.\nExample: \"Let me make sure I understand before I respond — you're saying the budget was cut entirely?\"\nSimilar chunks:\n- I take your point, though I'd offer a different perspective.\n- I appreciate the feedback — just to clarify, are we saying X or Y?\n- That's a fair observation — could we explore an alternative?\n\n✗ \"This is the linchpin of the argument...\" belongs to Emphasizing Key Points (Academic) — used in academic register to stress that a point is central to the whole argument, not this context.\nSimilar chunks:\n- This is of paramount importance..."
+    },
+    {
+      "id": 16,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing or presenting a formal, academic-style argument and need to signal you're moving to a new stage of your reasoning. Which chunk fits best?",
+      "options": {
+        "A": "Looking forward to your feedback.",
+        "B": "To put a finer point on it...",
+        "C": "Could we possibly meet in the middle at...?",
+        "D": "Correct me if I'm wrong..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Looking forward to your feedback.\" belongs to Closing a Professional Email — used to close a professional email politely, not this context.\nSimilar chunks:\n- Kind regards,\n- Please do not hesitate to reach out should you have any questions.\n- I look forward to hearing from you.\n\n✓ Correct — \"To put a finer point on it...\" is an Academic Signposting chunk: used in formal academic writing or speaking to signal a new stage in the argument.\nExample: \"To put a finer point on it, the issue isn't awareness, it's incentives.\"\nSimilar chunks:\n- This brings us to...\n- To begin with...\n- Let's unpack this...\n\n✗ \"Could we possibly meet in the middle at...?\" belongs to Negotiating Salary & Offers — used to negotiate salary or offer terms professionally after receiving a job offer, not this context.\nSimilar chunks:\n- I'm confident I can bring strong value here — is there room to revisit this number?\n- Is there any flexibility on the sign-on bonus?\n- Is there any flexibility on the remote work arrangement?\n\n✗ \"Correct me if I'm wrong...\" belongs to Softening & Face-Saving Language — used to soften a disagreement or suggestion so the other person doesn't feel attacked or cornered, not this context.\nSimilar chunks:\n- Just to play devil's advocate...\n- I might be missing something, but...\n- I'd lean towards X, but I'm open."
+    },
+    {
+      "id": 17,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing or presenting a formal, academic-style argument and need to signal you're moving to a new stage of your reasoning. Which chunk fits best?",
+      "options": {
+        "A": "This brings us to...",
+        "B": "Please accept my apologies for the oversight.",
+        "C": "That's a fair observation — could we explore an alternative?",
+        "D": "Further to our conversation earlier today, ..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"This brings us to...\" is an Academic Signposting chunk: used in formal academic writing or speaking to signal a new stage in the argument.\nExample: \"This brings us to the central question of the report: is the model actually generalizable?\"\nSimilar chunks:\n- Let's unpack this...\n- To begin with...\n- To put a finer point on it...\n\n✗ \"Please accept my apologies for the oversight.\" belongs to Apologizing in Writing — used to apologize for a mistake or delay in formal written communication, not this context.\nSimilar chunks:\n- Apologies for the delay in responding.\n- Thank you for your patience while we resolve this.\n- I apologize for any inconvenience this may have caused.\n\n✗ \"That's a fair observation — could we explore an alternative?\" belongs to Diplomatic Responses to Pushback — used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive, not this context.\nSimilar chunks:\n- I take your point, though I'd offer a different perspective.\n- Let me make sure I understand before I respond.\n- Would you be able to share a bit more context on that?\n\n✗ \"Further to our conversation earlier today, ...\" belongs to Opening & Stating Purpose in an Email — used to open a professional email and state its purpose clearly, not this context.\nSimilar chunks:\n- I wanted to flag/highlight the following before we proceed.\n- I am writing to request...\n- I hope this email finds you well."
+    },
+    {
+      "id": 18,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're making an academic-style claim and want to avoid stating it as an absolute fact. Which chunk fits best?",
+      "options": {
+        "A": "Best regards,",
+        "B": "It could be argued that...",
+        "C": "Thank you for your time and consideration.",
+        "D": "Would you have five minutes to align on this?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Best regards,\" belongs to Closing a Professional Email — used to close a professional email politely, not this context.\nSimilar chunks:\n- Kind regards,\n- Please do not hesitate to reach out should you have any questions.\n- I look forward to hearing from you.\n\n✓ Correct — \"It could be argued that...\" is an Academic Hedging chunk: used in academic register to avoid stating a claim as an absolute fact.\nExample: \"It could be argued that the policy did more harm than good in the short term.\"\nSimilar chunks:\n- To a certain extent...\n- There's a tendency to...\n\n✗ \"Thank you for your time and consideration.\" belongs to Closing a Professional Email — used to close a professional email politely, not this context.\nSimilar chunks:\n- Please do not hesitate to reach out should you have any questions.\n- Looking forward to your feedback.\n- Many thanks,\n\n✗ \"Would you have five minutes to align on this?\" belongs to Matching Formality to Audience (Register) — used to ask for the same thing at a formality level matched to the audience — casual chat, work peer, or senior/client, not this context.\nSimilar chunks:\n- Do you have five minutes to sync?\n- wanna grab 5 mins?"
+    },
+    {
+      "id": 19,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're making an academic-style claim and want to avoid stating it as an absolute fact. Which chunk fits best?",
+      "options": {
+        "A": "This is to formally document what we discussed on the call.",
+        "B": "To a certain extent...",
+        "C": "I take your point, though I'd offer a different perspective.",
+        "D": "Perhaps we could consider..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"This is to formally document what we discussed on the call.\" belongs to Transferring Information / Status Updates in Writing — used in writing to pass along information or confirm a status update for the record, not this context.\nSimilar chunks:\n- Just to confirm, the following action items were agreed: ...\n- For your reference, looping in [name].\n- For your awareness, looping in [name].\n\n✓ Correct — \"To a certain extent...\" is an Academic Hedging chunk: used in academic register to avoid stating a claim as an absolute fact.\nExample: \"To a certain extent, both explanations are true, but neither is complete.\"\nSimilar chunks:\n- It could be argued that...\n- There's a tendency to...\n\n✗ \"I take your point, though I'd offer a different perspective.\" belongs to Diplomatic Responses to Pushback — used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive, not this context.\nSimilar chunks:\n- That's a fair observation — could we explore an alternative?\n- I appreciate the feedback — just to clarify, are we saying X or Y?\n- Let me make sure I understand before I respond.\n\n✗ \"Perhaps we could consider...\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- I hear what you're saying.\n- It's not bad.\n- With all due respect..."
+    },
+    {
+      "id": 20,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing academically and want to acknowledge that an issue is more complicated than a simple explanation would suggest. Which chunk fits best?",
+      "options": {
+        "A": "Perhaps we could consider...",
+        "B": "The situation is more layered than it appears...",
+        "C": "I take your point, though I'd offer a different perspective.",
+        "D": "Let's steelman the opposing view..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Perhaps we could consider...\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- Let's take that offline.\n- I only have a few minor comments.\n- It's not bad.\n\n✓ Correct — \"The situation is more layered than it appears...\" is an Acknowledging Complexity (Academic) chunk: used in academic writing to acknowledge that an issue is more complicated than it first appears.\nExample: \"The situation is more layered than it appears, once you factor in the regional differences.\"\nSimilar chunks:\n- This is a multifaceted issue...\n\n✗ \"I take your point, though I'd offer a different perspective.\" belongs to Diplomatic Responses to Pushback — used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive, not this context.\nSimilar chunks:\n- I appreciate the feedback — just to clarify, are we saying X or Y?\n- Let me make sure I understand before I respond.\n- Would you be able to share a bit more context on that?\n\n✗ \"Let's steelman the opposing view...\" belongs to Addressing Counterarguments (Academic) — used in academic register to acknowledge an opposing view fairly before responding to it, not this context.\nSimilar chunks:\n- It might be tempting to think that..., however..."
+    },
+    {
+      "id": 21,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing academically and want to acknowledge that an issue is more complicated than a simple explanation would suggest. Which chunk fits best?",
+      "options": {
+        "A": "This is a multifaceted issue...",
+        "B": "Would you be able to share a bit more context on that?",
+        "C": "moral framework",
+        "D": "This brings us to..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"This is a multifaceted issue...\" is an Acknowledging Complexity (Academic) chunk: used in academic writing to acknowledge that an issue is more complicated than it first appears.\nExample: \"This is a multifaceted issue, and no single policy change will fix it.\"\nSimilar chunks:\n- The situation is more layered than it appears...\n\n✗ \"Would you be able to share a bit more context on that?\" belongs to Diplomatic Responses to Pushback — used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive, not this context.\nSimilar chunks:\n- I take your point, though I'd offer a different perspective.\n- That's a fair observation — could we explore an alternative?\n- I appreciate the feedback — just to clarify, are we saying X or Y?\n\n✗ \"moral framework\" belongs to Philosophical & Academic Terms — a precise academic or philosophical term used in formal discussion or writing, not this context.\nSimilar chunks:\n- phenomenological experience\n- epistemic humility\n- the illusion of the self\n\n✗ \"This brings us to...\" belongs to Academic Signposting — used in formal academic writing or speaking to signal a new stage in the argument, not this context.\nSimilar chunks:\n- Let's unpack this...\n- To put a finer point on it...\n- To begin with..."
+    },
+    {
+      "id": 22,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're building an academic argument and want to pose a rhetorical question that highlights a tension in the evidence. Which chunk fits best?",
+      "options": {
+        "A": "I apologize for any inconvenience this may have caused.",
+        "B": "How do we reconcile these ideas?",
+        "C": "What draws me to this role is the opportunity to combine my BA experience with my growing finance/investment background.",
+        "D": "Please do not hesitate to reach out should you have any questions."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I apologize for any inconvenience this may have caused.\" belongs to Apologizing in Writing — used to apologize for a mistake or delay in formal written communication, not this context.\nSimilar chunks:\n- Thank you for your patience while we resolve this.\n- Apologies for the delay in responding.\n- I take full responsibility for this and will ensure it does not happen again.\n\n✓ Correct — \"How do we reconcile these ideas?\" is an Academic Rhetorical Questions chunk: used to pose a rhetorical question that highlights a tension or contradiction in an academic argument.\nExample: \"How do we reconcile these ideas with the earlier finding that contradicts them?\"\nSimilar chunks:\n- What are we to make of this?\n\n✗ \"What draws me to this role is the opportunity to combine my BA experience with my growing finance/investment background.\" belongs to Self-Introduction (Elevator Pitch) — used to introduce yourself professionally in a concise elevator pitch, not this context.\nSimilar chunks:\n- I'm currently a Business Analyst working across fintech and mortgage domains for UK clients.\n- My background is in [finance], and I've spent the last [X years] specializing in...\n\n✗ \"Please do not hesitate to reach out should you have any questions.\" belongs to Closing a Professional Email — used to close a professional email politely, not this context.\nSimilar chunks:\n- Many thanks,\n- Thank you for your time and consideration.\n- I look forward to hearing from you."
+    },
+    {
+      "id": 23,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're building an academic argument and want to pose a rhetorical question that highlights a tension in the evidence. Which chunk fits best?",
+      "options": {
+        "A": "It could be argued that...",
+        "B": "per my last email",
+        "C": "What are we to make of this?",
+        "D": "I hear what you're saying."
+      },
+      "correct": "C",
+      "explanation": "✗ \"It could be argued that...\" belongs to Academic Hedging — used in academic register to avoid stating a claim as an absolute fact, not this context.\nSimilar chunks:\n- There's a tendency to...\n- To a certain extent...\n\n✗ \"per my last email\" belongs to Decoding Passive or Deflecting Written Signals — a short or formal-sounding phrase that often signals irritation, reluctant agreement, or a soft no, rather than its literal meaning, not this context.\nSimilar chunks:\n- Noted.\n- Ok.\n- as mentioned below\n\n✓ Correct — \"What are we to make of this?\" is an Academic Rhetorical Questions chunk: used to pose a rhetorical question that highlights a tension or contradiction in an academic argument.\nExample: \"The data contradicts the theory entirely — so what are we to make of this?\"\nSimilar chunks:\n- How do we reconcile these ideas?\n\n✗ \"I hear what you're saying.\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- We should catch up sometime.\n- Let's take that offline.\n- With respect..."
+    },
+    {
+      "id": 24,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing academically and want to stress that a particular point is central to your whole argument. Which chunk fits best?",
+      "options": {
+        "A": "With all due respect...",
+        "B": "This is to formally document what we discussed on the call.",
+        "C": "This is of paramount importance...",
+        "D": "Is there any flexibility on the sign-on bonus?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"With all due respect...\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- No worries if not!\n- I hear what you're saying.\n- I only have a few minor comments.\n\n✗ \"This is to formally document what we discussed on the call.\" belongs to Transferring Information / Status Updates in Writing — used in writing to pass along information or confirm a status update for the record, not this context.\nSimilar chunks:\n- Just to confirm, the following action items were agreed: ...\n- As discussed, please find below a summary of next steps.\n- For visibility, looping in [name].\n\n✓ Correct — \"This is of paramount importance...\" is an Emphasizing Key Points (Academic) chunk: used in academic register to stress that a point is central to the whole argument.\nExample: \"This is of paramount importance to the argument as a whole.\"\nSimilar chunks:\n- This is the linchpin of the argument...\n\n✗ \"Is there any flexibility on the sign-on bonus?\" belongs to Negotiating Salary & Offers — used to negotiate salary or offer terms professionally after receiving a job offer, not this context.\nSimilar chunks:\n- Is there any flexibility on the base salary?\n- I'm confident I can bring strong value here — is there room to revisit this number?\n- Based on my research and experience, I was expecting a range closer to..."
+    },
+    {
+      "id": 25,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing academically and want to stress that a particular point is central to your whole argument. Which chunk fits best?",
+      "options": {
+        "A": "Looking forward to your feedback.",
+        "B": "To begin with...",
+        "C": "This is the linchpin of the argument...",
+        "D": "I appreciate the feedback — just to clarify, are we saying X or Y?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Looking forward to your feedback.\" belongs to Closing a Professional Email — used to close a professional email politely, not this context.\nSimilar chunks:\n- Thank you for your time and consideration.\n- Please do not hesitate to reach out should you have any questions.\n- Best regards,\n\n✗ \"To begin with...\" belongs to Academic Signposting — used in formal academic writing or speaking to signal a new stage in the argument, not this context.\nSimilar chunks:\n- To put a finer point on it...\n- This brings us to...\n- Let's unpack this...\n\n✓ Correct — \"This is the linchpin of the argument...\" is an Emphasizing Key Points (Academic) chunk: used in academic register to stress that a point is central to the whole argument.\nExample: \"This is the linchpin of the argument — remove it, and the whole case collapses.\"\nSimilar chunks:\n- This is of paramount importance...\n\n✗ \"I appreciate the feedback — just to clarify, are we saying X or Y?\" belongs to Diplomatic Responses to Pushback — used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive, not this context.\nSimilar chunks:\n- Let me make sure I understand before I respond.\n- Would you be able to share a bit more context on that?\n- That's a fair observation — could we explore an alternative?"
+    },
+    {
+      "id": 26,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're building an academic argument and need to introduce a contrasting or counterintuitive idea. Which chunk fits best?",
+      "options": {
+        "A": "How do we reconcile these ideas?",
+        "B": "I hear what you're saying.",
+        "C": "Please let me know if you have any questions or concerns.",
+        "D": "Contrary to popular belief..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"How do we reconcile these ideas?\" belongs to Academic Rhetorical Questions — used to pose a rhetorical question that highlights a tension or contradiction in an academic argument, not this context.\nSimilar chunks:\n- What are we to make of this?\n\n✗ \"I hear what you're saying.\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- That's interesting.\n- We should catch up sometime.\n- Let's take that offline.\n\n✗ \"Please let me know if you have any questions or concerns.\" belongs to Making a Clear Written Request — used to make a clear, polite written request for action, not this context.\nSimilar chunks:\n- I would appreciate it if you could review this by [date].\n- I would be grateful if you could clarify...\n- Please could you advise at your earliest convenience?\n\n✓ Correct — \"Contrary to popular belief...\" is a Contrasting Ideas (Academic) chunk: used in academic register to introduce a contrasting or counterintuitive idea.\nExample: \"Contrary to popular belief, most successful negotiations aren't about winning.\"\nSimilar chunks:\n- While it's true that..., it's also the case that..."
+    },
+    {
+      "id": 27,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're building an academic argument and need to introduce a contrasting or counterintuitive idea. Which chunk fits best?",
+      "options": {
+        "A": "While it's true that..., it's also the case that...",
+        "B": "It's not bad.",
+        "C": "I appreciate the feedback — just to clarify, are we saying X or Y?",
+        "D": "I don't suppose there's any chance we could move the deadline?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"While it's true that..., it's also the case that...\" is a Contrasting Ideas (Academic) chunk: used in academic register to introduce a contrasting or counterintuitive idea.\nExample: \"While it's true that costs went down, it's also the case that quality suffered.\"\nSimilar chunks:\n- Contrary to popular belief...\n\n✗ \"It's not bad.\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- With respect...\n- Perhaps we could consider...\n- No worries if not!\n\n✗ \"I appreciate the feedback — just to clarify, are we saying X or Y?\" belongs to Diplomatic Responses to Pushback — used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive, not this context.\nSimilar chunks:\n- Would you be able to share a bit more context on that?\n- Let me make sure I understand before I respond.\n- That's a fair observation — could we explore an alternative?\n\n✗ \"I don't suppose there's any chance we could move the deadline?\" belongs to Adjusting Directness of a Request by Formality — used to make the same request at different levels of directness, depending on seniority and closeness of the relationship, not this context.\nSimilar chunks:\n- Would it be possible to move the deadline?\n- Could we move the deadline?\n- We need to move the deadline."
+    },
+    {
+      "id": 28,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing academically and want to acknowledge an opposing view fairly before responding to it. Which chunk fits best?",
+      "options": {
+        "A": "I'd like a bit of time to consider this properly — could I get back to you by [date]?",
+        "B": "It might be tempting to think that..., however...",
+        "C": "That's a fair observation — could we explore an alternative?",
+        "D": "It could be argued that..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'd like a bit of time to consider this properly — could I get back to you by [date]?\" belongs to Negotiating Salary & Offers — used to negotiate salary or offer terms professionally after receiving a job offer, not this context.\nSimilar chunks:\n- Based on my research and experience, I was expecting a range closer to...\n- Could we possibly meet in the middle at...?\n- I'm confident I can bring strong value here — is there room to revisit this number?\n\n✓ Correct — \"It might be tempting to think that..., however...\" is an Addressing Counterarguments (Academic) chunk: used in academic register to acknowledge an opposing view fairly before responding to it.\nExample: \"It might be tempting to think that more data always helps, however, it can also introduce noise.\"\nSimilar chunks:\n- Let's steelman the opposing view...\n\n✗ \"That's a fair observation — could we explore an alternative?\" belongs to Diplomatic Responses to Pushback — used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive, not this context.\nSimilar chunks:\n- I appreciate the feedback — just to clarify, are we saying X or Y?\n- Would you be able to share a bit more context on that?\n- I take your point, though I'd offer a different perspective.\n\n✗ \"It could be argued that...\" belongs to Academic Hedging — used in academic register to avoid stating a claim as an absolute fact, not this context.\nSimilar chunks:\n- To a certain extent...\n- There's a tendency to..."
+    },
+    {
+      "id": 29,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing academically and want to acknowledge an opposing view fairly before responding to it. Which chunk fits best?",
+      "options": {
+        "A": "Please could you advise at your earliest convenience?",
+        "B": "For your reference, looping in [name].",
+        "C": "Let's steelman the opposing view...",
+        "D": "Would you be able to share a bit more context on that?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Please could you advise at your earliest convenience?\" belongs to Making a Clear Written Request — used to make a clear, polite written request for action, not this context.\nSimilar chunks:\n- I would appreciate it if you could review this by [date].\n- I would be grateful if you could clarify...\n- Please let me know if you have any questions or concerns.\n\n✗ \"For your reference, looping in [name].\" belongs to Transferring Information / Status Updates in Writing — used in writing to pass along information or confirm a status update for the record, not this context.\nSimilar chunks:\n- This is to formally document what we discussed on the call.\n- For visibility, looping in [name].\n- For your awareness, looping in [name].\n\n✓ Correct — \"Let's steelman the opposing view...\" is an Addressing Counterarguments (Academic) chunk: used in academic register to acknowledge an opposing view fairly before responding to it.\nExample: \"Let's steelman the opposing view before we dismiss it outright.\"\nSimilar chunks:\n- It might be tempting to think that..., however...\n\n✗ \"Would you be able to share a bit more context on that?\" belongs to Diplomatic Responses to Pushback — used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive, not this context.\nSimilar chunks:\n- I appreciate the feedback — just to clarify, are we saying X or Y?\n- I take your point, though I'd offer a different perspective.\n- That's a fair observation — could we explore an alternative?"
+    },
+    {
+      "id": 30,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing an academic argument and want to explain an abstract idea through a vivid metaphor. Which chunk fits best?",
+      "options": {
+        "A": "Correct me if I'm wrong...",
+        "B": "I apologize for any inconvenience this may have caused.",
+        "C": "Ideas propagate like viruses...",
+        "D": "Just to confirm, the following action items were agreed: ..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Correct me if I'm wrong...\" belongs to Softening & Face-Saving Language — used to soften a disagreement or suggestion so the other person doesn't feel attacked or cornered, not this context.\nSimilar chunks:\n- Would it make sense to...?\n- Just to play devil's advocate...\n- That's a fair point — and...\n\n✗ \"I apologize for any inconvenience this may have caused.\" belongs to Apologizing in Writing — used to apologize for a mistake or delay in formal written communication, not this context.\nSimilar chunks:\n- Apologies for the delay in responding.\n- I take full responsibility for this and will ensure it does not happen again.\n- Thank you for your patience while we resolve this.\n\n✓ Correct — \"Ideas propagate like viruses...\" is an Academic Metaphors & Analogies chunk: used in academic writing to explain an abstract idea through a vivid metaphor or analogy.\nExample: \"Ideas propagate like viruses, spreading fastest through the networks we trust most.\"\nSimilar chunks:\n- The self is a center of narrative gravity...\n\n✗ \"Just to confirm, the following action items were agreed: ...\" belongs to Transferring Information / Status Updates in Writing — used in writing to pass along information or confirm a status update for the record, not this context.\nSimilar chunks:\n- This is to formally document what we discussed on the call.\n- For your reference, looping in [name].\n- As discussed, please find below a summary of next steps."
+    },
+    {
+      "id": 31,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing an academic argument and want to explain an abstract idea through a vivid metaphor. Which chunk fits best?",
+      "options": {
+        "A": "Based on my research and experience, I was expecting a range closer to...",
+        "B": "Do you have five minutes to sync?",
+        "C": "The self is a center of narrative gravity...",
+        "D": "I hope this email finds you well."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Based on my research and experience, I was expecting a range closer to...\" belongs to Negotiating Salary & Offers — used to negotiate salary or offer terms professionally after receiving a job offer, not this context.\nSimilar chunks:\n- I'm confident I can bring strong value here — is there room to revisit this number?\n- I'd like a bit of time to consider this properly — could I get back to you by [date]?\n- Is there any flexibility on the remote work arrangement?\n\n✗ \"Do you have five minutes to sync?\" belongs to Matching Formality to Audience (Register) — used to ask for the same thing at a formality level matched to the audience — casual chat, work peer, or senior/client, not this context.\nSimilar chunks:\n- Would you have five minutes to align on this?\n- wanna grab 5 mins?\n\n✓ Correct — \"The self is a center of narrative gravity...\" is an Academic Metaphors & Analogies chunk: used in academic writing to explain an abstract idea through a vivid metaphor or analogy.\nExample: \"As one theory puts it, the self is a center of narrative gravity, not a fixed thing.\"\nSimilar chunks:\n- Ideas propagate like viruses...\n\n✗ \"I hope this email finds you well.\" belongs to Opening & Stating Purpose in an Email — used to open a professional email and state its purpose clearly, not this context.\nSimilar chunks:\n- I wanted to flag/highlight the following before we proceed.\n- Further to our conversation earlier today, ...\n- Following up on our call, I wanted to confirm..."
+    },
+    {
+      "id": 32,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing academically and need to define exactly what you mean by a key term before using it further. Which chunk fits best?",
+      "options": {
+        "A": "wanna grab 5 mins?",
+        "B": "Kindly find attached...",
+        "C": "By 'X,' I mean...",
+        "D": "I wanted to flag/highlight the following before we proceed."
+      },
+      "correct": "C",
+      "explanation": "✗ \"wanna grab 5 mins?\" belongs to Matching Formality to Audience (Register) — used to ask for the same thing at a formality level matched to the audience — casual chat, work peer, or senior/client, not this context.\nSimilar chunks:\n- Would you have five minutes to align on this?\n- Do you have five minutes to sync?\n\n✗ \"Kindly find attached...\" belongs to Making a Clear Written Request — used to make a clear, polite written request for action, not this context.\nSimilar chunks:\n- I would be grateful if you could clarify...\n- Please could you advise at your earliest convenience?\n- Please let me know if you have any questions or concerns.\n\n✓ Correct — \"By 'X,' I mean...\" is a Clarifying Definitions (Academic) chunk: used in academic register to define precisely what you mean by a key term.\nExample: \"By 'engagement,' I mean daily active use, not just sign-ups.\"\nSimilar chunks:\n- Let's operationalize this term...\n\n✗ \"I wanted to flag/highlight the following before we proceed.\" belongs to Opening & Stating Purpose in an Email — used to open a professional email and state its purpose clearly, not this context.\nSimilar chunks:\n- Further to our conversation earlier today, ...\n- Following up on our call, I wanted to confirm...\n- I hope this email finds you well."
+    },
+    {
+      "id": 33,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing academically and need to define exactly what you mean by a key term before using it further. Which chunk fits best?",
+      "options": {
+        "A": "Just to play devil's advocate...",
+        "B": "Following up on our call, I wanted to confirm...",
+        "C": "Please do not hesitate to reach out should you have any questions.",
+        "D": "Let's operationalize this term..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Just to play devil's advocate...\" belongs to Softening & Face-Saving Language — used to soften a disagreement or suggestion so the other person doesn't feel attacked or cornered, not this context.\nSimilar chunks:\n- That's a fair point — and...\n- Would it make sense to...?\n- Correct me if I'm wrong...\n\n✗ \"Following up on our call, I wanted to confirm...\" belongs to Opening & Stating Purpose in an Email — used to open a professional email and state its purpose clearly, not this context.\nSimilar chunks:\n- I hope this email finds you well.\n- I am writing to request...\n- I wanted to flag/highlight the following before we proceed.\n\n✗ \"Please do not hesitate to reach out should you have any questions.\" belongs to Closing a Professional Email — used to close a professional email politely, not this context.\nSimilar chunks:\n- Many thanks,\n- Looking forward to your feedback.\n- I look forward to hearing from you.\n\n✓ Correct — \"Let's operationalize this term...\" is a Clarifying Definitions (Academic) chunk: used in academic register to define precisely what you mean by a key term.\nExample: \"Let's operationalize this term before we start measuring it.\"\nSimilar chunks:\n- By 'X,' I mean..."
+    },
+    {
+      "id": 34,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing or discussing an academic or philosophical topic and need precise technical vocabulary rather than a vague paraphrase. Which chunk fits best?",
+      "options": {
+        "A": "Could we possibly meet in the middle at...?",
+        "B": "phenomenological experience",
+        "C": "Based on my research and experience, I was expecting a range closer to...",
+        "D": "Following up on our call, I wanted to confirm..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Could we possibly meet in the middle at...?\" belongs to Negotiating Salary & Offers — used to negotiate salary or offer terms professionally after receiving a job offer, not this context.\nSimilar chunks:\n- Based on my research and experience, I was expecting a range closer to...\n- Is there any flexibility on the remote work arrangement?\n- I'm confident I can bring strong value here — is there room to revisit this number?\n\n✓ Correct — \"phenomenological experience\" is a Philosophical & Academic Terms chunk: a precise academic or philosophical term used in formal discussion or writing.\nExample: \"The study focused on the phenomenological experience of chronic pain, not just its clinical markers.\"\nSimilar chunks:\n- moral framework\n- epistemic humility\n- the illusion of the self\n\n✗ \"Based on my research and experience, I was expecting a range closer to...\" belongs to Negotiating Salary & Offers — used to negotiate salary or offer terms professionally after receiving a job offer, not this context.\nSimilar chunks:\n- Could we possibly meet in the middle at...?\n- Is there any flexibility on the sign-on bonus?\n- I'd like a bit of time to consider this properly — could I get back to you by [date]?\n\n✗ \"Following up on our call, I wanted to confirm...\" belongs to Opening & Stating Purpose in an Email — used to open a professional email and state its purpose clearly, not this context.\nSimilar chunks:\n- I am writing to request...\n- Further to our conversation earlier today, ...\n- I wanted to flag/highlight the following before we proceed."
+    },
+    {
+      "id": 35,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing or discussing an academic or philosophical topic and need precise technical vocabulary rather than a vague paraphrase. Which chunk fits best?",
+      "options": {
+        "A": "It might be tempting to think that..., however...",
+        "B": "Correct me if I'm wrong...",
+        "C": "We should catch up sometime.",
+        "D": "the illusion of the self"
+      },
+      "correct": "D",
+      "explanation": "✗ \"It might be tempting to think that..., however...\" belongs to Addressing Counterarguments (Academic) — used in academic register to acknowledge an opposing view fairly before responding to it, not this context.\nSimilar chunks:\n- Let's steelman the opposing view...\n\n✗ \"Correct me if I'm wrong...\" belongs to Softening & Face-Saving Language — used to soften a disagreement or suggestion so the other person doesn't feel attacked or cornered, not this context.\nSimilar chunks:\n- I might be missing something, but...\n- I'd lean towards X, but I'm open.\n- Just to play devil's advocate...\n\n✗ \"We should catch up sometime.\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- Perhaps we could consider...\n- It's not bad.\n- Let's take that offline.\n\n✓ Correct — \"the illusion of the self\" is a Philosophical & Academic Terms chunk: a precise academic or philosophical term used in formal discussion or writing.\nExample: \"The lecture explored the illusion of the self as a stable, unchanging entity.\"\nSimilar chunks:\n- epistemic humility\n- phenomenological experience\n- moral framework"
+    },
+    {
+      "id": 36,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're starting a professional email and need to state clearly why you're writing. Which chunk fits best?",
+      "options": {
+        "A": "For your reference, looping in [name].",
+        "B": "My background is in [finance], and I've spent the last [X years] specializing in...",
+        "C": "I am writing to request...",
+        "D": "Apologies for the delay in responding."
+      },
+      "correct": "C",
+      "explanation": "✗ \"For your reference, looping in [name].\" belongs to Transferring Information / Status Updates in Writing — used in writing to pass along information or confirm a status update for the record, not this context.\nSimilar chunks:\n- For your awareness, looping in [name].\n- This is to formally document what we discussed on the call.\n- Just to confirm, the following action items were agreed: ...\n\n✗ \"My background is in [finance], and I've spent the last [X years] specializing in...\" belongs to Self-Introduction (Elevator Pitch) — used to introduce yourself professionally in a concise elevator pitch, not this context.\nSimilar chunks:\n- What draws me to this role is the opportunity to combine my BA experience with my growing finance/investment background.\n- I'm currently a Business Analyst working across fintech and mortgage domains for UK clients.\n\n✓ Correct — \"I am writing to request...\" is an Opening & Stating Purpose in an Email chunk: used to open a professional email and state its purpose clearly.\nExample: \"I am writing to request an extension on the submission deadline.\"\nSimilar chunks:\n- Following up on our call, I wanted to confirm...\n- I wanted to flag/highlight the following before we proceed.\n- I hope this email finds you well.\n\n✗ \"Apologies for the delay in responding.\" belongs to Apologizing in Writing — used to apologize for a mistake or delay in formal written communication, not this context.\nSimilar chunks:\n- I apologize for any inconvenience this may have caused.\n- I take full responsibility for this and will ensure it does not happen again.\n- Please accept my apologies for the oversight."
+    },
+    {
+      "id": 37,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're starting a professional email and need to state clearly why you're writing. Which chunk fits best?",
+      "options": {
+        "A": "While it's true that..., it's also the case that...",
+        "B": "We need to move the deadline.",
+        "C": "Let me make sure I understand before I respond.",
+        "D": "Further to our conversation earlier today, ..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"While it's true that..., it's also the case that...\" belongs to Contrasting Ideas (Academic) — used in academic register to introduce a contrasting or counterintuitive idea, not this context.\nSimilar chunks:\n- Contrary to popular belief...\n\n✗ \"We need to move the deadline.\" belongs to Adjusting Directness of a Request by Formality — used to make the same request at different levels of directness, depending on seniority and closeness of the relationship, not this context.\nSimilar chunks:\n- Would it be possible to move the deadline?\n- I don't suppose there's any chance we could move the deadline?\n- Could we move the deadline?\n\n✗ \"Let me make sure I understand before I respond.\" belongs to Diplomatic Responses to Pushback — used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive, not this context.\nSimilar chunks:\n- Would you be able to share a bit more context on that?\n- I take your point, though I'd offer a different perspective.\n- I appreciate the feedback — just to clarify, are we saying X or Y?\n\n✓ Correct — \"Further to our conversation earlier today, ...\" is an Opening & Stating Purpose in an Email chunk: used to open a professional email and state its purpose clearly.\nExample: \"Further to our conversation earlier today, I've attached the revised contract.\"\nSimilar chunks:\n- I am writing to request...\n- Following up on our call, I wanted to confirm...\n- I hope this email finds you well."
+    },
+    {
+      "id": 38,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're starting a professional email and need to state clearly why you're writing. Which chunk fits best?",
+      "options": {
+        "A": "That's a fair observation — could we explore an alternative?",
+        "B": "While it's true that..., it's also the case that...",
+        "C": "I hope this email finds you well.",
+        "D": "Please accept my apologies for the oversight."
+      },
+      "correct": "C",
+      "explanation": "✗ \"That's a fair observation — could we explore an alternative?\" belongs to Diplomatic Responses to Pushback — used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive, not this context.\nSimilar chunks:\n- I take your point, though I'd offer a different perspective.\n- Would you be able to share a bit more context on that?\n- I appreciate the feedback — just to clarify, are we saying X or Y?\n\n✗ \"While it's true that..., it's also the case that...\" belongs to Contrasting Ideas (Academic) — used in academic register to introduce a contrasting or counterintuitive idea, not this context.\nSimilar chunks:\n- Contrary to popular belief...\n\n✓ Correct — \"I hope this email finds you well.\" is an Opening & Stating Purpose in an Email chunk: used to open a professional email and state its purpose clearly.\nExample: \"I hope this email finds you well — it's been a while since we last spoke.\"\nSimilar chunks:\n- Further to our conversation earlier today, ...\n- I am writing to follow up on...\n- I am writing to request...\n\n✗ \"Please accept my apologies for the oversight.\" belongs to Apologizing in Writing — used to apologize for a mistake or delay in formal written communication, not this context.\nSimilar chunks:\n- I apologize for any inconvenience this may have caused.\n- I take full responsibility for this and will ensure it does not happen again.\n- Thank you for your patience while we resolve this."
+    },
+    {
+      "id": 39,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing a professional email and need to make a clear, polite request for action. Which chunk fits best?",
+      "options": {
+        "A": "I would be grateful if you could clarify...",
+        "B": "I'm currently a Business Analyst working across fintech and mortgage domains for UK clients.",
+        "C": "Let me think about it.",
+        "D": "Would it be possible to move the deadline?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I would be grateful if you could clarify...\" is a Making a Clear Written Request chunk: used to make a clear, polite written request for action.\nExample: \"I would be grateful if you could clarify which department owns this approval.\"\nSimilar chunks:\n- Could you please confirm by [date]?\n- Please could you advise at your earliest convenience?\n- I would appreciate it if you could review this by [date].\n\n✗ \"I'm currently a Business Analyst working across fintech and mortgage domains for UK clients.\" belongs to Self-Introduction (Elevator Pitch) — used to introduce yourself professionally in a concise elevator pitch, not this context.\nSimilar chunks:\n- My background is in [finance], and I've spent the last [X years] specializing in...\n- What draws me to this role is the opportunity to combine my BA experience with my growing finance/investment background.\n\n✗ \"Let me think about it.\" belongs to Decoding Passive or Deflecting Written Signals — a short or formal-sounding phrase that often signals irritation, reluctant agreement, or a soft no, rather than its literal meaning, not this context.\nSimilar chunks:\n- as mentioned below\n- Noted.\n- Ok.\n\n✗ \"Would it be possible to move the deadline?\" belongs to Adjusting Directness of a Request by Formality — used to make the same request at different levels of directness, depending on seniority and closeness of the relationship, not this context.\nSimilar chunks:\n- We need to move the deadline.\n- Could we move the deadline?\n- I don't suppose there's any chance we could move the deadline?"
+    },
+    {
+      "id": 40,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing a professional email and need to make a clear, polite request for action. Which chunk fits best?",
+      "options": {
+        "A": "I appreciate the feedback — just to clarify, are we saying X or Y?",
+        "B": "I hear what you're saying.",
+        "C": "I would appreciate it if you could review this by [date].",
+        "D": "With respect..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I appreciate the feedback — just to clarify, are we saying X or Y?\" belongs to Diplomatic Responses to Pushback — used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive, not this context.\nSimilar chunks:\n- Would you be able to share a bit more context on that?\n- I take your point, though I'd offer a different perspective.\n- Let me make sure I understand before I respond.\n\n✗ \"I hear what you're saying.\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- I only have a few minor comments.\n- It's not bad.\n- Let's take that offline.\n\n✓ Correct — \"I would appreciate it if you could review this by [date].\" is a Making a Clear Written Request chunk: used to make a clear, polite written request for action.\nExample: \"I would appreciate it if you could review this by end of day Wednesday.\"\nSimilar chunks:\n- Please could you advise at your earliest convenience?\n- Please see attached for your reference.\n- I would be grateful if you could clarify...\n\n✗ \"With respect...\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- I only have a few minor comments.\n- It's not bad.\n- Let's take that offline."
+    },
+    {
+      "id": 41,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing a professional email and need to make a clear, polite request for action. Which chunk fits best?",
+      "options": {
+        "A": "Please accept my apologies for the oversight.",
+        "B": "By 'X,' I mean...",
+        "C": "Is there any flexibility on the base salary?",
+        "D": "Kindly find attached..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Please accept my apologies for the oversight.\" belongs to Apologizing in Writing — used to apologize for a mistake or delay in formal written communication, not this context.\nSimilar chunks:\n- I take full responsibility for this and will ensure it does not happen again.\n- Apologies for the delay in responding.\n- I apologize for any inconvenience this may have caused.\n\n✗ \"By 'X,' I mean...\" belongs to Clarifying Definitions (Academic) — used in academic register to define precisely what you mean by a key term, not this context.\nSimilar chunks:\n- Let's operationalize this term...\n\n✗ \"Is there any flexibility on the base salary?\" belongs to Negotiating Salary & Offers — used to negotiate salary or offer terms professionally after receiving a job offer, not this context.\nSimilar chunks:\n- I'm confident I can bring strong value here — is there room to revisit this number?\n- Thank you for the offer — I'm very excited about the opportunity. I'd like to discuss the compensation package before confirming.\n- Is there any flexibility on the remote work arrangement?\n\n✓ Correct — \"Kindly find attached...\" is a Making a Clear Written Request chunk: used to make a clear, polite written request for action.\nExample: \"Kindly find attached the updated invoice for last month's services.\"\nSimilar chunks:\n- Please see attached for your reference.\n- Please let me know if you have any questions or concerns.\n- I would appreciate it if you could review this by [date]."
+    },
+    {
+      "id": 42,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing an email to pass along information or confirm a status update, in a way that's easy to reference later. Which chunk fits best?",
+      "options": {
+        "A": "To a certain extent...",
+        "B": "For your reference, looping in [name].",
+        "C": "We should catch up sometime.",
+        "D": "Is there any flexibility on the remote work arrangement?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"To a certain extent...\" belongs to Academic Hedging — used in academic register to avoid stating a claim as an absolute fact, not this context.\nSimilar chunks:\n- It could be argued that...\n- There's a tendency to...\n\n✓ Correct — \"For your reference, looping in [name].\" is a Transferring Information / Status Updates in Writing chunk: used in writing to pass along information or confirm a status update for the record.\nExample: \"For your reference, looping in David, who handled the original contract.\"\nSimilar chunks:\n- As discussed, please find below a summary of next steps.\n- This is to formally document what we discussed on the call.\n- Just to confirm, the following action items were agreed: ...\n\n✗ \"We should catch up sometime.\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- With respect...\n- With all due respect...\n- I only have a few minor comments.\n\n✗ \"Is there any flexibility on the remote work arrangement?\" belongs to Negotiating Salary & Offers — used to negotiate salary or offer terms professionally after receiving a job offer, not this context.\nSimilar chunks:\n- Thank you for the offer — I'm very excited about the opportunity. I'd like to discuss the compensation package before confirming.\n- Could we possibly meet in the middle at...?\n- I'd like a bit of time to consider this properly — could I get back to you by [date]?"
+    },
+    {
+      "id": 43,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing an email to pass along information or confirm a status update, in a way that's easy to reference later. Which chunk fits best?",
+      "options": {
+        "A": "Could we move the deadline?",
+        "B": "As discussed, please find below a summary of next steps.",
+        "C": "I'd lean towards X, but I'm open.",
+        "D": "I wanted to flag/highlight the following before we proceed."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Could we move the deadline?\" belongs to Adjusting Directness of a Request by Formality — used to make the same request at different levels of directness, depending on seniority and closeness of the relationship, not this context.\nSimilar chunks:\n- I don't suppose there's any chance we could move the deadline?\n- We need to move the deadline.\n- Would it be possible to move the deadline?\n\n✓ Correct — \"As discussed, please find below a summary of next steps.\" is a Transferring Information / Status Updates in Writing chunk: used in writing to pass along information or confirm a status update for the record.\nExample: \"As discussed, please find below a summary of next steps for the onboarding process.\"\nSimilar chunks:\n- Just to confirm, the following action items were agreed: ...\n- For your reference, looping in [name].\n- This is to formally document what we discussed on the call.\n\n✗ \"I'd lean towards X, but I'm open.\" belongs to Softening & Face-Saving Language — used to soften a disagreement or suggestion so the other person doesn't feel attacked or cornered, not this context.\nSimilar chunks:\n- I might be missing something, but...\n- That's a fair point — and...\n- Correct me if I'm wrong...\n\n✗ \"I wanted to flag/highlight the following before we proceed.\" belongs to Opening & Stating Purpose in an Email — used to open a professional email and state its purpose clearly, not this context.\nSimilar chunks:\n- I hope this email finds you well.\n- Further to our conversation earlier today, ...\n- I am writing to follow up on..."
+    },
+    {
+      "id": 44,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're writing an email to pass along information or confirm a status update, in a way that's easy to reference later. Which chunk fits best?",
+      "options": {
+        "A": "The situation is more layered than it appears...",
+        "B": "I would be grateful if you could clarify...",
+        "C": "For your awareness, looping in [name].",
+        "D": "the illusion of the self"
+      },
+      "correct": "C",
+      "explanation": "✗ \"The situation is more layered than it appears...\" belongs to Acknowledging Complexity (Academic) — used in academic writing to acknowledge that an issue is more complicated than it first appears, not this context.\nSimilar chunks:\n- This is a multifaceted issue...\n\n✗ \"I would be grateful if you could clarify...\" belongs to Making a Clear Written Request — used to make a clear, polite written request for action, not this context.\nSimilar chunks:\n- I would appreciate it if you could review this by [date].\n- Could you please confirm by [date]?\n- Please see attached for your reference.\n\n✓ Correct — \"For your awareness, looping in [name].\" is a Transferring Information / Status Updates in Writing chunk: used in writing to pass along information or confirm a status update for the record.\nExample: \"For your awareness, looping in Anh from finance on this thread.\"\nSimilar chunks:\n- For your reference, looping in [name].\n- Just to confirm, the following action items were agreed: ...\n- As discussed, please find below a summary of next steps.\n\n✗ \"the illusion of the self\" belongs to Philosophical & Academic Terms — a precise academic or philosophical term used in formal discussion or writing, not this context.\nSimilar chunks:\n- phenomenological experience\n- moral framework\n- epistemic humility"
+    },
+    {
+      "id": 45,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to apologize for a mistake or delay in a written, professional way. Which chunk fits best?",
+      "options": {
+        "A": "For your awareness, looping in [name].",
+        "B": "Looking forward to your feedback.",
+        "C": "Ideas propagate like viruses...",
+        "D": "Please accept my apologies for the oversight."
+      },
+      "correct": "D",
+      "explanation": "✗ \"For your awareness, looping in [name].\" belongs to Transferring Information / Status Updates in Writing — used in writing to pass along information or confirm a status update for the record, not this context.\nSimilar chunks:\n- Just to confirm, the following action items were agreed: ...\n- This is to formally document what we discussed on the call.\n- As discussed, please find below a summary of next steps.\n\n✗ \"Looking forward to your feedback.\" belongs to Closing a Professional Email — used to close a professional email politely, not this context.\nSimilar chunks:\n- Kind regards,\n- Please do not hesitate to reach out should you have any questions.\n- I look forward to hearing from you.\n\n✗ \"Ideas propagate like viruses...\" belongs to Academic Metaphors & Analogies — used in academic writing to explain an abstract idea through a vivid metaphor or analogy, not this context.\nSimilar chunks:\n- The self is a center of narrative gravity...\n\n✓ Correct — \"Please accept my apologies for the oversight.\" is an Apologizing in Writing chunk: used to apologize for a mistake or delay in formal written communication.\nExample: \"Please accept my apologies for the oversight — the attachment is included now.\"\nSimilar chunks:\n- I apologize for any inconvenience this may have caused.\n- Thank you for your patience while we resolve this.\n- I take full responsibility for this and will ensure it does not happen again."
+    },
+    {
+      "id": 46,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You need to apologize for a mistake or delay in a written, professional way. Which chunk fits best?",
+      "options": {
+        "A": "the illusion of the self",
+        "B": "Contrary to popular belief...",
+        "C": "Apologies for the delay in responding.",
+        "D": "Let's steelman the opposing view..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"the illusion of the self\" belongs to Philosophical & Academic Terms — a precise academic or philosophical term used in formal discussion or writing, not this context.\nSimilar chunks:\n- moral framework\n- epistemic humility\n- phenomenological experience\n\n✗ \"Contrary to popular belief...\" belongs to Contrasting Ideas (Academic) — used in academic register to introduce a contrasting or counterintuitive idea, not this context.\nSimilar chunks:\n- While it's true that..., it's also the case that...\n\n✓ Correct — \"Apologies for the delay in responding.\" is an Apologizing in Writing chunk: used to apologize for a mistake or delay in formal written communication.\nExample: \"Apologies for the delay in responding — I was out of office until yesterday.\"\nSimilar chunks:\n- I take full responsibility for this and will ensure it does not happen again.\n- Thank you for your patience while we resolve this.\n- I apologize for any inconvenience this may have caused.\n\n✗ \"Let's steelman the opposing view...\" belongs to Addressing Counterarguments (Academic) — used in academic register to acknowledge an opposing view fairly before responding to it, not this context.\nSimilar chunks:\n- It might be tempting to think that..., however..."
+    },
+    {
+      "id": 47,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're finishing a professional email and need a natural, polite way to close it. Which chunk fits best?",
+      "options": {
+        "A": "Thank you for your time and consideration.",
+        "B": "What are we to make of this?",
+        "C": "I'm confident I can bring strong value here — is there room to revisit this number?",
+        "D": "I am writing to follow up on..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Thank you for your time and consideration.\" is a Closing a Professional Email chunk: used to close a professional email politely.\nExample: \"Thank you for your time and consideration during the interview process.\"\nSimilar chunks:\n- Please do not hesitate to reach out should you have any questions.\n- I look forward to hearing from you.\n- Looking forward to your feedback.\n\n✗ \"What are we to make of this?\" belongs to Academic Rhetorical Questions — used to pose a rhetorical question that highlights a tension or contradiction in an academic argument, not this context.\nSimilar chunks:\n- How do we reconcile these ideas?\n\n✗ \"I'm confident I can bring strong value here — is there room to revisit this number?\" belongs to Negotiating Salary & Offers — used to negotiate salary or offer terms professionally after receiving a job offer, not this context.\nSimilar chunks:\n- Could we possibly meet in the middle at...?\n- I'd like a bit of time to consider this properly — could I get back to you by [date]?\n- Based on my research and experience, I was expecting a range closer to...\n\n✗ \"I am writing to follow up on...\" belongs to Opening & Stating Purpose in an Email — used to open a professional email and state its purpose clearly, not this context.\nSimilar chunks:\n- I hope this email finds you well.\n- Following up on our call, I wanted to confirm...\n- I wanted to flag/highlight the following before we proceed."
+    },
+    {
+      "id": 48,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're finishing a professional email and need a natural, polite way to close it. Which chunk fits best?",
+      "options": {
+        "A": "I hope this email finds you well.",
+        "B": "Please do not hesitate to reach out should you have any questions.",
+        "C": "This led to a 20% improvement in...",
+        "D": "This is the linchpin of the argument..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I hope this email finds you well.\" belongs to Opening & Stating Purpose in an Email — used to open a professional email and state its purpose clearly, not this context.\nSimilar chunks:\n- Following up on our call, I wanted to confirm...\n- I am writing to request...\n- I wanted to flag/highlight the following before we proceed.\n\n✓ Correct — \"Please do not hesitate to reach out should you have any questions.\" is a Closing a Professional Email chunk: used to close a professional email politely.\nExample: \"Please do not hesitate to reach out should you have any questions about the proposal.\"\nSimilar chunks:\n- Looking forward to your feedback.\n- Thank you for your time and consideration.\n- I look forward to hearing from you.\n\n✗ \"This led to a 20% improvement in...\" belongs to Answering Behavioral Questions (STAR Method) — used to structure a behavioral interview answer using the STAR method (Situation, Task, Action, Result), not this context.\nSimilar chunks:\n- So what I did was...\n- I was responsible for...\n- In my previous role, we were facing...\n\n✗ \"This is the linchpin of the argument...\" belongs to Emphasizing Key Points (Academic) — used in academic register to stress that a point is central to the whole argument, not this context.\nSimilar chunks:\n- This is of paramount importance..."
+    },
+    {
+      "id": 49,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're finishing a professional email and need a natural, polite way to close it. Which chunk fits best?",
+      "options": {
+        "A": "Do you have five minutes to sync?",
+        "B": "Let me think about it.",
+        "C": "I look forward to hearing from you.",
+        "D": "That's a fair point — and..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Do you have five minutes to sync?\" belongs to Matching Formality to Audience (Register) — used to ask for the same thing at a formality level matched to the audience — casual chat, work peer, or senior/client, not this context.\nSimilar chunks:\n- wanna grab 5 mins?\n- Would you have five minutes to align on this?\n\n✗ \"Let me think about it.\" belongs to Decoding Passive or Deflecting Written Signals — a short or formal-sounding phrase that often signals irritation, reluctant agreement, or a soft no, rather than its literal meaning, not this context.\nSimilar chunks:\n- as mentioned below\n- Ok.\n- per my last email\n\n✓ Correct — \"I look forward to hearing from you.\" is a Closing a Professional Email chunk: used to close a professional email politely.\nExample: \"I look forward to hearing from you regarding next steps.\"\nSimilar chunks:\n- Many thanks,\n- Best regards,\n- Looking forward to your feedback.\n\n✗ \"That's a fair point — and...\" belongs to Softening & Face-Saving Language — used to soften a disagreement or suggestion so the other person doesn't feel attacked or cornered, not this context.\nSimilar chunks:\n- Would it make sense to...?\n- Just to play devil's advocate...\n- Correct me if I'm wrong..."
+    },
+    {
+      "id": 50,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're in a job interview and the interviewer asks about a specific past situation — you want to structure your answer clearly. Which chunk fits best?",
+      "options": {
+        "A": "Let's take that offline.",
+        "B": "Just to confirm, the following action items were agreed: ...",
+        "C": "I might be missing something, but...",
+        "D": "This led to a 20% improvement in..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let's take that offline.\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- With respect...\n- I only have a few minor comments.\n- It's not bad.\n\n✗ \"Just to confirm, the following action items were agreed: ...\" belongs to Transferring Information / Status Updates in Writing — used in writing to pass along information or confirm a status update for the record, not this context.\nSimilar chunks:\n- As discussed, please find below a summary of next steps.\n- For your awareness, looping in [name].\n- For your reference, looping in [name].\n\n✗ \"I might be missing something, but...\" belongs to Softening & Face-Saving Language — used to soften a disagreement or suggestion so the other person doesn't feel attacked or cornered, not this context.\nSimilar chunks:\n- Correct me if I'm wrong...\n- Just to play devil's advocate...\n- I'd lean towards X, but I'm open.\n\n✓ Correct — \"This led to a 20% improvement in...\" is an Answering Behavioral Questions (STAR Method) chunk: used to structure a behavioral interview answer using the STAR method (Situation, Task, Action, Result).\nExample: \"This led to a 20% improvement in on-time delivery over the following quarter.\"\nSimilar chunks:\n- I was responsible for...\n- I took the initiative to...\n- As a result, we were able to..."
+    },
+    {
+      "id": 51,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're in a job interview and the interviewer asks about a specific past situation — you want to structure your answer clearly. Which chunk fits best?",
+      "options": {
+        "A": "As a result, we were able to...",
+        "B": "Please could you advise at your earliest convenience?",
+        "C": "Please accept my apologies for the oversight.",
+        "D": "I don't suppose there's any chance we could move the deadline?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"As a result, we were able to...\" is an Answering Behavioral Questions (STAR Method) chunk: used to structure a behavioral interview answer using the STAR method (Situation, Task, Action, Result).\nExample: \"As a result, we were able to cut the reporting time from three days to one.\"\nSimilar chunks:\n- I was responsible for...\n- So what I did was...\n- This led to a 20% improvement in...\n\n✗ \"Please could you advise at your earliest convenience?\" belongs to Making a Clear Written Request — used to make a clear, polite written request for action, not this context.\nSimilar chunks:\n- Please let me know if you have any questions or concerns.\n- Please see attached for your reference.\n- I would appreciate it if you could review this by [date].\n\n✗ \"Please accept my apologies for the oversight.\" belongs to Apologizing in Writing — used to apologize for a mistake or delay in formal written communication, not this context.\nSimilar chunks:\n- I apologize for any inconvenience this may have caused.\n- Apologies for the delay in responding.\n- Thank you for your patience while we resolve this.\n\n✗ \"I don't suppose there's any chance we could move the deadline?\" belongs to Adjusting Directness of a Request by Formality — used to make the same request at different levels of directness, depending on seniority and closeness of the relationship, not this context.\nSimilar chunks:\n- We need to move the deadline.\n- Would it be possible to move the deadline?\n- Could we move the deadline?"
+    },
+    {
+      "id": 52,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're in a job interview and the interviewer asks about a specific past situation — you want to structure your answer clearly. Which chunk fits best?",
+      "options": {
+        "A": "I hope this email finds you well.",
+        "B": "I'm currently a Business Analyst working across fintech and mortgage domains for UK clients.",
+        "C": "I was responsible for...",
+        "D": "epistemic humility"
+      },
+      "correct": "C",
+      "explanation": "✗ \"I hope this email finds you well.\" belongs to Opening & Stating Purpose in an Email — used to open a professional email and state its purpose clearly, not this context.\nSimilar chunks:\n- I am writing to follow up on...\n- Following up on our call, I wanted to confirm...\n- I wanted to flag/highlight the following before we proceed.\n\n✗ \"I'm currently a Business Analyst working across fintech and mortgage domains for UK clients.\" belongs to Self-Introduction (Elevator Pitch) — used to introduce yourself professionally in a concise elevator pitch, not this context.\nSimilar chunks:\n- What draws me to this role is the opportunity to combine my BA experience with my growing finance/investment background.\n- My background is in [finance], and I've spent the last [X years] specializing in...\n\n✓ Correct — \"I was responsible for...\" is an Answering Behavioral Questions (STAR Method) chunk: used to structure a behavioral interview answer using the STAR method (Situation, Task, Action, Result).\nExample: \"I was responsible for coordinating the migration between the old and new systems.\"\nSimilar chunks:\n- I took the initiative to...\n- So what I did was...\n- This led to a 20% improvement in...\n\n✗ \"epistemic humility\" belongs to Philosophical & Academic Terms — a precise academic or philosophical term used in formal discussion or writing, not this context.\nSimilar chunks:\n- phenomenological experience\n- moral framework\n- the illusion of the self"
+    },
+    {
+      "id": 53,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're introducing yourself professionally, such as at the start of an interview or when meeting someone new in your field. Which chunk fits best?",
+      "options": {
+        "A": "Please do not hesitate to reach out should you have any questions.",
+        "B": "In my previous role, we were facing...",
+        "C": "What draws me to this role is the opportunity to combine my BA experience with my growing finance/investment background.",
+        "D": "What growth opportunities exist for someone moving from a general BA background into capital markets?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Please do not hesitate to reach out should you have any questions.\" belongs to Closing a Professional Email — used to close a professional email politely, not this context.\nSimilar chunks:\n- Looking forward to your feedback.\n- I look forward to hearing from you.\n- Best regards,\n\n✗ \"In my previous role, we were facing...\" belongs to Answering Behavioral Questions (STAR Method) — used to structure a behavioral interview answer using the STAR method (Situation, Task, Action, Result), not this context.\nSimilar chunks:\n- As a result, we were able to...\n- I took the initiative to...\n- I was responsible for...\n\n✓ Correct — \"What draws me to this role is the opportunity to combine my BA experience with my growing finance/investment background.\" is a Self-Introduction (Elevator Pitch) chunk: used to introduce yourself professionally in a concise elevator pitch.\nExample: \"What draws me to this role is the opportunity to combine my BA experience with my growing finance/investment background.\"\nSimilar chunks:\n- I'm currently a Business Analyst working across fintech and mortgage domains for UK clients.\n- My background is in [finance], and I've spent the last [X years] specializing in...\n\n✗ \"What growth opportunities exist for someone moving from a general BA background into capital markets?\" belongs to Asking Thoughtful Questions in an Interview — used to ask a thoughtful, engaged question at the end of a job interview, not this context.\nSimilar chunks:\n- How is the BA function positioned within the broader product/investment team?\n- What are the biggest challenges the team is currently facing?\n- What does success look like in this role after the first six months?"
+    },
+    {
+      "id": 54,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You're introducing yourself professionally, such as at the start of an interview or when meeting someone new in your field. Which chunk fits best?",
+      "options": {
+        "A": "Would you have five minutes to align on this?",
+        "B": "What does success look like in this role after the first six months?",
+        "C": "I'm currently a Business Analyst working across fintech and mortgage domains for UK clients.",
+        "D": "What are we to make of this?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Would you have five minutes to align on this?\" belongs to Matching Formality to Audience (Register) — used to ask for the same thing at a formality level matched to the audience — casual chat, work peer, or senior/client, not this context.\nSimilar chunks:\n- Do you have five minutes to sync?\n- wanna grab 5 mins?\n\n✗ \"What does success look like in this role after the first six months?\" belongs to Asking Thoughtful Questions in an Interview — used to ask a thoughtful, engaged question at the end of a job interview, not this context.\nSimilar chunks:\n- What are the biggest challenges the team is currently facing?\n- What growth opportunities exist for someone moving from a general BA background into capital markets?\n- How is the BA function positioned within the broader product/investment team?\n\n✓ Correct — \"I'm currently a Business Analyst working across fintech and mortgage domains for UK clients.\" is a Self-Introduction (Elevator Pitch) chunk: used to introduce yourself professionally in a concise elevator pitch.\nExample: \"I'm currently a Business Analyst working across fintech and mortgage domains for UK clients, mostly on requirements and process mapping.\"\nSimilar chunks:\n- What draws me to this role is the opportunity to combine my BA experience with my growing finance/investment background.\n- My background is in [finance], and I've spent the last [X years] specializing in...\n\n✗ \"What are we to make of this?\" belongs to Academic Rhetorical Questions — used to pose a rhetorical question that highlights a tension or contradiction in an academic argument, not this context.\nSimilar chunks:\n- How do we reconcile these ideas?"
+    },
+    {
+      "id": 55,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've reached the end of an interview and the interviewer asks if you have any questions — you want to ask something that shows genuine engagement. Which chunk fits best?",
+      "options": {
+        "A": "What are the biggest challenges the team is currently facing?",
+        "B": "Kind regards,",
+        "C": "We should catch up sometime.",
+        "D": "Contrary to popular belief..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What are the biggest challenges the team is currently facing?\" is an Asking Thoughtful Questions in an Interview chunk: used to ask a thoughtful, engaged question at the end of a job interview.\nExample: \"What are the biggest challenges the team is currently facing?\"\nSimilar chunks:\n- What growth opportunities exist for someone moving from a general BA background into capital markets?\n- How is the BA function positioned within the broader product/investment team?\n- What does success look like in this role after the first six months?\n\n✗ \"Kind regards,\" belongs to Closing a Professional Email — used to close a professional email politely, not this context.\nSimilar chunks:\n- I look forward to hearing from you.\n- Looking forward to your feedback.\n- Please do not hesitate to reach out should you have any questions.\n\n✗ \"We should catch up sometime.\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- I hear what you're saying.\n- No worries if not!\n- With respect...\n\n✗ \"Contrary to popular belief...\" belongs to Contrasting Ideas (Academic) — used in academic register to introduce a contrasting or counterintuitive idea, not this context.\nSimilar chunks:\n- While it's true that..., it's also the case that..."
+    },
+    {
+      "id": 56,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've reached the end of an interview and the interviewer asks if you have any questions — you want to ask something that shows genuine engagement. Which chunk fits best?",
+      "options": {
+        "A": "What growth opportunities exist for someone moving from a general BA background into capital markets?",
+        "B": "epistemic humility",
+        "C": "That's a fair observation — could we explore an alternative?",
+        "D": "Kind regards,"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What growth opportunities exist for someone moving from a general BA background into capital markets?\" is an Asking Thoughtful Questions in an Interview chunk: used to ask a thoughtful, engaged question at the end of a job interview.\nExample: \"What growth opportunities exist for someone moving from a general BA background into capital markets?\"\nSimilar chunks:\n- What does success look like in this role after the first six months?\n- What are the biggest challenges the team is currently facing?\n- How is the BA function positioned within the broader product/investment team?\n\n✗ \"epistemic humility\" belongs to Philosophical & Academic Terms — a precise academic or philosophical term used in formal discussion or writing, not this context.\nSimilar chunks:\n- the illusion of the self\n- phenomenological experience\n- moral framework\n\n✗ \"That's a fair observation — could we explore an alternative?\" belongs to Diplomatic Responses to Pushback — used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive, not this context.\nSimilar chunks:\n- I appreciate the feedback — just to clarify, are we saying X or Y?\n- Let me make sure I understand before I respond.\n- Would you be able to share a bit more context on that?\n\n✗ \"Kind regards,\" belongs to Closing a Professional Email — used to close a professional email politely, not this context.\nSimilar chunks:\n- Looking forward to your feedback.\n- Best regards,\n- Many thanks,"
+    },
+    {
+      "id": 57,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've received a job offer and want to negotiate the compensation package professionally. Which chunk fits best?",
+      "options": {
+        "A": "Ok.",
+        "B": "Contrary to popular belief...",
+        "C": "Thank you for the offer — I'm very excited about the opportunity. I'd like to discuss the compensation package before confirming.",
+        "D": "That's interesting."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Ok.\" belongs to Decoding Passive or Deflecting Written Signals — a short or formal-sounding phrase that often signals irritation, reluctant agreement, or a soft no, rather than its literal meaning, not this context.\nSimilar chunks:\n- Noted.\n- per my last email\n- as mentioned below\n\n✗ \"Contrary to popular belief...\" belongs to Contrasting Ideas (Academic) — used in academic register to introduce a contrasting or counterintuitive idea, not this context.\nSimilar chunks:\n- While it's true that..., it's also the case that...\n\n✓ Correct — \"Thank you for the offer — I'm very excited about the opportunity. I'd like to discuss the compensation package before confirming.\" is a Negotiating Salary & Offers chunk: used to negotiate salary or offer terms professionally after receiving a job offer.\nExample: \"Thank you for the offer — I'm very excited about the opportunity. I'd like to discuss the compensation package before confirming.\"\nSimilar chunks:\n- Is there any flexibility on the remote work arrangement?\n- Based on my research and experience, I was expecting a range closer to...\n- Could we possibly meet in the middle at...?\n\n✗ \"That's interesting.\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- It's not bad.\n- Let's take that offline.\n- I only have a few minor comments."
+    },
+    {
+      "id": 58,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've received a job offer and want to negotiate the compensation package professionally. Which chunk fits best?",
+      "options": {
+        "A": "Let's operationalize this term...",
+        "B": "as mentioned below",
+        "C": "Is there any flexibility on the remote work arrangement?",
+        "D": "With respect..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Let's operationalize this term...\" belongs to Clarifying Definitions (Academic) — used in academic register to define precisely what you mean by a key term, not this context.\nSimilar chunks:\n- By 'X,' I mean...\n\n✗ \"as mentioned below\" belongs to Decoding Passive or Deflecting Written Signals — a short or formal-sounding phrase that often signals irritation, reluctant agreement, or a soft no, rather than its literal meaning, not this context.\nSimilar chunks:\n- per my last email\n- Ok.\n- Noted.\n\n✓ Correct — \"Is there any flexibility on the remote work arrangement?\" is a Negotiating Salary & Offers chunk: used to negotiate salary or offer terms professionally after receiving a job offer.\nExample: \"Is there any flexibility on the remote work arrangement — say, two days from home?\"\nSimilar chunks:\n- Is there any flexibility on the sign-on bonus?\n- Could we possibly meet in the middle at...?\n- Thank you for the offer — I'm very excited about the opportunity. I'd like to discuss the compensation package before confirming.\n\n✗ \"With respect...\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- Perhaps we could consider...\n- Let's take that offline.\n- No worries if not!"
+    },
+    {
+      "id": 59,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've received a job offer and want to negotiate the compensation package professionally. Which chunk fits best?",
+      "options": {
+        "A": "Many thanks,",
+        "B": "It's not bad.",
+        "C": "It might be tempting to think that..., however...",
+        "D": "I'd like a bit of time to consider this properly — could I get back to you by [date]?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Many thanks,\" belongs to Closing a Professional Email — used to close a professional email politely, not this context.\nSimilar chunks:\n- Looking forward to your feedback.\n- Please do not hesitate to reach out should you have any questions.\n- Kind regards,\n\n✗ \"It's not bad.\" belongs to Reading & Using Indirect, Understated Signals — used to soften disagreement, a request, or a boundary so it doesn't sound blunt — the real meaning is usually stronger than the literal words, not this context.\nSimilar chunks:\n- With respect...\n- We should catch up sometime.\n- Perhaps we could consider...\n\n✗ \"It might be tempting to think that..., however...\" belongs to Addressing Counterarguments (Academic) — used in academic register to acknowledge an opposing view fairly before responding to it, not this context.\nSimilar chunks:\n- Let's steelman the opposing view...\n\n✓ Correct — \"I'd like a bit of time to consider this properly — could I get back to you by [date]?\" is a Negotiating Salary & Offers chunk: used to negotiate salary or offer terms professionally after receiving a job offer.\nExample: \"I'd like a bit of time to consider this properly — could I get back to you by Friday?\"\nSimilar chunks:\n- Thank you for the offer — I'm very excited about the opportunity. I'd like to discuss the compensation package before confirming.\n- Is there any flexibility on the base salary?\n- I'm confident I can bring strong value here — is there room to revisit this number?"
+    },
+    {
+      "id": 60,
+      "ka": "core",
+      "kaName": "Situations",
+      "question": "You've received a job offer and want to negotiate the compensation package professionally. Which chunk fits best?",
+      "options": {
+        "A": "Is there any flexibility on the base salary?",
+        "B": "I appreciate the feedback — just to clarify, are we saying X or Y?",
+        "C": "While it's true that..., it's also the case that...",
+        "D": "I don't suppose there's any chance we could move the deadline?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Is there any flexibility on the base salary?\" is a Negotiating Salary & Offers chunk: used to negotiate salary or offer terms professionally after receiving a job offer.\nExample: \"Is there any flexibility on the base salary, even if the sign-on stays the same?\"\nSimilar chunks:\n- Based on my research and experience, I was expecting a range closer to...\n- Is there any flexibility on the remote work arrangement?\n- Thank you for the offer — I'm very excited about the opportunity. I'd like to discuss the compensation package before confirming.\n\n✗ \"I appreciate the feedback — just to clarify, are we saying X or Y?\" belongs to Diplomatic Responses to Pushback — used to respond to pushback or a challenging question diplomatically, without backing down or getting defensive, not this context.\nSimilar chunks:\n- Let me make sure I understand before I respond.\n- That's a fair observation — could we explore an alternative?\n- I take your point, though I'd offer a different perspective.\n\n✗ \"While it's true that..., it's also the case that...\" belongs to Contrasting Ideas (Academic) — used in academic register to introduce a contrasting or counterintuitive idea, not this context.\nSimilar chunks:\n- Contrary to popular belief...\n\n✗ \"I don't suppose there's any chance we could move the deadline?\" belongs to Adjusting Directness of a Request by Formality — used to make the same request at different levels of directness, depending on seniority and closeness of the relationship, not this context.\nSimilar chunks:\n- Would it be possible to move the deadline?\n- We need to move the deadline.\n- Could we move the deadline?"
+    }
+  ]
+}
