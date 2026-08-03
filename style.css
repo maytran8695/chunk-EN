@@ -158,15 +158,18 @@ body {
 }
 .option-grid:last-child { margin-bottom: 0; }
 
-.source-tier-label {
-  font-size: 0.78rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: var(--text-muted);
-  margin: 4px 0 8px;
+.topic-select {
+  width: 100%;
+  font-family: inherit;
+  font-size: 0.95rem;
+  padding: 11px 14px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--card-bg);
+  color: var(--text);
+  cursor: pointer;
 }
-.source-tier-label:first-child { margin-top: 0; }
+.topic-select:focus { outline: 2px solid var(--primary); outline-offset: 1px; }
 
 .pill-radio {
   display: flex;
@@ -221,18 +224,6 @@ body {
 }
 .ka-row:last-child { border-bottom: none; }
 .ka-row input { accent-color: var(--primary); flex-shrink: 0; }
-.ka-row-label { flex: 1; min-width: 0; }
-.ka-row-count { color: var(--text-muted); font-size: 0.8rem; flex-shrink: 0; }
-
-.source-row-list {
-  display: flex;
-  flex-direction: column;
-  gap: 2px;
-  margin-bottom: 14px;
-}
-.source-row-list:last-child { margin-bottom: 0; }
-.source-row-list .ka-row { border-radius: 6px; padding-left: 8px; padding-right: 8px; }
-.source-row-list .ka-row:has(input:checked) { background: var(--chip-bg-active); }
 
 .ka-actions {
   margin-bottom: 12px;
