@@ -1,0 +1,1042 @@
+{
+  "examId": "stance-hedging-boosting",
+  "title": "Chunk Atlas — Language Systems: Stance, Hedging & Boosting",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to soften a claim about the market without stating it as a flat, undeniable fact, using a single formal hedging adverb. Which chunk fits best?",
+      "options": {
+        "A": "arguably",
+        "B": "likely to",
+        "C": "per the report",
+        "D": "It seems that..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"arguably\" is a Hedging adverbs (formal, softening a claim) chunk: used as a single adverb to soften a claim, common in more formal or written register.\nExample: \"This is arguably the strongest quarter we've had in two years.\"\nSimilar chunks:\n- seemingly\n- ostensibly\n- conceivably\n\n✗ \"likely to\" belongs to Expressing high likelihood — used to describe an outcome as likely, though not fully certain, not this context.\nSimilar chunks:\n- every chance\n- odds are\n- on track to\n\n✗ \"per the report\" belongs to Citing a specific source for a claim — used to attribute a claim to a specific external source, not this context.\nSimilar chunks:\n- according to\n\n✗ \"It seems that...\" belongs to Hedging sentence openers (personal impression) — used to introduce a personal impression or guess rather than a confirmed fact, not this context.\nSimilar chunks:\n- I'd imagine...\n- It appears that...\n- My sense is..."
+    },
+    {
+      "id": 2,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to soften a claim about the market without stating it as a flat, undeniable fact, using a single formal hedging adverb. Which chunk fits best?",
+      "options": {
+        "A": "It's clear that...",
+        "B": "a long shot",
+        "C": "likely to",
+        "D": "conceivably"
+      },
+      "correct": "D",
+      "explanation": "✗ \"It's clear that...\" belongs to Boosting with personal confidence — used as a sentence opener to state personal confidence or certainty about a claim, not this context.\nSimilar chunks:\n- I'm confident that...\n- absolutely\n- I'm sure\n\n✗ \"a long shot\" belongs to Expressing low likelihood — used to describe an outcome as unlikely, though not completely impossible, not this context.\nSimilar chunks:\n- unlikely\n- an outside chance\n- I wouldn't bank on it.\n\n✗ \"likely to\" belongs to Expressing high likelihood — used to describe an outcome as likely, though not fully certain, not this context.\nSimilar chunks:\n- odds are\n- every chance\n- on track to\n\n✓ Correct — \"conceivably\" is a Hedging adverbs (formal, softening a claim) chunk: used as a single adverb to soften a claim, common in more formal or written register.\nExample: \"We could conceivably finish early if nothing else goes wrong.\"\nSimilar chunks:\n- arguably\n- seemingly\n- ostensibly"
+    },
+    {
+      "id": 3,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a plan looks solid on the surface, while leaving room for reality to turn out different. Which chunk fits best?",
+      "options": {
+        "A": "when pigs fly",
+        "B": "I'll put my name to it.",
+        "C": "ideally",
+        "D": "It appears that..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"when pigs fly\" belongs to Expressing near-impossibility — used to describe an outcome as almost impossible, not this context.\nSimilar chunks:\n- slim to none\n- not a chance\n- I'd be amazed.\n\n✗ \"I'll put my name to it.\" belongs to Boosting through personal commitment — used to back a claim with personal credibility or a firm promise, not this context.\nSimilar chunks:\n- You have my word.\n- I stand by that.\n\n✓ Correct — \"ideally\" is a Hedging: how something looks, not how it necessarily is chunk: used to describe how something looks or is designed, while leaving room for reality to differ.\nExample: \"Ideally, we'd have two more weeks of testing before launch.\"\nSimilar chunks:\n- on paper\n- in theory\n\n✗ \"It appears that...\" belongs to Hedging sentence openers (personal impression) — used to introduce a personal impression or guess rather than a confirmed fact, not this context.\nSimilar chunks:\n- My sense is...\n- My read is...\n- I'd imagine..."
+    },
+    {
+      "id": 4,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a plan looks solid on the surface, while leaving room for reality to turn out different. Which chunk fits best?",
+      "options": {
+        "A": "on paper",
+        "B": "a safe bet",
+        "C": "I honestly don't know.",
+        "D": "a coin flip"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"on paper\" is a Hedging: how something looks, not how it necessarily is chunk: used to describe how something looks or is designed, while leaving room for reality to differ.\nExample: \"On paper, the merger makes perfect sense.\"\nSimilar chunks:\n- ideally\n- in theory\n\n✗ \"a safe bet\" belongs to Expressing near-certainty — used to describe an outcome as essentially guaranteed, not this context.\nSimilar chunks:\n- certain to\n- bound to\n- all but guaranteed\n\n✗ \"I honestly don't know.\" belongs to Admitting you don't know at all — used to admit total lack of knowledge on a topic, not this context.\nSimilar chunks:\n- That's outside my knowledge.\n- I'd be guessing.\n\n✗ \"a coin flip\" belongs to Expressing 50-50 uncertainty — used to describe a genuine toss-up, where either outcome is equally possible, not this context.\nSimilar chunks:\n- touch and go\n- could go either way\n- up in the air"
+    },
+    {
+      "id": 5,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a plan mostly worked, without claiming it was a complete, unqualified success. Which chunk fits best?",
+      "options": {
+        "A": "for the most part",
+        "B": "on the face of it",
+        "C": "I've changed my mind on this.",
+        "D": "supposedly"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"for the most part\" is a Hedging vague-degree expressions chunk: used to express a vague, partial degree instead of an absolute one.\nExample: \"For the most part, the new process is working fine.\"\nSimilar chunks:\n- broadly speaking\n- more or less\n- to some extent\n\n✗ \"on the face of it\" belongs to Neutral cautious framing — used to frame an observation as a first, cautious impression rather than a settled conclusion, not this context.\nSimilar chunks:\n- from what I can see\n- at first glance\n\n✗ \"I've changed my mind on this.\" belongs to Signalling you've changed your mind — used to openly acknowledge that your opinion has changed since earlier, not this context.\nSimilar chunks:\n- On reflection, ...\n- I was wrong about that.\n\n✗ \"supposedly\" belongs to Hedging by limited or secondhand evidence — used to flag that a claim is based on limited, partial, or secondhand information, not this context.\nSimilar chunks:\n- apparently\n- if I had to guess\n- as far as I can tell"
+    },
+    {
+      "id": 6,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a plan mostly worked, without claiming it was a complete, unqualified success. Which chunk fits best?",
+      "options": {
+        "A": "I'd stake money on it",
+        "B": "more or less",
+        "C": "a coin flip",
+        "D": "directionally"
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'd stake money on it\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- without a shadow of a doubt\n- I'd go so far as to say...\n- if anything, it's an understatement\n\n✓ Correct — \"more or less\" is a Hedging vague-degree expressions chunk: used to express a vague, partial degree instead of an absolute one.\nExample: \"The estimate turned out to be more or less accurate.\"\nSimilar chunks:\n- broadly speaking\n- by and large\n- for the most part\n\n✗ \"a coin flip\" belongs to Expressing 50-50 uncertainty — used to describe a genuine toss-up, where either outcome is equally possible, not this context.\nSimilar chunks:\n- touch and go\n- could go either way\n- up in the air\n\n✗ \"directionally\" belongs to Rough, informal qualifiers for imprecise figures — used to flag that a figure or claim is a rough estimate, not a precise one, not this context.\nSimilar chunks:\n- anecdotally\n- rough order of magnitude"
+    },
+    {
+      "id": 7,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a plan mostly worked, without claiming it was a complete, unqualified success. Which chunk fits best?",
+      "options": {
+        "A": "I'll put my name to it.",
+        "B": "if anything",
+        "C": "I'd be guessing.",
+        "D": "unquestionably"
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'll put my name to it.\" belongs to Boosting through personal commitment — used to back a claim with personal credibility or a firm promise, not this context.\nSimilar chunks:\n- You have my word.\n- I stand by that.\n\n✓ Correct — \"if anything\" is a Hedging vague-degree expressions chunk: used to express a vague, partial degree instead of an absolute one.\nExample: \"If anything, the delay gave us more time to test.\"\nSimilar chunks:\n- broadly speaking\n- for the most part\n- more or less\n\n✗ \"I'd be guessing.\" belongs to Admitting you don't know at all — used to admit total lack of knowledge on a topic, not this context.\nSimilar chunks:\n- I honestly don't know.\n- That's outside my knowledge.\n\n✗ \"unquestionably\" belongs to Boosting adverbs (formal, strengthening a claim) — used as a single strong adverb to state something as certain or beyond doubt, not this context.\nSimilar chunks:\n- without question\n- categorically\n- emphatically"
+    },
+    {
+      "id": 8,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to share your impression of a situation without stating it as a confirmed fact. Which chunk fits best?",
+      "options": {
+        "A": "I'd imagine...",
+        "B": "without a shadow of a doubt",
+        "C": "I honestly don't know.",
+        "D": "There's no question that..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I'd imagine...\" is a Hedging sentence openers (personal impression) chunk: used to introduce a personal impression or guess rather than a confirmed fact.\nExample: \"I'd imagine the client will push back on that price.\"\nSimilar chunks:\n- My read is...\n- My sense is...\n- It appears that...\n\n✗ \"without a shadow of a doubt\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- I'd bet on it\n- if anything, it's an understatement\n- I'd go so far as to say...\n\n✗ \"I honestly don't know.\" belongs to Admitting you don't know at all — used to admit total lack of knowledge on a topic, not this context.\nSimilar chunks:\n- That's outside my knowledge.\n- I'd be guessing.\n\n✗ \"There's no question that...\" belongs to Boosting with personal confidence — used as a sentence opener to state personal confidence or certainty about a claim, not this context.\nSimilar chunks:\n- It's clear that...\n- no doubt\n- I have no doubt that..."
+    },
+    {
+      "id": 9,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to share your impression of a situation without stating it as a confirmed fact. Which chunk fits best?",
+      "options": {
+        "A": "on paper",
+        "B": "It appears that...",
+        "C": "The data points to...",
+        "D": "I'd guess"
+      },
+      "correct": "B",
+      "explanation": "✗ \"on paper\" belongs to Hedging: how something looks, not how it necessarily is — used to describe how something looks or is designed, while leaving room for reality to differ, not this context.\nSimilar chunks:\n- ideally\n- in theory\n\n✓ Correct — \"It appears that...\" is a Hedging sentence openers (personal impression) chunk: used to introduce a personal impression or guess rather than a confirmed fact.\nExample: \"It appears that the vendor missed the shipping window again.\"\nSimilar chunks:\n- My read is...\n- It seems that...\n- My sense is...\n\n✗ \"The data points to...\" belongs to Careful evidence verbs (not overclaiming) — used to describe what evidence points toward, without overclaiming it as proof, not this context.\nSimilar chunks:\n- The data suggests...\n- The data indicates...\n\n✗ \"I'd guess\" belongs to Everyday light hedging — used for a light, everyday hedge on an opinion or guess, common in casual speech, not this context.\nSimilar chunks:\n- most likely\n- probably\n- I'd say"
+    },
+    {
+      "id": 10,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to share something you heard secondhand or only partly observed, flagging that your evidence is limited. Which chunk fits best?",
+      "options": {
+        "A": "mark my words",
+        "B": "certainly",
+        "C": "apparently",
+        "D": "I'd guess"
+      },
+      "correct": "C",
+      "explanation": "✗ \"mark my words\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- without a shadow of a doubt\n- I'd bet on it\n- I'd stake money on it\n\n✗ \"certainly\" belongs to Everyday light boosting — used as a light, everyday way to state something firmly in casual conversation, not this context.\nSimilar chunks:\n- definitely\n- of course\n- obviously\n\n✓ Correct — \"apparently\" is a Hedging by limited or secondhand evidence chunk: used to flag that a claim is based on limited, partial, or secondhand information.\nExample: \"Apparently, the outage affected the EU region only.\"\nSimilar chunks:\n- word is\n- based on what I've seen\n- reportedly\n\n✗ \"I'd guess\" belongs to Everyday light hedging — used for a light, everyday hedge on an opinion or guess, common in casual speech, not this context.\nSimilar chunks:\n- most likely\n- probably\n- I think"
+    },
+    {
+      "id": 11,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to share something you heard secondhand or only partly observed, flagging that your evidence is limited. Which chunk fits best?",
+      "options": {
+        "A": "it tends to",
+        "B": "My sense is...",
+        "C": "seemingly",
+        "D": "reportedly"
+      },
+      "correct": "D",
+      "explanation": "✗ \"it tends to\" belongs to Hedging with generalizations — used to describe a general tendency rather than an absolute rule, not this context.\nSimilar chunks:\n- generally\n- as a rule\n- typically\n\n✗ \"My sense is...\" belongs to Hedging sentence openers (personal impression) — used to introduce a personal impression or guess rather than a confirmed fact, not this context.\nSimilar chunks:\n- It appears that...\n- I'd imagine...\n- My read is...\n\n✗ \"seemingly\" belongs to Hedging adverbs (formal, softening a claim) — used as a single adverb to soften a claim, common in more formal or written register, not this context.\nSimilar chunks:\n- presumably\n- ostensibly\n- arguably\n\n✓ Correct — \"reportedly\" is a Hedging by limited or secondhand evidence chunk: used to flag that a claim is based on limited, partial, or secondhand information.\nExample: \"The competitor is reportedly raising another funding round.\"\nSimilar chunks:\n- I've heard\n- if I had to guess\n- based on what I've seen"
+    },
+    {
+      "id": 12,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to share something you heard secondhand or only partly observed, flagging that your evidence is limited. Which chunk fits best?",
+      "options": {
+        "A": "slim to none",
+        "B": "You have my word.",
+        "C": "based on what I've seen",
+        "D": "unlikely"
+      },
+      "correct": "C",
+      "explanation": "✗ \"slim to none\" belongs to Expressing near-impossibility — used to describe an outcome as almost impossible, not this context.\nSimilar chunks:\n- I'd be amazed.\n- not a chance\n- when pigs fly\n\n✗ \"You have my word.\" belongs to Boosting through personal commitment — used to back a claim with personal credibility or a firm promise, not this context.\nSimilar chunks:\n- I'll put my name to it.\n- I stand by that.\n\n✓ Correct — \"based on what I've seen\" is a Hedging by limited or secondhand evidence chunk: used to flag that a claim is based on limited, partial, or secondhand information.\nExample: \"Based on what I've seen, the smaller team ships faster.\"\nSimilar chunks:\n- as far as I can tell\n- from what I gather\n- word is\n\n✗ \"unlikely\" belongs to Expressing low likelihood — used to describe an outcome as unlikely, though not completely impossible, not this context.\nSimilar chunks:\n- a long shot\n- an outside chance\n- I wouldn't bank on it."
+    },
+    {
+      "id": 13,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to share something you heard secondhand or only partly observed, flagging that your evidence is limited. Which chunk fits best?",
+      "options": {
+        "A": "word is",
+        "B": "broadly speaking",
+        "C": "presumably",
+        "D": "It appears that..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"word is\" is a Hedging by limited or secondhand evidence chunk: used to flag that a claim is based on limited, partial, or secondhand information.\nExample: \"Word is they're switching agencies after this contract ends.\"\nSimilar chunks:\n- as far as I can tell\n- based on what I've seen\n- I've heard\n\n✗ \"broadly speaking\" belongs to Hedging vague-degree expressions — used to express a vague, partial degree instead of an absolute one, not this context.\nSimilar chunks:\n- more or less\n- for the most part\n- by and large\n\n✗ \"presumably\" belongs to Hedging adverbs (formal, softening a claim) — used as a single adverb to soften a claim, common in more formal or written register, not this context.\nSimilar chunks:\n- arguably\n- seemingly\n- ostensibly\n\n✗ \"It appears that...\" belongs to Hedging sentence openers (personal impression) — used to introduce a personal impression or guess rather than a confirmed fact, not this context.\nSimilar chunks:\n- I'd imagine...\n- My sense is...\n- It seems that..."
+    },
+    {
+      "id": 14,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to share a guess you're not confident in, and want to signal upfront that you might be wrong. Which chunk fits best?",
+      "options": {
+        "A": "bound to",
+        "B": "I honestly don't know.",
+        "C": "I'd challenge that assumption.",
+        "D": "Don't quote me on this, but..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"bound to\" belongs to Expressing near-certainty — used to describe an outcome as essentially guaranteed, not this context.\nSimilar chunks:\n- all but guaranteed\n- a safe bet\n- certain to\n\n✗ \"I honestly don't know.\" belongs to Admitting you don't know at all — used to admit total lack of knowledge on a topic, not this context.\nSimilar chunks:\n- That's outside my knowledge.\n- I'd be guessing.\n\n✗ \"I'd challenge that assumption.\" belongs to Calibrated disagreement: a direct but polite challenge — used to directly but politely challenge an assumption or claim, not this context.\nSimilar chunks:\n- I'd push back on that slightly.\n- With respect, I read it differently.\n\n✓ Correct — \"Don't quote me on this, but...\" is a Pre-emptively hedging your own credibility chunk: used to signal upfront that a claim is uncertain and the speaker might be wrong.\nExample: \"Don't quote me on this, but I think the deal is already signed.\"\nSimilar chunks:\n- Take this with a pinch of salt.\n- I could be wrong, but..."
+    },
+    {
+      "id": 15,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to share a guess you're not confident in, and want to signal upfront that you might be wrong. Which chunk fits best?",
+      "options": {
+        "A": "I firmly believe",
+        "B": "clearly",
+        "C": "Take this with a pinch of salt.",
+        "D": "a long shot"
+      },
+      "correct": "C",
+      "explanation": "✗ \"I firmly believe\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- without a shadow of a doubt\n- I'd stake money on it\n- mark my words\n\n✗ \"clearly\" belongs to Everyday light boosting — used as a light, everyday way to state something firmly in casual conversation, not this context.\nSimilar chunks:\n- of course\n- certainly\n- obviously\n\n✓ Correct — \"Take this with a pinch of salt.\" is a Pre-emptively hedging your own credibility chunk: used to signal upfront that a claim is uncertain and the speaker might be wrong.\nExample: \"Take this with a pinch of salt — I only heard it secondhand.\"\nSimilar chunks:\n- I could be wrong, but...\n- Don't quote me on this, but...\n\n✗ \"a long shot\" belongs to Expressing low likelihood — used to describe an outcome as unlikely, though not completely impossible, not this context.\nSimilar chunks:\n- an outside chance\n- unlikely\n- I wouldn't bank on it."
+    },
+    {
+      "id": 16,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state a forecast while flagging that it depends on nothing unexpected happening. Which chunk fits best?",
+      "options": {
+        "A": "barring any surprises",
+        "B": "It seems that...",
+        "C": "The data points to...",
+        "D": "if anything, it's an understatement"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"barring any surprises\" is a Hedging with conditions chunk: used to make a claim conditional on nothing unexpected happening.\nExample: \"Barring any surprises, this should be a quiet quarter.\"\nSimilar chunks:\n- all things being equal\n- assuming nothing changes\n\n✗ \"It seems that...\" belongs to Hedging sentence openers (personal impression) — used to introduce a personal impression or guess rather than a confirmed fact, not this context.\nSimilar chunks:\n- My sense is...\n- I'd imagine...\n- It appears that...\n\n✗ \"The data points to...\" belongs to Careful evidence verbs (not overclaiming) — used to describe what evidence points toward, without overclaiming it as proof, not this context.\nSimilar chunks:\n- The data indicates...\n- The data suggests...\n\n✗ \"if anything, it's an understatement\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- I'd stake money on it\n- I firmly believe\n- I'd go so far as to say..."
+    },
+    {
+      "id": 17,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state a forecast while flagging that it depends on nothing unexpected happening. Which chunk fits best?",
+      "options": {
+        "A": "there's a case for",
+        "B": "touch and go",
+        "C": "could go either way",
+        "D": "assuming nothing changes"
+      },
+      "correct": "D",
+      "explanation": "✗ \"there's a case for\" belongs to Academic-style hedging — used in formal or academic-style writing to raise a possibility without fully committing to it, not this context.\nSimilar chunks:\n- one might say\n- it could be argued\n\n✗ \"touch and go\" belongs to Expressing 50-50 uncertainty — used to describe a genuine toss-up, where either outcome is equally possible, not this context.\nSimilar chunks:\n- could go either way\n- a coin flip\n- up in the air\n\n✗ \"could go either way\" belongs to Expressing 50-50 uncertainty — used to describe a genuine toss-up, where either outcome is equally possible, not this context.\nSimilar chunks:\n- touch and go\n- up in the air\n- a coin flip\n\n✓ Correct — \"assuming nothing changes\" is a Hedging with conditions chunk: used to make a claim conditional on nothing unexpected happening.\nExample: \"Assuming nothing changes, the launch stays on the 14th.\"\nSimilar chunks:\n- barring any surprises\n- all things being equal"
+    },
+    {
+      "id": 18,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give your casual opinion on something without sounding like you're stating a hard fact. Which chunk fits best?",
+      "options": {
+        "A": "most likely",
+        "B": "It's hard to say.",
+        "C": "I see where you're coming from, but...",
+        "D": "slim to none"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"most likely\" is an Everyday light hedging chunk: used for a light, everyday hedge on an opinion or guess, common in casual speech.\nExample: \"The delay is most likely on the vendor's end.\"\nSimilar chunks:\n- I'd say\n- probably\n- I reckon\n\n✗ \"It's hard to say.\" belongs to Admitting you're not sure — used to admit you're genuinely unsure about something, not this context.\nSimilar chunks:\n- I'm not sure.\n- Your guess is as good as mine.\n\n✗ \"I see where you're coming from, but...\" belongs to Calibrated disagreement: acknowledge, then push back — used to acknowledge the other person's point before pushing back on it, not this context.\nSimilar chunks:\n- I take your point, but...\n- That may be so, but...\n\n✗ \"slim to none\" belongs to Expressing near-impossibility — used to describe an outcome as almost impossible, not this context.\nSimilar chunks:\n- not a chance\n- when pigs fly\n- I'd be amazed."
+    },
+    {
+      "id": 19,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give your casual opinion on something without sounding like you're stating a hard fact. Which chunk fits best?",
+      "options": {
+        "A": "I honestly don't know.",
+        "B": "I reckon",
+        "C": "typically",
+        "D": "On reflection, ..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I honestly don't know.\" belongs to Admitting you don't know at all — used to admit total lack of knowledge on a topic, not this context.\nSimilar chunks:\n- I'd be guessing.\n- That's outside my knowledge.\n\n✓ Correct — \"I reckon\" is an Everyday light hedging chunk: used for a light, everyday hedge on an opinion or guess, common in casual speech.\nExample: \"I reckon the client will ask for a discount.\"\nSimilar chunks:\n- I'd say\n- I think\n- I'd guess\n\n✗ \"typically\" belongs to Hedging with generalizations — used to describe a general tendency rather than an absolute rule, not this context.\nSimilar chunks:\n- in most cases\n- generally\n- as a rule\n\n✗ \"On reflection, ...\" belongs to Signalling you've changed your mind — used to openly acknowledge that your opinion has changed since earlier, not this context.\nSimilar chunks:\n- I was wrong about that.\n- I've changed my mind on this."
+    },
+    {
+      "id": 20,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give your casual opinion on something without sounding like you're stating a hard fact. Which chunk fits best?",
+      "options": {
+        "A": "it could be argued",
+        "B": "I'm not so sure about that.",
+        "C": "probably",
+        "D": "touch and go"
+      },
+      "correct": "C",
+      "explanation": "✗ \"it could be argued\" belongs to Academic-style hedging — used in formal or academic-style writing to raise a possibility without fully committing to it, not this context.\nSimilar chunks:\n- there's a case for\n- one might say\n\n✗ \"I'm not so sure about that.\" belongs to Calibrated disagreement: casting doubt without a direct attack — used to express doubt about a claim without directly attacking it, not this context.\nSimilar chunks:\n- I'd be careful about...\n- That's not necessarily the case.\n\n✓ Correct — \"probably\" is an Everyday light hedging chunk: used for a light, everyday hedge on an opinion or guess, common in casual speech.\nExample: \"We'll probably need another round of testing.\"\nSimilar chunks:\n- I reckon\n- most likely\n- I'd guess\n\n✗ \"touch and go\" belongs to Expressing 50-50 uncertainty — used to describe a genuine toss-up, where either outcome is equally possible, not this context.\nSimilar chunks:\n- up in the air\n- a coin flip\n- could go either way"
+    },
+    {
+      "id": 21,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a usual pattern without claiming it's true every single time. Which chunk fits best?",
+      "options": {
+        "A": "I'll put my name to it.",
+        "B": "without a shadow of a doubt",
+        "C": "Your guess is as good as mine.",
+        "D": "in most cases"
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'll put my name to it.\" belongs to Boosting through personal commitment — used to back a claim with personal credibility or a firm promise, not this context.\nSimilar chunks:\n- I stand by that.\n- You have my word.\n\n✗ \"without a shadow of a doubt\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- I'd go so far as to say...\n- mark my words\n- I'd stake money on it\n\n✗ \"Your guess is as good as mine.\" belongs to Admitting you're not sure — used to admit you're genuinely unsure about something, not this context.\nSimilar chunks:\n- I'm not sure.\n- It's hard to say.\n\n✓ Correct — \"in most cases\" is a Hedging with generalizations chunk: used to describe a general tendency rather than an absolute rule.\nExample: \"In most cases, the default settings work fine.\"\nSimilar chunks:\n- as a rule\n- typically\n- generally"
+    },
+    {
+      "id": 22,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a usual pattern without claiming it's true every single time. Which chunk fits best?",
+      "options": {
+        "A": "I'd stake money on it",
+        "B": "undoubtedly",
+        "C": "I'd imagine...",
+        "D": "as a rule"
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'd stake money on it\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- I'd bet on it\n- I'd go so far as to say...\n- if anything, it's an understatement\n\n✗ \"undoubtedly\" belongs to Boosting adverbs (formal, strengthening a claim) — used as a single strong adverb to state something as certain or beyond doubt, not this context.\nSimilar chunks:\n- without question\n- decidedly\n- unquestionably\n\n✗ \"I'd imagine...\" belongs to Hedging sentence openers (personal impression) — used to introduce a personal impression or guess rather than a confirmed fact, not this context.\nSimilar chunks:\n- My read is...\n- It seems that...\n- My sense is...\n\n✓ Correct — \"as a rule\" is a Hedging with generalizations chunk: used to describe a general tendency rather than an absolute rule.\nExample: \"As a rule, we don't skip code review, even for small fixes.\"\nSimilar chunks:\n- generally\n- typically\n- it tends to"
+    },
+    {
+      "id": 23,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to raise a possibility in a formal or written context without committing to it as your own claim. Which chunk fits best?",
+      "options": {
+        "A": "obviously",
+        "B": "Make no mistake...",
+        "C": "one might say",
+        "D": "unlikely"
+      },
+      "correct": "C",
+      "explanation": "✗ \"obviously\" belongs to Everyday light boosting — used as a light, everyday way to state something firmly in casual conversation, not this context.\nSimilar chunks:\n- certainly\n- clearly\n- definitely\n\n✗ \"Make no mistake...\" belongs to Boosting with personal confidence — used as a sentence opener to state personal confidence or certainty about a claim, not this context.\nSimilar chunks:\n- It's clear that...\n- I'm confident that...\n- I'm sure\n\n✓ Correct — \"one might say\" is an Academic-style hedging chunk: used in formal or academic-style writing to raise a possibility without fully committing to it.\nExample: \"One might say the rollout was rushed.\"\nSimilar chunks:\n- it could be argued\n- there's a case for\n\n✗ \"unlikely\" belongs to Expressing low likelihood — used to describe an outcome as unlikely, though not completely impossible, not this context.\nSimilar chunks:\n- I wouldn't bank on it.\n- an outside chance\n- a long shot"
+    },
+    {
+      "id": 24,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to raise a possibility in a formal or written context without committing to it as your own claim. Which chunk fits best?",
+      "options": {
+        "A": "I'll put my name to it.",
+        "B": "bound to",
+        "C": "on track to",
+        "D": "there's a case for"
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'll put my name to it.\" belongs to Boosting through personal commitment — used to back a claim with personal credibility or a firm promise, not this context.\nSimilar chunks:\n- I stand by that.\n- You have my word.\n\n✗ \"bound to\" belongs to Expressing near-certainty — used to describe an outcome as essentially guaranteed, not this context.\nSimilar chunks:\n- a safe bet\n- certain to\n- all but guaranteed\n\n✗ \"on track to\" belongs to Expressing high likelihood — used to describe an outcome as likely, though not fully certain, not this context.\nSimilar chunks:\n- odds are\n- likely to\n- every chance\n\n✓ Correct — \"there's a case for\" is an Academic-style hedging chunk: used in formal or academic-style writing to raise a possibility without fully committing to it.\nExample: \"There's a case for delaying the launch by a week.\"\nSimilar chunks:\n- it could be argued\n- one might say"
+    },
+    {
+      "id": 25,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to share a first impression while flagging that you haven't looked closely yet. Which chunk fits best?",
+      "options": {
+        "A": "more or less",
+        "B": "presumably",
+        "C": "ostensibly",
+        "D": "from what I can see"
+      },
+      "correct": "D",
+      "explanation": "✗ \"more or less\" belongs to Hedging vague-degree expressions — used to express a vague, partial degree instead of an absolute one, not this context.\nSimilar chunks:\n- if anything\n- by and large\n- to some extent\n\n✗ \"presumably\" belongs to Hedging adverbs (formal, softening a claim) — used as a single adverb to soften a claim, common in more formal or written register, not this context.\nSimilar chunks:\n- conceivably\n- arguably\n- ostensibly\n\n✗ \"ostensibly\" belongs to Hedging adverbs (formal, softening a claim) — used as a single adverb to soften a claim, common in more formal or written register, not this context.\nSimilar chunks:\n- conceivably\n- presumably\n- arguably\n\n✓ Correct — \"from what I can see\" is a Neutral cautious framing chunk: used to frame an observation as a first, cautious impression rather than a settled conclusion.\nExample: \"From what I can see, the numbers look healthy this month.\"\nSimilar chunks:\n- at first glance\n- on the face of it"
+    },
+    {
+      "id": 26,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to share a first impression while flagging that you haven't looked closely yet. Which chunk fits best?",
+      "options": {
+        "A": "at first glance",
+        "B": "It's hard to say.",
+        "C": "directionally",
+        "D": "I'll put my name to it."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"at first glance\" is a Neutral cautious framing chunk: used to frame an observation as a first, cautious impression rather than a settled conclusion.\nExample: \"At first glance, the bug looks like a caching issue.\"\nSimilar chunks:\n- on the face of it\n- from what I can see\n\n✗ \"It's hard to say.\" belongs to Admitting you're not sure — used to admit you're genuinely unsure about something, not this context.\nSimilar chunks:\n- Your guess is as good as mine.\n- I'm not sure.\n\n✗ \"directionally\" belongs to Rough, informal qualifiers for imprecise figures — used to flag that a figure or claim is a rough estimate, not a precise one, not this context.\nSimilar chunks:\n- anecdotally\n- rough order of magnitude\n\n✗ \"I'll put my name to it.\" belongs to Boosting through personal commitment — used to back a claim with personal credibility or a firm promise, not this context.\nSimilar chunks:\n- I stand by that.\n- You have my word."
+    },
+    {
+      "id": 27,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state something as completely beyond doubt, using a strong formal adverb. Which chunk fits best?",
+      "options": {
+        "A": "unquestionably",
+        "B": "I've changed my mind on this.",
+        "C": "per the report",
+        "D": "a safe bet"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"unquestionably\" is a Boosting adverbs (formal, strengthening a claim) chunk: used as a single strong adverb to state something as certain or beyond doubt.\nExample: \"She's unquestionably the strongest candidate we've seen.\"\nSimilar chunks:\n- decidedly\n- categorically\n- undoubtedly\n\n✗ \"I've changed my mind on this.\" belongs to Signalling you've changed your mind — used to openly acknowledge that your opinion has changed since earlier, not this context.\nSimilar chunks:\n- On reflection, ...\n- I was wrong about that.\n\n✗ \"per the report\" belongs to Citing a specific source for a claim — used to attribute a claim to a specific external source, not this context.\nSimilar chunks:\n- according to\n\n✗ \"a safe bet\" belongs to Expressing near-certainty — used to describe an outcome as essentially guaranteed, not this context.\nSimilar chunks:\n- all but guaranteed\n- certain to\n- bound to"
+    },
+    {
+      "id": 28,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state something as completely beyond doubt, using a strong formal adverb. Which chunk fits best?",
+      "options": {
+        "A": "undoubtedly",
+        "B": "one might say",
+        "C": "to some extent",
+        "D": "I'd say"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"undoubtedly\" is a Boosting adverbs (formal, strengthening a claim) chunk: used as a single strong adverb to state something as certain or beyond doubt.\nExample: \"This is undoubtedly the best offer we've had all year.\"\nSimilar chunks:\n- categorically\n- emphatically\n- without question\n\n✗ \"one might say\" belongs to Academic-style hedging — used in formal or academic-style writing to raise a possibility without fully committing to it, not this context.\nSimilar chunks:\n- there's a case for\n- it could be argued\n\n✗ \"to some extent\" belongs to Hedging vague-degree expressions — used to express a vague, partial degree instead of an absolute one, not this context.\nSimilar chunks:\n- if anything\n- more or less\n- for the most part\n\n✗ \"I'd say\" belongs to Everyday light hedging — used for a light, everyday hedge on an opinion or guess, common in casual speech, not this context.\nSimilar chunks:\n- probably\n- I reckon\n- I think"
+    },
+    {
+      "id": 29,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state something as completely beyond doubt, using a strong formal adverb. Which chunk fits best?",
+      "options": {
+        "A": "if I had to guess",
+        "B": "most likely",
+        "C": "without question",
+        "D": "I've changed my mind on this."
+      },
+      "correct": "C",
+      "explanation": "✗ \"if I had to guess\" belongs to Hedging by limited or secondhand evidence — used to flag that a claim is based on limited, partial, or secondhand information, not this context.\nSimilar chunks:\n- reportedly\n- from what I gather\n- as far as I can tell\n\n✗ \"most likely\" belongs to Everyday light hedging — used for a light, everyday hedge on an opinion or guess, common in casual speech, not this context.\nSimilar chunks:\n- I think\n- I'd say\n- probably\n\n✓ Correct — \"without question\" is a Boosting adverbs (formal, strengthening a claim) chunk: used as a single strong adverb to state something as certain or beyond doubt.\nExample: \"This is, without question, our biggest client.\"\nSimilar chunks:\n- categorically\n- emphatically\n- undoubtedly\n\n✗ \"I've changed my mind on this.\" belongs to Signalling you've changed your mind — used to openly acknowledge that your opinion has changed since earlier, not this context.\nSimilar chunks:\n- I was wrong about that.\n- On reflection, ..."
+    },
+    {
+      "id": 30,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state that you're personally certain about an outcome, using a confident sentence frame. Which chunk fits best?",
+      "options": {
+        "A": "directionally",
+        "B": "categorically",
+        "C": "It's clear that...",
+        "D": "supposedly"
+      },
+      "correct": "C",
+      "explanation": "✗ \"directionally\" belongs to Rough, informal qualifiers for imprecise figures — used to flag that a figure or claim is a rough estimate, not a precise one, not this context.\nSimilar chunks:\n- rough order of magnitude\n- anecdotally\n\n✗ \"categorically\" belongs to Boosting adverbs (formal, strengthening a claim) — used as a single strong adverb to state something as certain or beyond doubt, not this context.\nSimilar chunks:\n- without question\n- undoubtedly\n- decidedly\n\n✓ Correct — \"It's clear that...\" is a Boosting with personal confidence chunk: used as a sentence opener to state personal confidence or certainty about a claim.\nExample: \"It's clear that the old process just isn't scaling.\"\nSimilar chunks:\n- no doubt\n- I'm sure\n- I have no doubt that...\n\n✗ \"supposedly\" belongs to Hedging by limited or secondhand evidence — used to flag that a claim is based on limited, partial, or secondhand information, not this context.\nSimilar chunks:\n- from what I gather\n- reportedly\n- word is"
+    },
+    {
+      "id": 31,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state that you're personally certain about an outcome, using a confident sentence frame. Which chunk fits best?",
+      "options": {
+        "A": "from what I gather",
+        "B": "There's no question that...",
+        "C": "it could be argued",
+        "D": "if anything, it's an understatement"
+      },
+      "correct": "B",
+      "explanation": "✗ \"from what I gather\" belongs to Hedging by limited or secondhand evidence — used to flag that a claim is based on limited, partial, or secondhand information, not this context.\nSimilar chunks:\n- if I had to guess\n- word is\n- as far as I can tell\n\n✓ Correct — \"There's no question that...\" is a Boosting with personal confidence chunk: used as a sentence opener to state personal confidence or certainty about a claim.\nExample: \"There's no question that the client is happy with the results.\"\nSimilar chunks:\n- I have no doubt that...\n- no doubt\n- absolutely\n\n✗ \"it could be argued\" belongs to Academic-style hedging — used in formal or academic-style writing to raise a possibility without fully committing to it, not this context.\nSimilar chunks:\n- there's a case for\n- one might say\n\n✗ \"if anything, it's an understatement\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- I firmly believe\n- I'd bet on it\n- mark my words"
+    },
+    {
+      "id": 32,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state that you're personally certain about an outcome, using a confident sentence frame. Which chunk fits best?",
+      "options": {
+        "A": "It seems that...",
+        "B": "I'm sure",
+        "C": "There's no question.",
+        "D": "With respect, I read it differently."
+      },
+      "correct": "B",
+      "explanation": "✗ \"It seems that...\" belongs to Hedging sentence openers (personal impression) — used to introduce a personal impression or guess rather than a confirmed fact, not this context.\nSimilar chunks:\n- My read is...\n- I'd imagine...\n- It appears that...\n\n✓ Correct — \"I'm sure\" is a Boosting with personal confidence chunk: used as a sentence opener to state personal confidence or certainty about a claim.\nExample: \"I'm sure the numbers will look better once the promo kicks in.\"\nSimilar chunks:\n- It's clear that...\n- Make no mistake...\n- I'm confident that...\n\n✗ \"There's no question.\" belongs to Stating something as an absolute, undeniable fact — used to present a claim as an established fact, not a personal opinion, not this context.\nSimilar chunks:\n- I can tell you categorically...\n- I know for a fact...\n\n✗ \"With respect, I read it differently.\" belongs to Calibrated disagreement: a direct but polite challenge — used to directly but politely challenge an assumption or claim, not this context.\nSimilar chunks:\n- I'd challenge that assumption.\n- I'd push back on that slightly."
+    },
+    {
+      "id": 33,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state that you're personally certain about an outcome, using a confident sentence frame. Which chunk fits best?",
+      "options": {
+        "A": "on the face of it",
+        "B": "anecdotally",
+        "C": "at first glance",
+        "D": "I'm confident that..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"on the face of it\" belongs to Neutral cautious framing — used to frame an observation as a first, cautious impression rather than a settled conclusion, not this context.\nSimilar chunks:\n- at first glance\n- from what I can see\n\n✗ \"anecdotally\" belongs to Rough, informal qualifiers for imprecise figures — used to flag that a figure or claim is a rough estimate, not a precise one, not this context.\nSimilar chunks:\n- rough order of magnitude\n- directionally\n\n✗ \"at first glance\" belongs to Neutral cautious framing — used to frame an observation as a first, cautious impression rather than a settled conclusion, not this context.\nSimilar chunks:\n- on the face of it\n- from what I can see\n\n✓ Correct — \"I'm confident that...\" is a Boosting with personal confidence chunk: used as a sentence opener to state personal confidence or certainty about a claim.\nExample: \"I'm confident that the fix will hold under load.\"\nSimilar chunks:\n- I have no doubt that...\n- absolutely\n- There's no question that..."
+    },
+    {
+      "id": 34,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to agree with something firmly but casually, without overdoing the emphasis. Which chunk fits best?",
+      "options": {
+        "A": "I'd imagine...",
+        "B": "of course",
+        "C": "likely to",
+        "D": "I'd stake money on it"
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'd imagine...\" belongs to Hedging sentence openers (personal impression) — used to introduce a personal impression or guess rather than a confirmed fact, not this context.\nSimilar chunks:\n- My sense is...\n- It seems that...\n- It appears that...\n\n✓ Correct — \"of course\" is an Everyday light boosting chunk: used as a light, everyday way to state something firmly in casual conversation.\nExample: \"Of course we'll cover the cost of the fix.\"\nSimilar chunks:\n- obviously\n- clearly\n- certainly\n\n✗ \"likely to\" belongs to Expressing high likelihood — used to describe an outcome as likely, though not fully certain, not this context.\nSimilar chunks:\n- every chance\n- odds are\n- on track to\n\n✗ \"I'd stake money on it\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- mark my words\n- I'd bet on it\n- if anything, it's an understatement"
+    },
+    {
+      "id": 35,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to agree with something firmly but casually, without overdoing the emphasis. Which chunk fits best?",
+      "options": {
+        "A": "You have my word.",
+        "B": "obviously",
+        "C": "directionally",
+        "D": "up in the air"
+      },
+      "correct": "B",
+      "explanation": "✗ \"You have my word.\" belongs to Boosting through personal commitment — used to back a claim with personal credibility or a firm promise, not this context.\nSimilar chunks:\n- I'll put my name to it.\n- I stand by that.\n\n✓ Correct — \"obviously\" is an Everyday light boosting chunk: used as a light, everyday way to state something firmly in casual conversation.\nExample: \"Obviously, we'll need to loop in legal first.\"\nSimilar chunks:\n- definitely\n- certainly\n- clearly\n\n✗ \"directionally\" belongs to Rough, informal qualifiers for imprecise figures — used to flag that a figure or claim is a rough estimate, not a precise one, not this context.\nSimilar chunks:\n- anecdotally\n- rough order of magnitude\n\n✗ \"up in the air\" belongs to Expressing 50-50 uncertainty — used to describe a genuine toss-up, where either outcome is equally possible, not this context.\nSimilar chunks:\n- touch and go\n- could go either way\n- a coin flip"
+    },
+    {
+      "id": 36,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state something with the strongest possible conviction, leaving no room for doubt. Which chunk fits best?",
+      "options": {
+        "A": "emphatically",
+        "B": "conceivably",
+        "C": "without a shadow of a doubt",
+        "D": "ideally"
+      },
+      "correct": "C",
+      "explanation": "✗ \"emphatically\" belongs to Boosting adverbs (formal, strengthening a claim) — used as a single strong adverb to state something as certain or beyond doubt, not this context.\nSimilar chunks:\n- categorically\n- without question\n- decidedly\n\n✗ \"conceivably\" belongs to Hedging adverbs (formal, softening a claim) — used as a single adverb to soften a claim, common in more formal or written register, not this context.\nSimilar chunks:\n- seemingly\n- presumably\n- ostensibly\n\n✓ Correct — \"without a shadow of a doubt\" is a Maximum-strength, emphatic boosting chunk: used to state something with maximum emphasis and conviction, leaving no room for doubt.\nExample: \"Without a shadow of a doubt, that was the right call.\"\nSimilar chunks:\n- I'd stake money on it\n- mark my words\n- if anything, it's an understatement\n\n✗ \"ideally\" belongs to Hedging: how something looks, not how it necessarily is — used to describe how something looks or is designed, while leaving room for reality to differ, not this context.\nSimilar chunks:\n- on paper\n- in theory"
+    },
+    {
+      "id": 37,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state something with the strongest possible conviction, leaving no room for doubt. Which chunk fits best?",
+      "options": {
+        "A": "It appears that...",
+        "B": "I wouldn't bank on it.",
+        "C": "I reckon",
+        "D": "I'd stake money on it"
+      },
+      "correct": "D",
+      "explanation": "✗ \"It appears that...\" belongs to Hedging sentence openers (personal impression) — used to introduce a personal impression or guess rather than a confirmed fact, not this context.\nSimilar chunks:\n- My sense is...\n- It seems that...\n- I'd imagine...\n\n✗ \"I wouldn't bank on it.\" belongs to Expressing low likelihood — used to describe an outcome as unlikely, though not completely impossible, not this context.\nSimilar chunks:\n- an outside chance\n- unlikely\n- a long shot\n\n✗ \"I reckon\" belongs to Everyday light hedging — used for a light, everyday hedge on an opinion or guess, common in casual speech, not this context.\nSimilar chunks:\n- probably\n- most likely\n- I think\n\n✓ Correct — \"I'd stake money on it\" is a Maximum-strength, emphatic boosting chunk: used to state something with maximum emphasis and conviction, leaving no room for doubt.\nExample: \"I'd stake money on it that the bug is in the payment module.\"\nSimilar chunks:\n- I'd go so far as to say...\n- I firmly believe\n- I'd bet on it"
+    },
+    {
+      "id": 38,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state something with the strongest possible conviction, leaving no room for doubt. Which chunk fits best?",
+      "options": {
+        "A": "categorically",
+        "B": "I'd go so far as to say...",
+        "C": "I'm going to be the dissenting voice here.",
+        "D": "no doubt"
+      },
+      "correct": "B",
+      "explanation": "✗ \"categorically\" belongs to Boosting adverbs (formal, strengthening a claim) — used as a single strong adverb to state something as certain or beyond doubt, not this context.\nSimilar chunks:\n- emphatically\n- undoubtedly\n- unquestionably\n\n✓ Correct — \"I'd go so far as to say...\" is a Maximum-strength, emphatic boosting chunk: used to state something with maximum emphasis and conviction, leaving no room for doubt.\nExample: \"I'd go so far as to say this is our best release ever.\"\nSimilar chunks:\n- I'd stake money on it\n- if anything, it's an understatement\n- I'd bet on it\n\n✗ \"I'm going to be the dissenting voice here.\" belongs to Calibrated disagreement: offering an alternative view — used to introduce an alternative perspective on the discussion, not this context.\nSimilar chunks:\n- There's another way of looking at it.\n\n✗ \"no doubt\" belongs to Boosting with personal confidence — used as a sentence opener to state personal confidence or certainty about a claim, not this context.\nSimilar chunks:\n- There's no question that...\n- I'm confident that...\n- It's clear that..."
+    },
+    {
+      "id": 39,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to personally vouch for a claim, staking your own credibility on it. Which chunk fits best?",
+      "options": {
+        "A": "obviously",
+        "B": "if anything, it's an understatement",
+        "C": "I stand by that.",
+        "D": "I'd stake money on it"
+      },
+      "correct": "C",
+      "explanation": "✗ \"obviously\" belongs to Everyday light boosting — used as a light, everyday way to state something firmly in casual conversation, not this context.\nSimilar chunks:\n- clearly\n- definitely\n- of course\n\n✗ \"if anything, it's an understatement\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- I'd bet on it\n- without a shadow of a doubt\n- mark my words\n\n✓ Correct — \"I stand by that.\" is a Boosting through personal commitment chunk: used to back a claim with personal credibility or a firm promise.\nExample: \"I stand by that, even after seeing the pushback.\"\nSimilar chunks:\n- I'll put my name to it.\n- You have my word.\n\n✗ \"I'd stake money on it\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- I'd bet on it\n- if anything, it's an understatement\n- without a shadow of a doubt"
+    },
+    {
+      "id": 40,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to personally vouch for a claim, staking your own credibility on it. Which chunk fits best?",
+      "options": {
+        "A": "undoubtedly",
+        "B": "I know for a fact...",
+        "C": "if anything, it's an understatement",
+        "D": "I'll put my name to it."
+      },
+      "correct": "D",
+      "explanation": "✗ \"undoubtedly\" belongs to Boosting adverbs (formal, strengthening a claim) — used as a single strong adverb to state something as certain or beyond doubt, not this context.\nSimilar chunks:\n- categorically\n- emphatically\n- without question\n\n✗ \"I know for a fact...\" belongs to Stating something as an absolute, undeniable fact — used to present a claim as an established fact, not a personal opinion, not this context.\nSimilar chunks:\n- I can tell you categorically...\n- There's no question.\n\n✗ \"if anything, it's an understatement\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- without a shadow of a doubt\n- I'd go so far as to say...\n- I'd stake money on it\n\n✓ Correct — \"I'll put my name to it.\" is a Boosting through personal commitment chunk: used to back a claim with personal credibility or a firm promise.\nExample: \"I've reviewed the numbers myself, and I'll put my name to it.\"\nSimilar chunks:\n- I stand by that.\n- You have my word."
+    },
+    {
+      "id": 41,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state something not as an opinion but as a plain, undeniable fact. Which chunk fits best?",
+      "options": {
+        "A": "I think",
+        "B": "I'd stake money on it",
+        "C": "most likely",
+        "D": "There's no question."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I think\" belongs to Everyday light hedging — used for a light, everyday hedge on an opinion or guess, common in casual speech, not this context.\nSimilar chunks:\n- I'd guess\n- probably\n- I'd say\n\n✗ \"I'd stake money on it\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- I'd go so far as to say...\n- I'd bet on it\n- I firmly believe\n\n✗ \"most likely\" belongs to Everyday light hedging — used for a light, everyday hedge on an opinion or guess, common in casual speech, not this context.\nSimilar chunks:\n- I think\n- probably\n- I'd guess\n\n✓ Correct — \"There's no question.\" is a Stating something as an absolute, undeniable fact chunk: used to present a claim as an established fact, not a personal opinion.\nExample: \"The client's unhappy — there's no question.\"\nSimilar chunks:\n- I know for a fact...\n- I can tell you categorically..."
+    },
+    {
+      "id": 42,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state something not as an opinion but as a plain, undeniable fact. Which chunk fits best?",
+      "options": {
+        "A": "I'm not so sure about that.",
+        "B": "The data suggests...",
+        "C": "I'd be careful about...",
+        "D": "I know for a fact..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'm not so sure about that.\" belongs to Calibrated disagreement: casting doubt without a direct attack — used to express doubt about a claim without directly attacking it, not this context.\nSimilar chunks:\n- That's not necessarily the case.\n- I'd be careful about...\n\n✗ \"The data suggests...\" belongs to Careful evidence verbs (not overclaiming) — used to describe what evidence points toward, without overclaiming it as proof, not this context.\nSimilar chunks:\n- The data points to...\n- The data indicates...\n\n✗ \"I'd be careful about...\" belongs to Calibrated disagreement: casting doubt without a direct attack — used to express doubt about a claim without directly attacking it, not this context.\nSimilar chunks:\n- I'm not so sure about that.\n- That's not necessarily the case.\n\n✓ Correct — \"I know for a fact...\" is a Stating something as an absolute, undeniable fact chunk: used to present a claim as an established fact, not a personal opinion.\nExample: \"I know for a fact that the contract was signed last week.\"\nSimilar chunks:\n- There's no question.\n- I can tell you categorically..."
+    },
+    {
+      "id": 43,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You disagree with a colleague's point, but want to first acknowledge it before pushing back. Which chunk fits best?",
+      "options": {
+        "A": "it tends to",
+        "B": "on paper",
+        "C": "I take your point, but...",
+        "D": "a long shot"
+      },
+      "correct": "C",
+      "explanation": "✗ \"it tends to\" belongs to Hedging with generalizations — used to describe a general tendency rather than an absolute rule, not this context.\nSimilar chunks:\n- generally\n- in most cases\n- as a rule\n\n✗ \"on paper\" belongs to Hedging: how something looks, not how it necessarily is — used to describe how something looks or is designed, while leaving room for reality to differ, not this context.\nSimilar chunks:\n- ideally\n- in theory\n\n✓ Correct — \"I take your point, but...\" is a Calibrated disagreement: acknowledge, then push back chunk: used to acknowledge the other person's point before pushing back on it.\nExample: \"I take your point, but I still think we need more testing time.\"\nSimilar chunks:\n- That may be so, but...\n- I see where you're coming from, but...\n\n✗ \"a long shot\" belongs to Expressing low likelihood — used to describe an outcome as unlikely, though not completely impossible, not this context.\nSimilar chunks:\n- unlikely\n- I wouldn't bank on it.\n- an outside chance"
+    },
+    {
+      "id": 44,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You disagree with a colleague's point, but want to first acknowledge it before pushing back. Which chunk fits best?",
+      "options": {
+        "A": "My read is...",
+        "B": "That may be so, but...",
+        "C": "arguably",
+        "D": "as far as I can tell"
+      },
+      "correct": "B",
+      "explanation": "✗ \"My read is...\" belongs to Hedging sentence openers (personal impression) — used to introduce a personal impression or guess rather than a confirmed fact, not this context.\nSimilar chunks:\n- My sense is...\n- It appears that...\n- I'd imagine...\n\n✓ Correct — \"That may be so, but...\" is a Calibrated disagreement: acknowledge, then push back chunk: used to acknowledge the other person's point before pushing back on it.\nExample: \"That may be so, but the client still expects the original date.\"\nSimilar chunks:\n- I see where you're coming from, but...\n- I take your point, but...\n\n✗ \"arguably\" belongs to Hedging adverbs (formal, softening a claim) — used as a single adverb to soften a claim, common in more formal or written register, not this context.\nSimilar chunks:\n- seemingly\n- presumably\n- conceivably\n\n✗ \"as far as I can tell\" belongs to Hedging by limited or secondhand evidence — used to flag that a claim is based on limited, partial, or secondhand information, not this context.\nSimilar chunks:\n- from what I gather\n- supposedly\n- based on what I've seen"
+    },
+    {
+      "id": 45,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're not convinced by a claim, but want to express that doubt gently rather than flatly rejecting it. Which chunk fits best?",
+      "options": {
+        "A": "I'd stake money on it",
+        "B": "I'd be careful about...",
+        "C": "ostensibly",
+        "D": "undoubtedly"
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'd stake money on it\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- without a shadow of a doubt\n- mark my words\n- if anything, it's an understatement\n\n✓ Correct — \"I'd be careful about...\" is a Calibrated disagreement: casting doubt without a direct attack chunk: used to express doubt about a claim without directly attacking it.\nExample: \"I'd be careful about promising that date to the client.\"\nSimilar chunks:\n- That's not necessarily the case.\n- I'm not so sure about that.\n\n✗ \"ostensibly\" belongs to Hedging adverbs (formal, softening a claim) — used as a single adverb to soften a claim, common in more formal or written register, not this context.\nSimilar chunks:\n- conceivably\n- arguably\n- presumably\n\n✗ \"undoubtedly\" belongs to Boosting adverbs (formal, strengthening a claim) — used as a single strong adverb to state something as certain or beyond doubt, not this context.\nSimilar chunks:\n- emphatically\n- decidedly\n- without question"
+    },
+    {
+      "id": 46,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're not convinced by a claim, but want to express that doubt gently rather than flatly rejecting it. Which chunk fits best?",
+      "options": {
+        "A": "I see where you're coming from, but...",
+        "B": "That's not necessarily the case.",
+        "C": "certain to",
+        "D": "a coin flip"
+      },
+      "correct": "B",
+      "explanation": "✗ \"I see where you're coming from, but...\" belongs to Calibrated disagreement: acknowledge, then push back — used to acknowledge the other person's point before pushing back on it, not this context.\nSimilar chunks:\n- I take your point, but...\n- That may be so, but...\n\n✓ Correct — \"That's not necessarily the case.\" is a Calibrated disagreement: casting doubt without a direct attack chunk: used to express doubt about a claim without directly attacking it.\nExample: \"That's not necessarily the case — churn varies a lot by segment.\"\nSimilar chunks:\n- I'd be careful about...\n- I'm not so sure about that.\n\n✗ \"certain to\" belongs to Expressing near-certainty — used to describe an outcome as essentially guaranteed, not this context.\nSimilar chunks:\n- a safe bet\n- bound to\n- all but guaranteed\n\n✗ \"a coin flip\" belongs to Expressing 50-50 uncertainty — used to describe a genuine toss-up, where either outcome is equally possible, not this context.\nSimilar chunks:\n- could go either way\n- up in the air\n- touch and go"
+    },
+    {
+      "id": 47,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to directly challenge an assumption in the discussion, while staying professional and polite. Which chunk fits best?",
+      "options": {
+        "A": "no doubt",
+        "B": "I'm not sure.",
+        "C": "odds are",
+        "D": "I'd challenge that assumption."
+      },
+      "correct": "D",
+      "explanation": "✗ \"no doubt\" belongs to Boosting with personal confidence — used as a sentence opener to state personal confidence or certainty about a claim, not this context.\nSimilar chunks:\n- There's no question that...\n- I'm confident that...\n- It's clear that...\n\n✗ \"I'm not sure.\" belongs to Admitting you're not sure — used to admit you're genuinely unsure about something, not this context.\nSimilar chunks:\n- Your guess is as good as mine.\n- It's hard to say.\n\n✗ \"odds are\" belongs to Expressing high likelihood — used to describe an outcome as likely, though not fully certain, not this context.\nSimilar chunks:\n- on track to\n- every chance\n- likely to\n\n✓ Correct — \"I'd challenge that assumption.\" is a Calibrated disagreement: a direct but polite challenge chunk: used to directly but politely challenge an assumption or claim.\nExample: \"I'd challenge that assumption — are we sure users actually want this?\"\nSimilar chunks:\n- With respect, I read it differently.\n- I'd push back on that slightly."
+    },
+    {
+      "id": 48,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to directly challenge an assumption in the discussion, while staying professional and polite. Which chunk fits best?",
+      "options": {
+        "A": "if anything, it's an understatement",
+        "B": "probably",
+        "C": "With respect, I read it differently.",
+        "D": "typically"
+      },
+      "correct": "C",
+      "explanation": "✗ \"if anything, it's an understatement\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- I firmly believe\n- I'd bet on it\n- without a shadow of a doubt\n\n✗ \"probably\" belongs to Everyday light hedging — used for a light, everyday hedge on an opinion or guess, common in casual speech, not this context.\nSimilar chunks:\n- I reckon\n- I think\n- I'd guess\n\n✓ Correct — \"With respect, I read it differently.\" is a Calibrated disagreement: a direct but polite challenge chunk: used to directly but politely challenge an assumption or claim.\nExample: \"With respect, I read it differently — I think the risk is much higher.\"\nSimilar chunks:\n- I'd challenge that assumption.\n- I'd push back on that slightly.\n\n✗ \"typically\" belongs to Hedging with generalizations — used to describe a general tendency rather than an absolute rule, not this context.\nSimilar chunks:\n- as a rule\n- in most cases\n- it tends to"
+    },
+    {
+      "id": 49,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to introduce a different perspective without directly saying the other person is wrong. Which chunk fits best?",
+      "options": {
+        "A": "definitely",
+        "B": "presumably",
+        "C": "I'm going to be the dissenting voice here.",
+        "D": "without a shadow of a doubt"
+      },
+      "correct": "C",
+      "explanation": "✗ \"definitely\" belongs to Everyday light boosting — used as a light, everyday way to state something firmly in casual conversation, not this context.\nSimilar chunks:\n- certainly\n- of course\n- clearly\n\n✗ \"presumably\" belongs to Hedging adverbs (formal, softening a claim) — used as a single adverb to soften a claim, common in more formal or written register, not this context.\nSimilar chunks:\n- seemingly\n- ostensibly\n- conceivably\n\n✓ Correct — \"I'm going to be the dissenting voice here.\" is a Calibrated disagreement: offering an alternative view chunk: used to introduce an alternative perspective on the discussion.\nExample: \"I'm going to be the dissenting voice here — I don't think we should launch yet.\"\nSimilar chunks:\n- There's another way of looking at it.\n\n✗ \"without a shadow of a doubt\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- I firmly believe\n- I'd go so far as to say...\n- if anything, it's an understatement"
+    },
+    {
+      "id": 50,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to introduce a different perspective without directly saying the other person is wrong. Which chunk fits best?",
+      "options": {
+        "A": "I'd push back on that slightly.",
+        "B": "There's another way of looking at it.",
+        "C": "I'd challenge that assumption.",
+        "D": "when pigs fly"
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'd push back on that slightly.\" belongs to Calibrated disagreement: a direct but polite challenge — used to directly but politely challenge an assumption or claim, not this context.\nSimilar chunks:\n- With respect, I read it differently.\n- I'd challenge that assumption.\n\n✓ Correct — \"There's another way of looking at it.\" is a Calibrated disagreement: offering an alternative view chunk: used to introduce an alternative perspective on the discussion.\nExample: \"There's another way of looking at it — maybe the delay actually helped us.\"\nSimilar chunks:\n- I'm going to be the dissenting voice here.\n\n✗ \"I'd challenge that assumption.\" belongs to Calibrated disagreement: a direct but polite challenge — used to directly but politely challenge an assumption or claim, not this context.\nSimilar chunks:\n- With respect, I read it differently.\n- I'd push back on that slightly.\n\n✗ \"when pigs fly\" belongs to Expressing near-impossibility — used to describe an outcome as almost impossible, not this context.\nSimilar chunks:\n- slim to none\n- I'd be amazed.\n- not a chance"
+    },
+    {
+      "id": 51,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe what your data shows without overclaiming it as absolute proof. Which chunk fits best?",
+      "options": {
+        "A": "clearly",
+        "B": "On reflection, ...",
+        "C": "There's another way of looking at it.",
+        "D": "The data points to..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"clearly\" belongs to Everyday light boosting — used as a light, everyday way to state something firmly in casual conversation, not this context.\nSimilar chunks:\n- of course\n- definitely\n- obviously\n\n✗ \"On reflection, ...\" belongs to Signalling you've changed your mind — used to openly acknowledge that your opinion has changed since earlier, not this context.\nSimilar chunks:\n- I was wrong about that.\n- I've changed my mind on this.\n\n✗ \"There's another way of looking at it.\" belongs to Calibrated disagreement: offering an alternative view — used to introduce an alternative perspective on the discussion, not this context.\nSimilar chunks:\n- I'm going to be the dissenting voice here.\n\n✓ Correct — \"The data points to...\" is a Careful evidence verbs (not overclaiming) chunk: used to describe what evidence points toward, without overclaiming it as proof.\nExample: \"The data points to a pricing issue rather than a product issue.\"\nSimilar chunks:\n- The data indicates...\n- The data suggests..."
+    },
+    {
+      "id": 52,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe what your data shows without overclaiming it as absolute proof. Which chunk fits best?",
+      "options": {
+        "A": "more or less",
+        "B": "The data indicates...",
+        "C": "if I had to guess",
+        "D": "certain to"
+      },
+      "correct": "B",
+      "explanation": "✗ \"more or less\" belongs to Hedging vague-degree expressions — used to express a vague, partial degree instead of an absolute one, not this context.\nSimilar chunks:\n- to some extent\n- by and large\n- if anything\n\n✓ Correct — \"The data indicates...\" is a Careful evidence verbs (not overclaiming) chunk: used to describe what evidence points toward, without overclaiming it as proof.\nExample: \"The data indicates a slight uptick in engagement this week.\"\nSimilar chunks:\n- The data suggests...\n- The data points to...\n\n✗ \"if I had to guess\" belongs to Hedging by limited or secondhand evidence — used to flag that a claim is based on limited, partial, or secondhand information, not this context.\nSimilar chunks:\n- reportedly\n- apparently\n- as far as I can tell\n\n✗ \"certain to\" belongs to Expressing near-certainty — used to describe an outcome as essentially guaranteed, not this context.\nSimilar chunks:\n- bound to\n- all but guaranteed\n- a safe bet"
+    },
+    {
+      "id": 53,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to attribute a claim to a specific external source rather than presenting it as your own view. Which chunk fits best?",
+      "options": {
+        "A": "directionally",
+        "B": "That's a fact; this is my inference.",
+        "C": "without a shadow of a doubt",
+        "D": "according to"
+      },
+      "correct": "D",
+      "explanation": "✗ \"directionally\" belongs to Rough, informal qualifiers for imprecise figures — used to flag that a figure or claim is a rough estimate, not a precise one, not this context.\nSimilar chunks:\n- rough order of magnitude\n- anecdotally\n\n✗ \"That's a fact; this is my inference.\" belongs to Explicitly separating fact from inference — used to explicitly separate a confirmed fact from your own inference or assumption, not this context.\nSimilar chunks:\n- What we know is X; what we're assuming is Y.\n\n✗ \"without a shadow of a doubt\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- if anything, it's an understatement\n- mark my words\n- I'd bet on it\n\n✓ Correct — \"according to\" is a Citing a specific source for a claim chunk: used to attribute a claim to a specific external source.\nExample: \"According to the vendor, the shipment left the warehouse on Monday.\"\nSimilar chunks:\n- per the report"
+    },
+    {
+      "id": 54,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to attribute a claim to a specific external source rather than presenting it as your own view. Which chunk fits best?",
+      "options": {
+        "A": "It appears that...",
+        "B": "That's outside my knowledge.",
+        "C": "I'm not so sure about that.",
+        "D": "per the report"
+      },
+      "correct": "D",
+      "explanation": "✗ \"It appears that...\" belongs to Hedging sentence openers (personal impression) — used to introduce a personal impression or guess rather than a confirmed fact, not this context.\nSimilar chunks:\n- It seems that...\n- I'd imagine...\n- My sense is...\n\n✗ \"That's outside my knowledge.\" belongs to Admitting you don't know at all — used to admit total lack of knowledge on a topic, not this context.\nSimilar chunks:\n- I'd be guessing.\n- I honestly don't know.\n\n✗ \"I'm not so sure about that.\" belongs to Calibrated disagreement: casting doubt without a direct attack — used to express doubt about a claim without directly attacking it, not this context.\nSimilar chunks:\n- That's not necessarily the case.\n- I'd be careful about...\n\n✓ Correct — \"per the report\" is a Citing a specific source for a claim chunk: used to attribute a claim to a specific external source.\nExample: \"Per the report, conversion dropped two points after the redesign.\"\nSimilar chunks:\n- according to"
+    },
+    {
+      "id": 55,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a rough estimate while flagging clearly that it's not precise. Which chunk fits best?",
+      "options": {
+        "A": "I think",
+        "B": "it could be argued",
+        "C": "directionally",
+        "D": "without question"
+      },
+      "correct": "C",
+      "explanation": "✗ \"I think\" belongs to Everyday light hedging — used for a light, everyday hedge on an opinion or guess, common in casual speech, not this context.\nSimilar chunks:\n- I'd guess\n- most likely\n- probably\n\n✗ \"it could be argued\" belongs to Academic-style hedging — used in formal or academic-style writing to raise a possibility without fully committing to it, not this context.\nSimilar chunks:\n- one might say\n- there's a case for\n\n✓ Correct — \"directionally\" is a Rough, informal qualifiers for imprecise figures chunk: used to flag that a figure or claim is a rough estimate, not a precise one.\nExample: \"The numbers are directionally right, even if the exact figure is off.\"\nSimilar chunks:\n- rough order of magnitude\n- anecdotally\n\n✗ \"without question\" belongs to Boosting adverbs (formal, strengthening a claim) — used as a single strong adverb to state something as certain or beyond doubt, not this context.\nSimilar chunks:\n- unquestionably\n- emphatically\n- categorically"
+    },
+    {
+      "id": 56,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a rough estimate while flagging clearly that it's not precise. Which chunk fits best?",
+      "options": {
+        "A": "in most cases",
+        "B": "rough order of magnitude",
+        "C": "undoubtedly",
+        "D": "seemingly"
+      },
+      "correct": "B",
+      "explanation": "✗ \"in most cases\" belongs to Hedging with generalizations — used to describe a general tendency rather than an absolute rule, not this context.\nSimilar chunks:\n- typically\n- generally\n- as a rule\n\n✓ Correct — \"rough order of magnitude\" is a Rough, informal qualifiers for imprecise figures chunk: used to flag that a figure or claim is a rough estimate, not a precise one.\nExample: \"As a rough order of magnitude, we're looking at a six-figure cost.\"\nSimilar chunks:\n- anecdotally\n- directionally\n\n✗ \"undoubtedly\" belongs to Boosting adverbs (formal, strengthening a claim) — used as a single strong adverb to state something as certain or beyond doubt, not this context.\nSimilar chunks:\n- without question\n- decidedly\n- categorically\n\n✗ \"seemingly\" belongs to Hedging adverbs (formal, softening a claim) — used as a single adverb to soften a claim, common in more formal or written register, not this context.\nSimilar chunks:\n- ostensibly\n- arguably\n- presumably"
+    },
+    {
+      "id": 57,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to be very clear about which part of what you're saying is confirmed and which part is your own guess. Which chunk fits best?",
+      "options": {
+        "A": "up in the air",
+        "B": "That's a fact; this is my inference.",
+        "C": "most likely",
+        "D": "Make no mistake..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"up in the air\" belongs to Expressing 50-50 uncertainty — used to describe a genuine toss-up, where either outcome is equally possible, not this context.\nSimilar chunks:\n- touch and go\n- could go either way\n- a coin flip\n\n✓ Correct — \"That's a fact; this is my inference.\" is an Explicitly separating fact from inference chunk: used to explicitly separate a confirmed fact from your own inference or assumption.\nExample: \"The client cancelled — that's a fact; this is my inference: it was about price.\"\nSimilar chunks:\n- What we know is X; what we're assuming is Y.\n\n✗ \"most likely\" belongs to Everyday light hedging — used for a light, everyday hedge on an opinion or guess, common in casual speech, not this context.\nSimilar chunks:\n- I think\n- I'd guess\n- probably\n\n✗ \"Make no mistake...\" belongs to Boosting with personal confidence — used as a sentence opener to state personal confidence or certainty about a claim, not this context.\nSimilar chunks:\n- no doubt\n- I'm confident that...\n- I'm sure"
+    },
+    {
+      "id": 58,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to be very clear about which part of what you're saying is confirmed and which part is your own guess. Which chunk fits best?",
+      "options": {
+        "A": "more or less",
+        "B": "a safe bet",
+        "C": "I've changed my mind on this.",
+        "D": "What we know is X; what we're assuming is Y."
+      },
+      "correct": "D",
+      "explanation": "✗ \"more or less\" belongs to Hedging vague-degree expressions — used to express a vague, partial degree instead of an absolute one, not this context.\nSimilar chunks:\n- for the most part\n- by and large\n- to some extent\n\n✗ \"a safe bet\" belongs to Expressing near-certainty — used to describe an outcome as essentially guaranteed, not this context.\nSimilar chunks:\n- certain to\n- bound to\n- all but guaranteed\n\n✗ \"I've changed my mind on this.\" belongs to Signalling you've changed your mind — used to openly acknowledge that your opinion has changed since earlier, not this context.\nSimilar chunks:\n- On reflection, ...\n- I was wrong about that.\n\n✓ Correct — \"What we know is X; what we're assuming is Y.\" is an Explicitly separating fact from inference chunk: used to explicitly separate a confirmed fact from your own inference or assumption.\nExample: \"What we know is the server crashed; what we're assuming is it was the new deploy.\"\nSimilar chunks:\n- That's a fact; this is my inference."
+    },
+    {
+      "id": 59,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say an outcome is essentially guaranteed to happen. Which chunk fits best?",
+      "options": {
+        "A": "certain to",
+        "B": "typically",
+        "C": "With respect, I read it differently.",
+        "D": "word is"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"certain to\" is an Expressing near-certainty chunk: used to describe an outcome as essentially guaranteed.\nExample: \"He's certain to ask about the budget in the review.\"\nSimilar chunks:\n- all but guaranteed\n- a safe bet\n- bound to\n\n✗ \"typically\" belongs to Hedging with generalizations — used to describe a general tendency rather than an absolute rule, not this context.\nSimilar chunks:\n- as a rule\n- in most cases\n- it tends to\n\n✗ \"With respect, I read it differently.\" belongs to Calibrated disagreement: a direct but polite challenge — used to directly but politely challenge an assumption or claim, not this context.\nSimilar chunks:\n- I'd challenge that assumption.\n- I'd push back on that slightly.\n\n✗ \"word is\" belongs to Hedging by limited or secondhand evidence — used to flag that a claim is based on limited, partial, or secondhand information, not this context.\nSimilar chunks:\n- if I had to guess\n- based on what I've seen\n- I've heard"
+    },
+    {
+      "id": 60,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say an outcome is essentially guaranteed to happen. Which chunk fits best?",
+      "options": {
+        "A": "I'd stake money on it",
+        "B": "it tends to",
+        "C": "It's hard to say.",
+        "D": "bound to"
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'd stake money on it\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- I'd go so far as to say...\n- if anything, it's an understatement\n- mark my words\n\n✗ \"it tends to\" belongs to Hedging with generalizations — used to describe a general tendency rather than an absolute rule, not this context.\nSimilar chunks:\n- generally\n- in most cases\n- typically\n\n✗ \"It's hard to say.\" belongs to Admitting you're not sure — used to admit you're genuinely unsure about something, not this context.\nSimilar chunks:\n- I'm not sure.\n- Your guess is as good as mine.\n\n✓ Correct — \"bound to\" is an Expressing near-certainty chunk: used to describe an outcome as essentially guaranteed.\nExample: \"With this much interest, the event is bound to sell out.\"\nSimilar chunks:\n- certain to\n- a safe bet\n- all but guaranteed"
+    },
+    {
+      "id": 61,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say an outcome is quite likely, though not fully guaranteed. Which chunk fits best?",
+      "options": {
+        "A": "per the report",
+        "B": "without a shadow of a doubt",
+        "C": "on track to",
+        "D": "categorically"
+      },
+      "correct": "C",
+      "explanation": "✗ \"per the report\" belongs to Citing a specific source for a claim — used to attribute a claim to a specific external source, not this context.\nSimilar chunks:\n- according to\n\n✗ \"without a shadow of a doubt\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- I'd bet on it\n- I'd go so far as to say...\n- if anything, it's an understatement\n\n✓ Correct — \"on track to\" is an Expressing high likelihood chunk: used to describe an outcome as likely, though not fully certain.\nExample: \"We're on track to hit the Q3 target.\"\nSimilar chunks:\n- likely to\n- every chance\n- odds are\n\n✗ \"categorically\" belongs to Boosting adverbs (formal, strengthening a claim) — used as a single strong adverb to state something as certain or beyond doubt, not this context.\nSimilar chunks:\n- emphatically\n- unquestionably\n- decidedly"
+    },
+    {
+      "id": 62,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say an outcome is quite likely, though not fully guaranteed. Which chunk fits best?",
+      "options": {
+        "A": "I have no doubt that...",
+        "B": "more or less",
+        "C": "I'd stake money on it",
+        "D": "odds are"
+      },
+      "correct": "D",
+      "explanation": "✗ \"I have no doubt that...\" belongs to Boosting with personal confidence — used as a sentence opener to state personal confidence or certainty about a claim, not this context.\nSimilar chunks:\n- I'm confident that...\n- absolutely\n- Make no mistake...\n\n✗ \"more or less\" belongs to Hedging vague-degree expressions — used to express a vague, partial degree instead of an absolute one, not this context.\nSimilar chunks:\n- if anything\n- by and large\n- broadly speaking\n\n✗ \"I'd stake money on it\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- I'd bet on it\n- I firmly believe\n- if anything, it's an understatement\n\n✓ Correct — \"odds are\" is an Expressing high likelihood chunk: used to describe an outcome as likely, though not fully certain.\nExample: \"Odds are the delay is on the vendor's side, not ours.\"\nSimilar chunks:\n- on track to\n- likely to\n- every chance"
+    },
+    {
+      "id": 63,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You genuinely don't know which way an outcome will go — it's a real toss-up. Which chunk fits best?",
+      "options": {
+        "A": "up in the air",
+        "B": "Don't quote me on this, but...",
+        "C": "at first glance",
+        "D": "I'm not so sure about that."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"up in the air\" is an Expressing 50-50 uncertainty chunk: used to describe a genuine toss-up, where either outcome is equally possible.\nExample: \"The budget for next year is still up in the air.\"\nSimilar chunks:\n- a coin flip\n- could go either way\n- touch and go\n\n✗ \"Don't quote me on this, but...\" belongs to Pre-emptively hedging your own credibility — used to signal upfront that a claim is uncertain and the speaker might be wrong, not this context.\nSimilar chunks:\n- I could be wrong, but...\n- Take this with a pinch of salt.\n\n✗ \"at first glance\" belongs to Neutral cautious framing — used to frame an observation as a first, cautious impression rather than a settled conclusion, not this context.\nSimilar chunks:\n- on the face of it\n- from what I can see\n\n✗ \"I'm not so sure about that.\" belongs to Calibrated disagreement: casting doubt without a direct attack — used to express doubt about a claim without directly attacking it, not this context.\nSimilar chunks:\n- I'd be careful about...\n- That's not necessarily the case."
+    },
+    {
+      "id": 64,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You genuinely don't know which way an outcome will go — it's a real toss-up. Which chunk fits best?",
+      "options": {
+        "A": "a coin flip",
+        "B": "There's another way of looking at it.",
+        "C": "assuming nothing changes",
+        "D": "Make no mistake..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"a coin flip\" is an Expressing 50-50 uncertainty chunk: used to describe a genuine toss-up, where either outcome is equally possible.\nExample: \"Whether they renew is basically a coin flip right now.\"\nSimilar chunks:\n- could go either way\n- up in the air\n- touch and go\n\n✗ \"There's another way of looking at it.\" belongs to Calibrated disagreement: offering an alternative view — used to introduce an alternative perspective on the discussion, not this context.\nSimilar chunks:\n- I'm going to be the dissenting voice here.\n\n✗ \"assuming nothing changes\" belongs to Hedging with conditions — used to make a claim conditional on nothing unexpected happening, not this context.\nSimilar chunks:\n- all things being equal\n- barring any surprises\n\n✗ \"Make no mistake...\" belongs to Boosting with personal confidence — used as a sentence opener to state personal confidence or certainty about a claim, not this context.\nSimilar chunks:\n- I'm confident that...\n- It's clear that...\n- There's no question that..."
+    },
+    {
+      "id": 65,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say an outcome probably won't happen, though it's not completely impossible. Which chunk fits best?",
+      "options": {
+        "A": "an outside chance",
+        "B": "The data points to...",
+        "C": "certainly",
+        "D": "likely to"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"an outside chance\" is an Expressing low likelihood chunk: used to describe an outcome as unlikely, though not completely impossible.\nExample: \"There's an outside chance the client extends the contract.\"\nSimilar chunks:\n- unlikely\n- a long shot\n- I wouldn't bank on it.\n\n✗ \"The data points to...\" belongs to Careful evidence verbs (not overclaiming) — used to describe what evidence points toward, without overclaiming it as proof, not this context.\nSimilar chunks:\n- The data indicates...\n- The data suggests...\n\n✗ \"certainly\" belongs to Everyday light boosting — used as a light, everyday way to state something firmly in casual conversation, not this context.\nSimilar chunks:\n- obviously\n- definitely\n- clearly\n\n✗ \"likely to\" belongs to Expressing high likelihood — used to describe an outcome as likely, though not fully certain, not this context.\nSimilar chunks:\n- on track to\n- odds are\n- every chance"
+    },
+    {
+      "id": 66,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say an outcome probably won't happen, though it's not completely impossible. Which chunk fits best?",
+      "options": {
+        "A": "without question",
+        "B": "unlikely",
+        "C": "per the report",
+        "D": "I can tell you categorically..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"without question\" belongs to Boosting adverbs (formal, strengthening a claim) — used as a single strong adverb to state something as certain or beyond doubt, not this context.\nSimilar chunks:\n- undoubtedly\n- emphatically\n- categorically\n\n✓ Correct — \"unlikely\" is an Expressing low likelihood chunk: used to describe an outcome as unlikely, though not completely impossible.\nExample: \"It's unlikely we'll get sign-off before the holidays.\"\nSimilar chunks:\n- I wouldn't bank on it.\n- an outside chance\n- a long shot\n\n✗ \"per the report\" belongs to Citing a specific source for a claim — used to attribute a claim to a specific external source, not this context.\nSimilar chunks:\n- according to\n\n✗ \"I can tell you categorically...\" belongs to Stating something as an absolute, undeniable fact — used to present a claim as an established fact, not a personal opinion, not this context.\nSimilar chunks:\n- There's no question.\n- I know for a fact..."
+    },
+    {
+      "id": 67,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say an outcome is essentially never going to happen. Which chunk fits best?",
+      "options": {
+        "A": "slim to none",
+        "B": "My read is...",
+        "C": "I know for a fact...",
+        "D": "I'd guess"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"slim to none\" is an Expressing near-impossibility chunk: used to describe an outcome as almost impossible.\nExample: \"The chances of getting that budget approved are slim to none.\"\nSimilar chunks:\n- not a chance\n- I'd be amazed.\n- when pigs fly\n\n✗ \"My read is...\" belongs to Hedging sentence openers (personal impression) — used to introduce a personal impression or guess rather than a confirmed fact, not this context.\nSimilar chunks:\n- It appears that...\n- It seems that...\n- I'd imagine...\n\n✗ \"I know for a fact...\" belongs to Stating something as an absolute, undeniable fact — used to present a claim as an established fact, not a personal opinion, not this context.\nSimilar chunks:\n- There's no question.\n- I can tell you categorically...\n\n✗ \"I'd guess\" belongs to Everyday light hedging — used for a light, everyday hedge on an opinion or guess, common in casual speech, not this context.\nSimilar chunks:\n- I reckon\n- probably\n- I think"
+    },
+    {
+      "id": 68,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say an outcome is essentially never going to happen. Which chunk fits best?",
+      "options": {
+        "A": "not a chance",
+        "B": "It appears that...",
+        "C": "On reflection, ...",
+        "D": "in theory"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"not a chance\" is an Expressing near-impossibility chunk: used to describe an outcome as almost impossible.\nExample: \"Not a chance they'll agree to that price.\"\nSimilar chunks:\n- when pigs fly\n- slim to none\n- I'd be amazed.\n\n✗ \"It appears that...\" belongs to Hedging sentence openers (personal impression) — used to introduce a personal impression or guess rather than a confirmed fact, not this context.\nSimilar chunks:\n- I'd imagine...\n- It seems that...\n- My sense is...\n\n✗ \"On reflection, ...\" belongs to Signalling you've changed your mind — used to openly acknowledge that your opinion has changed since earlier, not this context.\nSimilar chunks:\n- I was wrong about that.\n- I've changed my mind on this.\n\n✗ \"in theory\" belongs to Hedging: how something looks, not how it necessarily is — used to describe how something looks or is designed, while leaving room for reality to differ, not this context.\nSimilar chunks:\n- ideally\n- on paper"
+    },
+    {
+      "id": 69,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You genuinely don't know the answer to something and want a natural way to say so. Which chunk fits best?",
+      "options": {
+        "A": "On reflection, ...",
+        "B": "in theory",
+        "C": "a safe bet",
+        "D": "Your guess is as good as mine."
+      },
+      "correct": "D",
+      "explanation": "✗ \"On reflection, ...\" belongs to Signalling you've changed your mind — used to openly acknowledge that your opinion has changed since earlier, not this context.\nSimilar chunks:\n- I was wrong about that.\n- I've changed my mind on this.\n\n✗ \"in theory\" belongs to Hedging: how something looks, not how it necessarily is — used to describe how something looks or is designed, while leaving room for reality to differ, not this context.\nSimilar chunks:\n- ideally\n- on paper\n\n✗ \"a safe bet\" belongs to Expressing near-certainty — used to describe an outcome as essentially guaranteed, not this context.\nSimilar chunks:\n- certain to\n- bound to\n- all but guaranteed\n\n✓ Correct — \"Your guess is as good as mine.\" is an Admitting you're not sure chunk: used to admit you're genuinely unsure about something.\nExample: \"Why the numbers dropped? Your guess is as good as mine.\"\nSimilar chunks:\n- It's hard to say.\n- I'm not sure."
+    },
+    {
+      "id": 70,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You genuinely don't know the answer to something and want a natural way to say so. Which chunk fits best?",
+      "options": {
+        "A": "I take your point, but...",
+        "B": "typically",
+        "C": "I'm not sure.",
+        "D": "at first glance"
+      },
+      "correct": "C",
+      "explanation": "✗ \"I take your point, but...\" belongs to Calibrated disagreement: acknowledge, then push back — used to acknowledge the other person's point before pushing back on it, not this context.\nSimilar chunks:\n- I see where you're coming from, but...\n- That may be so, but...\n\n✗ \"typically\" belongs to Hedging with generalizations — used to describe a general tendency rather than an absolute rule, not this context.\nSimilar chunks:\n- it tends to\n- as a rule\n- in most cases\n\n✓ Correct — \"I'm not sure.\" is an Admitting you're not sure chunk: used to admit you're genuinely unsure about something.\nExample: \"I'm not sure — I'd have to check with the finance team.\"\nSimilar chunks:\n- It's hard to say.\n- Your guess is as good as mine.\n\n✗ \"at first glance\" belongs to Neutral cautious framing — used to frame an observation as a first, cautious impression rather than a settled conclusion, not this context.\nSimilar chunks:\n- on the face of it\n- from what I can see"
+    },
+    {
+      "id": 71,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You have no idea about something and want to be clear it's completely outside what you know. Which chunk fits best?",
+      "options": {
+        "A": "With respect, I read it differently.",
+        "B": "without a shadow of a doubt",
+        "C": "There's another way of looking at it.",
+        "D": "I'd be guessing."
+      },
+      "correct": "D",
+      "explanation": "✗ \"With respect, I read it differently.\" belongs to Calibrated disagreement: a direct but polite challenge — used to directly but politely challenge an assumption or claim, not this context.\nSimilar chunks:\n- I'd challenge that assumption.\n- I'd push back on that slightly.\n\n✗ \"without a shadow of a doubt\" belongs to Maximum-strength, emphatic boosting — used to state something with maximum emphasis and conviction, leaving no room for doubt, not this context.\nSimilar chunks:\n- I'd stake money on it\n- I'd go so far as to say...\n- if anything, it's an understatement\n\n✗ \"There's another way of looking at it.\" belongs to Calibrated disagreement: offering an alternative view — used to introduce an alternative perspective on the discussion, not this context.\nSimilar chunks:\n- I'm going to be the dissenting voice here.\n\n✓ Correct — \"I'd be guessing.\" is an Admitting you don't know at all chunk: used to admit total lack of knowledge on a topic.\nExample: \"If I answered that, I'd be guessing.\"\nSimilar chunks:\n- I honestly don't know.\n- That's outside my knowledge."
+    },
+    {
+      "id": 72,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You have no idea about something and want to be clear it's completely outside what you know. Which chunk fits best?",
+      "options": {
+        "A": "I think",
+        "B": "per the report",
+        "C": "on the face of it",
+        "D": "I honestly don't know."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I think\" belongs to Everyday light hedging — used for a light, everyday hedge on an opinion or guess, common in casual speech, not this context.\nSimilar chunks:\n- most likely\n- I'd guess\n- probably\n\n✗ \"per the report\" belongs to Citing a specific source for a claim — used to attribute a claim to a specific external source, not this context.\nSimilar chunks:\n- according to\n\n✗ \"on the face of it\" belongs to Neutral cautious framing — used to frame an observation as a first, cautious impression rather than a settled conclusion, not this context.\nSimilar chunks:\n- from what I can see\n- at first glance\n\n✓ Correct — \"I honestly don't know.\" is an Admitting you don't know at all chunk: used to admit total lack of knowledge on a topic.\nExample: \"I honestly don't know why the migration failed.\"\nSimilar chunks:\n- That's outside my knowledge.\n- I'd be guessing."
+    },
+    {
+      "id": 73,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You used to believe something different and want to openly acknowledge that your view has shifted. Which chunk fits best?",
+      "options": {
+        "A": "I've changed my mind on this.",
+        "B": "I'm sure",
+        "C": "You have my word.",
+        "D": "it tends to"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I've changed my mind on this.\" is a Signalling you've changed your mind chunk: used to openly acknowledge that your opinion has changed since earlier.\nExample: \"I've changed my mind on this — I now think we should wait.\"\nSimilar chunks:\n- I was wrong about that.\n- On reflection, ...\n\n✗ \"I'm sure\" belongs to Boosting with personal confidence — used as a sentence opener to state personal confidence or certainty about a claim, not this context.\nSimilar chunks:\n- It's clear that...\n- I have no doubt that...\n- no doubt\n\n✗ \"You have my word.\" belongs to Boosting through personal commitment — used to back a claim with personal credibility or a firm promise, not this context.\nSimilar chunks:\n- I stand by that.\n- I'll put my name to it.\n\n✗ \"it tends to\" belongs to Hedging with generalizations — used to describe a general tendency rather than an absolute rule, not this context.\nSimilar chunks:\n- generally\n- in most cases\n- typically"
+    },
+    {
+      "id": 74,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You used to believe something different and want to openly acknowledge that your view has shifted. Which chunk fits best?",
+      "options": {
+        "A": "when pigs fly",
+        "B": "directionally",
+        "C": "On reflection, ...",
+        "D": "presumably"
+      },
+      "correct": "C",
+      "explanation": "✗ \"when pigs fly\" belongs to Expressing near-impossibility — used to describe an outcome as almost impossible, not this context.\nSimilar chunks:\n- slim to none\n- I'd be amazed.\n- not a chance\n\n✗ \"directionally\" belongs to Rough, informal qualifiers for imprecise figures — used to flag that a figure or claim is a rough estimate, not a precise one, not this context.\nSimilar chunks:\n- anecdotally\n- rough order of magnitude\n\n✓ Correct — \"On reflection, ...\" is a Signalling you've changed your mind chunk: used to openly acknowledge that your opinion has changed since earlier.\nExample: \"On reflection, I think we rushed the decision.\"\nSimilar chunks:\n- I've changed my mind on this.\n- I was wrong about that.\n\n✗ \"presumably\" belongs to Hedging adverbs (formal, softening a claim) — used as a single adverb to soften a claim, common in more formal or written register, not this context.\nSimilar chunks:\n- seemingly\n- conceivably\n- ostensibly"
+    }
+  ]
+}

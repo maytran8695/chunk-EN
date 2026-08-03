@@ -1,0 +1,692 @@
+{
+  "examId": "information-packaging",
+  "title": "Chunk Atlas — Language Systems: Information Packaging",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to put the important new information at the very end of the sentence, so you open the sentence with a 'What...' clause instead of leading with it. Which chunk fits best?",
+      "options": {
+        "A": "What surprised me most was...",
+        "B": "From where I sit...",
+        "C": "On that basis",
+        "D": "If there's one takeaway..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What surprised me most was...\" is a Wh-clefts: highlighting via What chunk: used to push the key new information to the end of the sentence by opening with a What-clause.\nExample: \"What surprised me most was how quickly support tickets dropped after the fix.\"\nSimilar chunks:\n- What I mean is...\n- What it comes down to is...\n- What struck me was...\n\n✗ \"From where I sit...\" belongs to Personal viewpoint framing — used to preface a personal opinion so the listener knows it's a view, not a stated fact, not this context.\nSimilar chunks:\n- The way I see it...\n- If you want my view...\n- The truth is...\n\n✗ \"On that basis\" belongs to Formal transition connectors: consequence & purpose — used in a formal register to connect a consequence or next step to what was just said, not this context.\nSimilar chunks:\n- Hence\n- Which brings me to...\n- Which is exactly why...\n\n✗ \"If there's one takeaway...\" belongs to Highlighting the key takeaway — used to flag the single most important fact after a longer explanation, not this context.\nSimilar chunks:\n- If you take nothing else away: ...\n- What's interesting is...\n- This is the important bit."
+    },
+    {
+      "id": 2,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to put the important new information at the very end of the sentence, so you open the sentence with a 'What...' clause instead of leading with it. Which chunk fits best?",
+      "options": {
+        "A": "It's not until... that...",
+        "B": "What matters here is...",
+        "C": "What I'd suggest is...",
+        "D": "This is the important bit."
+      },
+      "correct": "B",
+      "explanation": "✗ \"It's not until... that...\" belongs to It-clefts: highlighting via It was...that — used to isolate one specific element as the focus or cause, framed as 'It was/is ... that', not this context.\nSimilar chunks:\n- It's precisely because... that...\n- It's X that makes the difference.\n- It was X that/who...\n\n✓ Correct — \"What matters here is...\" is a Wh-clefts: highlighting via What chunk: used to push the key new information to the end of the sentence by opening with a What-clause.\nExample: \"What matters here is whether customers actually renew, not how many sign up.\"\nSimilar chunks:\n- What worries me is...\n- What surprised me most was...\n- What it comes down to is...\n\n✗ \"What I'd suggest is...\" belongs to Getting to the core issue / offering a way forward — used to name the underlying issue or propose a concrete next step after a discussion, not this context.\nSimilar chunks:\n- It comes down to...\n- The risk there is...\n- It all hinges on...\n\n✗ \"This is the important bit.\" belongs to Highlighting the key takeaway — used to flag the single most important fact after a longer explanation, not this context.\nSimilar chunks:\n- The one thing I'd flag is...\n- What's worrying is...\n- What's changed is..."
+    },
+    {
+      "id": 3,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to put the important new information at the very end of the sentence, so you open the sentence with a 'What...' clause instead of leading with it. Which chunk fits best?",
+      "options": {
+        "A": "What struck me was...",
+        "B": "My instinct would be to...",
+        "C": "It's no coincidence that...",
+        "D": "All the same"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What struck me was...\" is a Wh-clefts: highlighting via What chunk: used to push the key new information to the end of the sentence by opening with a What-clause.\nExample: \"What struck me was how calm the team stayed during the outage.\"\nSimilar chunks:\n- What we need to do is...\n- What matters here is...\n- What worries me is...\n\n✗ \"My instinct would be to...\" belongs to Getting to the core issue / offering a way forward — used to name the underlying issue or propose a concrete next step after a discussion, not this context.\nSimilar chunks:\n- What I'd suggest is...\n- The problem with that is...\n- The catch is...\n\n✗ \"It's no coincidence that...\" belongs to It-clefts: highlighting via It was...that — used to isolate one specific element as the focus or cause, framed as 'It was/is ... that', not this context.\nSimilar chunks:\n- It was X that/who...\n- It's precisely because... that...\n- It's worth noting that...\n\n✗ \"All the same\" belongs to Formal transition connectors: concession & evaluation — used in a formal register to add a concessive or evaluative comment after making a point, not this context.\nSimilar chunks:\n- All things considered\n- That said\n- Taking everything into account"
+    },
+    {
+      "id": 4,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to name the single most important idea as a noun before you explain it, using a 'The ... is' frame instead of a plain statement. Which chunk fits best?",
+      "options": {
+        "A": "On that basis",
+        "B": "Here's the catch.",
+        "C": "The point is...",
+        "D": "It's been suggested that..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"On that basis\" belongs to Formal transition connectors: consequence & purpose — used in a formal register to connect a consequence or next step to what was just said, not this context.\nSimilar chunks:\n- In light of that\n- Hence\n- Thereby\n\n✗ \"Here's the catch.\" belongs to Signposting what's coming / cueing the listener — used to prepare the listener for an explanation that takes a few steps, or has a twist, not this context.\nSimilar chunks:\n- There's a but coming.\n- Stay with me.\n- The long version is...\n\n✓ Correct — \"The point is...\" is a Clefts: highlighting via The + noun chunk: used to spotlight one key idea with a noun-headed 'The ... is' frame before elaborating on it.\nExample: \"The point is we can't launch without a rollback plan.\"\nSimilar chunks:\n- The thing is...\n- The problem is...\n- All I'm saying is...\n\n✗ \"It's been suggested that...\" belongs to Passive & agentless framing (diplomatic distance) — used to report a problem while removing the responsible person from the sentence, to soften criticism, not this context.\nSimilar chunks:\n- Mistakes were made.\n- It was decided that...\n- There seems to have been a misunderstanding."
+    },
+    {
+      "id": 5,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to name the single most important idea as a noun before you explain it, using a 'The ... is' frame instead of a plain statement. Which chunk fits best?",
+      "options": {
+        "A": "The long version is...",
+        "B": "The only thing I'd add is...",
+        "C": "Here's where it gets complicated.",
+        "D": "There seems to have been a misunderstanding."
+      },
+      "correct": "B",
+      "explanation": "✗ \"The long version is...\" belongs to Signposting what's coming / cueing the listener — used to prepare the listener for an explanation that takes a few steps, or has a twist, not this context.\nSimilar chunks:\n- The honest version is...\n- Here's where it gets complicated.\n- Bear with me on this one.\n\n✓ Correct — \"The only thing I'd add is...\" is a Clefts: highlighting via The + noun chunk: used to spotlight one key idea with a noun-headed 'The ... is' frame before elaborating on it.\nExample: \"The only thing I'd add is that we should loop in support before the release.\"\nSimilar chunks:\n- The question is...\n- One thing to flag is...\n- The problem is...\n\n✗ \"Here's where it gets complicated.\" belongs to Signposting what's coming / cueing the listener — used to prepare the listener for an explanation that takes a few steps, or has a twist, not this context.\nSimilar chunks:\n- Here's the catch.\n- Stay with me.\n- Two things. One: ... Two: ...\n\n✗ \"There seems to have been a misunderstanding.\" belongs to Passive & agentless framing (diplomatic distance) — used to report a problem while removing the responsible person from the sentence, to soften criticism, not this context.\nSimilar chunks:\n- Mistakes were made.\n- Concerns have been raised about...\n- It's been suggested that..."
+    },
+    {
+      "id": 6,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to name the single most important idea as a noun before you explain it, using a 'The ... is' frame instead of a plain statement. Which chunk fits best?",
+      "options": {
+        "A": "That said",
+        "B": "The thing is...",
+        "C": "It's worth -ing",
+        "D": "As far as I'm concerned..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"That said\" belongs to Formal transition connectors: concession & evaluation — used in a formal register to add a concessive or evaluative comment after making a point, not this context.\nSimilar chunks:\n- Having said that\n- All things considered\n- Taking everything into account\n\n✓ Correct — \"The thing is...\" is a Clefts: highlighting via The + noun chunk: used to spotlight one key idea with a noun-headed 'The ... is' frame before elaborating on it.\nExample: \"The thing is, we promised this feature for Friday and it's not ready.\"\nSimilar chunks:\n- The only thing I'd add is...\n- The point is...\n- The problem is...\n\n✗ \"It's worth -ing\" belongs to End-weight & extraposition — used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There', not this context.\nSimilar chunks:\n- It goes without saying that...\n- There's no point (in) -ing\n- It remains to be seen whether...\n\n✗ \"As far as I'm concerned...\" belongs to Personal viewpoint framing — used to preface a personal opinion so the listener knows it's a view, not a stated fact, not this context.\nSimilar chunks:\n- The truth is...\n- From where I sit...\n- The way I see it..."
+    },
+    {
+      "id": 7,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to name the single most important idea as a noun before you explain it, using a 'The ... is' frame instead of a plain statement. Which chunk fits best?",
+      "options": {
+        "A": "Conversely",
+        "B": "It's worth -ing",
+        "C": "What surprised me most was...",
+        "D": "The question is..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Conversely\" belongs to Formal transition connectors: addition & comparison — used in a formal register to add to, escalate, or draw a parallel with the previous point, not this context.\nSimilar chunks:\n- More to the point\n- In much the same way\n- Worse still\n\n✗ \"It's worth -ing\" belongs to End-weight & extraposition — used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There', not this context.\nSimilar chunks:\n- It's important to...\n- There's no point (in) -ing\n- It goes without saying that...\n\n✗ \"What surprised me most was...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What matters here is...\n- What worries me is...\n- What it comes down to is...\n\n✓ Correct — \"The question is...\" is a Clefts: highlighting via The + noun chunk: used to spotlight one key idea with a noun-headed 'The ... is' frame before elaborating on it.\nExample: \"The question is whether we tell the client now or wait until Monday.\"\nSimilar chunks:\n- All I'm saying is...\n- The thing is...\n- The reality is..."
+    },
+    {
+      "id": 8,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to isolate one specific element as the real cause or focus, using an 'It was/is ... that' frame instead of a plain statement. Which chunk fits best?",
+      "options": {
+        "A": "All things considered",
+        "B": "It's not until... that...",
+        "C": "This much is clear: ...",
+        "D": "Equally"
+      },
+      "correct": "B",
+      "explanation": "✗ \"All things considered\" belongs to Formal transition connectors: concession & evaluation — used in a formal register to add a concessive or evaluative comment after making a point, not this context.\nSimilar chunks:\n- That said\n- Taking everything into account\n- All the same\n\n✓ Correct — \"It's not until... that...\" is an It-clefts: highlighting via It was...that chunk: used to isolate one specific element as the focus or cause, framed as 'It was/is ... that'.\nExample: \"It's not until you present that you spot the gaps.\"\nSimilar chunks:\n- It's precisely because... that...\n- It's X that makes the difference.\n- It's no coincidence that...\n\n✗ \"This much is clear: ...\" belongs to Fronting & inversion (formal emphasis) — used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion, not this context.\nSimilar chunks:\n- Only after the review did we see the gap.\n- So critical is this that...\n- Rarely do we get a chance like this.\n\n✗ \"Equally\" belongs to Formal transition connectors: addition & comparison — used in a formal register to add to, escalate, or draw a parallel with the previous point, not this context.\nSimilar chunks:\n- What's more\n- Conversely\n- By the same token"
+    },
+    {
+      "id": 9,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to isolate one specific element as the real cause or focus, using an 'It was/is ... that' frame instead of a plain statement. Which chunk fits best?",
+      "options": {
+        "A": "It's worth -ing",
+        "B": "The one thing I'd flag is...",
+        "C": "It was X that/who...",
+        "D": "It's important to..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"It's worth -ing\" belongs to End-weight & extraposition — used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There', not this context.\nSimilar chunks:\n- It goes without saying that...\n- It remains to be seen whether...\n- It's important to...\n\n✗ \"The one thing I'd flag is...\" belongs to Highlighting the key takeaway — used to flag the single most important fact after a longer explanation, not this context.\nSimilar chunks:\n- This is the important bit.\n- What's worrying is...\n- If there's one takeaway...\n\n✓ Correct — \"It was X that/who...\" is an It-clefts: highlighting via It was...that chunk: used to isolate one specific element as the focus or cause, framed as 'It was/is ... that'.\nExample: \"It was the timing that concerned me, not the cost.\"\nSimilar chunks:\n- It's no coincidence that...\n- It's not until... that...\n- It's precisely because... that...\n\n✗ \"It's important to...\" belongs to End-weight & extraposition — used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There', not this context.\nSimilar chunks:\n- There's something to be said for...\n- It goes without saying that...\n- It makes sense to..."
+    },
+    {
+      "id": 10,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to isolate one specific element as the real cause or focus, using an 'It was/is ... that' frame instead of a plain statement. Which chunk fits best?",
+      "options": {
+        "A": "It's no accident that...",
+        "B": "Unless I'm missing something...",
+        "C": "My instinct would be to...",
+        "D": "On that basis"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"It's no accident that...\" is an It-clefts: highlighting via It was...that chunk: used to isolate one specific element as the focus or cause, framed as 'It was/is ... that'.\nExample: \"It's no accident that our best-performing team also runs the shortest meetings.\"\nSimilar chunks:\n- It's not until... that...\n- It's no coincidence that...\n- It was X that/who...\n\n✗ \"Unless I'm missing something...\" belongs to Flagging uncertainty & precision — used to flag a possible gap in understanding, or to make a point impossible to misread, not this context.\nSimilar chunks:\n- To be absolutely clear...\n- Just so we're clear...\n- Correct me if I'm wrong, but...\n\n✗ \"My instinct would be to...\" belongs to Getting to the core issue / offering a way forward — used to name the underlying issue or propose a concrete next step after a discussion, not this context.\nSimilar chunks:\n- What I'd suggest is...\n- It comes down to...\n- The risk there is...\n\n✗ \"On that basis\" belongs to Formal transition connectors: consequence & purpose — used in a formal register to connect a consequence or next step to what was just said, not this context.\nSimilar chunks:\n- Thereby\n- Hence\n- With that in mind"
+    },
+    {
+      "id": 11,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to emphasize a point in a formal, almost dramatic way by moving a negative or limiting word to the front of the sentence, which forces the subject and verb to swap order. Which chunk fits best?",
+      "options": {
+        "A": "What it comes down to is...",
+        "B": "Only after the review did we see the gap.",
+        "C": "What's interesting is...",
+        "D": "What struck me was..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"What it comes down to is...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What struck me was...\n- What surprised me most was...\n- What matters here is...\n\n✓ Correct — \"Only after the review did we see the gap.\" is a Fronting & inversion (formal emphasis) chunk: used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion.\nExample: \"Only after the review did we see the gap between what was promised and what was built.\"\nSimilar chunks:\n- Rarely do we get a chance like this.\n- Such was the impact that...\n- So critical is this that...\n\n✗ \"What's interesting is...\" belongs to Highlighting the key takeaway — used to flag the single most important fact after a longer explanation, not this context.\nSimilar chunks:\n- The key thing here is...\n- What's worrying is...\n- The one thing I'd flag is...\n\n✗ \"What struck me was...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What matters here is...\n- What worries me is...\n- What I mean is..."
+    },
+    {
+      "id": 12,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to emphasize a point in a formal, almost dramatic way by moving a negative or limiting word to the front of the sentence, which forces the subject and verb to swap order. Which chunk fits best?",
+      "options": {
+        "A": "One thing is certain: ...",
+        "B": "There's something to be said for...",
+        "C": "Unless I'm missing something...",
+        "D": "What worries me is..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"One thing is certain: ...\" is a Fronting & inversion (formal emphasis) chunk: used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion.\nExample: \"One thing is certain: the current process doesn't scale past ten clients.\"\nSimilar chunks:\n- So critical is this that...\n- Such was the impact that...\n- Rarely do we get a chance like this.\n\n✗ \"There's something to be said for...\" belongs to End-weight & extraposition — used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There', not this context.\nSimilar chunks:\n- It remains to be seen whether...\n- There's no point (in) -ing\n- It goes without saying that...\n\n✗ \"Unless I'm missing something...\" belongs to Flagging uncertainty & precision — used to flag a possible gap in understanding, or to make a point impossible to misread, not this context.\nSimilar chunks:\n- To be absolutely clear...\n- Just so we're clear...\n- Let me be blunt...\n\n✗ \"What worries me is...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What struck me was...\n- What matters here is...\n- What we need to do is..."
+    },
+    {
+      "id": 13,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to emphasize a point in a formal, almost dramatic way by moving a negative or limiting word to the front of the sentence, which forces the subject and verb to swap order. Which chunk fits best?",
+      "options": {
+        "A": "What worries me is...",
+        "B": "More to the point",
+        "C": "The key thing here is...",
+        "D": "Rarely do we get a chance like this."
+      },
+      "correct": "D",
+      "explanation": "✗ \"What worries me is...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What we need to do is...\n- What matters here is...\n- What it comes down to is...\n\n✗ \"More to the point\" belongs to Formal transition connectors: addition & comparison — used in a formal register to add to, escalate, or draw a parallel with the previous point, not this context.\nSimilar chunks:\n- What's more\n- Equally\n- Worse still\n\n✗ \"The key thing here is...\" belongs to Highlighting the key takeaway — used to flag the single most important fact after a longer explanation, not this context.\nSimilar chunks:\n- If you take nothing else away: ...\n- This is the important bit.\n- The one thing I'd flag is...\n\n✓ Correct — \"Rarely do we get a chance like this.\" is a Fronting & inversion (formal emphasis) chunk: used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion.\nExample: \"Rarely do we get a chance like this to rebuild the pricing model from scratch.\"\nSimilar chunks:\n- Never (before) have I seen...\n- Not once did they mention...\n- Had we known earlier, we would have..."
+    },
+    {
+      "id": 14,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to emphasize a point in a formal, almost dramatic way by moving a negative or limiting word to the front of the sentence, which forces the subject and verb to swap order. Which chunk fits best?",
+      "options": {
+        "A": "Had we known earlier, we would have...",
+        "B": "To be absolutely clear...",
+        "C": "It's X that makes the difference.",
+        "D": "What I mean is..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Had we known earlier, we would have...\" is a Fronting & inversion (formal emphasis) chunk: used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion.\nExample: \"Had we known earlier, we would have pushed the launch back a week.\"\nSimilar chunks:\n- Only after the review did we see the gap.\n- Not once did they mention...\n- Only then did I realise...\n\n✗ \"To be absolutely clear...\" belongs to Flagging uncertainty & precision — used to flag a possible gap in understanding, or to make a point impossible to misread, not this context.\nSimilar chunks:\n- Just so we're clear...\n- Correct me if I'm wrong, but...\n- Let me be blunt...\n\n✗ \"It's X that makes the difference.\" belongs to It-clefts: highlighting via It was...that — used to isolate one specific element as the focus or cause, framed as 'It was/is ... that', not this context.\nSimilar chunks:\n- It's not until... that...\n- It was X that/who...\n- It's no coincidence that...\n\n✗ \"What I mean is...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What worries me is...\n- What we need to do is...\n- What struck me was..."
+    },
+    {
+      "id": 15,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to comment on an action or idea, so you push the heavy part of the sentence to the end and open instead with a light 'It' or 'There'. Which chunk fits best?",
+      "options": {
+        "A": "It boils down to...",
+        "B": "The point is...",
+        "C": "It remains to be seen whether...",
+        "D": "All things considered"
+      },
+      "correct": "C",
+      "explanation": "✗ \"It boils down to...\" belongs to Getting to the core issue / offering a way forward — used to name the underlying issue or propose a concrete next step after a discussion, not this context.\nSimilar chunks:\n- It comes down to...\n- What I'd do is...\n- My instinct would be to...\n\n✗ \"The point is...\" belongs to Clefts: highlighting via The + noun — used to spotlight one key idea with a noun-headed 'The ... is' frame before elaborating on it, not this context.\nSimilar chunks:\n- The question is...\n- All I'm saying is...\n- The reality is...\n\n✓ Correct — \"It remains to be seen whether...\" is an End-weight & extraposition chunk: used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There'.\nExample: \"It remains to be seen whether the new pricing actually reduces churn.\"\nSimilar chunks:\n- It makes sense to...\n- There's something to be said for...\n- It goes without saying that...\n\n✗ \"All things considered\" belongs to Formal transition connectors: concession & evaluation — used in a formal register to add a concessive or evaluative comment after making a point, not this context.\nSimilar chunks:\n- Taking everything into account\n- Having said that\n- All the same"
+    },
+    {
+      "id": 16,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to comment on an action or idea, so you push the heavy part of the sentence to the end and open instead with a light 'It' or 'There'. Which chunk fits best?",
+      "options": {
+        "A": "There seems to have been a misunderstanding.",
+        "B": "The risk there is...",
+        "C": "There's something to be said for...",
+        "D": "By the same token"
+      },
+      "correct": "C",
+      "explanation": "✗ \"There seems to have been a misunderstanding.\" belongs to Passive & agentless framing (diplomatic distance) — used to report a problem while removing the responsible person from the sentence, to soften criticism, not this context.\nSimilar chunks:\n- It's been suggested that...\n- It was decided that...\n- Mistakes were made.\n\n✗ \"The risk there is...\" belongs to Getting to the core issue / offering a way forward — used to name the underlying issue or propose a concrete next step after a discussion, not this context.\nSimilar chunks:\n- The catch is...\n- What I'd suggest is...\n- It all hinges on...\n\n✓ Correct — \"There's something to be said for...\" is an End-weight & extraposition chunk: used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There'.\nExample: \"There's something to be said for keeping the meeting short, even if it feels rushed.\"\nSimilar chunks:\n- It makes sense to...\n- There's no point (in) -ing\n- It goes without saying that...\n\n✗ \"By the same token\" belongs to Formal transition connectors: addition & comparison — used in a formal register to add to, escalate, or draw a parallel with the previous point, not this context.\nSimilar chunks:\n- In much the same way\n- More to the point\n- What's more"
+    },
+    {
+      "id": 17,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to comment on an action or idea, so you push the heavy part of the sentence to the end and open instead with a light 'It' or 'There'. Which chunk fits best?",
+      "options": {
+        "A": "One thing is certain: ...",
+        "B": "It boils down to...",
+        "C": "It's important to...",
+        "D": "In much the same way"
+      },
+      "correct": "C",
+      "explanation": "✗ \"One thing is certain: ...\" belongs to Fronting & inversion (formal emphasis) — used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion, not this context.\nSimilar chunks:\n- Never (before) have I seen...\n- Only then did I realise...\n- Only after the review did we see the gap.\n\n✗ \"It boils down to...\" belongs to Getting to the core issue / offering a way forward — used to name the underlying issue or propose a concrete next step after a discussion, not this context.\nSimilar chunks:\n- The risk there is...\n- It all hinges on...\n- My instinct would be to...\n\n✓ Correct — \"It's important to...\" is an End-weight & extraposition chunk: used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There'.\nExample: \"It's important to loop in legal before you sign anything.\"\nSimilar chunks:\n- It's worth -ing\n- It goes without saying that...\n- It remains to be seen whether...\n\n✗ \"In much the same way\" belongs to Formal transition connectors: addition & comparison — used in a formal register to add to, escalate, or draw a parallel with the previous point, not this context.\nSimilar chunks:\n- Conversely\n- Better still\n- By the same token"
+    },
+    {
+      "id": 18,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You need to report a mistake or piece of bad news to the group without naming exactly who is responsible, to keep the tone diplomatic. Which chunk fits best?",
+      "options": {
+        "A": "Here's where it gets complicated.",
+        "B": "The deadline was missed.",
+        "C": "What I mean is...",
+        "D": "If I'm being honest..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Here's where it gets complicated.\" belongs to Signposting what's coming / cueing the listener — used to prepare the listener for an explanation that takes a few steps, or has a twist, not this context.\nSimilar chunks:\n- The short version is...\n- Bear with me on this one.\n- Here's the catch.\n\n✓ Correct — \"The deadline was missed.\" is a Passive & agentless framing (diplomatic distance) chunk: used to report a problem while removing the responsible person from the sentence, to soften criticism.\nExample: \"The deadline was missed, and we're already drafting a revised timeline.\"\nSimilar chunks:\n- There seems to have been a misunderstanding.\n- It was decided that...\n- It's been suggested that...\n\n✗ \"What I mean is...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What surprised me most was...\n- What we need to do is...\n- What worries me is...\n\n✗ \"If I'm being honest...\" belongs to Personal viewpoint framing — used to preface a personal opinion so the listener knows it's a view, not a stated fact, not this context.\nSimilar chunks:\n- Between you and me...\n- The truth is...\n- The fact of the matter is..."
+    },
+    {
+      "id": 19,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You need to report a mistake or piece of bad news to the group without naming exactly who is responsible, to keep the tone diplomatic. Which chunk fits best?",
+      "options": {
+        "A": "Here's where it gets complicated.",
+        "B": "Only after the review did we see the gap.",
+        "C": "One thing to flag is...",
+        "D": "Something got lost in translation."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Here's where it gets complicated.\" belongs to Signposting what's coming / cueing the listener — used to prepare the listener for an explanation that takes a few steps, or has a twist, not this context.\nSimilar chunks:\n- Bear with me on this one.\n- The honest version is...\n- Stay with me.\n\n✗ \"Only after the review did we see the gap.\" belongs to Fronting & inversion (formal emphasis) — used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion, not this context.\nSimilar chunks:\n- Rarely do we get a chance like this.\n- Had we known earlier, we would have...\n- Not once did they mention...\n\n✗ \"One thing to flag is...\" belongs to Clefts: highlighting via The + noun — used to spotlight one key idea with a noun-headed 'The ... is' frame before elaborating on it, not this context.\nSimilar chunks:\n- The problem is...\n- The point is...\n- The thing is...\n\n✓ Correct — \"Something got lost in translation.\" is a Passive & agentless framing (diplomatic distance) chunk: used to report a problem while removing the responsible person from the sentence, to soften criticism.\nExample: \"Something got lost in translation between the design brief and the final build.\"\nSimilar chunks:\n- Concerns have been raised about...\n- There seems to have been a misunderstanding.\n- It's been suggested that..."
+    },
+    {
+      "id": 20,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You need to report a mistake or piece of bad news to the group without naming exactly who is responsible, to keep the tone diplomatic. Which chunk fits best?",
+      "options": {
+        "A": "Equally",
+        "B": "It's been suggested that...",
+        "C": "It boils down to...",
+        "D": "The honest version is..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Equally\" belongs to Formal transition connectors: addition & comparison — used in a formal register to add to, escalate, or draw a parallel with the previous point, not this context.\nSimilar chunks:\n- In much the same way\n- Conversely\n- Better still\n\n✓ Correct — \"It's been suggested that...\" is a Passive & agentless framing (diplomatic distance) chunk: used to report a problem while removing the responsible person from the sentence, to soften criticism.\nExample: \"It's been suggested that we merge the two support queues.\"\nSimilar chunks:\n- It was decided that...\n- Something got lost in translation.\n- There seems to have been a misunderstanding.\n\n✗ \"It boils down to...\" belongs to Getting to the core issue / offering a way forward — used to name the underlying issue or propose a concrete next step after a discussion, not this context.\nSimilar chunks:\n- The problem with that is...\n- It all hinges on...\n- The risk there is...\n\n✗ \"The honest version is...\" belongs to Signposting what's coming / cueing the listener — used to prepare the listener for an explanation that takes a few steps, or has a twist, not this context.\nSimilar chunks:\n- Stay with me.\n- Here's the catch.\n- Bear with me on this one."
+    },
+    {
+      "id": 21,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to name the single most important fact from everything you've just explained. Which chunk fits best?",
+      "options": {
+        "A": "Correct me if I'm wrong, but...",
+        "B": "If you take nothing else away: ...",
+        "C": "Which brings me to...",
+        "D": "That said"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Correct me if I'm wrong, but...\" belongs to Flagging uncertainty & precision — used to flag a possible gap in understanding, or to make a point impossible to misread, not this context.\nSimilar chunks:\n- To be absolutely clear...\n- Just so we're clear...\n- Unless I'm missing something...\n\n✓ Correct — \"If you take nothing else away: ...\" is a Highlighting the key takeaway chunk: used to flag the single most important fact after a longer explanation.\nExample: \"If you take nothing else away: back up the database before you run this script.\"\nSimilar chunks:\n- What's changed is...\n- What's worrying is...\n- This is the important bit.\n\n✗ \"Which brings me to...\" belongs to Formal transition connectors: consequence & purpose — used in a formal register to connect a consequence or next step to what was just said, not this context.\nSimilar chunks:\n- To that end\n- Thereby\n- In light of that\n\n✗ \"That said\" belongs to Formal transition connectors: concession & evaluation — used in a formal register to add a concessive or evaluative comment after making a point, not this context.\nSimilar chunks:\n- Then again\n- All the same\n- On balance"
+    },
+    {
+      "id": 22,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to name the single most important fact from everything you've just explained. Which chunk fits best?",
+      "options": {
+        "A": "The question is...",
+        "B": "Never (before) have I seen...",
+        "C": "What it comes down to is...",
+        "D": "This is the important bit."
+      },
+      "correct": "D",
+      "explanation": "✗ \"The question is...\" belongs to Clefts: highlighting via The + noun — used to spotlight one key idea with a noun-headed 'The ... is' frame before elaborating on it, not this context.\nSimilar chunks:\n- The only thing I'd add is...\n- The point is...\n- The reality is...\n\n✗ \"Never (before) have I seen...\" belongs to Fronting & inversion (formal emphasis) — used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion, not this context.\nSimilar chunks:\n- So critical is this that...\n- Rarely do we get a chance like this.\n- Not once did they mention...\n\n✗ \"What it comes down to is...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What I mean is...\n- What worries me is...\n- What we need to do is...\n\n✓ Correct — \"This is the important bit.\" is a Highlighting the key takeaway chunk: used to flag the single most important fact after a longer explanation.\nExample: \"This is the important bit: the discount only applies to annual plans.\"\nSimilar chunks:\n- What's worrying is...\n- What's changed is...\n- The one thing I'd flag is..."
+    },
+    {
+      "id": 23,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to name the single most important fact from everything you've just explained. Which chunk fits best?",
+      "options": {
+        "A": "This much is clear: ...",
+        "B": "Just so we're clear...",
+        "C": "Then again",
+        "D": "What's worrying is..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"This much is clear: ...\" belongs to Fronting & inversion (formal emphasis) — used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion, not this context.\nSimilar chunks:\n- Never (before) have I seen...\n- Such was the impact that...\n- One thing is certain: ...\n\n✗ \"Just so we're clear...\" belongs to Flagging uncertainty & precision — used to flag a possible gap in understanding, or to make a point impossible to misread, not this context.\nSimilar chunks:\n- Correct me if I'm wrong, but...\n- To be absolutely clear...\n- Unless I'm missing something...\n\n✗ \"Then again\" belongs to Formal transition connectors: concession & evaluation — used in a formal register to add a concessive or evaluative comment after making a point, not this context.\nSimilar chunks:\n- All the same\n- On balance\n- Having said that\n\n✓ Correct — \"What's worrying is...\" is a Highlighting the key takeaway chunk: used to flag the single most important fact after a longer explanation.\nExample: \"What's worrying is that this is the third outage this quarter.\"\nSimilar chunks:\n- This is the important bit.\n- The one thing I'd flag is...\n- The key thing here is..."
+    },
+    {
+      "id": 24,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to name the single most important fact from everything you've just explained. Which chunk fits best?",
+      "options": {
+        "A": "What's interesting is...",
+        "B": "Let me be blunt...",
+        "C": "The way I see it...",
+        "D": "What matters here is..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What's interesting is...\" is a Highlighting the key takeaway chunk: used to flag the single most important fact after a longer explanation.\nExample: \"What's interesting is that mobile users convert twice as often as desktop.\"\nSimilar chunks:\n- The one thing I'd flag is...\n- If you take nothing else away: ...\n- What's worrying is...\n\n✗ \"Let me be blunt...\" belongs to Flagging uncertainty & precision — used to flag a possible gap in understanding, or to make a point impossible to misread, not this context.\nSimilar chunks:\n- Unless I'm missing something...\n- To be absolutely clear...\n- Correct me if I'm wrong, but...\n\n✗ \"The way I see it...\" belongs to Personal viewpoint framing — used to preface a personal opinion so the listener knows it's a view, not a stated fact, not this context.\nSimilar chunks:\n- The fact of the matter is...\n- As far as I'm concerned...\n- From where I sit...\n\n✗ \"What matters here is...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What struck me was...\n- What we need to do is...\n- What surprised me most was..."
+    },
+    {
+      "id": 25,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to explain something that takes a few steps, and you want to prepare the listener before you start. Which chunk fits best?",
+      "options": {
+        "A": "It's worth -ing",
+        "B": "Conversely",
+        "C": "What we need to do is...",
+        "D": "There's a but coming."
+      },
+      "correct": "D",
+      "explanation": "✗ \"It's worth -ing\" belongs to End-weight & extraposition — used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There', not this context.\nSimilar chunks:\n- It remains to be seen whether...\n- It goes without saying that...\n- There's something to be said for...\n\n✗ \"Conversely\" belongs to Formal transition connectors: addition & comparison — used in a formal register to add to, escalate, or draw a parallel with the previous point, not this context.\nSimilar chunks:\n- In much the same way\n- More to the point\n- By the same token\n\n✗ \"What we need to do is...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What struck me was...\n- What matters here is...\n- What I mean is...\n\n✓ Correct — \"There's a but coming.\" is a Signposting what's coming / cueing the listener chunk: used to prepare the listener for an explanation that takes a few steps, or has a twist.\nExample: \"The numbers look great — but there's a but coming.\"\nSimilar chunks:\n- The honest version is...\n- Two things. One: ... Two: ...\n- Here's where it gets complicated."
+    },
+    {
+      "id": 26,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to explain something that takes a few steps, and you want to prepare the listener before you start. Which chunk fits best?",
+      "options": {
+        "A": "On that basis",
+        "B": "The way I see it...",
+        "C": "The honest version is...",
+        "D": "All I'm saying is..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"On that basis\" belongs to Formal transition connectors: consequence & purpose — used in a formal register to connect a consequence or next step to what was just said, not this context.\nSimilar chunks:\n- Which brings me to...\n- With that in mind\n- In light of that\n\n✗ \"The way I see it...\" belongs to Personal viewpoint framing — used to preface a personal opinion so the listener knows it's a view, not a stated fact, not this context.\nSimilar chunks:\n- The truth is...\n- If I'm being honest...\n- From where I sit...\n\n✓ Correct — \"The honest version is...\" is a Signposting what's coming / cueing the listener chunk: used to prepare the listener for an explanation that takes a few steps, or has a twist.\nExample: \"The honest version is we underestimated how long QA would take.\"\nSimilar chunks:\n- Here's the tricky part.\n- There's a but coming.\n- Stay with me.\n\n✗ \"All I'm saying is...\" belongs to Clefts: highlighting via The + noun — used to spotlight one key idea with a noun-headed 'The ... is' frame before elaborating on it, not this context.\nSimilar chunks:\n- One thing to flag is...\n- The point is...\n- The question is..."
+    },
+    {
+      "id": 27,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to explain something that takes a few steps, and you want to prepare the listener before you start. Which chunk fits best?",
+      "options": {
+        "A": "The short version is...",
+        "B": "Had we known earlier, we would have...",
+        "C": "The way I see it...",
+        "D": "Hence"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"The short version is...\" is a Signposting what's coming / cueing the listener chunk: used to prepare the listener for an explanation that takes a few steps, or has a twist.\nExample: \"The short version is: we're a week behind, but it's recoverable.\"\nSimilar chunks:\n- The honest version is...\n- The long version is...\n- Stay with me.\n\n✗ \"Had we known earlier, we would have...\" belongs to Fronting & inversion (formal emphasis) — used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion, not this context.\nSimilar chunks:\n- One thing is certain: ...\n- Never (before) have I seen...\n- Not once did they mention...\n\n✗ \"The way I see it...\" belongs to Personal viewpoint framing — used to preface a personal opinion so the listener knows it's a view, not a stated fact, not this context.\nSimilar chunks:\n- Between you and me...\n- The fact of the matter is...\n- If you want my view...\n\n✗ \"Hence\" belongs to Formal transition connectors: consequence & purpose — used in a formal register to connect a consequence or next step to what was just said, not this context.\nSimilar chunks:\n- On that basis\n- With that in mind\n- Thereby"
+    },
+    {
+      "id": 28,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to explain something that takes a few steps, and you want to prepare the listener before you start. Which chunk fits best?",
+      "options": {
+        "A": "In light of that",
+        "B": "It's X that makes the difference.",
+        "C": "Here's the catch.",
+        "D": "What it comes down to is..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"In light of that\" belongs to Formal transition connectors: consequence & purpose — used in a formal register to connect a consequence or next step to what was just said, not this context.\nSimilar chunks:\n- Which is exactly why...\n- Hence\n- Thereby\n\n✗ \"It's X that makes the difference.\" belongs to It-clefts: highlighting via It was...that — used to isolate one specific element as the focus or cause, framed as 'It was/is ... that', not this context.\nSimilar chunks:\n- It's precisely because... that...\n- It's worth noting that...\n- It's no coincidence that...\n\n✓ Correct — \"Here's the catch.\" is a Signposting what's coming / cueing the listener chunk: used to prepare the listener for an explanation that takes a few steps, or has a twist.\nExample: \"Here's the catch: the discount only works if they pay annually.\"\nSimilar chunks:\n- The short version is...\n- Stay with me.\n- The honest version is...\n\n✗ \"What it comes down to is...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What we need to do is...\n- What I mean is...\n- What surprised me most was..."
+    },
+    {
+      "id": 29,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've just made a point, and now you want to add a qualifying or concessive comment before moving on, in a formal register. Which chunk fits best?",
+      "options": {
+        "A": "On balance",
+        "B": "It's precisely because... that...",
+        "C": "Bear with me on this one.",
+        "D": "What I'd do is..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"On balance\" is a Formal transition connectors: concession & evaluation chunk: used in a formal register to add a concessive or evaluative comment after making a point.\nExample: \"On balance, the pilot was a success, even with the rocky first week.\"\nSimilar chunks:\n- Having said that\n- All things considered\n- Taking everything into account\n\n✗ \"It's precisely because... that...\" belongs to It-clefts: highlighting via It was...that — used to isolate one specific element as the focus or cause, framed as 'It was/is ... that', not this context.\nSimilar chunks:\n- It's no coincidence that...\n- It's not until... that...\n- It's worth noting that...\n\n✗ \"Bear with me on this one.\" belongs to Signposting what's coming / cueing the listener — used to prepare the listener for an explanation that takes a few steps, or has a twist, not this context.\nSimilar chunks:\n- Two things. One: ... Two: ...\n- Here's where it gets complicated.\n- The long version is...\n\n✗ \"What I'd do is...\" belongs to Getting to the core issue / offering a way forward — used to name the underlying issue or propose a concrete next step after a discussion, not this context.\nSimilar chunks:\n- What I'd suggest is...\n- My instinct would be to...\n- The catch is..."
+    },
+    {
+      "id": 30,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've just made a point, and now you want to add a qualifying or concessive comment before moving on, in a formal register. Which chunk fits best?",
+      "options": {
+        "A": "That said",
+        "B": "It remains to be seen whether...",
+        "C": "Which brings me to...",
+        "D": "What we need to do is..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"That said\" is a Formal transition connectors: concession & evaluation chunk: used in a formal register to add a concessive or evaluative comment after making a point.\nExample: \"That said, the client did approve the revised timeline.\"\nSimilar chunks:\n- Taking everything into account\n- On balance\n- Having said that\n\n✗ \"It remains to be seen whether...\" belongs to End-weight & extraposition — used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There', not this context.\nSimilar chunks:\n- It makes sense to...\n- There's no point (in) -ing\n- There's something to be said for...\n\n✗ \"Which brings me to...\" belongs to Formal transition connectors: consequence & purpose — used in a formal register to connect a consequence or next step to what was just said, not this context.\nSimilar chunks:\n- Which is exactly why...\n- Thereby\n- To that end\n\n✗ \"What we need to do is...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What it comes down to is...\n- What struck me was...\n- What surprised me most was..."
+    },
+    {
+      "id": 31,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've just made a point, and now you want to add a qualifying or concessive comment before moving on, in a formal register. Which chunk fits best?",
+      "options": {
+        "A": "There's no point (in) -ing",
+        "B": "Not once did they mention...",
+        "C": "It's worth -ing",
+        "D": "Then again"
+      },
+      "correct": "D",
+      "explanation": "✗ \"There's no point (in) -ing\" belongs to End-weight & extraposition — used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There', not this context.\nSimilar chunks:\n- It's worth -ing\n- There's something to be said for...\n- It remains to be seen whether...\n\n✗ \"Not once did they mention...\" belongs to Fronting & inversion (formal emphasis) — used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion, not this context.\nSimilar chunks:\n- Had we known earlier, we would have...\n- This much is clear: ...\n- One thing is certain: ...\n\n✗ \"It's worth -ing\" belongs to End-weight & extraposition — used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There', not this context.\nSimilar chunks:\n- There's no point (in) -ing\n- It goes without saying that...\n- It makes sense to...\n\n✓ Correct — \"Then again\" is a Formal transition connectors: concession & evaluation chunk: used in a formal register to add a concessive or evaluative comment after making a point.\nExample: \"Then again, we did say we'd prioritize speed over polish this quarter.\"\nSimilar chunks:\n- Taking everything into account\n- All the same\n- That said"
+    },
+    {
+      "id": 32,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to add a formal transition that either builds on your last point or draws a parallel or contrast with it. Which chunk fits best?",
+      "options": {
+        "A": "It's no coincidence that...",
+        "B": "In much the same way",
+        "C": "It's important to...",
+        "D": "Concerns have been raised about..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"It's no coincidence that...\" belongs to It-clefts: highlighting via It was...that — used to isolate one specific element as the focus or cause, framed as 'It was/is ... that', not this context.\nSimilar chunks:\n- It's no accident that...\n- It's not until... that...\n- It's X that makes the difference.\n\n✓ Correct — \"In much the same way\" is a Formal transition connectors: addition & comparison chunk: used in a formal register to add to, escalate, or draw a parallel with the previous point.\nExample: \"In much the same way, the support team needs a single dashboard too.\"\nSimilar chunks:\n- Conversely\n- Better still\n- More to the point\n\n✗ \"It's important to...\" belongs to End-weight & extraposition — used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There', not this context.\nSimilar chunks:\n- It goes without saying that...\n- It makes sense to...\n- It remains to be seen whether...\n\n✗ \"Concerns have been raised about...\" belongs to Passive & agentless framing (diplomatic distance) — used to report a problem while removing the responsible person from the sentence, to soften criticism, not this context.\nSimilar chunks:\n- There seems to have been a misunderstanding.\n- It was decided that...\n- The deadline was missed."
+    },
+    {
+      "id": 33,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to add a formal transition that either builds on your last point or draws a parallel or contrast with it. Which chunk fits best?",
+      "options": {
+        "A": "It's no accident that...",
+        "B": "The deadline was missed.",
+        "C": "Not once did they mention...",
+        "D": "What's more"
+      },
+      "correct": "D",
+      "explanation": "✗ \"It's no accident that...\" belongs to It-clefts: highlighting via It was...that — used to isolate one specific element as the focus or cause, framed as 'It was/is ... that', not this context.\nSimilar chunks:\n- It was X that/who...\n- It's X that makes the difference.\n- It's precisely because... that...\n\n✗ \"The deadline was missed.\" belongs to Passive & agentless framing (diplomatic distance) — used to report a problem while removing the responsible person from the sentence, to soften criticism, not this context.\nSimilar chunks:\n- There seems to have been a misunderstanding.\n- Something got lost in translation.\n- It was decided that...\n\n✗ \"Not once did they mention...\" belongs to Fronting & inversion (formal emphasis) — used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion, not this context.\nSimilar chunks:\n- This much is clear: ...\n- Had we known earlier, we would have...\n- Rarely do we get a chance like this.\n\n✓ Correct — \"What's more\" is a Formal transition connectors: addition & comparison chunk: used in a formal register to add to, escalate, or draw a parallel with the previous point.\nExample: \"What's more, the new flow cut onboarding time in half.\"\nSimilar chunks:\n- In much the same way\n- More to the point\n- Better still"
+    },
+    {
+      "id": 34,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to add a formal transition that either builds on your last point or draws a parallel or contrast with it. Which chunk fits best?",
+      "options": {
+        "A": "What surprised me most was...",
+        "B": "To that end",
+        "C": "By the same token",
+        "D": "Two things. One: ... Two: ..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"What surprised me most was...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What I mean is...\n- What worries me is...\n- What we need to do is...\n\n✗ \"To that end\" belongs to Formal transition connectors: consequence & purpose — used in a formal register to connect a consequence or next step to what was just said, not this context.\nSimilar chunks:\n- Thereby\n- On that basis\n- With that in mind\n\n✓ Correct — \"By the same token\" is a Formal transition connectors: addition & comparison chunk: used in a formal register to add to, escalate, or draw a parallel with the previous point.\nExample: \"By the same token, we should hold marketing to the same deadline.\"\nSimilar chunks:\n- In much the same way\n- Equally\n- What's more\n\n✗ \"Two things. One: ... Two: ...\" belongs to Signposting what's coming / cueing the listener — used to prepare the listener for an explanation that takes a few steps, or has a twist, not this context.\nSimilar chunks:\n- Here's the catch.\n- Here's where it gets complicated.\n- Bear with me on this one."
+    },
+    {
+      "id": 35,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to add a formal transition that either builds on your last point or draws a parallel or contrast with it. Which chunk fits best?",
+      "options": {
+        "A": "Two things. One: ... Two: ...",
+        "B": "Better still",
+        "C": "The fact of the matter is...",
+        "D": "Having said that"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Two things. One: ... Two: ...\" belongs to Signposting what's coming / cueing the listener — used to prepare the listener for an explanation that takes a few steps, or has a twist, not this context.\nSimilar chunks:\n- Bear with me on this one.\n- Stay with me.\n- The long version is...\n\n✓ Correct — \"Better still\" is a Formal transition connectors: addition & comparison chunk: used in a formal register to add to, escalate, or draw a parallel with the previous point.\nExample: \"Better still, the fix also reduced our server costs.\"\nSimilar chunks:\n- Conversely\n- By the same token\n- Equally\n\n✗ \"The fact of the matter is...\" belongs to Personal viewpoint framing — used to preface a personal opinion so the listener knows it's a view, not a stated fact, not this context.\nSimilar chunks:\n- Between you and me...\n- From where I sit...\n- The truth is...\n\n✗ \"Having said that\" belongs to Formal transition connectors: concession & evaluation — used in a formal register to add a concessive or evaluative comment after making a point, not this context.\nSimilar chunks:\n- Then again\n- All things considered\n- On balance"
+    },
+    {
+      "id": 36,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to connect a formal conclusion or next step to what you just said. Which chunk fits best?",
+      "options": {
+        "A": "In light of that",
+        "B": "Never (before) have I seen...",
+        "C": "It's precisely because... that...",
+        "D": "The risk there is..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"In light of that\" is a Formal transition connectors: consequence & purpose chunk: used in a formal register to connect a consequence or next step to what was just said.\nExample: \"In light of that, we're revising our Q3 targets.\"\nSimilar chunks:\n- Hence\n- On that basis\n- With that in mind\n\n✗ \"Never (before) have I seen...\" belongs to Fronting & inversion (formal emphasis) — used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion, not this context.\nSimilar chunks:\n- So critical is this that...\n- Not once did they mention...\n- One thing is certain: ...\n\n✗ \"It's precisely because... that...\" belongs to It-clefts: highlighting via It was...that — used to isolate one specific element as the focus or cause, framed as 'It was/is ... that', not this context.\nSimilar chunks:\n- It's not until... that...\n- It's no coincidence that...\n- It's no accident that...\n\n✗ \"The risk there is...\" belongs to Getting to the core issue / offering a way forward — used to name the underlying issue or propose a concrete next step after a discussion, not this context.\nSimilar chunks:\n- It all hinges on...\n- My instinct would be to...\n- What I'd suggest is..."
+    },
+    {
+      "id": 37,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to connect a formal conclusion or next step to what you just said. Which chunk fits best?",
+      "options": {
+        "A": "All things considered",
+        "B": "What matters here is...",
+        "C": "To that end",
+        "D": "It was decided that..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"All things considered\" belongs to Formal transition connectors: concession & evaluation — used in a formal register to add a concessive or evaluative comment after making a point, not this context.\nSimilar chunks:\n- Having said that\n- That said\n- All the same\n\n✗ \"What matters here is...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What surprised me most was...\n- What I mean is...\n- What we need to do is...\n\n✓ Correct — \"To that end\" is a Formal transition connectors: consequence & purpose chunk: used in a formal register to connect a consequence or next step to what was just said.\nExample: \"To that end, we're hiring two more QA engineers this quarter.\"\nSimilar chunks:\n- Which brings me to...\n- Which is exactly why...\n- On that basis\n\n✗ \"It was decided that...\" belongs to Passive & agentless framing (diplomatic distance) — used to report a problem while removing the responsible person from the sentence, to soften criticism, not this context.\nSimilar chunks:\n- Something got lost in translation.\n- Mistakes were made.\n- The deadline was missed."
+    },
+    {
+      "id": 38,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to connect a formal conclusion or next step to what you just said. Which chunk fits best?",
+      "options": {
+        "A": "There's no point (in) -ing",
+        "B": "It makes sense to...",
+        "C": "The way I see it...",
+        "D": "With that in mind"
+      },
+      "correct": "D",
+      "explanation": "✗ \"There's no point (in) -ing\" belongs to End-weight & extraposition — used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There', not this context.\nSimilar chunks:\n- It's important to...\n- There's something to be said for...\n- It remains to be seen whether...\n\n✗ \"It makes sense to...\" belongs to End-weight & extraposition — used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There', not this context.\nSimilar chunks:\n- It remains to be seen whether...\n- It's important to...\n- It's worth -ing\n\n✗ \"The way I see it...\" belongs to Personal viewpoint framing — used to preface a personal opinion so the listener knows it's a view, not a stated fact, not this context.\nSimilar chunks:\n- From where I sit...\n- Between you and me...\n- The fact of the matter is...\n\n✓ Correct — \"With that in mind\" is a Formal transition connectors: consequence & purpose chunk: used in a formal register to connect a consequence or next step to what was just said.\nExample: \"With that in mind, let's build in an extra buffer week.\"\nSimilar chunks:\n- To that end\n- Which is exactly why...\n- In light of that"
+    },
+    {
+      "id": 39,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to connect a formal conclusion or next step to what you just said. Which chunk fits best?",
+      "options": {
+        "A": "What's more",
+        "B": "The risk there is...",
+        "C": "This much is clear: ...",
+        "D": "Hence"
+      },
+      "correct": "D",
+      "explanation": "✗ \"What's more\" belongs to Formal transition connectors: addition & comparison — used in a formal register to add to, escalate, or draw a parallel with the previous point, not this context.\nSimilar chunks:\n- By the same token\n- Better still\n- Conversely\n\n✗ \"The risk there is...\" belongs to Getting to the core issue / offering a way forward — used to name the underlying issue or propose a concrete next step after a discussion, not this context.\nSimilar chunks:\n- What I'd do is...\n- It all hinges on...\n- It boils down to...\n\n✗ \"This much is clear: ...\" belongs to Fronting & inversion (formal emphasis) — used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion, not this context.\nSimilar chunks:\n- One thing is certain: ...\n- Had we known earlier, we would have...\n- Not once did they mention...\n\n✓ Correct — \"Hence\" is a Formal transition connectors: consequence & purpose chunk: used in a formal register to connect a consequence or next step to what was just said.\nExample: \"Hence the decision to delay the launch by a week.\"\nSimilar chunks:\n- Which is exactly why...\n- In light of that\n- To that end"
+    },
+    {
+      "id": 40,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to preface your personal opinion clearly, so the listener knows this is your view, not a stated fact. Which chunk fits best?",
+      "options": {
+        "A": "Only after the review did we see the gap.",
+        "B": "Two things. One: ... Two: ...",
+        "C": "If you want my view...",
+        "D": "Thereby"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Only after the review did we see the gap.\" belongs to Fronting & inversion (formal emphasis) — used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion, not this context.\nSimilar chunks:\n- One thing is certain: ...\n- Such was the impact that...\n- Had we known earlier, we would have...\n\n✗ \"Two things. One: ... Two: ...\" belongs to Signposting what's coming / cueing the listener — used to prepare the listener for an explanation that takes a few steps, or has a twist, not this context.\nSimilar chunks:\n- Here's the catch.\n- Here's the tricky part.\n- The long version is...\n\n✓ Correct — \"If you want my view...\" is a Personal viewpoint framing chunk: used to preface a personal opinion so the listener knows it's a view, not a stated fact.\nExample: \"If you want my view, we should cut scope, not extend the deadline.\"\nSimilar chunks:\n- The fact of the matter is...\n- As far as I'm concerned...\n- If I'm being honest...\n\n✗ \"Thereby\" belongs to Formal transition connectors: consequence & purpose — used in a formal register to connect a consequence or next step to what was just said, not this context.\nSimilar chunks:\n- Which brings me to...\n- Hence\n- To that end"
+    },
+    {
+      "id": 41,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to preface your personal opinion clearly, so the listener knows this is your view, not a stated fact. Which chunk fits best?",
+      "options": {
+        "A": "Something got lost in translation.",
+        "B": "Only then did I realise...",
+        "C": "Not once did they mention...",
+        "D": "From where I sit..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Something got lost in translation.\" belongs to Passive & agentless framing (diplomatic distance) — used to report a problem while removing the responsible person from the sentence, to soften criticism, not this context.\nSimilar chunks:\n- It's been suggested that...\n- Concerns have been raised about...\n- It was decided that...\n\n✗ \"Only then did I realise...\" belongs to Fronting & inversion (formal emphasis) — used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion, not this context.\nSimilar chunks:\n- This much is clear: ...\n- Not once did they mention...\n- So critical is this that...\n\n✗ \"Not once did they mention...\" belongs to Fronting & inversion (formal emphasis) — used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion, not this context.\nSimilar chunks:\n- Never (before) have I seen...\n- Rarely do we get a chance like this.\n- Only after the review did we see the gap.\n\n✓ Correct — \"From where I sit...\" is a Personal viewpoint framing chunk: used to preface a personal opinion so the listener knows it's a view, not a stated fact.\nExample: \"From where I sit, the bigger risk is losing the client, not missing the date.\"\nSimilar chunks:\n- The truth is...\n- The fact of the matter is...\n- Between you and me..."
+    },
+    {
+      "id": 42,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to preface your personal opinion clearly, so the listener knows this is your view, not a stated fact. Which chunk fits best?",
+      "options": {
+        "A": "More to the point",
+        "B": "Which brings me to...",
+        "C": "What's changed is...",
+        "D": "If I'm being honest..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"More to the point\" belongs to Formal transition connectors: addition & comparison — used in a formal register to add to, escalate, or draw a parallel with the previous point, not this context.\nSimilar chunks:\n- By the same token\n- What's more\n- In much the same way\n\n✗ \"Which brings me to...\" belongs to Formal transition connectors: consequence & purpose — used in a formal register to connect a consequence or next step to what was just said, not this context.\nSimilar chunks:\n- Hence\n- Which is exactly why...\n- In light of that\n\n✗ \"What's changed is...\" belongs to Highlighting the key takeaway — used to flag the single most important fact after a longer explanation, not this context.\nSimilar chunks:\n- What's interesting is...\n- The one thing I'd flag is...\n- If there's one takeaway...\n\n✓ Correct — \"If I'm being honest...\" is a Personal viewpoint framing chunk: used to preface a personal opinion so the listener knows it's a view, not a stated fact.\nExample: \"If I'm being honest, I don't think we're ready to launch yet.\"\nSimilar chunks:\n- The way I see it...\n- If you want my view...\n- As far as I'm concerned..."
+    },
+    {
+      "id": 43,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to preface your personal opinion clearly, so the listener knows this is your view, not a stated fact. Which chunk fits best?",
+      "options": {
+        "A": "In light of that",
+        "B": "Here's where it gets complicated.",
+        "C": "It all hinges on...",
+        "D": "As far as I'm concerned..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"In light of that\" belongs to Formal transition connectors: consequence & purpose — used in a formal register to connect a consequence or next step to what was just said, not this context.\nSimilar chunks:\n- On that basis\n- With that in mind\n- Which is exactly why...\n\n✗ \"Here's where it gets complicated.\" belongs to Signposting what's coming / cueing the listener — used to prepare the listener for an explanation that takes a few steps, or has a twist, not this context.\nSimilar chunks:\n- Stay with me.\n- Here's the tricky part.\n- There's a but coming.\n\n✗ \"It all hinges on...\" belongs to Getting to the core issue / offering a way forward — used to name the underlying issue or propose a concrete next step after a discussion, not this context.\nSimilar chunks:\n- The catch is...\n- The problem with that is...\n- What I'd do is...\n\n✓ Correct — \"As far as I'm concerned...\" is a Personal viewpoint framing chunk: used to preface a personal opinion so the listener knows it's a view, not a stated fact.\nExample: \"As far as I'm concerned, the pilot already proved the concept.\"\nSimilar chunks:\n- If you want my view...\n- The fact of the matter is...\n- The way I see it..."
+    },
+    {
+      "id": 44,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to name the real underlying issue, or propose a concrete next step, after a longer discussion. Which chunk fits best?",
+      "options": {
+        "A": "What I'd do is...",
+        "B": "There's no point (in) -ing",
+        "C": "What I mean is...",
+        "D": "On balance"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What I'd do is...\" is a Getting to the core issue / offering a way forward chunk: used to name the underlying issue or propose a concrete next step after a discussion.\nExample: \"What I'd do is split the release into two smaller phases.\"\nSimilar chunks:\n- It all hinges on...\n- It boils down to...\n- It comes down to...\n\n✗ \"There's no point (in) -ing\" belongs to End-weight & extraposition — used to move a long, heavy subject to the end of the sentence, opening instead with a light 'It' or 'There', not this context.\nSimilar chunks:\n- There's something to be said for...\n- It goes without saying that...\n- It makes sense to...\n\n✗ \"What I mean is...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What struck me was...\n- What surprised me most was...\n- What we need to do is...\n\n✗ \"On balance\" belongs to Formal transition connectors: concession & evaluation — used in a formal register to add a concessive or evaluative comment after making a point, not this context.\nSimilar chunks:\n- Then again\n- Having said that\n- Taking everything into account"
+    },
+    {
+      "id": 45,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to name the real underlying issue, or propose a concrete next step, after a longer discussion. Which chunk fits best?",
+      "options": {
+        "A": "It was X that/who...",
+        "B": "In light of that",
+        "C": "What it comes down to is...",
+        "D": "It boils down to..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"It was X that/who...\" belongs to It-clefts: highlighting via It was...that — used to isolate one specific element as the focus or cause, framed as 'It was/is ... that', not this context.\nSimilar chunks:\n- It's not until... that...\n- It's X that makes the difference.\n- It's no accident that...\n\n✗ \"In light of that\" belongs to Formal transition connectors: consequence & purpose — used in a formal register to connect a consequence or next step to what was just said, not this context.\nSimilar chunks:\n- Thereby\n- With that in mind\n- To that end\n\n✗ \"What it comes down to is...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What worries me is...\n- What we need to do is...\n- What surprised me most was...\n\n✓ Correct — \"It boils down to...\" is a Getting to the core issue / offering a way forward chunk: used to name the underlying issue or propose a concrete next step after a discussion.\nExample: \"It boils down to trust — the two teams just don't trust each other's estimates.\"\nSimilar chunks:\n- The catch is...\n- The problem with that is...\n- The risk there is..."
+    },
+    {
+      "id": 46,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to name the real underlying issue, or propose a concrete next step, after a longer discussion. Which chunk fits best?",
+      "options": {
+        "A": "What it comes down to is...",
+        "B": "To that end",
+        "C": "Which brings me to...",
+        "D": "The risk there is..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"What it comes down to is...\" belongs to Wh-clefts: highlighting via What — used to push the key new information to the end of the sentence by opening with a What-clause, not this context.\nSimilar chunks:\n- What worries me is...\n- What we need to do is...\n- What I mean is...\n\n✗ \"To that end\" belongs to Formal transition connectors: consequence & purpose — used in a formal register to connect a consequence or next step to what was just said, not this context.\nSimilar chunks:\n- Which brings me to...\n- Which is exactly why...\n- In light of that\n\n✗ \"Which brings me to...\" belongs to Formal transition connectors: consequence & purpose — used in a formal register to connect a consequence or next step to what was just said, not this context.\nSimilar chunks:\n- Which is exactly why...\n- To that end\n- On that basis\n\n✓ Correct — \"The risk there is...\" is a Getting to the core issue / offering a way forward chunk: used to name the underlying issue or propose a concrete next step after a discussion.\nExample: \"The risk there is we lose the client if we push the date again.\"\nSimilar chunks:\n- The problem with that is...\n- It all hinges on...\n- It boils down to..."
+    },
+    {
+      "id": 47,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to name the real underlying issue, or propose a concrete next step, after a longer discussion. Which chunk fits best?",
+      "options": {
+        "A": "In much the same way",
+        "B": "If you want my view...",
+        "C": "The catch is...",
+        "D": "It's precisely because... that..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"In much the same way\" belongs to Formal transition connectors: addition & comparison — used in a formal register to add to, escalate, or draw a parallel with the previous point, not this context.\nSimilar chunks:\n- More to the point\n- Conversely\n- Worse still\n\n✗ \"If you want my view...\" belongs to Personal viewpoint framing — used to preface a personal opinion so the listener knows it's a view, not a stated fact, not this context.\nSimilar chunks:\n- The way I see it...\n- From where I sit...\n- The fact of the matter is...\n\n✓ Correct — \"The catch is...\" is a Getting to the core issue / offering a way forward chunk: used to name the underlying issue or propose a concrete next step after a discussion.\nExample: \"The catch is the discount only applies to new customers.\"\nSimilar chunks:\n- It boils down to...\n- It comes down to...\n- My instinct would be to...\n\n✗ \"It's precisely because... that...\" belongs to It-clefts: highlighting via It was...that — used to isolate one specific element as the focus or cause, framed as 'It was/is ... that', not this context.\nSimilar chunks:\n- It was X that/who...\n- It's X that makes the difference.\n- It's worth noting that..."
+    },
+    {
+      "id": 48,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to flag a possible gap in your own understanding, or make sure your point can't be misread. Which chunk fits best?",
+      "options": {
+        "A": "Just so we're clear...",
+        "B": "Stay with me.",
+        "C": "The point is...",
+        "D": "It was X that/who..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Just so we're clear...\" is a Flagging uncertainty & precision chunk: used to flag a possible gap in understanding, or to make a point impossible to misread.\nExample: \"Just so we're clear, this change only affects the EU region.\"\nSimilar chunks:\n- To be absolutely clear...\n- Let me be blunt...\n- Correct me if I'm wrong, but...\n\n✗ \"Stay with me.\" belongs to Signposting what's coming / cueing the listener — used to prepare the listener for an explanation that takes a few steps, or has a twist, not this context.\nSimilar chunks:\n- The honest version is...\n- Here's where it gets complicated.\n- Here's the catch.\n\n✗ \"The point is...\" belongs to Clefts: highlighting via The + noun — used to spotlight one key idea with a noun-headed 'The ... is' frame before elaborating on it, not this context.\nSimilar chunks:\n- All I'm saying is...\n- The only thing I'd add is...\n- One thing to flag is...\n\n✗ \"It was X that/who...\" belongs to It-clefts: highlighting via It was...that — used to isolate one specific element as the focus or cause, framed as 'It was/is ... that', not this context.\nSimilar chunks:\n- It's no accident that...\n- It's precisely because... that...\n- It's X that makes the difference."
+    },
+    {
+      "id": 49,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to flag a possible gap in your own understanding, or make sure your point can't be misread. Which chunk fits best?",
+      "options": {
+        "A": "What I'd suggest is...",
+        "B": "This much is clear: ...",
+        "C": "Concerns have been raised about...",
+        "D": "Unless I'm missing something..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"What I'd suggest is...\" belongs to Getting to the core issue / offering a way forward — used to name the underlying issue or propose a concrete next step after a discussion, not this context.\nSimilar chunks:\n- It comes down to...\n- The problem with that is...\n- The catch is...\n\n✗ \"This much is clear: ...\" belongs to Fronting & inversion (formal emphasis) — used for formal, emphatic fronting where a negative or limiting element moves to the front and triggers subject-verb inversion, not this context.\nSimilar chunks:\n- Had we known earlier, we would have...\n- Rarely do we get a chance like this.\n- Not once did they mention...\n\n✗ \"Concerns have been raised about...\" belongs to Passive & agentless framing (diplomatic distance) — used to report a problem while removing the responsible person from the sentence, to soften criticism, not this context.\nSimilar chunks:\n- Mistakes were made.\n- It was decided that...\n- It's been suggested that...\n\n✓ Correct — \"Unless I'm missing something...\" is a Flagging uncertainty & precision chunk: used to flag a possible gap in understanding, or to make a point impossible to misread.\nExample: \"Unless I'm missing something, this contradicts what we agreed last week.\"\nSimilar chunks:\n- Let me be blunt...\n- Correct me if I'm wrong, but...\n- Just so we're clear..."
+    }
+  ]
+}

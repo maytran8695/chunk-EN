@@ -1,0 +1,398 @@
+{
+  "examId": "tone-choice",
+  "title": "Chunk Atlas — Voice & Presence: Tone Choice",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're stating something as settled and certain, not open for debate. Which chunk fits best?",
+      "options": {
+        "A": "Tuesday?",
+        "B": "That's decided.",
+        "C": "That's the decision.↘",
+        "D": "Who's leading?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Tuesday?\" belongs to Rising tone: confirming (extra) — used with a rising tone to repeat something back and confirm you heard it right, not this context.\nSimilar chunks:\n- You mean now?\n\n✗ \"That's decided.\" belongs to Falling tone: statements (extra) — used with a falling tone for a flat, certain statement — practice example, not this context.\nSimilar chunks:\n- We're doing it.\n- No.\n\n✓ Correct — \"That's the decision.↘\" is a Falling tone: statements chunk: used with a falling tone to state something as settled and certain.\nExample: \"Should we revisit this next week?\" — \"That's the decision.↘ We're moving on.\"\nSimilar chunks:\n- We're going with option A.↘\n\n✗ \"Who's leading?\" belongs to Falling tone: Wh- questions (extra) — used with a falling tone for a quick Wh- question — practice example, not this context.\nSimilar chunks:\n- What time?\n- Why now?"
+    },
+    {
+      "id": 2,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're stating something as settled and certain, not open for debate. Which chunk fits best?",
+      "options": {
+        "A": "So I finished the report?↗",
+        "B": "Tuesday?↗",
+        "C": "We're going with option A.↘",
+        "D": "It's possible...↘↗"
+      },
+      "correct": "C",
+      "explanation": "✗ \"So I finished the report?↗\" belongs to Uptalk (statements rising) — used to illustrate uptalk — rising pitch on a statement, which can sound like the speaker is seeking approval, not this context.\n\n✗ \"Tuesday?↗\" belongs to Rising tone: lists & confirming — used with a rising tone to list unfinished items, or to repeat a word back for confirmation, not this context.\nSimilar chunks:\n- We need budget↗, people↗, and time↘.\n\n✓ Correct — \"We're going with option A.↘\" is a Falling tone: statements chunk: used with a falling tone to state something as settled and certain.\nExample: \"So which vendor did we pick?\" — \"We're going with option A.↘\"\nSimilar chunks:\n- That's the decision.↘\n\n✗ \"It's possible...↘↗\" belongs to Fall-rise: reservation — used with a fall-rise tone to signal polite reservation: agreement with something left unsaid, not this context.\nSimilar chunks:\n- I like it...↘↗\n- I could do that...↘↗\n- Well...↘↗"
+    },
+    {
+      "id": 3,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're asking a straightforward Wh- question and want to sound neutral and native, not tentative. Which chunk fits best?",
+      "options": {
+        "A": "What time is it?↘",
+        "B": "No.",
+        "C": "That's one way of looking at it.↘↗",
+        "D": "We're doing it."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What time is it?↘\" is a Falling tone: Wh- questions chunk: used to show that Wh- questions normally fall in pitch, unlike Yes/No questions.\nExample: \"What time is it?↘\" she asked, pitch falling naturally at the end, not rising like a Yes/No question.\"\n\n✗ \"No.\" belongs to Falling tone: statements (extra) — used with a falling tone for a flat, certain statement — practice example, not this context.\nSimilar chunks:\n- We're doing it.\n- That's decided.\n\n✗ \"That's one way of looking at it.↘↗\" belongs to Fall-rise: hinting more — used with a fall-rise tone to partly agree while hinting there's more (a better option, or a catch), not this context.\nSimilar chunks:\n- He's good...↘↗\n\n✗ \"We're doing it.\" belongs to Falling tone: statements (extra) — used with a falling tone for a flat, certain statement — practice example, not this context.\nSimilar chunks:\n- That's decided.\n- No."
+    },
+    {
+      "id": 4,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're asking a straightforward Wh- question and want to sound neutral and native, not tentative. Which chunk fits best?",
+      "options": {
+        "A": "What time is it?↘",
+        "B": "It's possible...↘↗",
+        "C": "Who's leading?",
+        "D": "Coffee?↗"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What time is it?↘\" is a Falling tone: Wh- questions chunk: used to show that Wh- questions normally fall in pitch, unlike Yes/No questions.\nExample: \"What time is it?↘\" she asked, pitch falling naturally at the end, not rising like a Yes/No question.\"\n\n✗ \"It's possible...↘↗\" belongs to Fall-rise: reservation — used with a fall-rise tone to signal polite reservation: agreement with something left unsaid, not this context.\nSimilar chunks:\n- Well...↘↗\n- I like it...↘↗\n- I could do that...↘↗\n\n✗ \"Who's leading?\" belongs to Falling tone: Wh- questions (extra) — used with a falling tone for a quick Wh- question — practice example, not this context.\nSimilar chunks:\n- Why now?\n- What time?\n\n✗ \"Coffee?↗\" belongs to Rising tone: Yes/No questions — used with a rising tone for Yes/No questions and casual invitations, not this context.\nSimilar chunks:\n- Are you coming?↗\n- Does that make sense?↗"
+    },
+    {
+      "id": 5,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're giving a direct, matter-of-fact instruction. Which chunk fits best?",
+      "options": {
+        "A": "Why now?",
+        "B": "Does that make sense?↗",
+        "C": "We're going with option A.↘",
+        "D": "Send it today.↘"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Why now?\" belongs to Falling tone: Wh- questions (extra) — used with a falling tone for a quick Wh- question — practice example, not this context.\nSimilar chunks:\n- Who's leading?\n- What time?\n\n✗ \"Does that make sense?↗\" belongs to Rising tone: Yes/No questions — used with a rising tone for Yes/No questions and casual invitations, not this context.\nSimilar chunks:\n- Are you coming?↗\n- Coffee?↗\n\n✗ \"We're going with option A.↘\" belongs to Falling tone: statements — used with a falling tone to state something as settled and certain, not this context.\nSimilar chunks:\n- That's the decision.↘\n\n✓ Correct — \"Send it today.↘\" is a Falling tone: instructions chunk: used with a falling tone to give a direct, matter-of-fact instruction.\nExample: \"Send it today.↘ Don't wait for sign-off.\"\nSimilar chunks:\n- Close the door.↘"
+    },
+    {
+      "id": 6,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're giving a direct, matter-of-fact instruction. Which chunk fits best?",
+      "options": {
+        "A": "What time is it?↘",
+        "B": "Tuesday?↗",
+        "C": "We're going with option A.↘",
+        "D": "Close the door.↘"
+      },
+      "correct": "D",
+      "explanation": "✗ \"What time is it?↘\" belongs to Falling tone: Wh- questions — used to show that Wh- questions normally fall in pitch, unlike Yes/No questions, not this context.\n\n✗ \"Tuesday?↗\" belongs to Rising tone: lists & confirming — used with a rising tone to list unfinished items, or to repeat a word back for confirmation, not this context.\nSimilar chunks:\n- We need budget↗, people↗, and time↘.\n\n✗ \"We're going with option A.↘\" belongs to Falling tone: statements — used with a falling tone to state something as settled and certain, not this context.\nSimilar chunks:\n- That's the decision.↘\n\n✓ Correct — \"Close the door.↘\" is a Falling tone: instructions chunk: used with a falling tone to give a direct, matter-of-fact instruction.\nExample: \"Close the door.↘ It's freezing in here.\"\nSimilar chunks:\n- Send it today.↘"
+    },
+    {
+      "id": 7,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're asking a Yes/No question or making a casual invitation, and want to sound genuinely open, not certain. Which chunk fits best?",
+      "options": {
+        "A": "That's decided.",
+        "B": "Why now?",
+        "C": "Coffee?↗",
+        "D": "Well...↘↗"
+      },
+      "correct": "C",
+      "explanation": "✗ \"That's decided.\" belongs to Falling tone: statements (extra) — used with a falling tone for a flat, certain statement — practice example, not this context.\nSimilar chunks:\n- No.\n- We're doing it.\n\n✗ \"Why now?\" belongs to Falling tone: Wh- questions (extra) — used with a falling tone for a quick Wh- question — practice example, not this context.\nSimilar chunks:\n- What time?\n- Who's leading?\n\n✓ Correct — \"Coffee?↗\" is a Rising tone: Yes/No questions chunk: used with a rising tone for Yes/No questions and casual invitations.\nExample: \"Coffee?↗\" she offered, rising to make it a genuine invitation.\"\nSimilar chunks:\n- Are you coming?↗\n- Does that make sense?↗\n\n✗ \"Well...↘↗\" belongs to Fall-rise: reservation — used with a fall-rise tone to signal polite reservation: agreement with something left unsaid, not this context.\nSimilar chunks:\n- I like it...↘↗\n- I could do that...↘↗\n- It's possible...↘↗"
+    },
+    {
+      "id": 8,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're asking a Yes/No question or making a casual invitation, and want to sound genuinely open, not certain. Which chunk fits best?",
+      "options": {
+        "A": "Tuesday?",
+        "B": "That's decided.",
+        "C": "Who's leading?",
+        "D": "Does that make sense?↗"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Tuesday?\" belongs to Rising tone: confirming (extra) — used with a rising tone to repeat something back and confirm you heard it right, not this context.\nSimilar chunks:\n- You mean now?\n\n✗ \"That's decided.\" belongs to Falling tone: statements (extra) — used with a falling tone for a flat, certain statement — practice example, not this context.\nSimilar chunks:\n- We're doing it.\n- No.\n\n✗ \"Who's leading?\" belongs to Falling tone: Wh- questions (extra) — used with a falling tone for a quick Wh- question — practice example, not this context.\nSimilar chunks:\n- What time?\n- Why now?\n\n✓ Correct — \"Does that make sense?↗\" is a Rising tone: Yes/No questions chunk: used with a rising tone for Yes/No questions and casual invitations.\nExample: \"Does that make sense?↗\" he checked, before moving to the next slide.\"\nSimilar chunks:\n- Are you coming?↗\n- Coffee?↗"
+    },
+    {
+      "id": 9,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're listing several items, or repeating a single word back to confirm you heard it right. Which chunk fits best?",
+      "options": {
+        "A": "That's one way of looking at it.↘↗",
+        "B": "What time is it?↘",
+        "C": "Coffee?↗",
+        "D": "We need budget↗, people↗, and time↘."
+      },
+      "correct": "D",
+      "explanation": "✗ \"That's one way of looking at it.↘↗\" belongs to Fall-rise: hinting more — used with a fall-rise tone to partly agree while hinting there's more (a better option, or a catch), not this context.\nSimilar chunks:\n- He's good...↘↗\n\n✗ \"What time is it?↘\" belongs to Falling tone: Wh- questions — used to show that Wh- questions normally fall in pitch, unlike Yes/No questions, not this context.\n\n✗ \"Coffee?↗\" belongs to Rising tone: Yes/No questions — used with a rising tone for Yes/No questions and casual invitations, not this context.\nSimilar chunks:\n- Does that make sense?↗\n- Are you coming?↗\n\n✓ Correct — \"We need budget↗, people↗, and time↘.\" is a Rising tone: lists & confirming chunk: used with a rising tone to list unfinished items, or to repeat a word back for confirmation.\nExample: \"We need budget↗, people↗, and time↘.\" — the first two items rise to show more is coming, the last falls to close the list.\"\nSimilar chunks:\n- Tuesday?↗"
+    },
+    {
+      "id": 10,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're listing several items, or repeating a single word back to confirm you heard it right. Which chunk fits best?",
+      "options": {
+        "A": "That's the decision.↘",
+        "B": "You mean now?",
+        "C": "Oh really↗↘.",
+        "D": "Tuesday?↗"
+      },
+      "correct": "D",
+      "explanation": "✗ \"That's the decision.↘\" belongs to Falling tone: statements — used with a falling tone to state something as settled and certain, not this context.\nSimilar chunks:\n- We're going with option A.↘\n\n✗ \"You mean now?\" belongs to Rising tone: confirming (extra) — used with a rising tone to repeat something back and confirm you heard it right, not this context.\nSimilar chunks:\n- Tuesday?\n\n✗ \"Oh really↗↘.\" belongs to Rise-fall tone: reactions — used with a rise-fall tone for a reaction that can be impressed or sarcastic depending on context, not this context.\n\n✓ Correct — \"Tuesday?↗\" is a Rising tone: lists & confirming chunk: used with a rising tone to list unfinished items, or to repeat a word back for confirmation.\nExample: \"So we're meeting Tuesday?↗\" she repeated, rising to check she'd heard right.\"\nSimilar chunks:\n- We need budget↗, people↗, and time↘."
+    },
+    {
+      "id": 11,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to react to news with a tone that can land as genuinely impressed or as sarcastic, depending on your face and the situation. Which chunk fits best?",
+      "options": {
+        "A": "Oh really↗↘.",
+        "B": "Close the door.↘",
+        "C": "We're doing it.",
+        "D": "Does that work?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Oh really↗↘.\" is a Rise-fall tone: reactions chunk: used with a rise-fall tone for a reaction that can be impressed or sarcastic depending on context.\nExample: \"We closed the deal.\" — \"Oh really↗↘.\" (said with raised eyebrows, genuinely impressed).\"\n\n✗ \"Close the door.↘\" belongs to Falling tone: instructions — used with a falling tone to give a direct, matter-of-fact instruction, not this context.\nSimilar chunks:\n- Send it today.↘\n\n✗ \"We're doing it.\" belongs to Falling tone: statements (extra) — used with a falling tone for a flat, certain statement — practice example, not this context.\nSimilar chunks:\n- No.\n- That's decided.\n\n✗ \"Does that work?\" belongs to Rising tone: Yes/No (extra) — used with a rising tone for a Yes/No question or casual invitation — practice example, not this context.\nSimilar chunks:\n- Are we ready?\n- Coffee?"
+    },
+    {
+      "id": 12,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to react to news with a tone that can land as genuinely impressed or as sarcastic, depending on your face and the situation. Which chunk fits best?",
+      "options": {
+        "A": "Close the door.↘",
+        "B": "Why now?",
+        "C": "We're doing it.",
+        "D": "Oh really↗↘."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Close the door.↘\" belongs to Falling tone: instructions — used with a falling tone to give a direct, matter-of-fact instruction, not this context.\nSimilar chunks:\n- Send it today.↘\n\n✗ \"Why now?\" belongs to Falling tone: Wh- questions (extra) — used with a falling tone for a quick Wh- question — practice example, not this context.\nSimilar chunks:\n- Who's leading?\n- What time?\n\n✗ \"We're doing it.\" belongs to Falling tone: statements (extra) — used with a falling tone for a flat, certain statement — practice example, not this context.\nSimilar chunks:\n- That's decided.\n- No.\n\n✓ Correct — \"Oh really↗↘.\" is a Rise-fall tone: reactions chunk: used with a rise-fall tone for a reaction that can be impressed or sarcastic depending on context.\nExample: \"We closed the deal.\" — \"Oh really↗↘.\" (said with raised eyebrows, genuinely impressed).\""
+    },
+    {
+      "id": 13,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to recognize the habit of letting a plain statement rise at the end, as if asking permission — and know it can undercut your credibility in formal meetings. Which chunk fits best?",
+      "options": {
+        "A": "We're going with option A.↘",
+        "B": "We need budget↗, people↗, and time↘.",
+        "C": "So I finished the report?↗",
+        "D": "That's one way of looking at it.↘↗"
+      },
+      "correct": "C",
+      "explanation": "✗ \"We're going with option A.↘\" belongs to Falling tone: statements — used with a falling tone to state something as settled and certain, not this context.\nSimilar chunks:\n- That's the decision.↘\n\n✗ \"We need budget↗, people↗, and time↘.\" belongs to Rising tone: lists & confirming — used with a rising tone to list unfinished items, or to repeat a word back for confirmation, not this context.\nSimilar chunks:\n- Tuesday?↗\n\n✓ Correct — \"So I finished the report?↗\" is an Uptalk (statements rising) chunk: used to illustrate uptalk — rising pitch on a statement, which can sound like the speaker is seeking approval.\nExample: \"So I finished the report?↗\" said in a client meeting, made the update sound like a request for permission rather than a fact.\"\n\n✗ \"That's one way of looking at it.↘↗\" belongs to Fall-rise: hinting more — used with a fall-rise tone to partly agree while hinting there's more (a better option, or a catch), not this context.\nSimilar chunks:\n- He's good...↘↗"
+    },
+    {
+      "id": 14,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to recognize the habit of letting a plain statement rise at the end, as if asking permission — and know it can undercut your credibility in formal meetings. Which chunk fits best?",
+      "options": {
+        "A": "So I finished the report?↗",
+        "B": "Close the door.↘",
+        "C": "budget↗, people↗, and time↘",
+        "D": "Who's leading?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"So I finished the report?↗\" is an Uptalk (statements rising) chunk: used to illustrate uptalk — rising pitch on a statement, which can sound like the speaker is seeking approval.\nExample: \"So I finished the report?↗\" said in a client meeting, made the update sound like a request for permission rather than a fact.\"\n\n✗ \"Close the door.↘\" belongs to Falling tone: instructions — used with a falling tone to give a direct, matter-of-fact instruction, not this context.\nSimilar chunks:\n- Send it today.↘\n\n✗ \"budget↗, people↗, and time↘\" belongs to Rising list, falling close — used to keep items in a list rising until the final item, which falls to signal the list is complete, not this context.\n\n✗ \"Who's leading?\" belongs to Falling tone: Wh- questions (extra) — used with a falling tone for a quick Wh- question — practice example, not this context.\nSimilar chunks:\n- What time?\n- Why now?"
+    },
+    {
+      "id": 15,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want more practice recognizing a falling tone used for flat, certain statements. Which chunk fits best?",
+      "options": {
+        "A": "Why now?",
+        "B": "It's possible...↘↗",
+        "C": "No.",
+        "D": "I could do that...↘↗"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Why now?\" belongs to Falling tone: Wh- questions (extra) — used with a falling tone for a quick Wh- question — practice example, not this context.\nSimilar chunks:\n- What time?\n- Who's leading?\n\n✗ \"It's possible...↘↗\" belongs to Fall-rise: reservation — used with a fall-rise tone to signal polite reservation: agreement with something left unsaid, not this context.\nSimilar chunks:\n- Well...↘↗\n- I like it...↘↗\n- I could do that...↘↗\n\n✓ Correct — \"No.\" is a Falling tone: statements (extra) chunk: used with a falling tone for a flat, certain statement — practice example.\nExample: \"Can we push the deadline again?\" — \"No.↘\" — flat, final, no room for negotiation.\"\nSimilar chunks:\n- That's decided.\n- We're doing it.\n\n✗ \"I could do that...↘↗\" belongs to Fall-rise: reservation — used with a fall-rise tone to signal polite reservation: agreement with something left unsaid, not this context.\nSimilar chunks:\n- Well...↘↗\n- I like it...↘↗\n- It's possible...↘↗"
+    },
+    {
+      "id": 16,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want more practice recognizing a falling tone used for flat, certain statements. Which chunk fits best?",
+      "options": {
+        "A": "Close the door.↘",
+        "B": "We need budget↗, people↗, and time↘.",
+        "C": "Does that work?",
+        "D": "We're doing it."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Close the door.↘\" belongs to Falling tone: instructions — used with a falling tone to give a direct, matter-of-fact instruction, not this context.\nSimilar chunks:\n- Send it today.↘\n\n✗ \"We need budget↗, people↗, and time↘.\" belongs to Rising tone: lists & confirming — used with a rising tone to list unfinished items, or to repeat a word back for confirmation, not this context.\nSimilar chunks:\n- Tuesday?↗\n\n✗ \"Does that work?\" belongs to Rising tone: Yes/No (extra) — used with a rising tone for a Yes/No question or casual invitation — practice example, not this context.\nSimilar chunks:\n- Are we ready?\n- Coffee?\n\n✓ Correct — \"We're doing it.\" is a Falling tone: statements (extra) chunk: used with a falling tone for a flat, certain statement — practice example.\nExample: \"Are we really launching Friday?\" — \"We're doing it.↘ No more delays.\"\nSimilar chunks:\n- No.\n- That's decided."
+    },
+    {
+      "id": 17,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're asking a quick Wh- question and want the pitch to fall, as native speakers do by default. Which chunk fits best?",
+      "options": {
+        "A": "Who's leading?",
+        "B": "Are you coming?↗",
+        "C": "So I finished the report?↗",
+        "D": "Coffee?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Who's leading?\" is a Falling tone: Wh- questions (extra) chunk: used with a falling tone for a quick Wh- question — practice example.\nExample: \"We need someone on point for this.\" — \"Who's leading?↘\"\nSimilar chunks:\n- What time?\n- Why now?\n\n✗ \"Are you coming?↗\" belongs to Rising tone: Yes/No questions — used with a rising tone for Yes/No questions and casual invitations, not this context.\nSimilar chunks:\n- Coffee?↗\n- Does that make sense?↗\n\n✗ \"So I finished the report?↗\" belongs to Uptalk (statements rising) — used to illustrate uptalk — rising pitch on a statement, which can sound like the speaker is seeking approval, not this context.\n\n✗ \"Coffee?\" belongs to Rising tone: Yes/No (extra) — used with a rising tone for a Yes/No question or casual invitation — practice example, not this context.\nSimilar chunks:\n- Are we ready?\n- Does that work?"
+    },
+    {
+      "id": 18,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're asking a quick Wh- question and want the pitch to fall, as native speakers do by default. Which chunk fits best?",
+      "options": {
+        "A": "Why now?",
+        "B": "So I finished the report?↗",
+        "C": "You mean now?",
+        "D": "That's the decision.↘"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Why now?\" is a Falling tone: Wh- questions (extra) chunk: used with a falling tone for a quick Wh- question — practice example.\nExample: \"They want the report by Friday.\" — \"Why now?↘ We just sent one last week.\"\nSimilar chunks:\n- What time?\n- Who's leading?\n\n✗ \"So I finished the report?↗\" belongs to Uptalk (statements rising) — used to illustrate uptalk — rising pitch on a statement, which can sound like the speaker is seeking approval, not this context.\n\n✗ \"You mean now?\" belongs to Rising tone: confirming (extra) — used with a rising tone to repeat something back and confirm you heard it right, not this context.\nSimilar chunks:\n- Tuesday?\n\n✗ \"That's the decision.↘\" belongs to Falling tone: statements — used with a falling tone to state something as settled and certain, not this context.\nSimilar chunks:\n- We're going with option A.↘"
+    },
+    {
+      "id": 19,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're asking a quick Yes/No question or casual invitation and want the pitch to rise. Which chunk fits best?",
+      "options": {
+        "A": "Are we ready?",
+        "B": "Are you coming?↗",
+        "C": "Why now?",
+        "D": "No."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Are we ready?\" is a Rising tone: Yes/No (extra) chunk: used with a rising tone for a Yes/No question or casual invitation — practice example.\nExample: \"Are we ready?↗\" he asked before opening the call to the client.\"\nSimilar chunks:\n- Coffee?\n- Does that work?\n\n✗ \"Are you coming?↗\" belongs to Rising tone: Yes/No questions — used with a rising tone for Yes/No questions and casual invitations, not this context.\nSimilar chunks:\n- Does that make sense?↗\n- Coffee?↗\n\n✗ \"Why now?\" belongs to Falling tone: Wh- questions (extra) — used with a falling tone for a quick Wh- question — practice example, not this context.\nSimilar chunks:\n- Who's leading?\n- What time?\n\n✗ \"No.\" belongs to Falling tone: statements (extra) — used with a falling tone for a flat, certain statement — practice example, not this context.\nSimilar chunks:\n- We're doing it.\n- That's decided."
+    },
+    {
+      "id": 20,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're asking a quick Yes/No question or casual invitation and want the pitch to rise. Which chunk fits best?",
+      "options": {
+        "A": "Tuesday?↗",
+        "B": "Who's leading?",
+        "C": "So I finished the report?↗",
+        "D": "Coffee?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Tuesday?↗\" belongs to Rising tone: lists & confirming — used with a rising tone to list unfinished items, or to repeat a word back for confirmation, not this context.\nSimilar chunks:\n- We need budget↗, people↗, and time↘.\n\n✗ \"Who's leading?\" belongs to Falling tone: Wh- questions (extra) — used with a falling tone for a quick Wh- question — practice example, not this context.\nSimilar chunks:\n- Why now?\n- What time?\n\n✗ \"So I finished the report?↗\" belongs to Uptalk (statements rising) — used to illustrate uptalk — rising pitch on a statement, which can sound like the speaker is seeking approval, not this context.\n\n✓ Correct — \"Coffee?\" is a Rising tone: Yes/No (extra) chunk: used with a rising tone for a Yes/No question or casual invitation — practice example.\nExample: \"Coffee?↗\" he asked, holding up the pot before the meeting started.\"\nSimilar chunks:\n- Does that work?\n- Are we ready?"
+    },
+    {
+      "id": 21,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're repeating back a word or short phrase just to confirm you heard it correctly. Which chunk fits best?",
+      "options": {
+        "A": "We're doing it.",
+        "B": "Tuesday?",
+        "C": "Oh really↗↘.",
+        "D": "I could do that...↘↗"
+      },
+      "correct": "B",
+      "explanation": "✗ \"We're doing it.\" belongs to Falling tone: statements (extra) — used with a falling tone for a flat, certain statement — practice example, not this context.\nSimilar chunks:\n- No.\n- That's decided.\n\n✓ Correct — \"Tuesday?\" is a Rising tone: confirming (extra) chunk: used with a rising tone to repeat something back and confirm you heard it right.\nExample: \"Let's confirm for Tuesday?↗\" she said, rising to double-check the date.\"\nSimilar chunks:\n- You mean now?\n\n✗ \"Oh really↗↘.\" belongs to Rise-fall tone: reactions — used with a rise-fall tone for a reaction that can be impressed or sarcastic depending on context, not this context.\n\n✗ \"I could do that...↘↗\" belongs to Fall-rise: reservation — used with a fall-rise tone to signal polite reservation: agreement with something left unsaid, not this context.\nSimilar chunks:\n- It's possible...↘↗\n- I like it...↘↗\n- Well...↘↗"
+    },
+    {
+      "id": 22,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're repeating back a word or short phrase just to confirm you heard it correctly. Which chunk fits best?",
+      "options": {
+        "A": "You mean now?",
+        "B": "That's one way of looking at it.↘↗",
+        "C": "Send it today.↘",
+        "D": "Who's leading?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"You mean now?\" is a Rising tone: confirming (extra) chunk: used with a rising tone to repeat something back and confirm you heard it right.\nExample: \"We need this today.\" — \"You mean now?↗\" — rising in surprise, seeking confirmation.\"\nSimilar chunks:\n- Tuesday?\n\n✗ \"That's one way of looking at it.↘↗\" belongs to Fall-rise: hinting more — used with a fall-rise tone to partly agree while hinting there's more (a better option, or a catch), not this context.\nSimilar chunks:\n- He's good...↘↗\n\n✗ \"Send it today.↘\" belongs to Falling tone: instructions — used with a falling tone to give a direct, matter-of-fact instruction, not this context.\nSimilar chunks:\n- Close the door.↘\n\n✗ \"Who's leading?\" belongs to Falling tone: Wh- questions (extra) — used with a falling tone for a quick Wh- question — practice example, not this context.\nSimilar chunks:\n- What time?\n- Why now?"
+    },
+    {
+      "id": 23,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to signal polite reservation — partial agreement with something left unsaid — without stating your objection outright. Which chunk fits best?",
+      "options": {
+        "A": "We're doing it.",
+        "B": "Does that work?",
+        "C": "We're going with option A.↘",
+        "D": "I could do that...↘↗"
+      },
+      "correct": "D",
+      "explanation": "✗ \"We're doing it.\" belongs to Falling tone: statements (extra) — used with a falling tone for a flat, certain statement — practice example, not this context.\nSimilar chunks:\n- No.\n- That's decided.\n\n✗ \"Does that work?\" belongs to Rising tone: Yes/No (extra) — used with a rising tone for a Yes/No question or casual invitation — practice example, not this context.\nSimilar chunks:\n- Coffee?\n- Are we ready?\n\n✗ \"We're going with option A.↘\" belongs to Falling tone: statements — used with a falling tone to state something as settled and certain, not this context.\nSimilar chunks:\n- That's the decision.↘\n\n✓ Correct — \"I could do that...↘↗\" is a Fall-rise: reservation chunk: used with a fall-rise tone to signal polite reservation: agreement with something left unsaid.\nExample: \"Could you take this on too?\" — \"I could do that...↘↗\" (meaning: reluctantly, or with conditions).\"\nSimilar chunks:\n- I like it...↘↗\n- It's possible...↘↗\n- Well...↘↗"
+    },
+    {
+      "id": 24,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to signal polite reservation — partial agreement with something left unsaid — without stating your objection outright. Which chunk fits best?",
+      "options": {
+        "A": "It's possible...↘↗",
+        "B": "budget↗, people↗, and time↘",
+        "C": "We need budget↗, people↗, and time↘.",
+        "D": "We're going with option A.↘"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"It's possible...↘↗\" is a Fall-rise: reservation chunk: used with a fall-rise tone to signal polite reservation: agreement with something left unsaid.\nExample: \"Can we hit Friday?\" — \"It's possible...↘↗\" (meaning: but unlikely).\"\nSimilar chunks:\n- I like it...↘↗\n- I could do that...↘↗\n- Well...↘↗\n\n✗ \"budget↗, people↗, and time↘\" belongs to Rising list, falling close — used to keep items in a list rising until the final item, which falls to signal the list is complete, not this context.\n\n✗ \"We need budget↗, people↗, and time↘.\" belongs to Rising tone: lists & confirming — used with a rising tone to list unfinished items, or to repeat a word back for confirmation, not this context.\nSimilar chunks:\n- Tuesday?↗\n\n✗ \"We're going with option A.↘\" belongs to Falling tone: statements — used with a falling tone to state something as settled and certain, not this context.\nSimilar chunks:\n- That's the decision.↘"
+    },
+    {
+      "id": 25,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're partly agreeing, but signaling with a fall-rise tone that there's more to say — maybe a better option or a catch. Which chunk fits best?",
+      "options": {
+        "A": "Well...↘↗",
+        "B": "Who's leading?",
+        "C": "Are we ready?",
+        "D": "He's good...↘↗"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Well...↘↗\" belongs to Fall-rise: reservation — used with a fall-rise tone to signal polite reservation: agreement with something left unsaid, not this context.\nSimilar chunks:\n- It's possible...↘↗\n- I like it...↘↗\n- I could do that...↘↗\n\n✗ \"Who's leading?\" belongs to Falling tone: Wh- questions (extra) — used with a falling tone for a quick Wh- question — practice example, not this context.\nSimilar chunks:\n- What time?\n- Why now?\n\n✗ \"Are we ready?\" belongs to Rising tone: Yes/No (extra) — used with a rising tone for a Yes/No question or casual invitation — practice example, not this context.\nSimilar chunks:\n- Coffee?\n- Does that work?\n\n✓ Correct — \"He's good...↘↗\" is a Fall-rise: hinting more chunk: used with a fall-rise tone to partly agree while hinting there's more (a better option, or a catch).\nExample: \"Should we put him on the client account?\" — \"He's good...↘↗\" — hinting at an unspoken concern.\"\nSimilar chunks:\n- That's one way of looking at it.↘↗"
+    },
+    {
+      "id": 26,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're partly agreeing, but signaling with a fall-rise tone that there's more to say — maybe a better option or a catch. Which chunk fits best?",
+      "options": {
+        "A": "We're doing it.",
+        "B": "That's one way of looking at it.↘↗",
+        "C": "Tuesday?",
+        "D": "Why now?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"We're doing it.\" belongs to Falling tone: statements (extra) — used with a falling tone for a flat, certain statement — practice example, not this context.\nSimilar chunks:\n- That's decided.\n- No.\n\n✓ Correct — \"That's one way of looking at it.↘↗\" is a Fall-rise: hinting more chunk: used with a fall-rise tone to partly agree while hinting there's more (a better option, or a catch).\nExample: \"So it's settled, right?\" — \"That's one way of looking at it.↘↗\" (meaning: I see a better option).\"\nSimilar chunks:\n- He's good...↘↗\n\n✗ \"Tuesday?\" belongs to Rising tone: confirming (extra) — used with a rising tone to repeat something back and confirm you heard it right, not this context.\nSimilar chunks:\n- You mean now?\n\n✗ \"Why now?\" belongs to Falling tone: Wh- questions (extra) — used with a falling tone for a quick Wh- question — practice example, not this context.\nSimilar chunks:\n- What time?\n- Who's leading?"
+    },
+    {
+      "id": 27,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're listing several items and want to signal you're not finished until the last one, which falls. Which chunk fits best?",
+      "options": {
+        "A": "budget↗, people↗, and time↘",
+        "B": "So I finished the report?↗",
+        "C": "Oh really↗↘.",
+        "D": "It's possible...↘↗"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"budget↗, people↗, and time↘\" is a Rising list, falling close chunk: used to keep items in a list rising until the final item, which falls to signal the list is complete.\nExample: \"What do we need to hit this deadline?\" — \"We need budget↗, people↗, and time↘.\" — rising through the list, falling only on the last item.\"\n\n✗ \"So I finished the report?↗\" belongs to Uptalk (statements rising) — used to illustrate uptalk — rising pitch on a statement, which can sound like the speaker is seeking approval, not this context.\n\n✗ \"Oh really↗↘.\" belongs to Rise-fall tone: reactions — used with a rise-fall tone for a reaction that can be impressed or sarcastic depending on context, not this context.\n\n✗ \"It's possible...↘↗\" belongs to Fall-rise: reservation — used with a fall-rise tone to signal polite reservation: agreement with something left unsaid, not this context.\nSimilar chunks:\n- I like it...↘↗\n- Well...↘↗\n- I could do that...↘↗"
+    },
+    {
+      "id": 28,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're listing several items and want to signal you're not finished until the last one, which falls. Which chunk fits best?",
+      "options": {
+        "A": "You mean now?",
+        "B": "What time?",
+        "C": "budget↗, people↗, and time↘",
+        "D": "That's decided."
+      },
+      "correct": "C",
+      "explanation": "✗ \"You mean now?\" belongs to Rising tone: confirming (extra) — used with a rising tone to repeat something back and confirm you heard it right, not this context.\nSimilar chunks:\n- Tuesday?\n\n✗ \"What time?\" belongs to Falling tone: Wh- questions (extra) — used with a falling tone for a quick Wh- question — practice example, not this context.\nSimilar chunks:\n- Who's leading?\n- Why now?\n\n✓ Correct — \"budget↗, people↗, and time↘\" is a Rising list, falling close chunk: used to keep items in a list rising until the final item, which falls to signal the list is complete.\nExample: \"What do we need to hit this deadline?\" — \"We need budget↗, people↗, and time↘.\" — rising through the list, falling only on the last item.\"\n\n✗ \"That's decided.\" belongs to Falling tone: statements (extra) — used with a falling tone for a flat, certain statement — practice example, not this context.\nSimilar chunks:\n- We're doing it.\n- No."
+    }
+  ]
+}

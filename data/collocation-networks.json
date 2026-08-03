@@ -1,0 +1,636 @@
+{
+  "examId": "collocation-networks",
+  "title": "Chunk Atlas — Language Systems: Collocation Networks",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe finalizing a firm choice after weighing the options, using the right \"empty\" verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "take ownership",
+        "B": "make an exception",
+        "C": "meet a deadline",
+        "D": "highly unlikely"
+      },
+      "correct": "B",
+      "explanation": "✗ \"take ownership\" belongs to Delexical verb: take — used with \"take\" + a noun for actions like responsibility, risk, leadership, or initiative, not this context.\nSimilar chunks:\n- take the lead\n- take the initiative\n- take responsibility\n\n✓ Correct — \"make an exception\" is a Delexical verb: make chunk: used with \"make\" + an abstract noun for actions like decisions, effort, progress, or exceptions.\nExample: \"We don't normally extend deadlines, but we'll make an exception this time.\"\nSimilar chunks:\n- make progress\n- make a decision\n- make sense\n\n✗ \"meet a deadline\" belongs to Verb + noun: plans, progress & risk — used for actions related to timelines, milestones, and managing risk on a project, not this context.\nSimilar chunks:\n- hit a milestone\n- close a gap\n- escalate an issue\n\n✗ \"highly unlikely\" belongs to Intensifying adverb + adjective/verb — used to intensify a specific adjective or verb naturally, instead of the generic \"very\", not this context.\nSimilar chunks:\n- bitterly disappointed\n- categorically deny\n- deeply concerned"
+    },
+    {
+      "id": 2,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe finalizing a firm choice after weighing the options, using the right \"empty\" verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "a compelling argument",
+        "B": "a recurring problem",
+        "C": "a fresh perspective",
+        "D": "make sense"
+      },
+      "correct": "D",
+      "explanation": "✗ \"a compelling argument\" belongs to Adjective + noun: opinions & arguments — used to describe the strength or quality of an argument, opinion, or statement in a discussion, not this context.\nSimilar chunks:\n- a sweeping statement\n- a heated debate\n- a nuanced view\n\n✗ \"a recurring problem\" belongs to Adjective + noun: problems & risk — used to describe the seriousness or urgency of a problem, gap, or risk, not this context.\nSimilar chunks:\n- a glaring omission\n- a fundamental flaw\n- a looming deadline\n\n✗ \"a fresh perspective\" belongs to Adjective + noun: opportunities & progress — used to describe the value of an opportunity or the shape of progress being made, not this context.\nSimilar chunks:\n- a steep learning curve\n- a daunting task\n- a marked improvement\n\n✓ Correct — \"make sense\" is a Delexical verb: make chunk: used with \"make\" + an abstract noun for actions like decisions, effort, progress, or exceptions.\nExample: \"None of this makes sense until you see the full dataset.\"\nSimilar chunks:\n- make a point\n- make progress\n- make a mistake"
+    },
+    {
+      "id": 3,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe finalizing a firm choice after weighing the options, using the right \"empty\" verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "a daunting task",
+        "B": "make an effort",
+        "C": "insight into",
+        "D": "get up to speed"
+      },
+      "correct": "B",
+      "explanation": "✗ \"a daunting task\" belongs to Adjective + noun: opportunities & progress — used to describe the value of an opportunity or the shape of progress being made, not this context.\nSimilar chunks:\n- a steep learning curve\n- a viable option\n- a fresh perspective\n\n✓ Correct — \"make an effort\" is a Delexical verb: make chunk: used with \"make\" + an abstract noun for actions like decisions, effort, progress, or exceptions.\nExample: \"She made a real effort to get everyone aligned before the launch.\"\nSimilar chunks:\n- make a point\n- make progress\n- make a mistake\n\n✗ \"insight into\" belongs to Fixed noun/verb + preposition — used because certain nouns and verbs pair with one fixed preposition in standard usage, not others, not this context.\nSimilar chunks:\n- result in\n- account for\n- a solution to\n\n✗ \"get up to speed\" belongs to Delexical verb: get — used with \"get\" + a noun for reaching approval, catching up, or a milestone, not this context.\nSimilar chunks:\n- get buy-in\n- get rid of\n- get the green light"
+    },
+    {
+      "id": 4,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say your team investigated the competitor thoroughly before the pitch, using the right \"empty\" verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "broadly speaking",
+        "B": "do the paperwork",
+        "C": "insight into",
+        "D": "mitigate risk"
+      },
+      "correct": "B",
+      "explanation": "✗ \"broadly speaking\" belongs to Softening adverb + adjective (downtoners) — used to soften the degree of an adjective, stating something as partial or approximate rather than absolute, not this context.\nSimilar chunks:\n- somewhat concerned\n- marginally better\n- reasonably certain\n\n✓ Correct — \"do the paperwork\" is a Delexical verb: do chunk: used with \"do\" + a noun for tasks, chores, and routine work like research or paperwork.\nExample: \"I still need to do the paperwork before the contract is official.\"\nSimilar chunks:\n- do your best\n- do research\n- do due diligence\n\n✗ \"insight into\" belongs to Fixed noun/verb + preposition — used because certain nouns and verbs pair with one fixed preposition in standard usage, not others, not this context.\nSimilar chunks:\n- comply with\n- an impact on\n- account for\n\n✗ \"mitigate risk\" belongs to Verb + noun: plans, progress & risk — used for actions related to timelines, milestones, and managing risk on a project, not this context.\nSimilar chunks:\n- meet a deadline\n- fall behind schedule\n- escalate an issue"
+    },
+    {
+      "id": 5,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say your team investigated the competitor thoroughly before the pitch, using the right \"empty\" verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "defer a decision",
+        "B": "meet a deadline",
+        "C": "close a gap",
+        "D": "do your best"
+      },
+      "correct": "D",
+      "explanation": "✗ \"defer a decision\" belongs to Verb + noun: meetings & decisions — used for actions taken during meetings and decision-making, like proposing, raising, or weighing something, not this context.\nSimilar chunks:\n- weigh the options\n- raise an issue\n- put forward an idea\n\n✗ \"meet a deadline\" belongs to Verb + noun: plans, progress & risk — used for actions related to timelines, milestones, and managing risk on a project, not this context.\nSimilar chunks:\n- escalate an issue\n- mitigate risk\n- hit a milestone\n\n✗ \"close a gap\" belongs to Verb + noun: plans, progress & risk — used for actions related to timelines, milestones, and managing risk on a project, not this context.\nSimilar chunks:\n- fall behind schedule\n- escalate an issue\n- mitigate risk\n\n✓ Correct — \"do your best\" is a Delexical verb: do chunk: used with \"do\" + a noun for tasks, chores, and routine work like research or paperwork.\nExample: \"Just do your best — nobody's expecting perfection on the first draft.\"\nSimilar chunks:\n- do someone a favour\n- do research\n- do the paperwork"
+    },
+    {
+      "id": 6,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say your team investigated the competitor thoroughly before the pitch, using the right \"empty\" verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "do due diligence",
+        "B": "broadly speaking",
+        "C": "a sweeping statement",
+        "D": "put forward an idea"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"do due diligence\" is a Delexical verb: do chunk: used with \"do\" + a noun for tasks, chores, and routine work like research or paperwork.\nExample: \"The investors did due diligence on the company before signing.\"\nSimilar chunks:\n- do a review\n- do your best\n- do research\n\n✗ \"broadly speaking\" belongs to Softening adverb + adjective (downtoners) — used to soften the degree of an adjective, stating something as partial or approximate rather than absolute, not this context.\nSimilar chunks:\n- fairly confident\n- somewhat concerned\n- reasonably certain\n\n✗ \"a sweeping statement\" belongs to Adjective + noun: opinions & arguments — used to describe the strength or quality of an argument, opinion, or statement in a discussion, not this context.\nSimilar chunks:\n- a nuanced view\n- a compelling argument\n- a valid point\n\n✗ \"put forward an idea\" belongs to Verb + noun: meetings & decisions — used for actions taken during meetings and decision-making, like proposing, raising, or weighing something, not this context.\nSimilar chunks:\n- defer a decision\n- raise an issue\n- reach a consensus"
+    },
+    {
+      "id": 7,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say you personally accept the blame for a missed deadline, using the right \"empty\" verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "cost a fortune",
+        "B": "secure buy-in",
+        "C": "an impact on",
+        "D": "take advantage of"
+      },
+      "correct": "D",
+      "explanation": "✗ \"cost a fortune\" belongs to Everyday collocations (life outside work) — used in everyday, non-work situations — time, money, health, food, and daily routines, not this context.\nSimilar chunks:\n- tight budget\n- kill time\n- grab a bite\n\n✗ \"secure buy-in\" belongs to Verb + noun: strategy & relationships — used for actions related to strategy, growth, and managing stakeholder relationships, not this context.\nSimilar chunks:\n- manage expectations\n- bridge the gap\n- strike a balance\n\n✗ \"an impact on\" belongs to Fixed noun/verb + preposition — used because certain nouns and verbs pair with one fixed preposition in standard usage, not others, not this context.\nSimilar chunks:\n- a solution to\n- result in\n- depend on\n\n✓ Correct — \"take advantage of\" is a Delexical verb: take chunk: used with \"take\" + a noun for actions like responsibility, risk, leadership, or initiative.\nExample: \"Let's take advantage of the slow week to clear the backlog.\"\nSimilar chunks:\n- take a risk\n- take responsibility\n- take ownership"
+    },
+    {
+      "id": 8,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say you personally accept the blame for a missed deadline, using the right \"empty\" verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "fall behind schedule",
+        "B": "a compelling argument",
+        "C": "make an exception",
+        "D": "take the initiative"
+      },
+      "correct": "D",
+      "explanation": "✗ \"fall behind schedule\" belongs to Verb + noun: plans, progress & risk — used for actions related to timelines, milestones, and managing risk on a project, not this context.\nSimilar chunks:\n- hit a milestone\n- meet a deadline\n- mitigate risk\n\n✗ \"a compelling argument\" belongs to Adjective + noun: opinions & arguments — used to describe the strength or quality of an argument, opinion, or statement in a discussion, not this context.\nSimilar chunks:\n- a heated debate\n- a nuanced view\n- a valid point\n\n✗ \"make an exception\" belongs to Delexical verb: make — used with \"make\" + an abstract noun for actions like decisions, effort, progress, or exceptions, not this context.\nSimilar chunks:\n- make a point\n- make a decision\n- make an effort\n\n✓ Correct — \"take the initiative\" is a Delexical verb: take chunk: used with \"take\" + a noun for actions like responsibility, risk, leadership, or initiative.\nExample: \"Nobody assigned it to her, but she took the initiative and fixed it.\"\nSimilar chunks:\n- take a risk\n- take advantage of\n- take the lead"
+    },
+    {
+      "id": 9,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say you personally accept the blame for a missed deadline, using the right \"empty\" verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "take the lead",
+        "B": "monitor closely",
+        "C": "have an impact",
+        "D": "do due diligence"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"take the lead\" is a Delexical verb: take chunk: used with \"take\" + a noun for actions like responsibility, risk, leadership, or initiative.\nExample: \"Maria is going to take the lead on the client migration.\"\nSimilar chunks:\n- take a risk\n- take responsibility\n- take the initiative\n\n✗ \"monitor closely\" belongs to Verb + adverb & fixed prepositional phrases — used as fixed collocations for manner (verb + adverb) or formal status (prepositional phrase), not built freely word by word, not this context.\nSimilar chunks:\n- under review\n- in principle\n- proceed cautiously\n\n✗ \"have an impact\" belongs to Delexical verb: have — used with \"have\" + a noun for impact, opinions, doubts, or quick actions, not this context.\nSimilar chunks:\n- have a word (with)\n- have reservations\n- have second thoughts\n\n✗ \"do due diligence\" belongs to Delexical verb: do — used with \"do\" + a noun for tasks, chores, and routine work like research or paperwork, not this context.\nSimilar chunks:\n- do your best\n- do research\n- do someone a favour"
+    },
+    {
+      "id": 10,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a pricing change noticeably affected customer behavior, using the right \"empty\" verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "weigh the options",
+        "B": "result in",
+        "C": "reasonably certain",
+        "D": "have a say"
+      },
+      "correct": "D",
+      "explanation": "✗ \"weigh the options\" belongs to Verb + noun: meetings & decisions — used for actions taken during meetings and decision-making, like proposing, raising, or weighing something, not this context.\nSimilar chunks:\n- put forward an idea\n- defer a decision\n- raise an issue\n\n✗ \"result in\" belongs to Fixed noun/verb + preposition — used because certain nouns and verbs pair with one fixed preposition in standard usage, not others, not this context.\nSimilar chunks:\n- depend on\n- account for\n- an impact on\n\n✗ \"reasonably certain\" belongs to Softening adverb + adjective (downtoners) — used to soften the degree of an adjective, stating something as partial or approximate rather than absolute, not this context.\nSimilar chunks:\n- broadly speaking\n- marginally better\n- fairly confident\n\n✓ Correct — \"have a say\" is a Delexical verb: have chunk: used with \"have\" + a noun for impact, opinions, doubts, or quick actions.\nExample: \"Everyone on the team should have a say in the naming decision.\"\nSimilar chunks:\n- have second thoughts\n- have an impact\n- have a word (with)"
+    },
+    {
+      "id": 11,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a pricing change noticeably affected customer behavior, using the right \"empty\" verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "make a point",
+        "B": "depend on",
+        "C": "flatly refuse",
+        "D": "have a word (with)"
+      },
+      "correct": "D",
+      "explanation": "✗ \"make a point\" belongs to Delexical verb: make — used with \"make\" + an abstract noun for actions like decisions, effort, progress, or exceptions, not this context.\nSimilar chunks:\n- make sense\n- make an effort\n- make an exception\n\n✗ \"depend on\" belongs to Fixed noun/verb + preposition — used because certain nouns and verbs pair with one fixed preposition in standard usage, not others, not this context.\nSimilar chunks:\n- comply with\n- insight into\n- result in\n\n✗ \"flatly refuse\" belongs to Intensifying adverb + adjective/verb — used to intensify a specific adjective or verb naturally, instead of the generic \"very\", not this context.\nSimilar chunks:\n- strongly recommend\n- highly unlikely\n- deeply concerned\n\n✓ Correct — \"have a word (with)\" is a Delexical verb: have chunk: used with \"have\" + a noun for impact, opinions, doubts, or quick actions.\nExample: \"I need to have a word with Dan about the missed handoff.\"\nSimilar chunks:\n- have an impact\n- have a say\n- have a look"
+    },
+    {
+      "id": 12,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a pricing change noticeably affected customer behavior, using the right \"empty\" verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "on balance",
+        "B": "make an exception",
+        "C": "secure buy-in",
+        "D": "have second thoughts"
+      },
+      "correct": "D",
+      "explanation": "✗ \"on balance\" belongs to Verb + adverb & fixed prepositional phrases — used as fixed collocations for manner (verb + adverb) or formal status (prepositional phrase), not built freely word by word, not this context.\nSimilar chunks:\n- proceed cautiously\n- in principle\n- monitor closely\n\n✗ \"make an exception\" belongs to Delexical verb: make — used with \"make\" + an abstract noun for actions like decisions, effort, progress, or exceptions, not this context.\nSimilar chunks:\n- make progress\n- make a mistake\n- make a point\n\n✗ \"secure buy-in\" belongs to Verb + noun: strategy & relationships — used for actions related to strategy, growth, and managing stakeholder relationships, not this context.\nSimilar chunks:\n- manage expectations\n- build rapport\n- strike a balance\n\n✓ Correct — \"have second thoughts\" is a Delexical verb: have chunk: used with \"have\" + a noun for impact, opinions, doubts, or quick actions.\nExample: \"I'm having second thoughts about launching before the audit's done.\"\nSimilar chunks:\n- have a look\n- have reservations\n- have a word (with)"
+    },
+    {
+      "id": 13,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say the project finally received formal leadership approval, using the right \"empty\" verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "get sign-off",
+        "B": "have an impact",
+        "C": "broadly speaking",
+        "D": "an impact on"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"get sign-off\" is a Delexical verb: get chunk: used with \"get\" + a noun for reaching approval, catching up, or a milestone.\nExample: \"We can't start until we get sign-off from legal.\"\nSimilar chunks:\n- get rid of\n- get up to speed\n- get the hang of\n\n✗ \"have an impact\" belongs to Delexical verb: have — used with \"have\" + a noun for impact, opinions, doubts, or quick actions, not this context.\nSimilar chunks:\n- have second thoughts\n- have reservations\n- have a word (with)\n\n✗ \"broadly speaking\" belongs to Softening adverb + adjective (downtoners) — used to soften the degree of an adjective, stating something as partial or approximate rather than absolute, not this context.\nSimilar chunks:\n- somewhat concerned\n- marginally better\n- reasonably certain\n\n✗ \"an impact on\" belongs to Fixed noun/verb + preposition — used because certain nouns and verbs pair with one fixed preposition in standard usage, not others, not this context.\nSimilar chunks:\n- account for\n- depend on\n- result in"
+    },
+    {
+      "id": 14,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say the project finally received formal leadership approval, using the right \"empty\" verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "get buy-in",
+        "B": "put forward an idea",
+        "C": "escalate an issue",
+        "D": "grab a bite"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"get buy-in\" is a Delexical verb: get chunk: used with \"get\" + a noun for reaching approval, catching up, or a milestone.\nExample: \"We need to get buy-in from finance before we scope this.\"\nSimilar chunks:\n- get up to speed\n- get rid of\n- get the green light\n\n✗ \"put forward an idea\" belongs to Verb + noun: meetings & decisions — used for actions taken during meetings and decision-making, like proposing, raising, or weighing something, not this context.\nSimilar chunks:\n- raise an issue\n- defer a decision\n- table a proposal\n\n✗ \"escalate an issue\" belongs to Verb + noun: plans, progress & risk — used for actions related to timelines, milestones, and managing risk on a project, not this context.\nSimilar chunks:\n- meet a deadline\n- hit a milestone\n- close a gap\n\n✗ \"grab a bite\" belongs to Everyday collocations (life outside work) — used in everyday, non-work situations — time, money, health, food, and daily routines, not this context.\nSimilar chunks:\n- catch a cold\n- run out of time\n- kill time"
+    },
+    {
+      "id": 15,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say the project finally received formal leadership approval, using the right \"empty\" verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "get up to speed",
+        "B": "cost a fortune",
+        "C": "have a look",
+        "D": "make an exception"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"get up to speed\" is a Delexical verb: get chunk: used with \"get\" + a noun for reaching approval, catching up, or a milestone.\nExample: \"I'll spend Monday getting up to speed on the account.\"\nSimilar chunks:\n- get the green light\n- get the hang of\n- get buy-in\n\n✗ \"cost a fortune\" belongs to Everyday collocations (life outside work) — used in everyday, non-work situations — time, money, health, food, and daily routines, not this context.\nSimilar chunks:\n- run out of time\n- catch a cold\n- feel under the weather\n\n✗ \"have a look\" belongs to Delexical verb: have — used with \"have\" + a noun for impact, opinions, doubts, or quick actions, not this context.\nSimilar chunks:\n- have a word (with)\n- have reservations\n- have second thoughts\n\n✗ \"make an exception\" belongs to Delexical verb: make — used with \"make\" + an abstract noun for actions like decisions, effort, progress, or exceptions, not this context.\nSimilar chunks:\n- make a decision\n- make progress\n- make a point"
+    },
+    {
+      "id": 16,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a discussion that got emotionally intense, using the adjective natives actually pair with \"debate\". Which chunk fits best?",
+      "options": {
+        "A": "a valid point",
+        "B": "depend on",
+        "C": "make a decision",
+        "D": "get buy-in"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"a valid point\" is an Adjective + noun: opinions & arguments chunk: used to describe the strength or quality of an argument, opinion, or statement in a discussion.\nExample: \"Actually, that's a valid point — we haven't tested the edge cases.\"\nSimilar chunks:\n- a compelling argument\n- a nuanced view\n- a heated debate\n\n✗ \"depend on\" belongs to Fixed noun/verb + preposition — used because certain nouns and verbs pair with one fixed preposition in standard usage, not others, not this context.\nSimilar chunks:\n- comply with\n- account for\n- a solution to\n\n✗ \"make a decision\" belongs to Delexical verb: make — used with \"make\" + an abstract noun for actions like decisions, effort, progress, or exceptions, not this context.\nSimilar chunks:\n- make progress\n- make sense\n- make a point\n\n✗ \"get buy-in\" belongs to Delexical verb: get — used with \"get\" + a noun for reaching approval, catching up, or a milestone, not this context.\nSimilar chunks:\n- get rid of\n- get up to speed\n- get the hang of"
+    },
+    {
+      "id": 17,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a discussion that got emotionally intense, using the adjective natives actually pair with \"debate\". Which chunk fits best?",
+      "options": {
+        "A": "account for",
+        "B": "secure buy-in",
+        "C": "manage expectations",
+        "D": "a sweeping statement"
+      },
+      "correct": "D",
+      "explanation": "✗ \"account for\" belongs to Fixed noun/verb + preposition — used because certain nouns and verbs pair with one fixed preposition in standard usage, not others, not this context.\nSimilar chunks:\n- result in\n- depend on\n- comply with\n\n✗ \"secure buy-in\" belongs to Verb + noun: strategy & relationships — used for actions related to strategy, growth, and managing stakeholder relationships, not this context.\nSimilar chunks:\n- strike a balance\n- manage expectations\n- gain traction\n\n✗ \"manage expectations\" belongs to Verb + noun: strategy & relationships — used for actions related to strategy, growth, and managing stakeholder relationships, not this context.\nSimilar chunks:\n- gain traction\n- build rapport\n- strike a balance\n\n✓ Correct — \"a sweeping statement\" is an Adjective + noun: opinions & arguments chunk: used to describe the strength or quality of an argument, opinion, or statement in a discussion.\nExample: \"Nobody reads the docs\" is a bit of a sweeping statement.\"\nSimilar chunks:\n- a valid point\n- a nuanced view\n- a compelling argument"
+    },
+    {
+      "id": 18,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe an issue that needs attention right now, more urgent than most, using the right adjective + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "a pressing issue",
+        "B": "comply with",
+        "C": "get the hang of",
+        "D": "raise an issue"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"a pressing issue\" is an Adjective + noun: problems & risk chunk: used to describe the seriousness or urgency of a problem, gap, or risk.\nExample: \"Staff turnover is a pressing issue we can't keep ignoring.\"\nSimilar chunks:\n- a looming deadline\n- a fundamental flaw\n- a glaring omission\n\n✗ \"comply with\" belongs to Fixed noun/verb + preposition — used because certain nouns and verbs pair with one fixed preposition in standard usage, not others, not this context.\nSimilar chunks:\n- a solution to\n- account for\n- insight into\n\n✗ \"get the hang of\" belongs to Delexical verb: get — used with \"get\" + a noun for reaching approval, catching up, or a milestone, not this context.\nSimilar chunks:\n- get rid of\n- get up to speed\n- get buy-in\n\n✗ \"raise an issue\" belongs to Verb + noun: meetings & decisions — used for actions taken during meetings and decision-making, like proposing, raising, or weighing something, not this context.\nSimilar chunks:\n- put forward an idea\n- table a proposal\n- defer a decision"
+    },
+    {
+      "id": 19,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe an issue that needs attention right now, more urgent than most, using the right adjective + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "make an effort",
+        "B": "a recurring problem",
+        "C": "deeply concerned",
+        "D": "take a risk"
+      },
+      "correct": "B",
+      "explanation": "✗ \"make an effort\" belongs to Delexical verb: make — used with \"make\" + an abstract noun for actions like decisions, effort, progress, or exceptions, not this context.\nSimilar chunks:\n- make a point\n- make a mistake\n- make progress\n\n✓ Correct — \"a recurring problem\" is an Adjective + noun: problems & risk chunk: used to describe the seriousness or urgency of a problem, gap, or risk.\nExample: \"Late invoices have become a recurring problem with this client.\"\nSimilar chunks:\n- a looming deadline\n- a pressing issue\n- a glaring omission\n\n✗ \"deeply concerned\" belongs to Intensifying adverb + adjective/verb — used to intensify a specific adjective or verb naturally, instead of the generic \"very\", not this context.\nSimilar chunks:\n- flatly refuse\n- bitterly disappointed\n- highly unlikely\n\n✗ \"take a risk\" belongs to Delexical verb: take — used with \"take\" + a noun for actions like responsibility, risk, leadership, or initiative, not this context.\nSimilar chunks:\n- take the initiative\n- take the lead\n- take ownership"
+    },
+    {
+      "id": 20,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a rare chance that's too good to pass up, using the right adjective + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "a steep learning curve",
+        "B": "make progress",
+        "C": "a valid point",
+        "D": "feel under the weather"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"a steep learning curve\" is an Adjective + noun: opportunities & progress chunk: used to describe the value of an opportunity or the shape of progress being made.\nExample: \"The new CRM has a steep learning curve for the sales team.\"\nSimilar chunks:\n- a golden opportunity\n- a marked improvement\n- a viable option\n\n✗ \"make progress\" belongs to Delexical verb: make — used with \"make\" + an abstract noun for actions like decisions, effort, progress, or exceptions, not this context.\nSimilar chunks:\n- make an effort\n- make a decision\n- make a mistake\n\n✗ \"a valid point\" belongs to Adjective + noun: opinions & arguments — used to describe the strength or quality of an argument, opinion, or statement in a discussion, not this context.\nSimilar chunks:\n- a compelling argument\n- a nuanced view\n- a sweeping statement\n\n✗ \"feel under the weather\" belongs to Everyday collocations (life outside work) — used in everyday, non-work situations — time, money, health, food, and daily routines, not this context.\nSimilar chunks:\n- kill time\n- run out of time\n- catch a cold"
+    },
+    {
+      "id": 21,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a rare chance that's too good to pass up, using the right adjective + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "a golden opportunity",
+        "B": "a compelling argument",
+        "C": "a nuanced view",
+        "D": "make a decision"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"a golden opportunity\" is an Adjective + noun: opportunities & progress chunk: used to describe the value of an opportunity or the shape of progress being made.\nExample: \"This partnership is a golden opportunity to enter the EU market.\"\nSimilar chunks:\n- a viable option\n- a steep learning curve\n- a daunting task\n\n✗ \"a compelling argument\" belongs to Adjective + noun: opinions & arguments — used to describe the strength or quality of an argument, opinion, or statement in a discussion, not this context.\nSimilar chunks:\n- a heated debate\n- a valid point\n- a sweeping statement\n\n✗ \"a nuanced view\" belongs to Adjective + noun: opinions & arguments — used to describe the strength or quality of an argument, opinion, or statement in a discussion, not this context.\nSimilar chunks:\n- a sweeping statement\n- a compelling argument\n- a heated debate\n\n✗ \"make a decision\" belongs to Delexical verb: make — used with \"make\" + an abstract noun for actions like decisions, effort, progress, or exceptions, not this context.\nSimilar chunks:\n- make an exception\n- make an effort\n- make a point"
+    },
+    {
+      "id": 22,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a rare chance that's too good to pass up, using the right adjective + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "a marked improvement",
+        "B": "have second thoughts",
+        "C": "manage expectations",
+        "D": "depend on"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"a marked improvement\" is an Adjective + noun: opportunities & progress chunk: used to describe the value of an opportunity or the shape of progress being made.\nExample: \"Response times show a marked improvement since the update.\"\nSimilar chunks:\n- a daunting task\n- a golden opportunity\n- a viable option\n\n✗ \"have second thoughts\" belongs to Delexical verb: have — used with \"have\" + a noun for impact, opinions, doubts, or quick actions, not this context.\nSimilar chunks:\n- have a look\n- have reservations\n- have a word (with)\n\n✗ \"manage expectations\" belongs to Verb + noun: strategy & relationships — used for actions related to strategy, growth, and managing stakeholder relationships, not this context.\nSimilar chunks:\n- secure buy-in\n- build rapport\n- strike a balance\n\n✗ \"depend on\" belongs to Fixed noun/verb + preposition — used because certain nouns and verbs pair with one fixed preposition in standard usage, not others, not this context.\nSimilar chunks:\n- a solution to\n- insight into\n- result in"
+    },
+    {
+      "id": 23,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to intensify how concerned you are about a delay, without just relying on \"very\". Which chunk fits best?",
+      "options": {
+        "A": "get buy-in",
+        "B": "highly unlikely",
+        "C": "a viable option",
+        "D": "a looming deadline"
+      },
+      "correct": "B",
+      "explanation": "✗ \"get buy-in\" belongs to Delexical verb: get — used with \"get\" + a noun for reaching approval, catching up, or a milestone, not this context.\nSimilar chunks:\n- get the green light\n- get up to speed\n- get the hang of\n\n✓ Correct — \"highly unlikely\" is an Intensifying adverb + adjective/verb chunk: used to intensify a specific adjective or verb naturally, instead of the generic \"very\".\nExample: \"It's highly unlikely we'll hit the original launch date now.\"\nSimilar chunks:\n- bitterly disappointed\n- flatly refuse\n- categorically deny\n\n✗ \"a viable option\" belongs to Adjective + noun: opportunities & progress — used to describe the value of an opportunity or the shape of progress being made, not this context.\nSimilar chunks:\n- a golden opportunity\n- a daunting task\n- a fresh perspective\n\n✗ \"a looming deadline\" belongs to Adjective + noun: problems & risk — used to describe the seriousness or urgency of a problem, gap, or risk, not this context.\nSimilar chunks:\n- a glaring omission\n- a pressing issue\n- a recurring problem"
+    },
+    {
+      "id": 24,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to intensify how concerned you are about a delay, without just relying on \"very\". Which chunk fits best?",
+      "options": {
+        "A": "mitigate risk",
+        "B": "do a review",
+        "C": "categorically deny",
+        "D": "a recurring problem"
+      },
+      "correct": "C",
+      "explanation": "✗ \"mitigate risk\" belongs to Verb + noun: plans, progress & risk — used for actions related to timelines, milestones, and managing risk on a project, not this context.\nSimilar chunks:\n- meet a deadline\n- close a gap\n- fall behind schedule\n\n✗ \"do a review\" belongs to Delexical verb: do — used with \"do\" + a noun for tasks, chores, and routine work like research or paperwork, not this context.\nSimilar chunks:\n- do your best\n- do research\n- do the paperwork\n\n✓ Correct — \"categorically deny\" is an Intensifying adverb + adjective/verb chunk: used to intensify a specific adjective or verb naturally, instead of the generic \"very\".\nExample: \"The company categorically denied any knowledge of the leak.\"\nSimilar chunks:\n- highly unlikely\n- strongly recommend\n- bitterly disappointed\n\n✗ \"a recurring problem\" belongs to Adjective + noun: problems & risk — used to describe the seriousness or urgency of a problem, gap, or risk, not this context.\nSimilar chunks:\n- a fundamental flaw\n- a glaring omission\n- a pressing issue"
+    },
+    {
+      "id": 25,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to intensify how concerned you are about a delay, without just relying on \"very\". Which chunk fits best?",
+      "options": {
+        "A": "get the green light",
+        "B": "bitterly disappointed",
+        "C": "escalate an issue",
+        "D": "have second thoughts"
+      },
+      "correct": "B",
+      "explanation": "✗ \"get the green light\" belongs to Delexical verb: get — used with \"get\" + a noun for reaching approval, catching up, or a milestone, not this context.\nSimilar chunks:\n- get sign-off\n- get up to speed\n- get the hang of\n\n✓ Correct — \"bitterly disappointed\" is an Intensifying adverb + adjective/verb chunk: used to intensify a specific adjective or verb naturally, instead of the generic \"very\".\nExample: \"The team was bitterly disappointed when the funding fell through.\"\nSimilar chunks:\n- flatly refuse\n- categorically deny\n- utterly ridiculous\n\n✗ \"escalate an issue\" belongs to Verb + noun: plans, progress & risk — used for actions related to timelines, milestones, and managing risk on a project, not this context.\nSimilar chunks:\n- mitigate risk\n- fall behind schedule\n- close a gap\n\n✗ \"have second thoughts\" belongs to Delexical verb: have — used with \"have\" + a noun for impact, opinions, doubts, or quick actions, not this context.\nSimilar chunks:\n- have a look\n- have an impact\n- have a say"
+    },
+    {
+      "id": 26,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to soften your degree of confidence in a forecast, without sounding evasive. Which chunk fits best?",
+      "options": {
+        "A": "grab a bite",
+        "B": "broadly speaking",
+        "C": "take the lead",
+        "D": "a looming deadline"
+      },
+      "correct": "B",
+      "explanation": "✗ \"grab a bite\" belongs to Everyday collocations (life outside work) — used in everyday, non-work situations — time, money, health, food, and daily routines, not this context.\nSimilar chunks:\n- run out of time\n- cost a fortune\n- catch a cold\n\n✓ Correct — \"broadly speaking\" is a Softening adverb + adjective (downtoners) chunk: used to soften the degree of an adjective, stating something as partial or approximate rather than absolute.\nExample: \"Broadly speaking, customers are happy, though onboarding needs work.\"\nSimilar chunks:\n- fairly confident\n- reasonably certain\n- somewhat concerned\n\n✗ \"take the lead\" belongs to Delexical verb: take — used with \"take\" + a noun for actions like responsibility, risk, leadership, or initiative, not this context.\nSimilar chunks:\n- take the initiative\n- take responsibility\n- take a risk\n\n✗ \"a looming deadline\" belongs to Adjective + noun: problems & risk — used to describe the seriousness or urgency of a problem, gap, or risk, not this context.\nSimilar chunks:\n- a pressing issue\n- a fundamental flaw\n- a recurring problem"
+    },
+    {
+      "id": 27,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to soften your degree of confidence in a forecast, without sounding evasive. Which chunk fits best?",
+      "options": {
+        "A": "fairly confident",
+        "B": "categorically deny",
+        "C": "a viable option",
+        "D": "close a gap"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"fairly confident\" is a Softening adverb + adjective (downtoners) chunk: used to soften the degree of an adjective, stating something as partial or approximate rather than absolute.\nExample: \"We're fairly confident the fix will hold through peak traffic.\"\nSimilar chunks:\n- reasonably certain\n- somewhat concerned\n- marginally better\n\n✗ \"categorically deny\" belongs to Intensifying adverb + adjective/verb — used to intensify a specific adjective or verb naturally, instead of the generic \"very\", not this context.\nSimilar chunks:\n- deeply concerned\n- strongly recommend\n- utterly ridiculous\n\n✗ \"a viable option\" belongs to Adjective + noun: opportunities & progress — used to describe the value of an opportunity or the shape of progress being made, not this context.\nSimilar chunks:\n- a golden opportunity\n- a steep learning curve\n- a daunting task\n\n✗ \"close a gap\" belongs to Verb + noun: plans, progress & risk — used for actions related to timelines, milestones, and managing risk on a project, not this context.\nSimilar chunks:\n- meet a deadline\n- fall behind schedule\n- escalate an issue"
+    },
+    {
+      "id": 28,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say the group finally agreed on a direction after a long discussion, using the right verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "get the green light",
+        "B": "put forward an idea",
+        "C": "a marked improvement",
+        "D": "account for"
+      },
+      "correct": "B",
+      "explanation": "✗ \"get the green light\" belongs to Delexical verb: get — used with \"get\" + a noun for reaching approval, catching up, or a milestone, not this context.\nSimilar chunks:\n- get up to speed\n- get buy-in\n- get sign-off\n\n✓ Correct — \"put forward an idea\" is a Verb + noun: meetings & decisions chunk: used for actions taken during meetings and decision-making, like proposing, raising, or weighing something.\nExample: \"One of the interns put forward an idea that actually stuck.\"\nSimilar chunks:\n- table a proposal\n- weigh the options\n- defer a decision\n\n✗ \"a marked improvement\" belongs to Adjective + noun: opportunities & progress — used to describe the value of an opportunity or the shape of progress being made, not this context.\nSimilar chunks:\n- a golden opportunity\n- a daunting task\n- a steep learning curve\n\n✗ \"account for\" belongs to Fixed noun/verb + preposition — used because certain nouns and verbs pair with one fixed preposition in standard usage, not others, not this context.\nSimilar chunks:\n- comply with\n- a solution to\n- insight into"
+    },
+    {
+      "id": 29,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say the group finally agreed on a direction after a long discussion, using the right verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "defer a decision",
+        "B": "make a point",
+        "C": "get rid of",
+        "D": "do the paperwork"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"defer a decision\" is a Verb + noun: meetings & decisions chunk: used for actions taken during meetings and decision-making, like proposing, raising, or weighing something.\nExample: \"The board decided to defer a decision until next quarter.\"\nSimilar chunks:\n- put forward an idea\n- reach a consensus\n- table a proposal\n\n✗ \"make a point\" belongs to Delexical verb: make — used with \"make\" + an abstract noun for actions like decisions, effort, progress, or exceptions, not this context.\nSimilar chunks:\n- make progress\n- make an effort\n- make a mistake\n\n✗ \"get rid of\" belongs to Delexical verb: get — used with \"get\" + a noun for reaching approval, catching up, or a milestone, not this context.\nSimilar chunks:\n- get the green light\n- get sign-off\n- get the hang of\n\n✗ \"do the paperwork\" belongs to Delexical verb: do — used with \"do\" + a noun for tasks, chores, and routine work like research or paperwork, not this context.\nSimilar chunks:\n- do research\n- do due diligence\n- do your best"
+    },
+    {
+      "id": 30,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say the group finally agreed on a direction after a long discussion, using the right verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "reach a consensus",
+        "B": "get the hang of",
+        "C": "strike a balance",
+        "D": "a fundamental flaw"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"reach a consensus\" is a Verb + noun: meetings & decisions chunk: used for actions taken during meetings and decision-making, like proposing, raising, or weighing something.\nExample: \"It took two hours, but we finally reached a consensus on the roadmap.\"\nSimilar chunks:\n- put forward an idea\n- table a proposal\n- weigh the options\n\n✗ \"get the hang of\" belongs to Delexical verb: get — used with \"get\" + a noun for reaching approval, catching up, or a milestone, not this context.\nSimilar chunks:\n- get up to speed\n- get buy-in\n- get sign-off\n\n✗ \"strike a balance\" belongs to Verb + noun: strategy & relationships — used for actions related to strategy, growth, and managing stakeholder relationships, not this context.\nSimilar chunks:\n- manage expectations\n- gain traction\n- build rapport\n\n✗ \"a fundamental flaw\" belongs to Adjective + noun: problems & risk — used to describe the seriousness or urgency of a problem, gap, or risk, not this context.\nSimilar chunks:\n- a recurring problem\n- a glaring omission\n- a looming deadline"
+    },
+    {
+      "id": 31,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a project is slipping and no longer tracking to its original dates, using the right verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "kill time",
+        "B": "a solution to",
+        "C": "mitigate risk",
+        "D": "a nuanced view"
+      },
+      "correct": "C",
+      "explanation": "✗ \"kill time\" belongs to Everyday collocations (life outside work) — used in everyday, non-work situations — time, money, health, food, and daily routines, not this context.\nSimilar chunks:\n- tight budget\n- run out of time\n- feel under the weather\n\n✗ \"a solution to\" belongs to Fixed noun/verb + preposition — used because certain nouns and verbs pair with one fixed preposition in standard usage, not others, not this context.\nSimilar chunks:\n- depend on\n- comply with\n- an impact on\n\n✓ Correct — \"mitigate risk\" is a Verb + noun: plans, progress & risk chunk: used for actions related to timelines, milestones, and managing risk on a project.\nExample: \"We added a rollback plan to mitigate risk during the migration.\"\nSimilar chunks:\n- hit a milestone\n- close a gap\n- fall behind schedule\n\n✗ \"a nuanced view\" belongs to Adjective + noun: opinions & arguments — used to describe the strength or quality of an argument, opinion, or statement in a discussion, not this context.\nSimilar chunks:\n- a sweeping statement\n- a heated debate\n- a compelling argument"
+    },
+    {
+      "id": 32,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a project is slipping and no longer tracking to its original dates, using the right verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "tight budget",
+        "B": "get sign-off",
+        "C": "escalate an issue",
+        "D": "make a point"
+      },
+      "correct": "C",
+      "explanation": "✗ \"tight budget\" belongs to Everyday collocations (life outside work) — used in everyday, non-work situations — time, money, health, food, and daily routines, not this context.\nSimilar chunks:\n- run out of time\n- cost a fortune\n- catch a cold\n\n✗ \"get sign-off\" belongs to Delexical verb: get — used with \"get\" + a noun for reaching approval, catching up, or a milestone, not this context.\nSimilar chunks:\n- get up to speed\n- get the green light\n- get the hang of\n\n✓ Correct — \"escalate an issue\" is a Verb + noun: plans, progress & risk chunk: used for actions related to timelines, milestones, and managing risk on a project.\nExample: \"I had to escalate the issue once support stopped responding.\"\nSimilar chunks:\n- close a gap\n- meet a deadline\n- hit a milestone\n\n✗ \"make a point\" belongs to Delexical verb: make — used with \"make\" + an abstract noun for actions like decisions, effort, progress, or exceptions, not this context.\nSimilar chunks:\n- make progress\n- make an exception\n- make sense"
+    },
+    {
+      "id": 33,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a project is slipping and no longer tracking to its original dates, using the right verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "hit a milestone",
+        "B": "proceed cautiously",
+        "C": "take ownership",
+        "D": "a marked improvement"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"hit a milestone\" is a Verb + noun: plans, progress & risk chunk: used for actions related to timelines, milestones, and managing risk on a project.\nExample: \"We hit a major milestone by shipping the beta on time.\"\nSimilar chunks:\n- close a gap\n- meet a deadline\n- fall behind schedule\n\n✗ \"proceed cautiously\" belongs to Verb + adverb & fixed prepositional phrases — used as fixed collocations for manner (verb + adverb) or formal status (prepositional phrase), not built freely word by word, not this context.\nSimilar chunks:\n- on balance\n- in principle\n- under review\n\n✗ \"take ownership\" belongs to Delexical verb: take — used with \"take\" + a noun for actions like responsibility, risk, leadership, or initiative, not this context.\nSimilar chunks:\n- take advantage of\n- take the initiative\n- take the lead\n\n✗ \"a marked improvement\" belongs to Adjective + noun: opportunities & progress — used to describe the value of an opportunity or the shape of progress being made, not this context.\nSimilar chunks:\n- a daunting task\n- a viable option\n- a golden opportunity"
+    },
+    {
+      "id": 34,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a new product feature is finally starting to catch on with users, using the right verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "do the paperwork",
+        "B": "manage expectations",
+        "C": "a sweeping statement",
+        "D": "take ownership"
+      },
+      "correct": "B",
+      "explanation": "✗ \"do the paperwork\" belongs to Delexical verb: do — used with \"do\" + a noun for tasks, chores, and routine work like research or paperwork, not this context.\nSimilar chunks:\n- do due diligence\n- do research\n- do your best\n\n✓ Correct — \"manage expectations\" is a Verb + noun: strategy & relationships chunk: used for actions related to strategy, growth, and managing stakeholder relationships.\nExample: \"It's important to manage expectations before the demo, not after.\"\nSimilar chunks:\n- build rapport\n- gain traction\n- bridge the gap\n\n✗ \"a sweeping statement\" belongs to Adjective + noun: opinions & arguments — used to describe the strength or quality of an argument, opinion, or statement in a discussion, not this context.\nSimilar chunks:\n- a heated debate\n- a compelling argument\n- a valid point\n\n✗ \"take ownership\" belongs to Delexical verb: take — used with \"take\" + a noun for actions like responsibility, risk, leadership, or initiative, not this context.\nSimilar chunks:\n- take responsibility\n- take the lead\n- take a risk"
+    },
+    {
+      "id": 35,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a new product feature is finally starting to catch on with users, using the right verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "bridge the gap",
+        "B": "take ownership",
+        "C": "a viable option",
+        "D": "a fundamental flaw"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"bridge the gap\" is a Verb + noun: strategy & relationships chunk: used for actions related to strategy, growth, and managing stakeholder relationships.\nExample: \"The new onboarding flow helps bridge the gap between sign-up and first use.\"\nSimilar chunks:\n- manage expectations\n- strike a balance\n- build rapport\n\n✗ \"take ownership\" belongs to Delexical verb: take — used with \"take\" + a noun for actions like responsibility, risk, leadership, or initiative, not this context.\nSimilar chunks:\n- take a risk\n- take responsibility\n- take advantage of\n\n✗ \"a viable option\" belongs to Adjective + noun: opportunities & progress — used to describe the value of an opportunity or the shape of progress being made, not this context.\nSimilar chunks:\n- a daunting task\n- a golden opportunity\n- a marked improvement\n\n✗ \"a fundamental flaw\" belongs to Adjective + noun: problems & risk — used to describe the seriousness or urgency of a problem, gap, or risk, not this context.\nSimilar chunks:\n- a glaring omission\n- a looming deadline\n- a recurring problem"
+    },
+    {
+      "id": 36,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a new product feature is finally starting to catch on with users, using the right verb + noun pairing. Which chunk fits best?",
+      "options": {
+        "A": "build rapport",
+        "B": "strongly recommend",
+        "C": "have a look",
+        "D": "get up to speed"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"build rapport\" is a Verb + noun: strategy & relationships chunk: used for actions related to strategy, growth, and managing stakeholder relationships.\nExample: \"It takes time to build rapport with a client over video calls.\"\nSimilar chunks:\n- secure buy-in\n- gain traction\n- manage expectations\n\n✗ \"strongly recommend\" belongs to Intensifying adverb + adjective/verb — used to intensify a specific adjective or verb naturally, instead of the generic \"very\", not this context.\nSimilar chunks:\n- flatly refuse\n- utterly ridiculous\n- categorically deny\n\n✗ \"have a look\" belongs to Delexical verb: have — used with \"have\" + a noun for impact, opinions, doubts, or quick actions, not this context.\nSimilar chunks:\n- have an impact\n- have a word (with)\n- have a say\n\n✗ \"get up to speed\" belongs to Delexical verb: get — used with \"get\" + a noun for reaching approval, catching up, or a milestone, not this context.\nSimilar chunks:\n- get the hang of\n- get sign-off\n- get rid of"
+    },
+    {
+      "id": 37,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe the effect a new policy had on sales, using the preposition natives actually pair with \"impact\". Which chunk fits best?",
+      "options": {
+        "A": "an impact on",
+        "B": "have second thoughts",
+        "C": "broadly speaking",
+        "D": "a daunting task"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"an impact on\" is a Fixed noun/verb + preposition chunk: used because certain nouns and verbs pair with one fixed preposition in standard usage, not others.\nExample: \"The outage had a serious impact on customer trust.\"\nSimilar chunks:\n- insight into\n- comply with\n- a solution to\n\n✗ \"have second thoughts\" belongs to Delexical verb: have — used with \"have\" + a noun for impact, opinions, doubts, or quick actions, not this context.\nSimilar chunks:\n- have a word (with)\n- have a say\n- have an impact\n\n✗ \"broadly speaking\" belongs to Softening adverb + adjective (downtoners) — used to soften the degree of an adjective, stating something as partial or approximate rather than absolute, not this context.\nSimilar chunks:\n- marginally better\n- reasonably certain\n- fairly confident\n\n✗ \"a daunting task\" belongs to Adjective + noun: opportunities & progress — used to describe the value of an opportunity or the shape of progress being made, not this context.\nSimilar chunks:\n- a steep learning curve\n- a marked improvement\n- a fresh perspective"
+    },
+    {
+      "id": 38,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe the effect a new policy had on sales, using the preposition natives actually pair with \"impact\". Which chunk fits best?",
+      "options": {
+        "A": "have second thoughts",
+        "B": "get sign-off",
+        "C": "a recurring problem",
+        "D": "comply with"
+      },
+      "correct": "D",
+      "explanation": "✗ \"have second thoughts\" belongs to Delexical verb: have — used with \"have\" + a noun for impact, opinions, doubts, or quick actions, not this context.\nSimilar chunks:\n- have an impact\n- have a say\n- have reservations\n\n✗ \"get sign-off\" belongs to Delexical verb: get — used with \"get\" + a noun for reaching approval, catching up, or a milestone, not this context.\nSimilar chunks:\n- get buy-in\n- get the green light\n- get up to speed\n\n✗ \"a recurring problem\" belongs to Adjective + noun: problems & risk — used to describe the seriousness or urgency of a problem, gap, or risk, not this context.\nSimilar chunks:\n- a looming deadline\n- a glaring omission\n- a pressing issue\n\n✓ Correct — \"comply with\" is a Fixed noun/verb + preposition chunk: used because certain nouns and verbs pair with one fixed preposition in standard usage, not others.\nExample: \"All vendors must comply with the new data policy.\"\nSimilar chunks:\n- an impact on\n- a solution to\n- depend on"
+    },
+    {
+      "id": 39,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe the effect a new policy had on sales, using the preposition natives actually pair with \"impact\". Which chunk fits best?",
+      "options": {
+        "A": "get the hang of",
+        "B": "get the green light",
+        "C": "gain traction",
+        "D": "a solution to"
+      },
+      "correct": "D",
+      "explanation": "✗ \"get the hang of\" belongs to Delexical verb: get — used with \"get\" + a noun for reaching approval, catching up, or a milestone, not this context.\nSimilar chunks:\n- get the green light\n- get buy-in\n- get sign-off\n\n✗ \"get the green light\" belongs to Delexical verb: get — used with \"get\" + a noun for reaching approval, catching up, or a milestone, not this context.\nSimilar chunks:\n- get up to speed\n- get the hang of\n- get buy-in\n\n✗ \"gain traction\" belongs to Verb + noun: strategy & relationships — used for actions related to strategy, growth, and managing stakeholder relationships, not this context.\nSimilar chunks:\n- build rapport\n- bridge the gap\n- strike a balance\n\n✓ Correct — \"a solution to\" is a Fixed noun/verb + preposition chunk: used because certain nouns and verbs pair with one fixed preposition in standard usage, not others.\nExample: \"We need a solution to the onboarding drop-off, not just a workaround.\"\nSimilar chunks:\n- result in\n- comply with\n- account for"
+    },
+    {
+      "id": 40,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a project is still being reviewed and hasn't been finalized, using the fixed phrase natives actually use. Which chunk fits best?",
+      "options": {
+        "A": "under review",
+        "B": "secure buy-in",
+        "C": "insight into",
+        "D": "bridge the gap"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"under review\" is a Verb + adverb & fixed prepositional phrases chunk: used as fixed collocations for manner (verb + adverb) or formal status (prepositional phrase), not built freely word by word.\nExample: \"The pricing model is currently under review.\"\nSimilar chunks:\n- in principle\n- on balance\n- follow up promptly\n\n✗ \"secure buy-in\" belongs to Verb + noun: strategy & relationships — used for actions related to strategy, growth, and managing stakeholder relationships, not this context.\nSimilar chunks:\n- build rapport\n- gain traction\n- manage expectations\n\n✗ \"insight into\" belongs to Fixed noun/verb + preposition — used because certain nouns and verbs pair with one fixed preposition in standard usage, not others, not this context.\nSimilar chunks:\n- an impact on\n- account for\n- result in\n\n✗ \"bridge the gap\" belongs to Verb + noun: strategy & relationships — used for actions related to strategy, growth, and managing stakeholder relationships, not this context.\nSimilar chunks:\n- gain traction\n- secure buy-in\n- build rapport"
+    },
+    {
+      "id": 41,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a project is still being reviewed and hasn't been finalized, using the fixed phrase natives actually use. Which chunk fits best?",
+      "options": {
+        "A": "deeply concerned",
+        "B": "proceed cautiously",
+        "C": "have a word (with)",
+        "D": "a pressing issue"
+      },
+      "correct": "B",
+      "explanation": "✗ \"deeply concerned\" belongs to Intensifying adverb + adjective/verb — used to intensify a specific adjective or verb naturally, instead of the generic \"very\", not this context.\nSimilar chunks:\n- utterly ridiculous\n- highly unlikely\n- flatly refuse\n\n✓ Correct — \"proceed cautiously\" is a Verb + adverb & fixed prepositional phrases chunk: used as fixed collocations for manner (verb + adverb) or formal status (prepositional phrase), not built freely word by word.\nExample: \"Given the audit findings, we should proceed cautiously with the rollout.\"\nSimilar chunks:\n- follow up promptly\n- on balance\n- under review\n\n✗ \"have a word (with)\" belongs to Delexical verb: have — used with \"have\" + a noun for impact, opinions, doubts, or quick actions, not this context.\nSimilar chunks:\n- have reservations\n- have a look\n- have a say\n\n✗ \"a pressing issue\" belongs to Adjective + noun: problems & risk — used to describe the seriousness or urgency of a problem, gap, or risk, not this context.\nSimilar chunks:\n- a recurring problem\n- a fundamental flaw\n- a glaring omission"
+    },
+    {
+      "id": 42,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a project is still being reviewed and hasn't been finalized, using the fixed phrase natives actually use. Which chunk fits best?",
+      "options": {
+        "A": "have a word (with)",
+        "B": "follow up promptly",
+        "C": "do due diligence",
+        "D": "do someone a favour"
+      },
+      "correct": "B",
+      "explanation": "✗ \"have a word (with)\" belongs to Delexical verb: have — used with \"have\" + a noun for impact, opinions, doubts, or quick actions, not this context.\nSimilar chunks:\n- have reservations\n- have a look\n- have a say\n\n✓ Correct — \"follow up promptly\" is a Verb + adverb & fixed prepositional phrases chunk: used as fixed collocations for manner (verb + adverb) or formal status (prepositional phrase), not built freely word by word.\nExample: \"Please follow up promptly with anyone who hasn't responded.\"\nSimilar chunks:\n- on balance\n- in principle\n- proceed cautiously\n\n✗ \"do due diligence\" belongs to Delexical verb: do — used with \"do\" + a noun for tasks, chores, and routine work like research or paperwork, not this context.\nSimilar chunks:\n- do your best\n- do research\n- do the paperwork\n\n✗ \"do someone a favour\" belongs to Delexical verb: do — used with \"do\" + a noun for tasks, chores, and routine work like research or paperwork, not this context.\nSimilar chunks:\n- do a review\n- do your best\n- do the paperwork"
+    },
+    {
+      "id": 43,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe waiting somewhere with nothing to do until your delayed flight boards, using the natural everyday collocation. Which chunk fits best?",
+      "options": {
+        "A": "on balance",
+        "B": "fairly confident",
+        "C": "make progress",
+        "D": "grab a bite"
+      },
+      "correct": "D",
+      "explanation": "✗ \"on balance\" belongs to Verb + adverb & fixed prepositional phrases — used as fixed collocations for manner (verb + adverb) or formal status (prepositional phrase), not built freely word by word, not this context.\nSimilar chunks:\n- follow up promptly\n- monitor closely\n- under review\n\n✗ \"fairly confident\" belongs to Softening adverb + adjective (downtoners) — used to soften the degree of an adjective, stating something as partial or approximate rather than absolute, not this context.\nSimilar chunks:\n- broadly speaking\n- reasonably certain\n- marginally better\n\n✗ \"make progress\" belongs to Delexical verb: make — used with \"make\" + an abstract noun for actions like decisions, effort, progress, or exceptions, not this context.\nSimilar chunks:\n- make a mistake\n- make a point\n- make a decision\n\n✓ Correct — \"grab a bite\" is an Everyday collocations (life outside work) chunk: used in everyday, non-work situations — time, money, health, food, and daily routines.\nExample: \"Do you want to grab a bite before the movie starts?\"\nSimilar chunks:\n- cost a fortune\n- kill time\n- tight budget"
+    },
+    {
+      "id": 44,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe waiting somewhere with nothing to do until your delayed flight boards, using the natural everyday collocation. Which chunk fits best?",
+      "options": {
+        "A": "under review",
+        "B": "depend on",
+        "C": "put forward an idea",
+        "D": "tight budget"
+      },
+      "correct": "D",
+      "explanation": "✗ \"under review\" belongs to Verb + adverb & fixed prepositional phrases — used as fixed collocations for manner (verb + adverb) or formal status (prepositional phrase), not built freely word by word, not this context.\nSimilar chunks:\n- in principle\n- on balance\n- proceed cautiously\n\n✗ \"depend on\" belongs to Fixed noun/verb + preposition — used because certain nouns and verbs pair with one fixed preposition in standard usage, not others, not this context.\nSimilar chunks:\n- insight into\n- an impact on\n- result in\n\n✗ \"put forward an idea\" belongs to Verb + noun: meetings & decisions — used for actions taken during meetings and decision-making, like proposing, raising, or weighing something, not this context.\nSimilar chunks:\n- raise an issue\n- weigh the options\n- defer a decision\n\n✓ Correct — \"tight budget\" is an Everyday collocations (life outside work) chunk: used in everyday, non-work situations — time, money, health, food, and daily routines.\nExample: \"We're on a tight budget this month after the car repair.\"\nSimilar chunks:\n- run out of time\n- feel under the weather\n- catch a cold"
+    },
+    {
+      "id": 45,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe waiting somewhere with nothing to do until your delayed flight boards, using the natural everyday collocation. Which chunk fits best?",
+      "options": {
+        "A": "kill time",
+        "B": "make a mistake",
+        "C": "on balance",
+        "D": "under review"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"kill time\" is an Everyday collocations (life outside work) chunk: used in everyday, non-work situations — time, money, health, food, and daily routines.\nExample: \"We killed time at the airport by wandering through the shops.\"\nSimilar chunks:\n- cost a fortune\n- catch a cold\n- feel under the weather\n\n✗ \"make a mistake\" belongs to Delexical verb: make — used with \"make\" + an abstract noun for actions like decisions, effort, progress, or exceptions, not this context.\nSimilar chunks:\n- make a decision\n- make an exception\n- make a point\n\n✗ \"on balance\" belongs to Verb + adverb & fixed prepositional phrases — used as fixed collocations for manner (verb + adverb) or formal status (prepositional phrase), not built freely word by word, not this context.\nSimilar chunks:\n- follow up promptly\n- monitor closely\n- in principle\n\n✗ \"under review\" belongs to Verb + adverb & fixed prepositional phrases — used as fixed collocations for manner (verb + adverb) or formal status (prepositional phrase), not built freely word by word, not this context.\nSimilar chunks:\n- monitor closely\n- in principle\n- follow up promptly"
+    }
+  ]
+}

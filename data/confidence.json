@@ -1,0 +1,188 @@
+{
+  "examId": "confidence",
+  "title": "Chunk Atlas — Confidence & Humour: Confidence",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You're seconds from walking into a meeting, certain everyone in the room will see exactly how nervous you are. Which chunk fits best?",
+      "options": {
+        "A": "Nobody is thinking about me as much as I am.",
+        "B": "What would you do differently?",
+        "C": "You said [X] — tell me more about that.",
+        "D": "I'm terrible at these things. What brings you here?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Nobody is thinking about me as much as I am.\" is a Spotlight-effect reassurance chunk: used as calming self-talk right before a nerve-wracking moment, to counter the illusion that your anxiety is visible to everyone else.\nExample: \"Right before she opened the door, she reminded herself: nobody is thinking about me as much as I am.\"\nSimilar chunks:\n- Bear with me, this one matters to me.\n\n✗ \"What would you do differently?\" belongs to Reliable get-to-know-you questions — used as a go-to question that reliably keeps a conversation moving, so you never have to think of something new on the spot, not this context.\nSimilar chunks:\n- What's the best thing about it?\n- What got you into this?\n\n✗ \"You said [X] — tell me more about that.\" belongs to Fallback lines when you're stuck for words — used as a fallback line when you genuinely don't know what to say next, so the conversation never fully stalls, not this context.\nSimilar chunks:\n- I'm terrible at these things. What brings you here?\n- Lovely to meet you — I'm going to grab a drink.\n\n✗ \"I'm terrible at these things. What brings you here?\" belongs to Fallback lines when you're stuck for words — used as a fallback line when you genuinely don't know what to say next, so the conversation never fully stalls, not this context.\nSimilar chunks:\n- You said [X] — tell me more about that.\n- Lovely to meet you — I'm going to grab a drink."
+    },
+    {
+      "id": 2,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You're seconds from walking into a meeting, certain everyone in the room will see exactly how nervous you are. Which chunk fits best?",
+      "options": {
+        "A": "How do you know [the organizer]?",
+        "B": "Is this seat taken?",
+        "C": "Hi all — can you hear me okay?",
+        "D": "Bear with me, this one matters to me."
+      },
+      "correct": "D",
+      "explanation": "✗ \"How do you know [the organizer]?\" belongs to Automatic opening lines — used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure, not this context.\nSimilar chunks:\n- Mind if I join you?\n- Hi — I don't think we've met. I'm [name].\n- Have you been to one of these before?\n\n✗ \"Is this seat taken?\" belongs to Automatic opening lines — used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure, not this context.\nSimilar chunks:\n- Mind if I join you?\n- Have you been to one of these before?\n- How do you know [the organizer]?\n\n✗ \"Hi all — can you hear me okay?\" belongs to Automatic opening lines — used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure, not this context.\nSimilar chunks:\n- Morning — how's your week going?\n- How do you know [the organizer]?\n- Have you been to one of these before?\n\n✓ Correct — \"Bear with me, this one matters to me.\" is a Spotlight-effect reassurance chunk: used as calming self-talk right before a nerve-wracking moment, to counter the illusion that your anxiety is visible to everyone else.\nExample: \"His voice started to shake, so he just said it out loud — bear with me, this one matters to me — and the tension dropped instantly.\"\nSimilar chunks:\n- Nobody is thinking about me as much as I am."
+    },
+    {
+      "id": 3,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Your heart is pounding and your hands are shaking right before you have to speak, and you want to use that energy instead of fighting it. Which chunk fits best?",
+      "options": {
+        "A": "Nobody is thinking about me as much as I am.",
+        "B": "This matters to me — that's why my body is doing this.",
+        "C": "Thanks for reading this through.",
+        "D": "Is this seat taken?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Nobody is thinking about me as much as I am.\" belongs to Spotlight-effect reassurance — used as calming self-talk right before a nerve-wracking moment, to counter the illusion that your anxiety is visible to everyone else, not this context.\nSimilar chunks:\n- Bear with me, this one matters to me.\n\n✓ Correct — \"This matters to me — that's why my body is doing this.\" is a Reframing nerves as excitement chunk: used to relabel physical anxiety symptoms as excitement instead of trying to suppress them, since the two feel almost identical in the body.\nExample: \"He noticed his hands shaking and thought, this matters to me — that's why my body is doing this — instead of panicking about it.\"\nSimilar chunks:\n- I'm excited about this one.\n\n✗ \"Thanks for reading this through.\" belongs to Confident replacements for apologetic hedges — used instead of a reflexive apology or hedge, to say the same thing without undercutting yourself, not this context.\nSimilar chunks:\n- What questions do you have?\n\n✗ \"Is this seat taken?\" belongs to Automatic opening lines — used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure, not this context.\nSimilar chunks:\n- Mind if I join you?\n- Morning — how's your week going?\n- Have you been to one of these before?"
+    },
+    {
+      "id": 4,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Your heart is pounding and your hands are shaking right before you have to speak, and you want to use that energy instead of fighting it. Which chunk fits best?",
+      "options": {
+        "A": "I'm excited about this one.",
+        "B": "What would you do differently?",
+        "C": "Nobody is thinking about me as much as I am.",
+        "D": "Thanks for reading this through."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I'm excited about this one.\" is a Reframing nerves as excitement chunk: used to relabel physical anxiety symptoms as excitement instead of trying to suppress them, since the two feel almost identical in the body.\nExample: \"Instead of telling herself to calm down, she said out loud, I'm excited about this one, and let the adrenaline work for her.\"\nSimilar chunks:\n- This matters to me — that's why my body is doing this.\n\n✗ \"What would you do differently?\" belongs to Reliable get-to-know-you questions — used as a go-to question that reliably keeps a conversation moving, so you never have to think of something new on the spot, not this context.\nSimilar chunks:\n- What got you into this?\n- What's the best thing about it?\n\n✗ \"Nobody is thinking about me as much as I am.\" belongs to Spotlight-effect reassurance — used as calming self-talk right before a nerve-wracking moment, to counter the illusion that your anxiety is visible to everyone else, not this context.\nSimilar chunks:\n- Bear with me, this one matters to me.\n\n✗ \"Thanks for reading this through.\" belongs to Confident replacements for apologetic hedges — used instead of a reflexive apology or hedge, to say the same thing without undercutting yourself, not this context.\nSimilar chunks:\n- What questions do you have?"
+    },
+    {
+      "id": 5,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You're in a conversation and want a dependable question ready so you never freeze up wondering what to ask next. Which chunk fits best?",
+      "options": {
+        "A": "What's the best thing about it?",
+        "B": "Hi — I don't think we've met. I'm [name].",
+        "C": "I'm terrible at these things. What brings you here?",
+        "D": "Morning — how's your week going?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What's the best thing about it?\" is a Reliable get-to-know-you questions chunk: used as a go-to question that reliably keeps a conversation moving, so you never have to think of something new on the spot.\nExample: \"When the small talk stalled, he simply asked, 'What's the best thing about it?' and the conversation picked right back up.\"\nSimilar chunks:\n- What would you do differently?\n- What got you into this?\n\n✗ \"Hi — I don't think we've met. I'm [name].\" belongs to Automatic opening lines — used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure, not this context.\nSimilar chunks:\n- Morning — how's your week going?\n- Is this seat taken?\n- Have you been to one of these before?\n\n✗ \"I'm terrible at these things. What brings you here?\" belongs to Fallback lines when you're stuck for words — used as a fallback line when you genuinely don't know what to say next, so the conversation never fully stalls, not this context.\nSimilar chunks:\n- Lovely to meet you — I'm going to grab a drink.\n- You said [X] — tell me more about that.\n\n✗ \"Morning — how's your week going?\" belongs to Automatic opening lines — used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure, not this context.\nSimilar chunks:\n- Hi all — can you hear me okay?\n- Hi — I don't think we've met. I'm [name].\n- Have you been to one of these before?"
+    },
+    {
+      "id": 6,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You're in a conversation and want a dependable question ready so you never freeze up wondering what to ask next. Which chunk fits best?",
+      "options": {
+        "A": "Morning — how's your week going?",
+        "B": "What questions do you have?",
+        "C": "What would you do differently?",
+        "D": "Is this seat taken?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Morning — how's your week going?\" belongs to Automatic opening lines — used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure, not this context.\nSimilar chunks:\n- How do you know [the organizer]?\n- Have you been to one of these before?\n- Hi — I don't think we've met. I'm [name].\n\n✗ \"What questions do you have?\" belongs to Confident replacements for apologetic hedges — used instead of a reflexive apology or hedge, to say the same thing without undercutting yourself, not this context.\nSimilar chunks:\n- Thanks for reading this through.\n\n✓ Correct — \"What would you do differently?\" is a Reliable get-to-know-you questions chunk: used as a go-to question that reliably keeps a conversation moving, so you never have to think of something new on the spot.\nExample: \"At the end of the debrief, she asked, 'What would you do differently?' and it opened up the most useful part of the chat.\"\nSimilar chunks:\n- What's the best thing about it?\n- What got you into this?\n\n✗ \"Is this seat taken?\" belongs to Automatic opening lines — used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure, not this context.\nSimilar chunks:\n- Mind if I join you?\n- Morning — how's your week going?\n- How do you know [the organizer]?"
+    },
+    {
+      "id": 7,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You're about to walk into a room, join a call, or sit down next to someone new, and you want an opener that comes out automatically so you're free to read the room instead of scrambling for words. Which chunk fits best?",
+      "options": {
+        "A": "Mind if I join you?",
+        "B": "Lovely to meet you — I'm going to grab a drink.",
+        "C": "What's the best thing about it?",
+        "D": "Nobody is thinking about me as much as I am."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Mind if I join you?\" is an Automatic opening lines chunk: used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure.\nExample: \"She spotted a colleague sitting alone at lunch and just asked, 'Mind if I join you?'\"\nSimilar chunks:\n- Is this seat taken?\n- How do you know [the organizer]?\n- Hi — I don't think we've met. I'm [name].\n\n✗ \"Lovely to meet you — I'm going to grab a drink.\" belongs to Fallback lines when you're stuck for words — used as a fallback line when you genuinely don't know what to say next, so the conversation never fully stalls, not this context.\nSimilar chunks:\n- I'm terrible at these things. What brings you here?\n- You said [X] — tell me more about that.\n\n✗ \"What's the best thing about it?\" belongs to Reliable get-to-know-you questions — used as a go-to question that reliably keeps a conversation moving, so you never have to think of something new on the spot, not this context.\nSimilar chunks:\n- What would you do differently?\n- What got you into this?\n\n✗ \"Nobody is thinking about me as much as I am.\" belongs to Spotlight-effect reassurance — used as calming self-talk right before a nerve-wracking moment, to counter the illusion that your anxiety is visible to everyone else, not this context.\nSimilar chunks:\n- Bear with me, this one matters to me."
+    },
+    {
+      "id": 8,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You're about to walk into a room, join a call, or sit down next to someone new, and you want an opener that comes out automatically so you're free to read the room instead of scrambling for words. Which chunk fits best?",
+      "options": {
+        "A": "You said [X] — tell me more about that.",
+        "B": "What got you into this?",
+        "C": "How do you know [the organizer]?",
+        "D": "I'm excited about this one."
+      },
+      "correct": "C",
+      "explanation": "✗ \"You said [X] — tell me more about that.\" belongs to Fallback lines when you're stuck for words — used as a fallback line when you genuinely don't know what to say next, so the conversation never fully stalls, not this context.\nSimilar chunks:\n- I'm terrible at these things. What brings you here?\n- Lovely to meet you — I'm going to grab a drink.\n\n✗ \"What got you into this?\" belongs to Reliable get-to-know-you questions — used as a go-to question that reliably keeps a conversation moving, so you never have to think of something new on the spot, not this context.\nSimilar chunks:\n- What's the best thing about it?\n- What would you do differently?\n\n✓ Correct — \"How do you know [the organizer]?\" is an Automatic opening lines chunk: used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure.\nExample: \"Stuck for an opener at the party, she asked, 'How do you know Priya?' and it carried the conversation for ten minutes.\"\nSimilar chunks:\n- Hi — I don't think we've met. I'm [name].\n- Have you been to one of these before?\n- Is this seat taken?\n\n✗ \"I'm excited about this one.\" belongs to Reframing nerves as excitement — used to relabel physical anxiety symptoms as excitement instead of trying to suppress them, since the two feel almost identical in the body, not this context.\nSimilar chunks:\n- This matters to me — that's why my body is doing this."
+    },
+    {
+      "id": 9,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You're about to walk into a room, join a call, or sit down next to someone new, and you want an opener that comes out automatically so you're free to read the room instead of scrambling for words. Which chunk fits best?",
+      "options": {
+        "A": "Nobody is thinking about me as much as I am.",
+        "B": "What questions do you have?",
+        "C": "What got you into this?",
+        "D": "Is this seat taken?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Nobody is thinking about me as much as I am.\" belongs to Spotlight-effect reassurance — used as calming self-talk right before a nerve-wracking moment, to counter the illusion that your anxiety is visible to everyone else, not this context.\nSimilar chunks:\n- Bear with me, this one matters to me.\n\n✗ \"What questions do you have?\" belongs to Confident replacements for apologetic hedges — used instead of a reflexive apology or hedge, to say the same thing without undercutting yourself, not this context.\nSimilar chunks:\n- Thanks for reading this through.\n\n✗ \"What got you into this?\" belongs to Reliable get-to-know-you questions — used as a go-to question that reliably keeps a conversation moving, so you never have to think of something new on the spot, not this context.\nSimilar chunks:\n- What would you do differently?\n- What's the best thing about it?\n\n✓ Correct — \"Is this seat taken?\" is an Automatic opening lines chunk: used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure.\nExample: \"He gestured at the empty chair and asked, 'Is this seat taken?' instead of hovering awkwardly nearby.\"\nSimilar chunks:\n- Mind if I join you?\n- Morning — how's your week going?\n- Hi all — can you hear me okay?"
+    },
+    {
+      "id": 10,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "The conversation has stalled and your mind has gone completely blank. Which chunk fits best?",
+      "options": {
+        "A": "Mind if I join you?",
+        "B": "Is this seat taken?",
+        "C": "Morning — how's your week going?",
+        "D": "You said [X] — tell me more about that."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Mind if I join you?\" belongs to Automatic opening lines — used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure, not this context.\nSimilar chunks:\n- How do you know [the organizer]?\n- Is this seat taken?\n- Hi — I don't think we've met. I'm [name].\n\n✗ \"Is this seat taken?\" belongs to Automatic opening lines — used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure, not this context.\nSimilar chunks:\n- How do you know [the organizer]?\n- Morning — how's your week going?\n- Hi all — can you hear me okay?\n\n✗ \"Morning — how's your week going?\" belongs to Automatic opening lines — used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure, not this context.\nSimilar chunks:\n- Hi — I don't think we've met. I'm [name].\n- Have you been to one of these before?\n- Mind if I join you?\n\n✓ Correct — \"You said [X] — tell me more about that.\" is a Fallback lines when you're stuck for words chunk: used as a fallback line when you genuinely don't know what to say next, so the conversation never fully stalls.\nExample: \"When the room went quiet, she picked up his earlier comment: 'You said the launch got delayed twice — tell me more about that.'\"\nSimilar chunks:\n- Lovely to meet you — I'm going to grab a drink.\n- I'm terrible at these things. What brings you here?"
+    },
+    {
+      "id": 11,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "The conversation has stalled and your mind has gone completely blank. Which chunk fits best?",
+      "options": {
+        "A": "What would you do differently?",
+        "B": "I'm excited about this one.",
+        "C": "I'm terrible at these things. What brings you here?",
+        "D": "How do you know [the organizer]?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"What would you do differently?\" belongs to Reliable get-to-know-you questions — used as a go-to question that reliably keeps a conversation moving, so you never have to think of something new on the spot, not this context.\nSimilar chunks:\n- What's the best thing about it?\n- What got you into this?\n\n✗ \"I'm excited about this one.\" belongs to Reframing nerves as excitement — used to relabel physical anxiety symptoms as excitement instead of trying to suppress them, since the two feel almost identical in the body, not this context.\nSimilar chunks:\n- This matters to me — that's why my body is doing this.\n\n✓ Correct — \"I'm terrible at these things. What brings you here?\" is a Fallback lines when you're stuck for words chunk: used as a fallback line when you genuinely don't know what to say next, so the conversation never fully stalls.\nExample: \"Rather than freeze up, he admitted, 'I'm terrible at these things. What brings you here?' and it broke the ice instantly.\"\nSimilar chunks:\n- You said [X] — tell me more about that.\n- Lovely to meet you — I'm going to grab a drink.\n\n✗ \"How do you know [the organizer]?\" belongs to Automatic opening lines — used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure, not this context.\nSimilar chunks:\n- Have you been to one of these before?\n- Hi all — can you hear me okay?\n- Is this seat taken?"
+    },
+    {
+      "id": 12,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You're about to send a message or ask something, and your instinct is to open with a reflexive 'sorry' or a hedge that undersells you. Which chunk fits best?",
+      "options": {
+        "A": "Nobody is thinking about me as much as I am.",
+        "B": "Hi — I don't think we've met. I'm [name].",
+        "C": "Mind if I join you?",
+        "D": "Thanks for reading this through."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Nobody is thinking about me as much as I am.\" belongs to Spotlight-effect reassurance — used as calming self-talk right before a nerve-wracking moment, to counter the illusion that your anxiety is visible to everyone else, not this context.\nSimilar chunks:\n- Bear with me, this one matters to me.\n\n✗ \"Hi — I don't think we've met. I'm [name].\" belongs to Automatic opening lines — used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure, not this context.\nSimilar chunks:\n- Hi all — can you hear me okay?\n- Have you been to one of these before?\n- How do you know [the organizer]?\n\n✗ \"Mind if I join you?\" belongs to Automatic opening lines — used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure, not this context.\nSimilar chunks:\n- Morning — how's your week going?\n- Hi all — can you hear me okay?\n- Have you been to one of these before?\n\n✓ Correct — \"Thanks for reading this through.\" is a Confident replacements for apologetic hedges chunk: used instead of a reflexive apology or hedge, to say the same thing without undercutting yourself.\nExample: \"Instead of 'Sorry for the long email,' she closed with, 'Thanks for reading this through.'\"\nSimilar chunks:\n- What questions do you have?"
+    },
+    {
+      "id": 13,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You're about to send a message or ask something, and your instinct is to open with a reflexive 'sorry' or a hedge that undersells you. Which chunk fits best?",
+      "options": {
+        "A": "What questions do you have?",
+        "B": "This matters to me — that's why my body is doing this.",
+        "C": "What would you do differently?",
+        "D": "Hi — I don't think we've met. I'm [name]."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What questions do you have?\" is a Confident replacements for apologetic hedges chunk: used instead of a reflexive apology or hedge, to say the same thing without undercutting yourself.\nExample: \"Instead of 'Does that make sense?' he ended his update with, 'What questions do you have?' — it assumed people were following, not confused.\"\nSimilar chunks:\n- Thanks for reading this through.\n\n✗ \"This matters to me — that's why my body is doing this.\" belongs to Reframing nerves as excitement — used to relabel physical anxiety symptoms as excitement instead of trying to suppress them, since the two feel almost identical in the body, not this context.\nSimilar chunks:\n- I'm excited about this one.\n\n✗ \"What would you do differently?\" belongs to Reliable get-to-know-you questions — used as a go-to question that reliably keeps a conversation moving, so you never have to think of something new on the spot, not this context.\nSimilar chunks:\n- What's the best thing about it?\n- What got you into this?\n\n✗ \"Hi — I don't think we've met. I'm [name].\" belongs to Automatic opening lines — used as a pre-loaded opening line for a specific situation, so the first words come out automatically instead of being improvised under pressure, not this context.\nSimilar chunks:\n- Mind if I join you?\n- Have you been to one of these before?\n- Morning — how's your week going?"
+    }
+  ]
+}

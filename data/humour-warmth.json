@@ -1,0 +1,860 @@
+{
+  "examId": "humour-warmth",
+  "title": "Chunk Atlas — Confidence & Humour: Humour & Warmth",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "The projector just died mid-presentation, or you're in the fourth meeting this month about the same unresolved issue, and you want a witty in-the-moment remark, not a rehearsed joke. Which chunk fits best?",
+      "options": {
+        "A": "Well, this is going brilliantly.",
+        "B": "Couldn't have gone better, really.",
+        "C": "kerfuffle",
+        "D": "Okay, I'm missing something — explain it to me."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Well, this is going brilliantly.\" is a Reacting to what just happened in the room chunk: used as a witty reaction to something that just happened in the room, rather than a prepared joke or story.\nExample: \"The projector froze for the third time and she just said, 'Well, this is going brilliantly,' and the room relaxed.\"\nSimilar chunks:\n- Same time next week?\n\n✗ \"Couldn't have gone better, really.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- Oh, only three hours late. Practically punctual.\n- Love that for me.\n- I mean, technically you're not wrong.\n\n✗ \"kerfuffle\" belongs to Playful vocabulary for light chaos or hassle — used as a light, playful word for minor chaos or hassle, instead of a flat formal description, not this context.\nSimilar chunks:\n- faff\n- a bit of a palaver\n- shenanigans\n\n✗ \"Okay, I'm missing something — explain it to me.\" belongs to Admitting you didn't get the joke — used to admit you didn't understand a joke, without killing the mood or making it awkward, not this context.\nSimilar chunks:\n- That's one for the locals. What am I missing?\n- I'm going to laugh, but I want you to know I have no idea why.\n- Is that a pun? I refuse to reward that."
+    },
+    {
+      "id": 2,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "The projector just died mid-presentation, or you're in the fourth meeting this month about the same unresolved issue, and you want a witty in-the-moment remark, not a rehearsed joke. Which chunk fits best?",
+      "options": {
+        "A": "Ha, very good.",
+        "B": "Ah, look who decided to join us.",
+        "C": "Same time next week?",
+        "D": "I peaked early today."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Ha, very good.\" belongs to Laughing along / verbal appreciation — used to show you found something genuinely funny, as a light verbal response rather than a full laugh or a joke of your own, not this context.\nSimilar chunks:\n- That's a good one.\n- That's brilliant.\n- I like that.\n\n✗ \"Ah, look who decided to join us.\" belongs to Teasing someone who's late — used to affectionately tease someone close for arriving late, once they've clearly teased you before too, not this context.\nSimilar chunks:\n- We saved you a seat. It's in the corridor.\n\n✓ Correct — \"Same time next week?\" is a Reacting to what just happened in the room chunk: used as a witty reaction to something that just happened in the room, rather than a prepared joke or story.\nExample: \"As the fourth meeting on the same topic wrapped up with nothing resolved, he deadpanned, 'Same time next week?'\"\nSimilar chunks:\n- Well, this is going brilliantly.\n\n✗ \"I peaked early today.\" belongs to Self-deprecating quips (everyday) — used to make light of your own small, everyday habits or quirks, to stay relatable rather than defensive, not this context.\nSimilar chunks:\n- I have the attention span of a goldfish.\n- I'm told I'm an adult, but I have my doubts.\n- My inbox is a crime scene."
+    },
+    {
+      "id": 3,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You want to set something up as if it's important or dramatic, then deflate it with a plain, deadpan twist. Which chunk fits best?",
+      "options": {
+        "A": "We have a robust risk framework. It's called hoping.",
+        "B": "Oh good, another meeting about the meeting.",
+        "C": "Are you nearly done? I've aged.",
+        "D": "shenanigans"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"We have a robust risk framework. It's called hoping.\" is a Mock-serious humour: build-up, then undercut chunk: used to build something up seriously — as a system, an achievement, or a formal claim — then undercut it with a plain, deadpan twist.\nExample: \"When someone asked about contingency planning, she said, 'We have a robust risk framework. It's called hoping.'\"\nSimilar chunks:\n- I've read that email four hundred times.\n- I have reviewed the biscuit situation. It is dire.\n- It's been a challenging week.\n\n✗ \"Oh good, another meeting about the meeting.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- Famous last words.\n- I mean, technically you're not wrong.\n- Sure, why not.\n\n✗ \"Are you nearly done? I've aged.\" belongs to Teasing someone who won't stop talking — used to gently prod someone close to wrap up when they've been talking for a while, without shutting them down harshly, not this context.\nSimilar chunks:\n- Feel free to stop any time.\n\n✗ \"shenanigans\" belongs to Playful vocabulary for light chaos or hassle — used as a light, playful word for minor chaos or hassle, instead of a flat formal description, not this context.\nSimilar chunks:\n- kerfuffle\n- faff\n- a bit of a palaver"
+    },
+    {
+      "id": 4,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You want to set something up as if it's important or dramatic, then deflate it with a plain, deadpan twist. Which chunk fits best?",
+      "options": {
+        "A": "faff",
+        "B": "You're not wrong.",
+        "C": "It's been a challenging week.",
+        "D": "Don't let it go to your head."
+      },
+      "correct": "C",
+      "explanation": "✗ \"faff\" belongs to Playful vocabulary for light chaos or hassle — used as a light, playful word for minor chaos or hassle, instead of a flat formal description, not this context.\nSimilar chunks:\n- kerfuffle\n- a bit of a palaver\n- shenanigans\n\n✗ \"You're not wrong.\" belongs to Accepting a tease gracefully — used to accept being teased gracefully, without getting defensive or over-apologizing, not this context.\nSimilar chunks:\n- Late? I'm practically early — by tomorrow's standards.\n- Fair.\n- Fair enough.\n\n✓ Correct — \"It's been a challenging week.\" is a Mock-serious humour: build-up, then undercut chunk: used to build something up seriously — as a system, an achievement, or a formal claim — then undercut it with a plain, deadpan twist.\nExample: \"The entire project had collapsed, so he just told the team, 'It's been a challenging week,' and everyone laughed at the understatement.\"\nSimilar chunks:\n- We have a robust risk framework. It's called hoping.\n- After twenty years in this industry, I have learned... absolutely nothing.\n- I've read that email four hundred times.\n\n✗ \"Don't let it go to your head.\" belongs to Teasing someone who's boasting — used to gently tease someone close who's visibly pleased with themselves, to keep the mood light rather than to put them down, not this context.\nSimilar chunks:\n- Alright, Einstein.\n- Steady on."
+    },
+    {
+      "id": 5,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Someone made a joke earlier in the conversation or meeting, and you want to bring it back later — it shows you were genuinely listening, which lands as both funny and warm. Which chunk fits best?",
+      "options": {
+        "A": "That was [name]'s idea — credit where it's due.",
+        "B": "Second only to [X].",
+        "C": "I had to look that up before this meeting.",
+        "D": "Same time next week?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"That was [name]'s idea — credit where it's due.\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- How did the move go?\n- Did your daughter get the place?\n- [Name] knows this better than anyone.\n\n✓ Correct — \"Second only to [X].\" is a Callback humour chunk: used to bring back an earlier joke or detail later in the conversation, which shows you were genuinely listening and lands as both funny and warm.\nExample: \"She rated the new coffee machine, 'Second only to the biscuit incident, this is the best thing that's happened all week.'\"\nSimilar chunks:\n- ...much like [X].\n- Well, at least it's better than the coffee.\n- Right — and on that note, someone please fix the coffee.\n\n✗ \"I had to look that up before this meeting.\" belongs to Showing measured vulnerability — used to admit something was difficult, confusing, or nerve-wracking, in a measured way that builds warmth without oversharing, not this context.\nSimilar chunks:\n- I'm nervous about this one — it matters to me.\n- I'll be honest, I found that confusing too.\n- I got that completely wrong last time, so bear with me.\n\n✗ \"Same time next week?\" belongs to Reacting to what just happened in the room — used as a witty reaction to something that just happened in the room, rather than a prepared joke or story, not this context.\nSimilar chunks:\n- Well, this is going brilliantly."
+    },
+    {
+      "id": 6,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Someone made a joke earlier in the conversation or meeting, and you want to bring it back later — it shows you were genuinely listening, which lands as both funny and warm. Which chunk fits best?",
+      "options": {
+        "A": "Well, at least it's better than the coffee.",
+        "B": "Thanks! Don't worry, normal service will resume shortly.",
+        "C": "I have no idea what I'm doing, but I'm doing it confidently.",
+        "D": "So I open the file. The file laughs at me."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Well, at least it's better than the coffee.\" is a Callback humour chunk: used to bring back an earlier joke or detail later in the conversation, which shows you were genuinely listening and lands as both funny and warm.\nExample: \"Someone had joked about the terrible coffee at 10am; at 3pm, when a report came back mediocre, she said, 'Well, at least it's better than the coffee.'\"\nSimilar chunks:\n- ...much like [X].\n- Second only to [X].\n- Right — and on that note, someone please fix the coffee.\n\n✗ \"Thanks! Don't worry, normal service will resume shortly.\" belongs to Deflecting a compliment warmly — used to accept a compliment gracefully with a light joke, instead of either denying it or sounding boastful, not this context.\nSimilar chunks:\n- Thanks — the team did the heavy lifting, I just showed up.\n- I'll take it. Don't look too closely.\n- Thanks — even a broken clock is right twice a day.\n\n✗ \"I have no idea what I'm doing, but I'm doing it confidently.\" belongs to Self-deprecating humor after a mistake or mediocre outcome — used to acknowledge a mistake or a mediocre outcome lightly, without getting defensive or over-explaining, not this context.\nSimilar chunks:\n- Don't ask me how I managed that.\n- I'll be honest, I did not think this through.\n- Well, that went about as well as expected.\n\n✗ \"So I open the file. The file laughs at me.\" belongs to Playful register: mock-seriousness and exaggeration — used to talk about something trivial in a mock-serious or playfully exaggerated way, to keep the mood light, not this context.\nSimilar chunks:\n- I have thoughts about this biscuit.\n- I've been waiting for this coffee since roughly the Ice Age.\n- This is a matter of national importance."
+    },
+    {
+      "id": 7,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A colleague just made a joke and you want to show you found it genuinely funny, without necessarily topping it. Which chunk fits best?",
+      "options": {
+        "A": "Classic me.",
+        "B": "That's brilliant.",
+        "C": "This is fine.",
+        "D": "I'll be honest, I found that confusing too."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Classic me.\" belongs to Self-deprecating quips (everyday) — used to make light of your own small, everyday habits or quirks, to stay relatable rather than defensive, not this context.\nSimilar chunks:\n- That's very on brand for me.\n- My inbox is a crime scene.\n- I'm told I'm an adult, but I have my doubts.\n\n✓ Correct — \"That's brilliant.\" is a Laughing along / verbal appreciation chunk: used to show you found something genuinely funny, as a light verbal response rather than a full laugh or a joke of your own.\nExample: \"When his colleague delivered the punchline, she laughed and said, 'That's brilliant.'\"\nSimilar chunks:\n- Ha!\n- I like that.\n- Ha, very good.\n\n✗ \"This is fine.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- Oh, only three hours late. Practically punctual.\n- Greeeeat.\n- Love that for me.\n\n✗ \"I'll be honest, I found that confusing too.\" belongs to Showing measured vulnerability — used to admit something was difficult, confusing, or nerve-wracking, in a measured way that builds warmth without oversharing, not this context.\nSimilar chunks:\n- I'm nervous about this one — it matters to me.\n- I got that completely wrong last time, so bear with me.\n- I had to look that up before this meeting."
+    },
+    {
+      "id": 8,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A colleague just made a joke and you want to show you found it genuinely funny, without necessarily topping it. Which chunk fits best?",
+      "options": {
+        "A": "Did your daughter get the place?",
+        "B": "It's been a challenging week.",
+        "C": "Ha, very good.",
+        "D": "My laptop has decided today is not the day."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Did your daughter get the place?\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- That was [name]'s idea — credit where it's due.\n- Thanks for making time — I know your week is brutal.\n- [Name] knows this better than anyone.\n\n✗ \"It's been a challenging week.\" belongs to Mock-serious humour: build-up, then undercut — used to build something up seriously — as a system, an achievement, or a formal claim — then undercut it with a plain, deadpan twist, not this context.\nSimilar chunks:\n- I have reviewed the biscuit situation. It is dire.\n- After twenty years in this industry, I have learned... absolutely nothing.\n- I've read that email four hundred times.\n\n✓ Correct — \"Ha, very good.\" is a Laughing along / verbal appreciation chunk: used to show you found something genuinely funny, as a light verbal response rather than a full laugh or a joke of your own.\nExample: \"He smirked at the pun and said, 'Ha, very good,' before getting back to the agenda.\"\nSimilar chunks:\n- Ha!\n- That's brilliant.\n- I like that.\n\n✗ \"My laptop has decided today is not the day.\" belongs to Playful register: mock-seriousness and exaggeration — used to talk about something trivial in a mock-serious or playfully exaggerated way, to keep the mood light, not this context.\nSimilar chunks:\n- I have thoughts about this biscuit.\n- This is a matter of national importance.\n- So I open the file. The file laughs at me."
+    },
+    {
+      "id": 9,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Someone's just been on a roll with the jokes and you want to acknowledge it directly, not just laugh. Which chunk fits best?",
+      "options": {
+        "A": "Thanks for making time — I know your week is brutal.",
+        "B": "Did your daughter get the place?",
+        "C": "Bold.",
+        "D": "Quality."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Thanks for making time — I know your week is brutal.\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- What made you go into this line of work?\n- Did your daughter get the place?\n- How did the move go?\n\n✗ \"Did your daughter get the place?\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- Thanks for making time — I know your week is brutal.\n- What made you go into this line of work?\n- [Name] knows this better than anyone.\n\n✗ \"Bold.\" belongs to Teasing a bad idea, fondly — used to fondly tease a bold or slightly ridiculous idea, without shutting it down outright, not this context.\nSimilar chunks:\n- That's certainly a choice.\n- Love the confidence.\n\n✓ Correct — \"Quality.\" is a Complimenting someone's joke directly chunk: used to directly compliment someone for being funny, rather than just laughing along.\nExample: \"She looked over at him after the punchline and just said, 'Quality.'\"\nSimilar chunks:\n- Nice.\n- You're on form today."
+    },
+    {
+      "id": 10,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Someone's just been on a roll with the jokes and you want to acknowledge it directly, not just laugh. Which chunk fits best?",
+      "options": {
+        "A": "That was a very long silence.",
+        "B": "Ha, very good.",
+        "C": "Well, this is awkward.",
+        "D": "Nice."
+      },
+      "correct": "D",
+      "explanation": "✗ \"That was a very long silence.\" belongs to Naming an awkward moment out loud — used to name an awkward moment out loud instead of pretending it isn't happening, which usually breaks the tension, not this context.\nSimilar chunks:\n- The classic Zoom standoff. I'll go.\n- Someone has to say it, so: what are we actually doing here?\n- Well, this is awkward.\n\n✗ \"Ha, very good.\" belongs to Laughing along / verbal appreciation — used to show you found something genuinely funny, as a light verbal response rather than a full laugh or a joke of your own, not this context.\nSimilar chunks:\n- Ha!\n- That's brilliant.\n- That's a good one.\n\n✗ \"Well, this is awkward.\" belongs to Naming an awkward moment out loud — used to name an awkward moment out loud instead of pretending it isn't happening, which usually breaks the tension, not this context.\nSimilar chunks:\n- That was a very long silence.\n- I'll be the one to ask the obvious question.\n- The classic Zoom standoff. I'll go.\n\n✓ Correct — \"Nice.\" is a Complimenting someone's joke directly chunk: used to directly compliment someone for being funny, rather than just laughing along.\nExample: \"He nodded appreciatively at her joke and said, 'Nice.'\"\nSimilar chunks:\n- You're on form today.\n- Quality."
+    },
+    {
+      "id": 11,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Someone just made a joke about a shared frustration — a bad commute, a broken system, an annoying process — and you want to signal 'me too' rather than solve it. Which chunk fits best?",
+      "options": {
+        "A": "I had to look that up before this meeting.",
+        "B": "Greeeeat.",
+        "C": "Tell me about it.",
+        "D": "That's one for the locals. What am I missing?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"I had to look that up before this meeting.\" belongs to Showing measured vulnerability — used to admit something was difficult, confusing, or nerve-wracking, in a measured way that builds warmth without oversharing, not this context.\nSimilar chunks:\n- I'll be honest, I found that confusing too.\n- I'm nervous about this one — it matters to me.\n- I got that completely wrong last time, so bear with me.\n\n✗ \"Greeeeat.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- What could possibly go wrong?\n- Sure, why not.\n- That went well.\n\n✓ Correct — \"Tell me about it.\" is an Empathizing with a shared-pain joke chunk: used to signal shared frustration after someone jokes about a common pain point, rather than offering a solution.\nExample: \"When he joked about the Monday inbox pile-up, she sighed, 'Tell me about it.'\"\nSimilar chunks:\n- You and me both.\n- Don't. Just don't.\n\n✗ \"That's one for the locals. What am I missing?\" belongs to Admitting you didn't get the joke — used to admit you didn't understand a joke, without killing the mood or making it awkward, not this context.\nSimilar chunks:\n- I'm going to laugh, but I want you to know I have no idea why.\n- Is that a pun? I refuse to reward that.\n- Okay, I'm missing something — explain it to me."
+    },
+    {
+      "id": 12,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Someone just made a joke about a shared frustration — a bad commute, a broken system, an annoying process — and you want to signal 'me too' rather than solve it. Which chunk fits best?",
+      "options": {
+        "A": "Are you being sarcastic?",
+        "B": "I'll stick to the day job.",
+        "C": "Don't. Just don't.",
+        "D": "Well, this is going brilliantly."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Are you being sarcastic?\" belongs to Checking whether someone was being sarcastic — used to check whether someone was being sarcastic, or to react safely in a way that works whether they were or weren't, not this context.\nSimilar chunks:\n- Ha.\n\n✗ \"I'll stick to the day job.\" belongs to Recovering when a joke falls flat — used to recover quickly and lightly when a joke lands with silence, instead of over-explaining or apologizing for it, not this context.\nSimilar chunks:\n- That was funnier in my head.\n- Right, moving on.\n- Tough crowd.\n\n✓ Correct — \"Don't. Just don't.\" is an Empathizing with a shared-pain joke chunk: used to signal shared frustration after someone jokes about a common pain point, rather than offering a solution.\nExample: \"Someone brought up the failed system migration as a joke, and he groaned, 'Don't. Just don't.'\"\nSimilar chunks:\n- You and me both.\n- Tell me about it.\n\n✗ \"Well, this is going brilliantly.\" belongs to Reacting to what just happened in the room — used as a witty reaction to something that just happened in the room, rather than a prepared joke or story, not this context.\nSimilar chunks:\n- Same time next week?"
+    },
+    {
+      "id": 13,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You want to poke gentle fun at your own small, everyday habits to keep things light and relatable. Which chunk fits best?",
+      "options": {
+        "A": "My inbox is a crime scene.",
+        "B": "Alright, alright.",
+        "C": "Love the confidence.",
+        "D": "I'll take it. Don't look too closely."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"My inbox is a crime scene.\" is a Self-deprecating quips (everyday) chunk: used to make light of your own small, everyday habits or quirks, to stay relatable rather than defensive.\nExample: \"He opened his laptop and muttered, 'My inbox is a crime scene,' before diving in.\"\nSimilar chunks:\n- I'm told I'm an adult, but I have my doubts.\n- I peaked early today.\n- I have the attention span of a goldfish.\n\n✗ \"Alright, alright.\" belongs to Firing back lightly when teased — used to lightly return a tease rather than simply accepting it, keeping the exchange playful, not this context.\nSimilar chunks:\n- Coming from you, that's rich.\n- Says the man who...\n\n✗ \"Love the confidence.\" belongs to Teasing a bad idea, fondly — used to fondly tease a bold or slightly ridiculous idea, without shutting it down outright, not this context.\nSimilar chunks:\n- That's certainly a choice.\n- Bold.\n\n✗ \"I'll take it. Don't look too closely.\" belongs to Deflecting a compliment warmly — used to accept a compliment gracefully with a light joke, instead of either denying it or sounding boastful, not this context.\nSimilar chunks:\n- Thanks — even a broken clock is right twice a day.\n- Thanks — the team did the heavy lifting, I just showed up.\n- Thanks! Don't worry, normal service will resume shortly."
+    },
+    {
+      "id": 14,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You want to poke gentle fun at your own small, everyday habits to keep things light and relatable. Which chunk fits best?",
+      "options": {
+        "A": "Are you nearly done? I've aged.",
+        "B": "Love the confidence.",
+        "C": "That's very on brand for me.",
+        "D": "Love that for me."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Are you nearly done? I've aged.\" belongs to Teasing someone who won't stop talking — used to gently prod someone close to wrap up when they've been talking for a while, without shutting them down harshly, not this context.\nSimilar chunks:\n- Feel free to stop any time.\n\n✗ \"Love the confidence.\" belongs to Teasing a bad idea, fondly — used to fondly tease a bold or slightly ridiculous idea, without shutting it down outright, not this context.\nSimilar chunks:\n- Bold.\n- That's certainly a choice.\n\n✓ Correct — \"That's very on brand for me.\" is a Self-deprecating quips (everyday) chunk: used to make light of your own small, everyday habits or quirks, to stay relatable rather than defensive.\nExample: \"She spilled coffee on her notes and said, 'That's very on brand for me.'\"\nSimilar chunks:\n- I have the attention span of a goldfish.\n- My inbox is a crime scene.\n- Classic me.\n\n✗ \"Love that for me.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- What could possibly go wrong?\n- Oh good, another meeting about the meeting.\n- Greeeeat."
+    },
+    {
+      "id": 15,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You want to poke gentle fun at your own small, everyday habits to keep things light and relatable. Which chunk fits best?",
+      "options": {
+        "A": "What made you go into this line of work?",
+        "B": "I mean, technically you're not wrong.",
+        "C": "Late? I'm practically early — by tomorrow's standards.",
+        "D": "Classic me."
+      },
+      "correct": "D",
+      "explanation": "✗ \"What made you go into this line of work?\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- [Name] knows this better than anyone.\n- Thanks for making time — I know your week is brutal.\n- Did your daughter get the place?\n\n✗ \"I mean, technically you're not wrong.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- Oh good, another meeting about the meeting.\n- Famous last words.\n- Love that for me.\n\n✗ \"Late? I'm practically early — by tomorrow's standards.\" belongs to Accepting a tease gracefully — used to accept being teased gracefully, without getting defensive or over-apologizing, not this context.\nSimilar chunks:\n- Fair.\n- You're not wrong.\n- I walked into that one.\n\n✓ Correct — \"Classic me.\" is a Self-deprecating quips (everyday) chunk: used to make light of your own small, everyday habits or quirks, to stay relatable rather than defensive.\nExample: \"He showed up five minutes late again and said, 'Classic me,' with a grin.\"\nSimilar chunks:\n- I peaked early today.\n- My inbox is a crime scene.\n- I'm told I'm an adult, but I have my doubts."
+    },
+    {
+      "id": 16,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Something you did just went wrong, or turned out only mediocre, and you want to acknowledge it lightly instead of getting defensive. Which chunk fits best?",
+      "options": {
+        "A": "I like that.",
+        "B": "I have no idea what I'm doing, but I'm doing it confidently.",
+        "C": "Alright, alright.",
+        "D": "Well, this is going brilliantly."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I like that.\" belongs to Laughing along / verbal appreciation — used to show you found something genuinely funny, as a light verbal response rather than a full laugh or a joke of your own, not this context.\nSimilar chunks:\n- That's a good one.\n- That's brilliant.\n- Ha, very good.\n\n✓ Correct — \"I have no idea what I'm doing, but I'm doing it confidently.\" is a Self-deprecating humor after a mistake or mediocre outcome chunk: used to acknowledge a mistake or a mediocre outcome lightly, without getting defensive or over-explaining.\nExample: \"He fumbled through the new software live and joked, 'I have no idea what I'm doing, but I'm doing it confidently.'\"\nSimilar chunks:\n- In my defence... I have no defence.\n- I'll be honest, I did not think this through.\n- I'd love to say that was planned.\n\n✗ \"Alright, alright.\" belongs to Firing back lightly when teased — used to lightly return a tease rather than simply accepting it, keeping the exchange playful, not this context.\nSimilar chunks:\n- Says the man who...\n- Coming from you, that's rich.\n\n✗ \"Well, this is going brilliantly.\" belongs to Reacting to what just happened in the room — used as a witty reaction to something that just happened in the room, rather than a prepared joke or story, not this context.\nSimilar chunks:\n- Same time next week?"
+    },
+    {
+      "id": 17,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Something you did just went wrong, or turned out only mediocre, and you want to acknowledge it lightly instead of getting defensive. Which chunk fits best?",
+      "options": {
+        "A": "Right, I'll leave you alone now.",
+        "B": "That was a very long silence.",
+        "C": "Well, this is going brilliantly.",
+        "D": "I'd love to say that was planned."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Right, I'll leave you alone now.\" belongs to Ending a teasing exchange — used to land a teasing exchange gracefully, either winding it down naturally or correcting course if it went a step too far, not this context.\nSimilar chunks:\n- Okay, I'm done.\n- Sorry — too far, that was on me.\n\n✗ \"That was a very long silence.\" belongs to Naming an awkward moment out loud — used to name an awkward moment out loud instead of pretending it isn't happening, which usually breaks the tension, not this context.\nSimilar chunks:\n- Someone has to say it, so: what are we actually doing here?\n- Well, this is awkward.\n- I'll be the one to ask the obvious question.\n\n✗ \"Well, this is going brilliantly.\" belongs to Reacting to what just happened in the room — used as a witty reaction to something that just happened in the room, rather than a prepared joke or story, not this context.\nSimilar chunks:\n- Same time next week?\n\n✓ Correct — \"I'd love to say that was planned.\" is a Self-deprecating humor after a mistake or mediocre outcome chunk: used to acknowledge a mistake or a mediocre outcome lightly, without getting defensive or over-explaining.\nExample: \"The demo crashed at exactly the wrong moment and she laughed, 'I'd love to say that was planned.'\"\nSimilar chunks:\n- In my defence... I have no defence.\n- Well, that went about as well as expected.\n- I have no idea what I'm doing, but I'm doing it confidently."
+    },
+    {
+      "id": 18,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Something you did just went wrong, or turned out only mediocre, and you want to acknowledge it lightly instead of getting defensive. Which chunk fits best?",
+      "options": {
+        "A": "Did your daughter get the place?",
+        "B": "Don't ask me how I managed that.",
+        "C": "Coming from you, that's rich.",
+        "D": "That's brilliant."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Did your daughter get the place?\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- What made you go into this line of work?\n- [Name] knows this better than anyone.\n- Thanks for making time — I know your week is brutal.\n\n✓ Correct — \"Don't ask me how I managed that.\" is a Self-deprecating humor after a mistake or mediocre outcome chunk: used to acknowledge a mistake or a mediocre outcome lightly, without getting defensive or over-explaining.\nExample: \"He somehow broke the printer again and sighed, 'Don't ask me how I managed that.'\"\nSimilar chunks:\n- I'll be honest, I did not think this through.\n- I'd love to say that was planned.\n- I have no idea what I'm doing, but I'm doing it confidently.\n\n✗ \"Coming from you, that's rich.\" belongs to Firing back lightly when teased — used to lightly return a tease rather than simply accepting it, keeping the exchange playful, not this context.\nSimilar chunks:\n- Alright, alright.\n- Says the man who...\n\n✗ \"That's brilliant.\" belongs to Laughing along / verbal appreciation — used to show you found something genuinely funny, as a light verbal response rather than a full laugh or a joke of your own, not this context.\nSimilar chunks:\n- Ha, very good.\n- That's a good one.\n- I like that."
+    },
+    {
+      "id": 19,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Someone just praised your work and you want to accept it graciously without sounding falsely modest or boastful. Which chunk fits best?",
+      "options": {
+        "A": "I'll allow it.",
+        "B": "How did the move go?",
+        "C": "I'll take it. Don't look too closely.",
+        "D": "I'll stick to the day job."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I'll allow it.\" belongs to Teasing about a mistake, affectionately — used to rib someone close about a small mistake in a way that reads as affectionate, not judgmental, not this context.\nSimilar chunks:\n- I won't hold it against you.\n- Noted. Filed. Never forgotten.\n\n✗ \"How did the move go?\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- Did your daughter get the place?\n- [Name] knows this better than anyone.\n- That was [name]'s idea — credit where it's due.\n\n✓ Correct — \"I'll take it. Don't look too closely.\" is a Deflecting a compliment warmly chunk: used to accept a compliment gracefully with a light joke, instead of either denying it or sounding boastful.\nExample: \"Praised for the tidy report, she grinned, 'I'll take it. Don't look too closely.'\"\nSimilar chunks:\n- Thanks — the team did the heavy lifting, I just showed up.\n- Thanks — even a broken clock is right twice a day.\n- Thanks! Don't worry, normal service will resume shortly.\n\n✗ \"I'll stick to the day job.\" belongs to Recovering when a joke falls flat — used to recover quickly and lightly when a joke lands with silence, instead of over-explaining or apologizing for it, not this context.\nSimilar chunks:\n- That was funnier in my head.\n- Wow. Nothing. Noted.\n- Tough crowd."
+    },
+    {
+      "id": 20,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Someone just praised your work and you want to accept it graciously without sounding falsely modest or boastful. Which chunk fits best?",
+      "options": {
+        "A": "Thanks — the team did the heavy lifting, I just showed up.",
+        "B": "I won't hold it against you.",
+        "C": "Don't. Just don't.",
+        "D": "Coming from you, that's rich."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Thanks — the team did the heavy lifting, I just showed up.\" is a Deflecting a compliment warmly chunk: used to accept a compliment gracefully with a light joke, instead of either denying it or sounding boastful.\nExample: \"When the client praised the launch, he said, 'Thanks — the team did the heavy lifting, I just showed up.'\"\nSimilar chunks:\n- I'll take it. Don't look too closely.\n- Thanks! Don't worry, normal service will resume shortly.\n- Thanks — even a broken clock is right twice a day.\n\n✗ \"I won't hold it against you.\" belongs to Teasing about a mistake, affectionately — used to rib someone close about a small mistake in a way that reads as affectionate, not judgmental, not this context.\nSimilar chunks:\n- Noted. Filed. Never forgotten.\n- I'll allow it.\n\n✗ \"Don't. Just don't.\" belongs to Empathizing with a shared-pain joke — used to signal shared frustration after someone jokes about a common pain point, rather than offering a solution, not this context.\nSimilar chunks:\n- You and me both.\n- Tell me about it.\n\n✗ \"Coming from you, that's rich.\" belongs to Firing back lightly when teased — used to lightly return a tease rather than simply accepting it, keeping the exchange playful, not this context.\nSimilar chunks:\n- Says the man who...\n- Alright, alright."
+    },
+    {
+      "id": 21,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A close colleague or friend finally walks in after everyone else has arrived, and you want to tease them warmly about it. Which chunk fits best?",
+      "options": {
+        "A": "Fair enough.",
+        "B": "We saved you a seat. It's in the corridor.",
+        "C": "I've been waiting for this coffee since roughly the Ice Age.",
+        "D": "Did your daughter get the place?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Fair enough.\" belongs to Accepting a tease gracefully — used to accept being teased gracefully, without getting defensive or over-apologizing, not this context.\nSimilar chunks:\n- Fair.\n- Late? I'm practically early — by tomorrow's standards.\n- I walked into that one.\n\n✓ Correct — \"We saved you a seat. It's in the corridor.\" is a Teasing someone who's late chunk: used to affectionately tease someone close for arriving late, once they've clearly teased you before too.\nExample: \"When she rushed in last, he deadpanned, 'We saved you a seat. It's in the corridor.'\"\nSimilar chunks:\n- Ah, look who decided to join us.\n\n✗ \"I've been waiting for this coffee since roughly the Ice Age.\" belongs to Playful register: mock-seriousness and exaggeration — used to talk about something trivial in a mock-serious or playfully exaggerated way, to keep the mood light, not this context.\nSimilar chunks:\n- My laptop has decided today is not the day.\n- This is a matter of national importance.\n- So I open the file. The file laughs at me.\n\n✗ \"Did your daughter get the place?\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- How did the move go?\n- That was [name]'s idea — credit where it's due.\n- What made you go into this line of work?"
+    },
+    {
+      "id": 22,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A close colleague or friend finally walks in after everyone else has arrived, and you want to tease them warmly about it. Which chunk fits best?",
+      "options": {
+        "A": "That was funnier in my head.",
+        "B": "Ah, look who decided to join us.",
+        "C": "Sure, why not.",
+        "D": "In my defence... I have no defence."
+      },
+      "correct": "B",
+      "explanation": "✗ \"That was funnier in my head.\" belongs to Recovering when a joke falls flat — used to recover quickly and lightly when a joke lands with silence, instead of over-explaining or apologizing for it, not this context.\nSimilar chunks:\n- I'll see myself out.\n- Wow. Nothing. Noted.\n- Tough crowd.\n\n✓ Correct — \"Ah, look who decided to join us.\" is a Teasing someone who's late chunk: used to affectionately tease someone close for arriving late, once they've clearly teased you before too.\nExample: \"As he slipped into his seat ten minutes late, she grinned, 'Ah, look who decided to join us.'\"\nSimilar chunks:\n- We saved you a seat. It's in the corridor.\n\n✗ \"Sure, why not.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- Love that for me.\n- Couldn't have gone better, really.\n- Well, that's just perfect.\n\n✗ \"In my defence... I have no defence.\" belongs to Self-deprecating humor after a mistake or mediocre outcome — used to acknowledge a mistake or a mediocre outcome lightly, without getting defensive or over-explaining, not this context.\nSimilar chunks:\n- I'd love to say that was planned.\n- I'll be honest, I did not think this through.\n- I have no idea what I'm doing, but I'm doing it confidently."
+    },
+    {
+      "id": 23,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A close colleague is clearly pleased with themselves about something and you want to tease them gently for it, warmly, not cruelly. Which chunk fits best?",
+      "options": {
+        "A": "I'll be honest, I found that confusing too.",
+        "B": "That's a good one.",
+        "C": "You and me both.",
+        "D": "Don't let it go to your head."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'll be honest, I found that confusing too.\" belongs to Showing measured vulnerability — used to admit something was difficult, confusing, or nerve-wracking, in a measured way that builds warmth without oversharing, not this context.\nSimilar chunks:\n- I had to look that up before this meeting.\n- I got that completely wrong last time, so bear with me.\n- I'm nervous about this one — it matters to me.\n\n✗ \"That's a good one.\" belongs to Laughing along / verbal appreciation — used to show you found something genuinely funny, as a light verbal response rather than a full laugh or a joke of your own, not this context.\nSimilar chunks:\n- That's brilliant.\n- Ha, very good.\n- Ha!\n\n✗ \"You and me both.\" belongs to Empathizing with a shared-pain joke — used to signal shared frustration after someone jokes about a common pain point, rather than offering a solution, not this context.\nSimilar chunks:\n- Don't. Just don't.\n- Tell me about it.\n\n✓ Correct — \"Don't let it go to your head.\" is a Teasing someone who's boasting chunk: used to gently tease someone close who's visibly pleased with themselves, to keep the mood light rather than to put them down.\nExample: \"After his idea got praised in the all-hands, she smiled, 'Don't let it go to your head.'\"\nSimilar chunks:\n- Alright, Einstein.\n- Steady on."
+    },
+    {
+      "id": 24,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A close colleague is clearly pleased with themselves about something and you want to tease them gently for it, warmly, not cruelly. Which chunk fits best?",
+      "options": {
+        "A": "Alright, Einstein.",
+        "B": "Feel free to stop any time.",
+        "C": "Tell me about it.",
+        "D": "You're on form today."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Alright, Einstein.\" is a Teasing someone who's boasting chunk: used to gently tease someone close who's visibly pleased with themselves, to keep the mood light rather than to put them down.\nExample: \"He explained the obvious a bit too proudly and his friend said, 'Alright, Einstein.'\"\nSimilar chunks:\n- Don't let it go to your head.\n- Steady on.\n\n✗ \"Feel free to stop any time.\" belongs to Teasing someone who won't stop talking — used to gently prod someone close to wrap up when they've been talking for a while, without shutting them down harshly, not this context.\nSimilar chunks:\n- Are you nearly done? I've aged.\n\n✗ \"Tell me about it.\" belongs to Empathizing with a shared-pain joke — used to signal shared frustration after someone jokes about a common pain point, rather than offering a solution, not this context.\nSimilar chunks:\n- Don't. Just don't.\n- You and me both.\n\n✗ \"You're on form today.\" belongs to Complimenting someone's joke directly — used to directly compliment someone for being funny, rather than just laughing along, not this context.\nSimilar chunks:\n- Quality.\n- Nice."
+    },
+    {
+      "id": 25,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A close colleague just made a small mistake and you want to rib them about it lightly, in a way that reads as affectionate, not judgmental. Which chunk fits best?",
+      "options": {
+        "A": "Noted. Filed. Never forgotten.",
+        "B": "Well, this is awkward.",
+        "C": "I walked into that one.",
+        "D": "Ha."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Noted. Filed. Never forgotten.\" is a Teasing about a mistake, affectionately chunk: used to rib someone close about a small mistake in a way that reads as affectionate, not judgmental.\nExample: \"He apologized for the typo and she said, 'Noted. Filed. Never forgotten.'\"\nSimilar chunks:\n- I won't hold it against you.\n- I'll allow it.\n\n✗ \"Well, this is awkward.\" belongs to Naming an awkward moment out loud — used to name an awkward moment out loud instead of pretending it isn't happening, which usually breaks the tension, not this context.\nSimilar chunks:\n- Someone has to say it, so: what are we actually doing here?\n- I'll be the one to ask the obvious question.\n- I feel like we're all pretending we understood that.\n\n✗ \"I walked into that one.\" belongs to Accepting a tease gracefully — used to accept being teased gracefully, without getting defensive or over-apologizing, not this context.\nSimilar chunks:\n- Fair.\n- You're not wrong.\n- Late? I'm practically early — by tomorrow's standards.\n\n✗ \"Ha.\" belongs to Checking whether someone was being sarcastic — used to check whether someone was being sarcastic, or to react safely in a way that works whether they were or weren't, not this context.\nSimilar chunks:\n- Are you being sarcastic?"
+    },
+    {
+      "id": 26,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A close colleague just made a small mistake and you want to rib them about it lightly, in a way that reads as affectionate, not judgmental. Which chunk fits best?",
+      "options": {
+        "A": "a bit of a palaver",
+        "B": "I won't hold it against you.",
+        "C": "Fair enough.",
+        "D": "In my defence... I have no defence."
+      },
+      "correct": "B",
+      "explanation": "✗ \"a bit of a palaver\" belongs to Playful vocabulary for light chaos or hassle — used as a light, playful word for minor chaos or hassle, instead of a flat formal description, not this context.\nSimilar chunks:\n- faff\n- shenanigans\n- kerfuffle\n\n✓ Correct — \"I won't hold it against you.\" is a Teasing about a mistake, affectionately chunk: used to rib someone close about a small mistake in a way that reads as affectionate, not judgmental.\nExample: \"After he mixed up the client names, she laughed, 'I won't hold it against you.'\"\nSimilar chunks:\n- I'll allow it.\n- Noted. Filed. Never forgotten.\n\n✗ \"Fair enough.\" belongs to Accepting a tease gracefully — used to accept being teased gracefully, without getting defensive or over-apologizing, not this context.\nSimilar chunks:\n- You're not wrong.\n- Late? I'm practically early — by tomorrow's standards.\n- Fair.\n\n✗ \"In my defence... I have no defence.\" belongs to Self-deprecating humor after a mistake or mediocre outcome — used to acknowledge a mistake or a mediocre outcome lightly, without getting defensive or over-explaining, not this context.\nSimilar chunks:\n- I have no idea what I'm doing, but I'm doing it confidently.\n- I'd love to say that was planned.\n- I'll be honest, I did not think this through."
+    },
+    {
+      "id": 27,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A close colleague just floated an idea that's clearly a bit much, and you want to tease them about it without shutting it down. Which chunk fits best?",
+      "options": {
+        "A": "That's certainly a choice.",
+        "B": "shenanigans",
+        "C": "Tell me about it.",
+        "D": "Well, this is going brilliantly."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"That's certainly a choice.\" is a Teasing a bad idea, fondly chunk: used to fondly tease a bold or slightly ridiculous idea, without shutting it down outright.\nExample: \"He suggested presenting in a costume and she smirked, 'That's certainly a choice.'\"\nSimilar chunks:\n- Bold.\n- Love the confidence.\n\n✗ \"shenanigans\" belongs to Playful vocabulary for light chaos or hassle — used as a light, playful word for minor chaos or hassle, instead of a flat formal description, not this context.\nSimilar chunks:\n- faff\n- a bit of a palaver\n- kerfuffle\n\n✗ \"Tell me about it.\" belongs to Empathizing with a shared-pain joke — used to signal shared frustration after someone jokes about a common pain point, rather than offering a solution, not this context.\nSimilar chunks:\n- You and me both.\n- Don't. Just don't.\n\n✗ \"Well, this is going brilliantly.\" belongs to Reacting to what just happened in the room — used as a witty reaction to something that just happened in the room, rather than a prepared joke or story, not this context.\nSimilar chunks:\n- Same time next week?"
+    },
+    {
+      "id": 28,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A close colleague just floated an idea that's clearly a bit much, and you want to tease them about it without shutting it down. Which chunk fits best?",
+      "options": {
+        "A": "Alright, alright.",
+        "B": "Feel free to stop any time.",
+        "C": "Bold.",
+        "D": "I feel like we're all pretending we understood that."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Alright, alright.\" belongs to Firing back lightly when teased — used to lightly return a tease rather than simply accepting it, keeping the exchange playful, not this context.\nSimilar chunks:\n- Coming from you, that's rich.\n- Says the man who...\n\n✗ \"Feel free to stop any time.\" belongs to Teasing someone who won't stop talking — used to gently prod someone close to wrap up when they've been talking for a while, without shutting them down harshly, not this context.\nSimilar chunks:\n- Are you nearly done? I've aged.\n\n✓ Correct — \"Bold.\" is a Teasing a bad idea, fondly chunk: used to fondly tease a bold or slightly ridiculous idea, without shutting it down outright.\nExample: \"He proposed launching without any testing and she just said, 'Bold.'\"\nSimilar chunks:\n- Love the confidence.\n- That's certainly a choice.\n\n✗ \"I feel like we're all pretending we understood that.\" belongs to Naming an awkward moment out loud — used to name an awkward moment out loud instead of pretending it isn't happening, which usually breaks the tension, not this context.\nSimilar chunks:\n- Well, this is awkward.\n- Someone has to say it, so: what are we actually doing here?\n- That was a very long silence."
+    },
+    {
+      "id": 29,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A close colleague or friend has been going on for a while, and you want to gently prod them to wrap up without shutting them down. Which chunk fits best?",
+      "options": {
+        "A": "That's a good one.",
+        "B": "I've been thinking about what I said — I got that wrong. Sorry.",
+        "C": "Feel free to stop any time.",
+        "D": "That's brilliant."
+      },
+      "correct": "C",
+      "explanation": "✗ \"That's a good one.\" belongs to Laughing along / verbal appreciation — used to show you found something genuinely funny, as a light verbal response rather than a full laugh or a joke of your own, not this context.\nSimilar chunks:\n- Ha!\n- I like that.\n- Ha, very good.\n\n✗ \"I've been thinking about what I said — I got that wrong. Sorry.\" belongs to Repairing a joke that went too far — used to repair a joke that actually landed badly and hurt someone, rather than brushing it off or over-explaining, not this context.\nSimilar chunks:\n- That was out of order, I apologise.\n- Sorry — that was too far.\n- I don't think it is — and that's on me.\n\n✓ Correct — \"Feel free to stop any time.\" is a Teasing someone who won't stop talking chunk: used to gently prod someone close to wrap up when they've been talking for a while, without shutting them down harshly.\nExample: \"As his explanation ran long, his colleague said with a smile, 'Feel free to stop any time.'\"\nSimilar chunks:\n- Are you nearly done? I've aged.\n\n✗ \"That's brilliant.\" belongs to Laughing along / verbal appreciation — used to show you found something genuinely funny, as a light verbal response rather than a full laugh or a joke of your own, not this context.\nSimilar chunks:\n- That's a good one.\n- I like that.\n- Ha, very good."
+    },
+    {
+      "id": 30,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A close colleague or friend has been going on for a while, and you want to gently prod them to wrap up without shutting them down. Which chunk fits best?",
+      "options": {
+        "A": "Fair enough.",
+        "B": "I won't hold it against you.",
+        "C": "I'm going to laugh, but I want you to know I have no idea why.",
+        "D": "Are you nearly done? I've aged."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Fair enough.\" belongs to Accepting a tease gracefully — used to accept being teased gracefully, without getting defensive or over-apologizing, not this context.\nSimilar chunks:\n- You're not wrong.\n- I walked into that one.\n- Fair.\n\n✗ \"I won't hold it against you.\" belongs to Teasing about a mistake, affectionately — used to rib someone close about a small mistake in a way that reads as affectionate, not judgmental, not this context.\nSimilar chunks:\n- I'll allow it.\n- Noted. Filed. Never forgotten.\n\n✗ \"I'm going to laugh, but I want you to know I have no idea why.\" belongs to Admitting you didn't get the joke — used to admit you didn't understand a joke, without killing the mood or making it awkward, not this context.\nSimilar chunks:\n- That's one for the locals. What am I missing?\n- Okay, I'm missing something — explain it to me.\n- Is that a pun? I refuse to reward that.\n\n✓ Correct — \"Are you nearly done? I've aged.\" is a Teasing someone who won't stop talking chunk: used to gently prod someone close to wrap up when they've been talking for a while, without shutting them down harshly.\nExample: \"He was ten minutes into a story with no end in sight, and she grinned, 'Are you nearly done? I've aged.'\"\nSimilar chunks:\n- Feel free to stop any time."
+    },
+    {
+      "id": 31,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Someone just teased you and you want to take it well, without either getting defensive or over-apologizing. Which chunk fits best?",
+      "options": {
+        "A": "Fair enough.",
+        "B": "Did your daughter get the place?",
+        "C": "I mean, technically you're not wrong.",
+        "D": "Tough crowd."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Fair enough.\" is an Accepting a tease gracefully chunk: used to accept being teased gracefully, without getting defensive or over-apologizing.\nExample: \"When his colleague pointed out the obvious mistake, he laughed, 'Fair enough.'\"\nSimilar chunks:\n- You're not wrong.\n- I walked into that one.\n- Fair.\n\n✗ \"Did your daughter get the place?\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- Thanks for making time — I know your week is brutal.\n- [Name] knows this better than anyone.\n- That was [name]'s idea — credit where it's due.\n\n✗ \"I mean, technically you're not wrong.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- Couldn't have gone better, really.\n- This is fine.\n- What could possibly go wrong?\n\n✗ \"Tough crowd.\" belongs to Recovering when a joke falls flat — used to recover quickly and lightly when a joke lands with silence, instead of over-explaining or apologizing for it, not this context.\nSimilar chunks:\n- That was funnier in my head.\n- Wow. Nothing. Noted.\n- I'll see myself out."
+    },
+    {
+      "id": 32,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Someone just teased you and you want to take it well, without either getting defensive or over-apologizing. Which chunk fits best?",
+      "options": {
+        "A": "That was [name]'s idea — credit where it's due.",
+        "B": "Bold.",
+        "C": "You're not wrong.",
+        "D": "Did your daughter get the place?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"That was [name]'s idea — credit where it's due.\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- Thanks for making time — I know your week is brutal.\n- How did the move go?\n- Did your daughter get the place?\n\n✗ \"Bold.\" belongs to Teasing a bad idea, fondly — used to fondly tease a bold or slightly ridiculous idea, without shutting it down outright, not this context.\nSimilar chunks:\n- Love the confidence.\n- That's certainly a choice.\n\n✓ Correct — \"You're not wrong.\" is an Accepting a tease gracefully chunk: used to accept being teased gracefully, without getting defensive or over-apologizing.\nExample: \"Teased about his messy desk, he shrugged, 'You're not wrong.'\"\nSimilar chunks:\n- Late? I'm practically early — by tomorrow's standards.\n- Fair enough.\n- I walked into that one.\n\n✗ \"Did your daughter get the place?\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- What made you go into this line of work?\n- Thanks for making time — I know your week is brutal.\n- [Name] knows this better than anyone."
+    },
+    {
+      "id": 33,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Someone just teased you and, rather than just accepting it, you want to lightly bat it back. Which chunk fits best?",
+      "options": {
+        "A": "I don't think it is — and that's on me.",
+        "B": "Alright, alright.",
+        "C": "Nice.",
+        "D": "Well, that's just perfect."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I don't think it is — and that's on me.\" belongs to Repairing a joke that went too far — used to repair a joke that actually landed badly and hurt someone, rather than brushing it off or over-explaining, not this context.\nSimilar chunks:\n- I've been thinking about what I said — I got that wrong. Sorry.\n- That was out of order, I apologise.\n- Sorry — that was too far.\n\n✓ Correct — \"Alright, alright.\" is a Firing back lightly when teased chunk: used to lightly return a tease rather than simply accepting it, keeping the exchange playful.\nExample: \"After a round of teasing about his typo, he laughed, 'Alright, alright.'\"\nSimilar chunks:\n- Says the man who...\n- Coming from you, that's rich.\n\n✗ \"Nice.\" belongs to Complimenting someone's joke directly — used to directly compliment someone for being funny, rather than just laughing along, not this context.\nSimilar chunks:\n- Quality.\n- You're on form today.\n\n✗ \"Well, that's just perfect.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- Greeeeat.\n- Sure, why not.\n- Oh good, another meeting about the meeting."
+    },
+    {
+      "id": 34,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Someone just teased you and, rather than just accepting it, you want to lightly bat it back. Which chunk fits best?",
+      "options": {
+        "A": "Fair enough.",
+        "B": "Fair.",
+        "C": "What could possibly go wrong?",
+        "D": "Says the man who..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Fair enough.\" belongs to Accepting a tease gracefully — used to accept being teased gracefully, without getting defensive or over-apologizing, not this context.\nSimilar chunks:\n- Late? I'm practically early — by tomorrow's standards.\n- Fair.\n- I walked into that one.\n\n✗ \"Fair.\" belongs to Accepting a tease gracefully — used to accept being teased gracefully, without getting defensive or over-apologizing, not this context.\nSimilar chunks:\n- Late? I'm practically early — by tomorrow's standards.\n- I walked into that one.\n- Fair enough.\n\n✗ \"What could possibly go wrong?\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- Couldn't have gone better, really.\n- Greeeeat.\n- Famous last words.\n\n✓ Correct — \"Says the man who...\" is a Firing back lightly when teased chunk: used to lightly return a tease rather than simply accepting it, keeping the exchange playful.\nExample: \"Teased about being late, she shot back, 'Says the man who was late to his own wedding.'\"\nSimilar chunks:\n- Alright, alright.\n- Coming from you, that's rich."
+    },
+    {
+      "id": 35,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A round of playful teasing has gone on for a bit and you want to land it gracefully — either winding down naturally or correcting course if it went a step too far. Which chunk fits best?",
+      "options": {
+        "A": "Feel free to stop any time.",
+        "B": "shenanigans",
+        "C": "Sorry — too far, that was on me.",
+        "D": "Late? I'm practically early — by tomorrow's standards."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Feel free to stop any time.\" belongs to Teasing someone who won't stop talking — used to gently prod someone close to wrap up when they've been talking for a while, without shutting them down harshly, not this context.\nSimilar chunks:\n- Are you nearly done? I've aged.\n\n✗ \"shenanigans\" belongs to Playful vocabulary for light chaos or hassle — used as a light, playful word for minor chaos or hassle, instead of a flat formal description, not this context.\nSimilar chunks:\n- a bit of a palaver\n- faff\n- kerfuffle\n\n✓ Correct — \"Sorry — too far, that was on me.\" is an Ending a teasing exchange chunk: used to land a teasing exchange gracefully, either winding it down naturally or correcting course if it went a step too far.\nExample: \"He noticed his joke had actually landed badly and said immediately, 'Sorry — too far, that was on me.'\"\nSimilar chunks:\n- Right, I'll leave you alone now.\n- Okay, I'm done.\n\n✗ \"Late? I'm practically early — by tomorrow's standards.\" belongs to Accepting a tease gracefully — used to accept being teased gracefully, without getting defensive or over-apologizing, not this context.\nSimilar chunks:\n- Fair.\n- I walked into that one.\n- You're not wrong."
+    },
+    {
+      "id": 36,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A round of playful teasing has gone on for a bit and you want to land it gracefully — either winding down naturally or correcting course if it went a step too far. Which chunk fits best?",
+      "options": {
+        "A": "shenanigans",
+        "B": "Fair.",
+        "C": "Right, I'll leave you alone now.",
+        "D": "Oh, only three hours late. Practically punctual."
+      },
+      "correct": "C",
+      "explanation": "✗ \"shenanigans\" belongs to Playful vocabulary for light chaos or hassle — used as a light, playful word for minor chaos or hassle, instead of a flat formal description, not this context.\nSimilar chunks:\n- kerfuffle\n- a bit of a palaver\n- faff\n\n✗ \"Fair.\" belongs to Accepting a tease gracefully — used to accept being teased gracefully, without getting defensive or over-apologizing, not this context.\nSimilar chunks:\n- Late? I'm practically early — by tomorrow's standards.\n- Fair enough.\n- I walked into that one.\n\n✓ Correct — \"Right, I'll leave you alone now.\" is an Ending a teasing exchange chunk: used to land a teasing exchange gracefully, either winding it down naturally or correcting course if it went a step too far.\nExample: \"After a few rounds of ribbing, she smiled, 'Right, I'll leave you alone now.'\"\nSimilar chunks:\n- Sorry — too far, that was on me.\n- Okay, I'm done.\n\n✗ \"Oh, only three hours late. Practically punctual.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- What could possibly go wrong?\n- This is fine.\n- Famous last words."
+    },
+    {
+      "id": 37,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Something has just gone wrong — a plan fell through, a meeting dragged on, a system broke — and you want a dry, sarcastic remark about the situation itself, not about a person. Which chunk fits best?",
+      "options": {
+        "A": "Oh good, another meeting about the meeting.",
+        "B": "The classic Zoom standoff. I'll go.",
+        "C": "Says the man who...",
+        "D": "Thanks — the team did the heavy lifting, I just showed up."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Oh good, another meeting about the meeting.\" is a Dry sarcasm about a bad situation chunk: used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm.\nExample: \"The invite for a pre-meeting sync landed in his inbox and he groaned, 'Oh good, another meeting about the meeting.'\"\nSimilar chunks:\n- Couldn't have gone better, really.\n- Sure, why not.\n- What could possibly go wrong?\n\n✗ \"The classic Zoom standoff. I'll go.\" belongs to Naming an awkward moment out loud — used to name an awkward moment out loud instead of pretending it isn't happening, which usually breaks the tension, not this context.\nSimilar chunks:\n- Well, this is awkward.\n- That was a very long silence.\n- I feel like we're all pretending we understood that.\n\n✗ \"Says the man who...\" belongs to Firing back lightly when teased — used to lightly return a tease rather than simply accepting it, keeping the exchange playful, not this context.\nSimilar chunks:\n- Coming from you, that's rich.\n- Alright, alright.\n\n✗ \"Thanks — the team did the heavy lifting, I just showed up.\" belongs to Deflecting a compliment warmly — used to accept a compliment gracefully with a light joke, instead of either denying it or sounding boastful, not this context.\nSimilar chunks:\n- Thanks — even a broken clock is right twice a day.\n- Thanks! Don't worry, normal service will resume shortly.\n- I'll take it. Don't look too closely."
+    },
+    {
+      "id": 38,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Something has just gone wrong — a plan fell through, a meeting dragged on, a system broke — and you want a dry, sarcastic remark about the situation itself, not about a person. Which chunk fits best?",
+      "options": {
+        "A": "Famous last words.",
+        "B": "Okay, I'm missing something — explain it to me.",
+        "C": "I have reviewed the biscuit situation. It is dire.",
+        "D": "Tough crowd."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Famous last words.\" is a Dry sarcasm about a bad situation chunk: used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm.\nExample: \"He said the deployment would be quick and easy, and she muttered, 'Famous last words.'\"\nSimilar chunks:\n- I mean, technically you're not wrong.\n- What could possibly go wrong?\n- Couldn't have gone better, really.\n\n✗ \"Okay, I'm missing something — explain it to me.\" belongs to Admitting you didn't get the joke — used to admit you didn't understand a joke, without killing the mood or making it awkward, not this context.\nSimilar chunks:\n- I'm going to laugh, but I want you to know I have no idea why.\n- Is that a pun? I refuse to reward that.\n- That's one for the locals. What am I missing?\n\n✗ \"I have reviewed the biscuit situation. It is dire.\" belongs to Mock-serious humour: build-up, then undercut — used to build something up seriously — as a system, an achievement, or a formal claim — then undercut it with a plain, deadpan twist, not this context.\nSimilar chunks:\n- It's been a challenging week.\n- After twenty years in this industry, I have learned... absolutely nothing.\n- We have a robust risk framework. It's called hoping.\n\n✗ \"Tough crowd.\" belongs to Recovering when a joke falls flat — used to recover quickly and lightly when a joke lands with silence, instead of over-explaining or apologizing for it, not this context.\nSimilar chunks:\n- Wow. Nothing. Noted.\n- I'll stick to the day job.\n- That was funnier in my head."
+    },
+    {
+      "id": 39,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Something has just gone wrong — a plan fell through, a meeting dragged on, a system broke — and you want a dry, sarcastic remark about the situation itself, not about a person. Which chunk fits best?",
+      "options": {
+        "A": "Well, that's just perfect.",
+        "B": "We have a robust risk framework. It's called hoping.",
+        "C": "I'll take it. Don't look too closely.",
+        "D": "Are you being sarcastic?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Well, that's just perfect.\" is a Dry sarcasm about a bad situation chunk: used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm.\nExample: \"The server crashed five minutes before the demo and she muttered, 'Well, that's just perfect.'\"\nSimilar chunks:\n- Famous last words.\n- Love that for me.\n- Oh good, another meeting about the meeting.\n\n✗ \"We have a robust risk framework. It's called hoping.\" belongs to Mock-serious humour: build-up, then undercut — used to build something up seriously — as a system, an achievement, or a formal claim — then undercut it with a plain, deadpan twist, not this context.\nSimilar chunks:\n- After twenty years in this industry, I have learned... absolutely nothing.\n- I've read that email four hundred times.\n- It's been a challenging week.\n\n✗ \"I'll take it. Don't look too closely.\" belongs to Deflecting a compliment warmly — used to accept a compliment gracefully with a light joke, instead of either denying it or sounding boastful, not this context.\nSimilar chunks:\n- Thanks — the team did the heavy lifting, I just showed up.\n- Thanks! Don't worry, normal service will resume shortly.\n- Thanks — even a broken clock is right twice a day.\n\n✗ \"Are you being sarcastic?\" belongs to Checking whether someone was being sarcastic — used to check whether someone was being sarcastic, or to react safely in a way that works whether they were or weren't, not this context.\nSimilar chunks:\n- Ha."
+    },
+    {
+      "id": 40,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Something has just gone wrong — a plan fell through, a meeting dragged on, a system broke — and you want a dry, sarcastic remark about the situation itself, not about a person. Which chunk fits best?",
+      "options": {
+        "A": "shenanigans",
+        "B": "Oh, only three hours late. Practically punctual.",
+        "C": "I'm told I'm an adult, but I have my doubts.",
+        "D": "I won't hold it against you."
+      },
+      "correct": "B",
+      "explanation": "✗ \"shenanigans\" belongs to Playful vocabulary for light chaos or hassle — used as a light, playful word for minor chaos or hassle, instead of a flat formal description, not this context.\nSimilar chunks:\n- faff\n- kerfuffle\n- a bit of a palaver\n\n✓ Correct — \"Oh, only three hours late. Practically punctual.\" is a Dry sarcasm about a bad situation chunk: used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm.\nExample: \"The delivery finally showed up and she said, 'Oh, only three hours late. Practically punctual.'\"\nSimilar chunks:\n- I mean, technically you're not wrong.\n- Love that for me.\n- What could possibly go wrong?\n\n✗ \"I'm told I'm an adult, but I have my doubts.\" belongs to Self-deprecating quips (everyday) — used to make light of your own small, everyday habits or quirks, to stay relatable rather than defensive, not this context.\nSimilar chunks:\n- My inbox is a crime scene.\n- That's very on brand for me.\n- Classic me.\n\n✗ \"I won't hold it against you.\" belongs to Teasing about a mistake, affectionately — used to rib someone close about a small mistake in a way that reads as affectionate, not judgmental, not this context.\nSimilar chunks:\n- Noted. Filed. Never forgotten.\n- I'll allow it."
+    },
+    {
+      "id": 41,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You're not sure if someone's over-the-top praise was genuine or sarcastic, and want a safe way to check or react either way. Which chunk fits best?",
+      "options": {
+        "A": "kerfuffle",
+        "B": "That was [name]'s idea — credit where it's due.",
+        "C": "Ha.",
+        "D": "Greeeeat."
+      },
+      "correct": "C",
+      "explanation": "✗ \"kerfuffle\" belongs to Playful vocabulary for light chaos or hassle — used as a light, playful word for minor chaos or hassle, instead of a flat formal description, not this context.\nSimilar chunks:\n- shenanigans\n- a bit of a palaver\n- faff\n\n✗ \"That was [name]'s idea — credit where it's due.\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- [Name] knows this better than anyone.\n- Did your daughter get the place?\n- Thanks for making time — I know your week is brutal.\n\n✓ Correct — \"Ha.\" is a Checking whether someone was being sarcastic chunk: used to check whether someone was being sarcastic, or to react safely in a way that works whether they were or weren't.\nExample: \"Unsure if the remark was genuine or not, he just said, 'Ha,' and moved on.\"\nSimilar chunks:\n- Are you being sarcastic?\n\n✗ \"Greeeeat.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- Love that for me.\n- Sure, why not.\n- That went well."
+    },
+    {
+      "id": 42,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You're not sure if someone's over-the-top praise was genuine or sarcastic, and want a safe way to check or react either way. Which chunk fits best?",
+      "options": {
+        "A": "I've been thinking about what I said — I got that wrong. Sorry.",
+        "B": "Are you being sarcastic?",
+        "C": "I walked into that one.",
+        "D": "Oh, only three hours late. Practically punctual."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I've been thinking about what I said — I got that wrong. Sorry.\" belongs to Repairing a joke that went too far — used to repair a joke that actually landed badly and hurt someone, rather than brushing it off or over-explaining, not this context.\nSimilar chunks:\n- Sorry — that was too far.\n- I don't think it is — and that's on me.\n- That was out of order, I apologise.\n\n✓ Correct — \"Are you being sarcastic?\" is a Checking whether someone was being sarcastic chunk: used to check whether someone was being sarcastic, or to react safely in a way that works whether they were or weren't.\nExample: \"His tone was oddly flat after the compliment, so she just asked, 'Are you being sarcastic?'\"\nSimilar chunks:\n- Ha.\n\n✗ \"I walked into that one.\" belongs to Accepting a tease gracefully — used to accept being teased gracefully, without getting defensive or over-apologizing, not this context.\nSimilar chunks:\n- Fair enough.\n- You're not wrong.\n- Fair.\n\n✗ \"Oh, only three hours late. Practically punctual.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- Couldn't have gone better, really.\n- Love that for me.\n- I mean, technically you're not wrong."
+    },
+    {
+      "id": 43,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You want to talk about something completely trivial as if it were a matter of real importance, to keep the mood light. Which chunk fits best?",
+      "options": {
+        "A": "How did the move go?",
+        "B": "So I open the file. The file laughs at me.",
+        "C": "I mean, technically you're not wrong.",
+        "D": "Nice."
+      },
+      "correct": "B",
+      "explanation": "✗ \"How did the move go?\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- That was [name]'s idea — credit where it's due.\n- Thanks for making time — I know your week is brutal.\n- What made you go into this line of work?\n\n✓ Correct — \"So I open the file. The file laughs at me.\" is a Playful register: mock-seriousness and exaggeration chunk: used to talk about something trivial in a mock-serious or playfully exaggerated way, to keep the mood light.\nExample: \"She described the broken spreadsheet: 'So I open the file. The file laughs at me.'\"\nSimilar chunks:\n- I have thoughts about this biscuit.\n- This is a matter of national importance.\n- My laptop has decided today is not the day.\n\n✗ \"I mean, technically you're not wrong.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- Love that for me.\n- Oh, only three hours late. Practically punctual.\n- Well, that's just perfect.\n\n✗ \"Nice.\" belongs to Complimenting someone's joke directly — used to directly compliment someone for being funny, rather than just laughing along, not this context.\nSimilar chunks:\n- You're on form today.\n- Quality."
+    },
+    {
+      "id": 44,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You want to talk about something completely trivial as if it were a matter of real importance, to keep the mood light. Which chunk fits best?",
+      "options": {
+        "A": "I've been waiting for this coffee since roughly the Ice Age.",
+        "B": "After twenty years in this industry, I have learned... absolutely nothing.",
+        "C": "Bold.",
+        "D": "I'll see myself out."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I've been waiting for this coffee since roughly the Ice Age.\" is a Playful register: mock-seriousness and exaggeration chunk: used to talk about something trivial in a mock-serious or playfully exaggerated way, to keep the mood light.\nExample: \"The barista finally called her name and she said, 'I've been waiting for this coffee since roughly the Ice Age.'\"\nSimilar chunks:\n- I have thoughts about this biscuit.\n- This is a matter of national importance.\n- My laptop has decided today is not the day.\n\n✗ \"After twenty years in this industry, I have learned... absolutely nothing.\" belongs to Mock-serious humour: build-up, then undercut — used to build something up seriously — as a system, an achievement, or a formal claim — then undercut it with a plain, deadpan twist, not this context.\nSimilar chunks:\n- We have a robust risk framework. It's called hoping.\n- It's been a challenging week.\n- I've read that email four hundred times.\n\n✗ \"Bold.\" belongs to Teasing a bad idea, fondly — used to fondly tease a bold or slightly ridiculous idea, without shutting it down outright, not this context.\nSimilar chunks:\n- That's certainly a choice.\n- Love the confidence.\n\n✗ \"I'll see myself out.\" belongs to Recovering when a joke falls flat — used to recover quickly and lightly when a joke lands with silence, instead of over-explaining or apologizing for it, not this context.\nSimilar chunks:\n- Right, moving on.\n- Wow. Nothing. Noted.\n- Tough crowd."
+    },
+    {
+      "id": 45,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You want a fun, light-touch word for a bit of minor chaos or hassle instead of a flat, formal description. Which chunk fits best?",
+      "options": {
+        "A": "Quality.",
+        "B": "kerfuffle",
+        "C": "Sure, why not.",
+        "D": "I got that completely wrong last time, so bear with me."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Quality.\" belongs to Complimenting someone's joke directly — used to directly compliment someone for being funny, rather than just laughing along, not this context.\nSimilar chunks:\n- You're on form today.\n- Nice.\n\n✓ Correct — \"kerfuffle\" is a Playful vocabulary for light chaos or hassle chunk: used as a light, playful word for minor chaos or hassle, instead of a flat formal description.\nExample: \"There was a whole kerfuffle over who'd booked the meeting room twice.\"\nSimilar chunks:\n- shenanigans\n- faff\n- a bit of a palaver\n\n✗ \"Sure, why not.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- Love that for me.\n- What could possibly go wrong?\n- Well, that's just perfect.\n\n✗ \"I got that completely wrong last time, so bear with me.\" belongs to Showing measured vulnerability — used to admit something was difficult, confusing, or nerve-wracking, in a measured way that builds warmth without oversharing, not this context.\nSimilar chunks:\n- I'm nervous about this one — it matters to me.\n- I had to look that up before this meeting.\n- I'll be honest, I found that confusing too."
+    },
+    {
+      "id": 46,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You want a fun, light-touch word for a bit of minor chaos or hassle instead of a flat, formal description. Which chunk fits best?",
+      "options": {
+        "A": "That was [name]'s idea — credit where it's due.",
+        "B": "I feel like we're all pretending we understood that.",
+        "C": "Late? I'm practically early — by tomorrow's standards.",
+        "D": "faff"
+      },
+      "correct": "D",
+      "explanation": "✗ \"That was [name]'s idea — credit where it's due.\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- What made you go into this line of work?\n- Thanks for making time — I know your week is brutal.\n- Did your daughter get the place?\n\n✗ \"I feel like we're all pretending we understood that.\" belongs to Naming an awkward moment out loud — used to name an awkward moment out loud instead of pretending it isn't happening, which usually breaks the tension, not this context.\nSimilar chunks:\n- Someone has to say it, so: what are we actually doing here?\n- The classic Zoom standoff. I'll go.\n- That was a very long silence.\n\n✗ \"Late? I'm practically early — by tomorrow's standards.\" belongs to Accepting a tease gracefully — used to accept being teased gracefully, without getting defensive or over-apologizing, not this context.\nSimilar chunks:\n- Fair.\n- I walked into that one.\n- You're not wrong.\n\n✓ Correct — \"faff\" is a Playful vocabulary for light chaos or hassle chunk: used as a light, playful word for minor chaos or hassle, instead of a flat formal description.\nExample: \"She sighed at the approval process and said, 'What a faff just to book a room.'\"\nSimilar chunks:\n- a bit of a palaver\n- shenanigans\n- kerfuffle"
+    },
+    {
+      "id": 47,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A silence has gone on too long, or something confusing just happened, and you want to name the awkwardness directly instead of pretending it isn't there. Which chunk fits best?",
+      "options": {
+        "A": "Thanks for making time — I know your week is brutal.",
+        "B": "That's certainly a choice.",
+        "C": "That was a very long silence.",
+        "D": "Alright, Einstein."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Thanks for making time — I know your week is brutal.\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- How did the move go?\n- What made you go into this line of work?\n- Did your daughter get the place?\n\n✗ \"That's certainly a choice.\" belongs to Teasing a bad idea, fondly — used to fondly tease a bold or slightly ridiculous idea, without shutting it down outright, not this context.\nSimilar chunks:\n- Love the confidence.\n- Bold.\n\n✓ Correct — \"That was a very long silence.\" is a Naming an awkward moment out loud chunk: used to name an awkward moment out loud instead of pretending it isn't happening, which usually breaks the tension.\nExample: \"After the question hung unanswered for a while, he said, 'That was a very long silence.'\"\nSimilar chunks:\n- I feel like we're all pretending we understood that.\n- Someone has to say it, so: what are we actually doing here?\n- The classic Zoom standoff. I'll go.\n\n✗ \"Alright, Einstein.\" belongs to Teasing someone who's boasting — used to gently tease someone close who's visibly pleased with themselves, to keep the mood light rather than to put them down, not this context.\nSimilar chunks:\n- Don't let it go to your head.\n- Steady on."
+    },
+    {
+      "id": 48,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A silence has gone on too long, or something confusing just happened, and you want to name the awkwardness directly instead of pretending it isn't there. Which chunk fits best?",
+      "options": {
+        "A": "Well, this is awkward.",
+        "B": "Right, moving on.",
+        "C": "I got that completely wrong last time, so bear with me.",
+        "D": "I like that."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Well, this is awkward.\" is a Naming an awkward moment out loud chunk: used to name an awkward moment out loud instead of pretending it isn't happening, which usually breaks the tension.\nExample: \"The call went silent for ten seconds and she laughed, 'Well, this is awkward.'\"\nSimilar chunks:\n- I feel like we're all pretending we understood that.\n- Someone has to say it, so: what are we actually doing here?\n- That was a very long silence.\n\n✗ \"Right, moving on.\" belongs to Recovering when a joke falls flat — used to recover quickly and lightly when a joke lands with silence, instead of over-explaining or apologizing for it, not this context.\nSimilar chunks:\n- That was funnier in my head.\n- Wow. Nothing. Noted.\n- Tough crowd.\n\n✗ \"I got that completely wrong last time, so bear with me.\" belongs to Showing measured vulnerability — used to admit something was difficult, confusing, or nerve-wracking, in a measured way that builds warmth without oversharing, not this context.\nSimilar chunks:\n- I'm nervous about this one — it matters to me.\n- I'll be honest, I found that confusing too.\n- I had to look that up before this meeting.\n\n✗ \"I like that.\" belongs to Laughing along / verbal appreciation — used to show you found something genuinely funny, as a light verbal response rather than a full laugh or a joke of your own, not this context.\nSimilar chunks:\n- That's brilliant.\n- That's a good one.\n- Ha, very good."
+    },
+    {
+      "id": 49,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A silence has gone on too long, or something confusing just happened, and you want to name the awkwardness directly instead of pretending it isn't there. Which chunk fits best?",
+      "options": {
+        "A": "The classic Zoom standoff. I'll go.",
+        "B": "I'll allow it.",
+        "C": "I'll stick to the day job.",
+        "D": "I'll see myself out."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"The classic Zoom standoff. I'll go.\" is a Naming an awkward moment out loud chunk: used to name an awkward moment out loud instead of pretending it isn't happening, which usually breaks the tension.\nExample: \"Two people started talking at once on the call and he laughed, 'The classic Zoom standoff. I'll go.'\"\nSimilar chunks:\n- Well, this is awkward.\n- I feel like we're all pretending we understood that.\n- I'll be the one to ask the obvious question.\n\n✗ \"I'll allow it.\" belongs to Teasing about a mistake, affectionately — used to rib someone close about a small mistake in a way that reads as affectionate, not judgmental, not this context.\nSimilar chunks:\n- I won't hold it against you.\n- Noted. Filed. Never forgotten.\n\n✗ \"I'll stick to the day job.\" belongs to Recovering when a joke falls flat — used to recover quickly and lightly when a joke lands with silence, instead of over-explaining or apologizing for it, not this context.\nSimilar chunks:\n- That was funnier in my head.\n- Tough crowd.\n- Wow. Nothing. Noted.\n\n✗ \"I'll see myself out.\" belongs to Recovering when a joke falls flat — used to recover quickly and lightly when a joke lands with silence, instead of over-explaining or apologizing for it, not this context.\nSimilar chunks:\n- Wow. Nothing. Noted.\n- That was funnier in my head.\n- I'll stick to the day job."
+    },
+    {
+      "id": 50,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You want to build warmth with someone by giving them visible credit or by showing real interest in something personal to them, not just being polite. Which chunk fits best?",
+      "options": {
+        "A": "How did the move go?",
+        "B": "This is fine.",
+        "C": "...much like [X].",
+        "D": "That's a good one."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"How did the move go?\" is a Warmth: giving credit and showing genuine interest chunk: used to build warmth by giving someone visible credit or showing genuine interest in something personal to them.\nExample: \"He remembered she'd been relocating and asked, 'How did the move go?'\"\nSimilar chunks:\n- What made you go into this line of work?\n- That was [name]'s idea — credit where it's due.\n- Did your daughter get the place?\n\n✗ \"This is fine.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- Famous last words.\n- That went well.\n- Greeeeat.\n\n✗ \"...much like [X].\" belongs to Callback humour — used to bring back an earlier joke or detail later in the conversation, which shows you were genuinely listening and lands as both funny and warm, not this context.\nSimilar chunks:\n- Right — and on that note, someone please fix the coffee.\n- Second only to [X].\n- Well, at least it's better than the coffee.\n\n✗ \"That's a good one.\" belongs to Laughing along / verbal appreciation — used to show you found something genuinely funny, as a light verbal response rather than a full laugh or a joke of your own, not this context.\nSimilar chunks:\n- Ha!\n- Ha, very good.\n- That's brilliant."
+    },
+    {
+      "id": 51,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You want to build warmth with someone by giving them visible credit or by showing real interest in something personal to them, not just being polite. Which chunk fits best?",
+      "options": {
+        "A": "Fair.",
+        "B": "This is fine.",
+        "C": "[Name] knows this better than anyone.",
+        "D": "Well, that went about as well as expected."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Fair.\" belongs to Accepting a tease gracefully — used to accept being teased gracefully, without getting defensive or over-apologizing, not this context.\nSimilar chunks:\n- I walked into that one.\n- Late? I'm practically early — by tomorrow's standards.\n- Fair enough.\n\n✗ \"This is fine.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- Greeeeat.\n- Well, that's just perfect.\n- What could possibly go wrong?\n\n✓ Correct — \"[Name] knows this better than anyone.\" is a Warmth: giving credit and showing genuine interest chunk: used to build warmth by giving someone visible credit or showing genuine interest in something personal to them.\nExample: \"He introduced his colleague to the client: 'Sara knows this better than anyone.'\"\nSimilar chunks:\n- That was [name]'s idea — credit where it's due.\n- How did the move go?\n- Did your daughter get the place?\n\n✗ \"Well, that went about as well as expected.\" belongs to Self-deprecating humor after a mistake or mediocre outcome — used to acknowledge a mistake or a mediocre outcome lightly, without getting defensive or over-explaining, not this context.\nSimilar chunks:\n- In my defence... I have no defence.\n- I'd love to say that was planned.\n- I have no idea what I'm doing, but I'm doing it confidently."
+    },
+    {
+      "id": 52,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You want to build warmth with someone by giving them visible credit or by showing real interest in something personal to them, not just being polite. Which chunk fits best?",
+      "options": {
+        "A": "What made you go into this line of work?",
+        "B": "Okay, I'm missing something — explain it to me.",
+        "C": "I'll allow it.",
+        "D": "I'll stick to the day job."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What made you go into this line of work?\" is a Warmth: giving credit and showing genuine interest chunk: used to build warmth by giving someone visible credit or showing genuine interest in something personal to them.\nExample: \"Over coffee, she asked the new hire, 'What made you go into this line of work?'\"\nSimilar chunks:\n- That was [name]'s idea — credit where it's due.\n- Thanks for making time — I know your week is brutal.\n- [Name] knows this better than anyone.\n\n✗ \"Okay, I'm missing something — explain it to me.\" belongs to Admitting you didn't get the joke — used to admit you didn't understand a joke, without killing the mood or making it awkward, not this context.\nSimilar chunks:\n- Is that a pun? I refuse to reward that.\n- I'm going to laugh, but I want you to know I have no idea why.\n- That's one for the locals. What am I missing?\n\n✗ \"I'll allow it.\" belongs to Teasing about a mistake, affectionately — used to rib someone close about a small mistake in a way that reads as affectionate, not judgmental, not this context.\nSimilar chunks:\n- I won't hold it against you.\n- Noted. Filed. Never forgotten.\n\n✗ \"I'll stick to the day job.\" belongs to Recovering when a joke falls flat — used to recover quickly and lightly when a joke lands with silence, instead of over-explaining or apologizing for it, not this context.\nSimilar chunks:\n- Tough crowd.\n- Right, moving on.\n- I'll see myself out."
+    },
+    {
+      "id": 53,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You want to admit you found something difficult, confusing, or nerve-wracking, in a way that builds warmth without oversharing. Which chunk fits best?",
+      "options": {
+        "A": "Sorry — too far, that was on me.",
+        "B": "I got that completely wrong last time, so bear with me.",
+        "C": "That's very on brand for me.",
+        "D": "Thanks! Don't worry, normal service will resume shortly."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Sorry — too far, that was on me.\" belongs to Ending a teasing exchange — used to land a teasing exchange gracefully, either winding it down naturally or correcting course if it went a step too far, not this context.\nSimilar chunks:\n- Right, I'll leave you alone now.\n- Okay, I'm done.\n\n✓ Correct — \"I got that completely wrong last time, so bear with me.\" is a Showing measured vulnerability chunk: used to admit something was difficult, confusing, or nerve-wracking, in a measured way that builds warmth without oversharing.\nExample: \"Starting the retry, he said, 'I got that completely wrong last time, so bear with me.'\"\nSimilar chunks:\n- I'll be honest, I found that confusing too.\n- I had to look that up before this meeting.\n- I'm nervous about this one — it matters to me.\n\n✗ \"That's very on brand for me.\" belongs to Self-deprecating quips (everyday) — used to make light of your own small, everyday habits or quirks, to stay relatable rather than defensive, not this context.\nSimilar chunks:\n- I peaked early today.\n- Classic me.\n- My inbox is a crime scene.\n\n✗ \"Thanks! Don't worry, normal service will resume shortly.\" belongs to Deflecting a compliment warmly — used to accept a compliment gracefully with a light joke, instead of either denying it or sounding boastful, not this context.\nSimilar chunks:\n- Thanks — even a broken clock is right twice a day.\n- Thanks — the team did the heavy lifting, I just showed up.\n- I'll take it. Don't look too closely."
+    },
+    {
+      "id": 54,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You want to admit you found something difficult, confusing, or nerve-wracking, in a way that builds warmth without oversharing. Which chunk fits best?",
+      "options": {
+        "A": "Second only to [X].",
+        "B": "That's one for the locals. What am I missing?",
+        "C": "I'll be honest, I found that confusing too.",
+        "D": "I'd love to say that was planned."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Second only to [X].\" belongs to Callback humour — used to bring back an earlier joke or detail later in the conversation, which shows you were genuinely listening and lands as both funny and warm, not this context.\nSimilar chunks:\n- Right — and on that note, someone please fix the coffee.\n- Well, at least it's better than the coffee.\n- ...much like [X].\n\n✗ \"That's one for the locals. What am I missing?\" belongs to Admitting you didn't get the joke — used to admit you didn't understand a joke, without killing the mood or making it awkward, not this context.\nSimilar chunks:\n- Okay, I'm missing something — explain it to me.\n- Is that a pun? I refuse to reward that.\n- I'm going to laugh, but I want you to know I have no idea why.\n\n✓ Correct — \"I'll be honest, I found that confusing too.\" is a Showing measured vulnerability chunk: used to admit something was difficult, confusing, or nerve-wracking, in a measured way that builds warmth without oversharing.\nExample: \"After the dense explanation, she said, 'I'll be honest, I found that confusing too.'\"\nSimilar chunks:\n- I'm nervous about this one — it matters to me.\n- I had to look that up before this meeting.\n- I got that completely wrong last time, so bear with me.\n\n✗ \"I'd love to say that was planned.\" belongs to Self-deprecating humor after a mistake or mediocre outcome — used to acknowledge a mistake or a mediocre outcome lightly, without getting defensive or over-explaining, not this context.\nSimilar chunks:\n- Well, that went about as well as expected.\n- Don't ask me how I managed that.\n- I have no idea what I'm doing, but I'm doing it confidently."
+    },
+    {
+      "id": 55,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You just told a joke and it landed with silence, and you want a quick, light way to move past it instead of over-explaining. Which chunk fits best?",
+      "options": {
+        "A": "I've been waiting for this coffee since roughly the Ice Age.",
+        "B": "What made you go into this line of work?",
+        "C": "I have thoughts about this biscuit.",
+        "D": "I'll see myself out."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I've been waiting for this coffee since roughly the Ice Age.\" belongs to Playful register: mock-seriousness and exaggeration — used to talk about something trivial in a mock-serious or playfully exaggerated way, to keep the mood light, not this context.\nSimilar chunks:\n- I have thoughts about this biscuit.\n- So I open the file. The file laughs at me.\n- My laptop has decided today is not the day.\n\n✗ \"What made you go into this line of work?\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- That was [name]'s idea — credit where it's due.\n- Did your daughter get the place?\n- [Name] knows this better than anyone.\n\n✗ \"I have thoughts about this biscuit.\" belongs to Playful register: mock-seriousness and exaggeration — used to talk about something trivial in a mock-serious or playfully exaggerated way, to keep the mood light, not this context.\nSimilar chunks:\n- So I open the file. The file laughs at me.\n- This is a matter of national importance.\n- My laptop has decided today is not the day.\n\n✓ Correct — \"I'll see myself out.\" is a Recovering when a joke falls flat chunk: used to recover quickly and lightly when a joke lands with silence, instead of over-explaining or apologizing for it.\nExample: \"The pun fell completely flat and he said, 'I'll see myself out.'\"\nSimilar chunks:\n- Right, moving on.\n- I'll stick to the day job.\n- That was funnier in my head."
+    },
+    {
+      "id": 56,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You just told a joke and it landed with silence, and you want a quick, light way to move past it instead of over-explaining. Which chunk fits best?",
+      "options": {
+        "A": "That was funnier in my head.",
+        "B": "In my defence... I have no defence.",
+        "C": "Classic me.",
+        "D": "It's been a challenging week."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"That was funnier in my head.\" is a Recovering when a joke falls flat chunk: used to recover quickly and lightly when a joke lands with silence, instead of over-explaining or apologizing for it.\nExample: \"The joke landed with silence and he laughed at himself, 'That was funnier in my head.'\"\nSimilar chunks:\n- I'll see myself out.\n- I'll stick to the day job.\n- Tough crowd.\n\n✗ \"In my defence... I have no defence.\" belongs to Self-deprecating humor after a mistake or mediocre outcome — used to acknowledge a mistake or a mediocre outcome lightly, without getting defensive or over-explaining, not this context.\nSimilar chunks:\n- Well, that went about as well as expected.\n- I have no idea what I'm doing, but I'm doing it confidently.\n- I'd love to say that was planned.\n\n✗ \"Classic me.\" belongs to Self-deprecating quips (everyday) — used to make light of your own small, everyday habits or quirks, to stay relatable rather than defensive, not this context.\nSimilar chunks:\n- My inbox is a crime scene.\n- I'm told I'm an adult, but I have my doubts.\n- I peaked early today.\n\n✗ \"It's been a challenging week.\" belongs to Mock-serious humour: build-up, then undercut — used to build something up seriously — as a system, an achievement, or a formal claim — then undercut it with a plain, deadpan twist, not this context.\nSimilar chunks:\n- I've read that email four hundred times.\n- After twenty years in this industry, I have learned... absolutely nothing.\n- I have reviewed the biscuit situation. It is dire."
+    },
+    {
+      "id": 57,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "You just told a joke and it landed with silence, and you want a quick, light way to move past it instead of over-explaining. Which chunk fits best?",
+      "options": {
+        "A": "Tough crowd.",
+        "B": "This is fine.",
+        "C": "Ha, very good.",
+        "D": "I've read that email four hundred times."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Tough crowd.\" is a Recovering when a joke falls flat chunk: used to recover quickly and lightly when a joke lands with silence, instead of over-explaining or apologizing for it.\nExample: \"Nobody reacted to her joke, so she smiled, 'Tough crowd.'\"\nSimilar chunks:\n- I'll see myself out.\n- I'll stick to the day job.\n- Right, moving on.\n\n✗ \"This is fine.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- That went well.\n- I mean, technically you're not wrong.\n- Couldn't have gone better, really.\n\n✗ \"Ha, very good.\" belongs to Laughing along / verbal appreciation — used to show you found something genuinely funny, as a light verbal response rather than a full laugh or a joke of your own, not this context.\nSimilar chunks:\n- That's a good one.\n- Ha!\n- That's brilliant.\n\n✗ \"I've read that email four hundred times.\" belongs to Mock-serious humour: build-up, then undercut — used to build something up seriously — as a system, an achievement, or a formal claim — then undercut it with a plain, deadpan twist, not this context.\nSimilar chunks:\n- We have a robust risk framework. It's called hoping.\n- It's been a challenging week.\n- After twenty years in this industry, I have learned... absolutely nothing."
+    },
+    {
+      "id": 58,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A joke you made landed badly and actually hurt someone, and you want to repair it properly instead of brushing it off. Which chunk fits best?",
+      "options": {
+        "A": "Love that for me.",
+        "B": "That was funnier in my head.",
+        "C": "I've been waiting for this coffee since roughly the Ice Age.",
+        "D": "Sorry — that was too far."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Love that for me.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- What could possibly go wrong?\n- Well, that's just perfect.\n- Oh, only three hours late. Practically punctual.\n\n✗ \"That was funnier in my head.\" belongs to Recovering when a joke falls flat — used to recover quickly and lightly when a joke lands with silence, instead of over-explaining or apologizing for it, not this context.\nSimilar chunks:\n- Tough crowd.\n- I'll stick to the day job.\n- I'll see myself out.\n\n✗ \"I've been waiting for this coffee since roughly the Ice Age.\" belongs to Playful register: mock-seriousness and exaggeration — used to talk about something trivial in a mock-serious or playfully exaggerated way, to keep the mood light, not this context.\nSimilar chunks:\n- This is a matter of national importance.\n- So I open the file. The file laughs at me.\n- I have thoughts about this biscuit.\n\n✓ Correct — \"Sorry — that was too far.\" is a Repairing a joke that went too far chunk: used to repair a joke that actually landed badly and hurt someone, rather than brushing it off or over-explaining.\nExample: \"He noticed her face fall and said immediately, 'Sorry — that was too far.'\"\nSimilar chunks:\n- I don't think it is — and that's on me.\n- That was out of order, I apologise.\n- I've been thinking about what I said — I got that wrong. Sorry."
+    },
+    {
+      "id": 59,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "A joke you made landed badly and actually hurt someone, and you want to repair it properly instead of brushing it off. Which chunk fits best?",
+      "options": {
+        "A": "Thanks — the team did the heavy lifting, I just showed up.",
+        "B": "Tough crowd.",
+        "C": "Thanks! Don't worry, normal service will resume shortly.",
+        "D": "I've been thinking about what I said — I got that wrong. Sorry."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Thanks — the team did the heavy lifting, I just showed up.\" belongs to Deflecting a compliment warmly — used to accept a compliment gracefully with a light joke, instead of either denying it or sounding boastful, not this context.\nSimilar chunks:\n- I'll take it. Don't look too closely.\n- Thanks! Don't worry, normal service will resume shortly.\n- Thanks — even a broken clock is right twice a day.\n\n✗ \"Tough crowd.\" belongs to Recovering when a joke falls flat — used to recover quickly and lightly when a joke lands with silence, instead of over-explaining or apologizing for it, not this context.\nSimilar chunks:\n- I'll see myself out.\n- Right, moving on.\n- I'll stick to the day job.\n\n✗ \"Thanks! Don't worry, normal service will resume shortly.\" belongs to Deflecting a compliment warmly — used to accept a compliment gracefully with a light joke, instead of either denying it or sounding boastful, not this context.\nSimilar chunks:\n- Thanks — even a broken clock is right twice a day.\n- I'll take it. Don't look too closely.\n- Thanks — the team did the heavy lifting, I just showed up.\n\n✓ Correct — \"I've been thinking about what I said — I got that wrong. Sorry.\" is a Repairing a joke that went too far chunk: used to repair a joke that actually landed badly and hurt someone, rather than brushing it off or over-explaining.\nExample: \"The next day, he came back to her and said, 'I've been thinking about what I said — I got that wrong. Sorry.'\"\nSimilar chunks:\n- That was out of order, I apologise.\n- Sorry — that was too far.\n- I don't think it is — and that's on me."
+    },
+    {
+      "id": 60,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Everyone else just laughed at something and you have no idea why, and you want to admit it without killing the mood. Which chunk fits best?",
+      "options": {
+        "A": "Thanks — even a broken clock is right twice a day.",
+        "B": "Noted. Filed. Never forgotten.",
+        "C": "That's one for the locals. What am I missing?",
+        "D": "Alright, alright."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Thanks — even a broken clock is right twice a day.\" belongs to Deflecting a compliment warmly — used to accept a compliment gracefully with a light joke, instead of either denying it or sounding boastful, not this context.\nSimilar chunks:\n- I'll take it. Don't look too closely.\n- Thanks — the team did the heavy lifting, I just showed up.\n- Thanks! Don't worry, normal service will resume shortly.\n\n✗ \"Noted. Filed. Never forgotten.\" belongs to Teasing about a mistake, affectionately — used to rib someone close about a small mistake in a way that reads as affectionate, not judgmental, not this context.\nSimilar chunks:\n- I'll allow it.\n- I won't hold it against you.\n\n✓ Correct — \"That's one for the locals. What am I missing?\" is an Admitting you didn't get the joke chunk: used to admit you didn't understand a joke, without killing the mood or making it awkward.\nExample: \"He didn't get the local reference and smiled, 'That's one for the locals. What am I missing?'\"\nSimilar chunks:\n- Is that a pun? I refuse to reward that.\n- Okay, I'm missing something — explain it to me.\n- I'm going to laugh, but I want you to know I have no idea why.\n\n✗ \"Alright, alright.\" belongs to Firing back lightly when teased — used to lightly return a tease rather than simply accepting it, keeping the exchange playful, not this context.\nSimilar chunks:\n- Coming from you, that's rich.\n- Says the man who..."
+    },
+    {
+      "id": 61,
+      "ka": "growth",
+      "kaName": "Confidence & Humour",
+      "question": "Everyone else just laughed at something and you have no idea why, and you want to admit it without killing the mood. Which chunk fits best?",
+      "options": {
+        "A": "Thanks for making time — I know your week is brutal.",
+        "B": "Couldn't have gone better, really.",
+        "C": "Is that a pun? I refuse to reward that.",
+        "D": "Feel free to stop any time."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Thanks for making time — I know your week is brutal.\" belongs to Warmth: giving credit and showing genuine interest — used to build warmth by giving someone visible credit or showing genuine interest in something personal to them, not this context.\nSimilar chunks:\n- Did your daughter get the place?\n- What made you go into this line of work?\n- [Name] knows this better than anyone.\n\n✗ \"Couldn't have gone better, really.\" belongs to Dry sarcasm about a bad situation — used as a dry, sarcastic remark about a bad situation itself (never about a person), always clearly signalled as sarcasm, not this context.\nSimilar chunks:\n- Sure, why not.\n- That went well.\n- Love that for me.\n\n✓ Correct — \"Is that a pun? I refuse to reward that.\" is an Admitting you didn't get the joke chunk: used to admit you didn't understand a joke, without killing the mood or making it awkward.\nExample: \"He groaned at the wordplay and said, 'Is that a pun? I refuse to reward that.'\"\nSimilar chunks:\n- That's one for the locals. What am I missing?\n- I'm going to laugh, but I want you to know I have no idea why.\n- Okay, I'm missing something — explain it to me.\n\n✗ \"Feel free to stop any time.\" belongs to Teasing someone who won't stop talking — used to gently prod someone close to wrap up when they've been talking for a while, without shutting them down harshly, not this context.\nSimilar chunks:\n- Are you nearly done? I've aged."
+    }
+  ]
+}

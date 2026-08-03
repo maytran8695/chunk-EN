@@ -1,0 +1,776 @@
+{
+  "examId": "vague-approximative",
+  "title": "Chunk Atlas — Language Systems: Vague & Approximative Language",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a rough time, color, or feeling casually by adding '-ish' to a word, instead of stating it exactly. Which chunk fits best?",
+      "options": {
+        "A": "fiveish",
+        "B": "That's still being worked out.",
+        "C": "here and there",
+        "D": "Let's just say it wasn't ideal."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"fiveish\" is an Approximating with -ish chunk: an informal '-ish' suffix used to make a word approximate rather than exact.\nExample: \"Let's say fiveish, I might be a few minutes late.\"\nSimilar chunks:\n- tallish\n- Mondayish\n- blueish\n\n✗ \"That's still being worked out.\" belongs to Deflecting a direct question politely — used to politely avoid giving a direct answer to an uncomfortable or sensitive question, not this context.\nSimilar chunks:\n- I'd rather not say at this stage.\n- Let's just say it wasn't ideal.\n- There are a few moving parts.\n\n✗ \"here and there\" belongs to Vague frequency expressions — a casual, imprecise way of describing how often something happens, not this context.\nSimilar chunks:\n- every so often\n- now and then\n- on and off\n\n✗ \"Let's just say it wasn't ideal.\" belongs to Deflecting a direct question politely — used to politely avoid giving a direct answer to an uncomfortable or sensitive question, not this context.\nSimilar chunks:\n- It depends.\n- I'd rather not say at this stage.\n- Let's leave it there."
+    },
+    {
+      "id": 2,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a rough time, color, or feeling casually by adding '-ish' to a word, instead of stating it exactly. Which chunk fits best?",
+      "options": {
+        "A": "I'd have to check.",
+        "B": "a mate of mine",
+        "C": "tiredish",
+        "D": "Provisionally, yes."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I'd have to check.\" belongs to Staying non-committal / deferring a decision — used to defer a decision or commitment without shutting the door on it, not this context.\nSimilar chunks:\n- It's in the mix.\n- It's on the radar.\n- Let me look into it.\n\n✗ \"a mate of mine\" belongs to Vague references to people — a casual, imprecise way of referring to a person without naming exactly who they are, not this context.\nSimilar chunks:\n- this guy\n- people\n- a colleague\n\n✓ Correct — \"tiredish\" is an Approximating with -ish chunk: an informal '-ish' suffix used to make a word approximate rather than exact.\nExample: \"I'm feeling a bit tiredish after the red-eye flight.\"\nSimilar chunks:\n- blueish\n- tallish\n- Mondayish\n\n✗ \"Provisionally, yes.\" belongs to Giving a soft, conditional yes — used to give a tentative, conditional 'yes' that leaves room to change later, not this context.\nSimilar chunks:\n- Let's keep it loose.\n- Subject to a few things.\n- In principle, yes."
+    },
+    {
+      "id": 3,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a casual, rounded number or amount instead of an exact figure. Which chunk fits best?",
+      "options": {
+        "A": "We'll play it by ear.",
+        "B": "roughly",
+        "C": "and so forth",
+        "D": "a mate of mine"
+      },
+      "correct": "B",
+      "explanation": "✗ \"We'll play it by ear.\" belongs to Staying non-committal / deferring a decision — used to defer a decision or commitment without shutting the door on it, not this context.\nSimilar chunks:\n- I'd have to check.\n- Leave it with me.\n- Let me look into it.\n\n✓ Correct — \"roughly\" is an Approximating amounts casually chunk: a casual approximator used to round a number or amount instead of stating it exactly.\nExample: \"Roughly half the team has tried the new tool.\"\nSimilar chunks:\n- give or take\n- about\n- or so\n\n✗ \"and so forth\" belongs to Open-ended list extenders (casual) — a casual list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- or something\n- and that kind of thing\n- and so on\n\n✗ \"a mate of mine\" belongs to Vague references to people — a casual, imprecise way of referring to a person without naming exactly who they are, not this context.\nSimilar chunks:\n- people\n- someone\n- a colleague"
+    },
+    {
+      "id": 4,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a casual, rounded number or amount instead of an exact figure. Which chunk fits best?",
+      "options": {
+        "A": "slightly",
+        "B": "and that kind of thing",
+        "C": "In principle, yes.",
+        "D": "or so"
+      },
+      "correct": "D",
+      "explanation": "✗ \"slightly\" belongs to Vague degree expressions — a casual degree word used to soften a description instead of giving a precise measurement, not this context.\nSimilar chunks:\n- fairly\n- somewhat\n- pretty\n\n✗ \"and that kind of thing\" belongs to Open-ended list extenders (casual) — a casual list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- or something\n- and stuff like that\n- and so on\n\n✗ \"In principle, yes.\" belongs to Giving a soft, conditional yes — used to give a tentative, conditional 'yes' that leaves room to change later, not this context.\nSimilar chunks:\n- Provisionally, yes.\n- No promises, but...\n- Subject to a few things.\n\n✓ Correct — \"or so\" is an Approximating amounts casually chunk: a casual approximator used to round a number or amount instead of stating it exactly.\nExample: \"It'll take an hour or so to finish the report.\"\nSimilar chunks:\n- roughly\n- or thereabouts\n- give or take"
+    },
+    {
+      "id": 5,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a casual, rounded number or amount instead of an exact figure. Which chunk fits best?",
+      "options": {
+        "A": "give or take",
+        "B": "and the usual suspects",
+        "C": "I'd rather not say at this stage.",
+        "D": "a fair bit"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"give or take\" is an Approximating amounts casually chunk: a casual approximator used to round a number or amount instead of stating it exactly.\nExample: \"The migration took six hours, give or take.\"\nSimilar chunks:\n- about\n- around\n- or thereabouts\n\n✗ \"and the usual suspects\" belongs to Open-ended list extenders (workplace) — a workplace list-ending phrase signaling the rest are the usual, predictable items, not this context.\nSimilar chunks:\n- and downstream of that\n- and everything that goes with it\n\n✗ \"I'd rather not say at this stage.\" belongs to Deflecting a direct question politely — used to politely avoid giving a direct answer to an uncomfortable or sensitive question, not this context.\nSimilar chunks:\n- More or less.\n- There are a few moving parts.\n- In a manner of speaking.\n\n✗ \"a fair bit\" belongs to Vague quantity expressions (everyday) — a casual, everyday way of describing an amount without giving an exact figure, not this context.\nSimilar chunks:\n- not much\n- a handful\n- hardly any"
+    },
+    {
+      "id": 6,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a rough figure in a slightly more polished, workplace register than a casual 'or so'. Which chunk fits best?",
+      "options": {
+        "A": "north of",
+        "B": "certain stakeholders",
+        "C": "thingy",
+        "D": "Mondayish"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"north of\" is an Approximating amounts at work chunk: a workplace-register approximator used to give a rough figure without sounding too casual.\nExample: \"Headcount for this project is now north of fifteen people.\"\nSimilar chunks:\n- in the region of\n- something like\n- in the ballpark of\n\n✗ \"certain stakeholders\" belongs to Diplomatically vague quantities — a deliberately vague quantity used to protect someone's reputation instead of naming exact numbers or names, not this context.\nSimilar chunks:\n- some parties\n- one or two concerns\n\n✗ \"thingy\" belongs to Placeholder words for forgotten names — an informal placeholder word used when the speaker has forgotten the exact name, not this context.\nSimilar chunks:\n- whatsit\n- so-and-so\n- thingamajig\n\n✗ \"Mondayish\" belongs to Approximating with -ish — an informal '-ish' suffix used to make a word approximate rather than exact, not this context.\nSimilar chunks:\n- blueish\n- tiredish\n- fiveish"
+    },
+    {
+      "id": 7,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a rough figure in a slightly more polished, workplace register than a casual 'or so'. Which chunk fits best?",
+      "options": {
+        "A": "from time to time",
+        "B": "something like",
+        "C": "Let's just say it wasn't ideal.",
+        "D": "one or two concerns"
+      },
+      "correct": "B",
+      "explanation": "✗ \"from time to time\" belongs to Vague frequency expressions — a casual, imprecise way of describing how often something happens, not this context.\nSimilar chunks:\n- every so often\n- here and there\n- now and then\n\n✓ Correct — \"something like\" is an Approximating amounts at work chunk: a workplace-register approximator used to give a rough figure without sounding too casual.\nExample: \"We're looking at something like a two-week delay.\"\nSimilar chunks:\n- north of\n- in the ballpark of\n- south of\n\n✗ \"Let's just say it wasn't ideal.\" belongs to Deflecting a direct question politely — used to politely avoid giving a direct answer to an uncomfortable or sensitive question, not this context.\nSimilar chunks:\n- Something like that.\n- In a manner of speaking.\n- It depends.\n\n✗ \"one or two concerns\" belongs to Diplomatically vague quantities — a deliberately vague quantity used to protect someone's reputation instead of naming exact numbers or names, not this context.\nSimilar chunks:\n- certain stakeholders\n- some parties"
+    },
+    {
+      "id": 8,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to explicitly flag that a number you're giving is a rough calculation, not a precise one. Which chunk fits best?",
+      "options": {
+        "A": "whatsit",
+        "B": "you name it",
+        "C": "here and there",
+        "D": "a rough estimate"
+      },
+      "correct": "D",
+      "explanation": "✗ \"whatsit\" belongs to Placeholder words for forgotten names — an informal placeholder word used when the speaker has forgotten the exact name, not this context.\nSimilar chunks:\n- so-and-so\n- thingamajig\n- thingy\n\n✗ \"you name it\" belongs to Open-ended list extenders (informal) — an informal list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- and whatnot\n- and all that\n- and the like\n\n✗ \"here and there\" belongs to Vague frequency expressions — a casual, imprecise way of describing how often something happens, not this context.\nSimilar chunks:\n- now and then\n- on and off\n- every so often\n\n✓ Correct — \"a rough estimate\" is a Rough workplace estimates chunk: used to explicitly flag a number as a rough calculation rather than a precise figure.\nExample: \"This is just a rough estimate — I'll confirm the exact cost tomorrow.\"\nSimilar chunks:\n- order of magnitude\n- back-of-the-envelope"
+    },
+    {
+      "id": 9,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to explicitly flag that a number you're giving is a rough calculation, not a precise one. Which chunk fits best?",
+      "options": {
+        "A": "what's-his-name",
+        "B": "Touch wood.",
+        "C": "thingy",
+        "D": "back-of-the-envelope"
+      },
+      "correct": "D",
+      "explanation": "✗ \"what's-his-name\" belongs to Placeholder words for forgotten names — an informal placeholder word used when the speaker has forgotten the exact name, not this context.\nSimilar chunks:\n- whatsit\n- so-and-so\n- thingy\n\n✗ \"Touch wood.\" belongs to Giving a soft, conditional yes — used to give a tentative, conditional 'yes' that leaves room to change later, not this context.\nSimilar chunks:\n- Pencil it in.\n- Provisionally, yes.\n- In principle, yes.\n\n✗ \"thingy\" belongs to Placeholder words for forgotten names — an informal placeholder word used when the speaker has forgotten the exact name, not this context.\nSimilar chunks:\n- thingamajig\n- whatsit\n- what's-his-name\n\n✓ Correct — \"back-of-the-envelope\" is a Rough workplace estimates chunk: used to explicitly flag a number as a rough calculation rather than a precise figure.\nExample: \"That's a back-of-the-envelope number, don't quote me on it.\"\nSimilar chunks:\n- order of magnitude\n- a rough estimate"
+    },
+    {
+      "id": 10,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've listed a couple of examples and want to signal there are more of the same kind, without listing every single one. Which chunk fits best?",
+      "options": {
+        "A": "Touch wood.",
+        "B": "or so",
+        "C": "odds and ends",
+        "D": "and so on"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Touch wood.\" belongs to Giving a soft, conditional yes — used to give a tentative, conditional 'yes' that leaves room to change later, not this context.\nSimilar chunks:\n- All being well...\n- In principle, yes.\n- Pencil it in.\n\n✗ \"or so\" belongs to Approximating amounts casually — a casual approximator used to round a number or amount instead of stating it exactly, not this context.\nSimilar chunks:\n- about\n- around\n- or thereabouts\n\n✗ \"odds and ends\" belongs to Vague references to things — a casual, imprecise way of referring to objects or tasks without naming them precisely, not this context.\nSimilar chunks:\n- this and that\n- bits and bobs\n- stuff\n\n✓ Correct — \"and so on\" is an Open-ended list extenders (casual) chunk: a casual list-ending phrase signaling more unlisted examples of the same kind.\nExample: \"We covered pricing, onboarding, support, and so on.\"\nSimilar chunks:\n- and stuff like that\n- or something\n- and so forth"
+    },
+    {
+      "id": 11,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've listed a couple of examples and want to signal there are more of the same kind, without listing every single one. Which chunk fits best?",
+      "options": {
+        "A": "Let's keep it loose.",
+        "B": "No promises, but...",
+        "C": "and that kind of thing",
+        "D": "every so often"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Let's keep it loose.\" belongs to Giving a soft, conditional yes — used to give a tentative, conditional 'yes' that leaves room to change later, not this context.\nSimilar chunks:\n- Touch wood.\n- All being well...\n- Provisionally, yes.\n\n✗ \"No promises, but...\" belongs to Giving a soft, conditional yes — used to give a tentative, conditional 'yes' that leaves room to change later, not this context.\nSimilar chunks:\n- All being well...\n- Provisionally, yes.\n- Let's keep it loose.\n\n✓ Correct — \"and that kind of thing\" is an Open-ended list extenders (casual) chunk: a casual list-ending phrase signaling more unlisted examples of the same kind.\nExample: \"She handles vendor contracts, renewals, and that kind of thing.\"\nSimilar chunks:\n- and so forth\n- and stuff like that\n- or something\n\n✗ \"every so often\" belongs to Vague frequency expressions — a casual, imprecise way of describing how often something happens, not this context.\nSimilar chunks:\n- on and off\n- here and there\n- now and then"
+    },
+    {
+      "id": 12,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've listed a couple of examples in a relaxed, informal conversation and want to trail off instead of listing everything. Which chunk fits best?",
+      "options": {
+        "A": "around",
+        "B": "somewhere",
+        "C": "and whatnot",
+        "D": "a fair bit"
+      },
+      "correct": "C",
+      "explanation": "✗ \"around\" belongs to Approximating amounts casually — a casual approximator used to round a number or amount instead of stating it exactly, not this context.\nSimilar chunks:\n- about\n- roughly\n- or so\n\n✗ \"somewhere\" belongs to Vague references to place — a casual, imprecise way of referring to a location without naming the exact place, not this context.\nSimilar chunks:\n- down south\n- round here\n- up north\n\n✓ Correct — \"and whatnot\" is an Open-ended list extenders (informal) chunk: an informal list-ending phrase signaling more unlisted examples of the same kind.\nExample: \"He handles the servers, the backups, and whatnot.\"\nSimilar chunks:\n- and the like\n- that sort of thing\n- you name it\n\n✗ \"a fair bit\" belongs to Vague quantity expressions (everyday) — a casual, everyday way of describing an amount without giving an exact figure, not this context.\nSimilar chunks:\n- a bunch of\n- a load of\n- a handful"
+    },
+    {
+      "id": 13,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've listed a couple of examples in a relaxed, informal conversation and want to trail off instead of listing everything. Which chunk fits best?",
+      "options": {
+        "A": "It's complicated.",
+        "B": "you name it",
+        "C": "It's on the radar.",
+        "D": "a bit of"
+      },
+      "correct": "B",
+      "explanation": "✗ \"It's complicated.\" belongs to Deflecting a direct question politely — used to politely avoid giving a direct answer to an uncomfortable or sensitive question, not this context.\nSimilar chunks:\n- It depends.\n- That's still being worked out.\n- More or less.\n\n✓ Correct — \"you name it\" is an Open-ended list extenders (informal) chunk: an informal list-ending phrase signaling more unlisted examples of the same kind.\nExample: \"Bugs, delays, angry clients — you name it, we've had it this month.\"\nSimilar chunks:\n- that sort of thing\n- and all that\n- and the like\n\n✗ \"It's on the radar.\" belongs to Staying non-committal / deferring a decision — used to defer a decision or commitment without shutting the door on it, not this context.\nSimilar chunks:\n- We'll play it by ear.\n- Let me look into it.\n- Let's see how it goes.\n\n✗ \"a bit of\" belongs to Vague quantity expressions — a casual, imprecise way of describing a quantity without giving an exact number, not this context.\nSimilar chunks:\n- a couple of\n- tons of\n- a smattering of"
+    },
+    {
+      "id": 14,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're listing familiar workplace items or people and want to signal the rest are the usual, predictable ones. Which chunk fits best?",
+      "options": {
+        "A": "fairly",
+        "B": "I couldn't possibly comment.",
+        "C": "what's-his-name",
+        "D": "and everything that goes with it"
+      },
+      "correct": "D",
+      "explanation": "✗ \"fairly\" belongs to Vague degree expressions — a casual degree word used to soften a description instead of giving a precise measurement, not this context.\nSimilar chunks:\n- somewhat\n- pretty\n- slightly\n\n✗ \"I couldn't possibly comment.\" belongs to Deflecting a direct question politely — used to politely avoid giving a direct answer to an uncomfortable or sensitive question, not this context.\nSimilar chunks:\n- I'd rather not say at this stage.\n- That's still being worked out.\n- In a manner of speaking.\n\n✗ \"what's-his-name\" belongs to Placeholder words for forgotten names — an informal placeholder word used when the speaker has forgotten the exact name, not this context.\nSimilar chunks:\n- thingamajig\n- so-and-so\n- whatsit\n\n✓ Correct — \"and everything that goes with it\" is an Open-ended list extenders (workplace) chunk: a workplace list-ending phrase signaling the rest are the usual, predictable items.\nExample: \"We're taking on the migration and everything that goes with it.\"\nSimilar chunks:\n- and downstream of that\n- and the usual suspects"
+    },
+    {
+      "id": 15,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're listing familiar workplace items or people and want to signal the rest are the usual, predictable ones. Which chunk fits best?",
+      "options": {
+        "A": "decent",
+        "B": "and so forth",
+        "C": "and the usual suspects",
+        "D": "bits and bobs"
+      },
+      "correct": "C",
+      "explanation": "✗ \"decent\" belongs to Vague quality expressions — a casual, non-committal way of describing quality without a strong evaluative word, not this context.\nSimilar chunks:\n- so-so\n- could be worse\n- nothing to write home about\n\n✗ \"and so forth\" belongs to Open-ended list extenders (casual) — a casual list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- and stuff like that\n- and that kind of thing\n- and so on\n\n✓ Correct — \"and the usual suspects\" is an Open-ended list extenders (workplace) chunk: a workplace list-ending phrase signaling the rest are the usual, predictable items.\nExample: \"The client escalation included finance, legal, and the usual suspects.\"\nSimilar chunks:\n- and everything that goes with it\n- and downstream of that\n\n✗ \"bits and bobs\" belongs to Vague references to things — a casual, imprecise way of referring to objects or tasks without naming them precisely, not this context.\nSimilar chunks:\n- this and that\n- things\n- odds and ends"
+    },
+    {
+      "id": 16,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a quantity casually without giving an exact number. Which chunk fits best?",
+      "options": {
+        "A": "and downstream of that",
+        "B": "I'd rather not say at this stage.",
+        "C": "loads of",
+        "D": "nothing to write home about"
+      },
+      "correct": "C",
+      "explanation": "✗ \"and downstream of that\" belongs to Open-ended list extenders (workplace) — a workplace list-ending phrase signaling the rest are the usual, predictable items, not this context.\nSimilar chunks:\n- and everything that goes with it\n- and the usual suspects\n\n✗ \"I'd rather not say at this stage.\" belongs to Deflecting a direct question politely — used to politely avoid giving a direct answer to an uncomfortable or sensitive question, not this context.\nSimilar chunks:\n- Let's just say it wasn't ideal.\n- Something like that.\n- More or less.\n\n✓ Correct — \"loads of\" is a Vague quantity expressions chunk: a casual, imprecise way of describing a quantity without giving an exact number.\nExample: \"We got loads of feedback after the beta launch.\"\nSimilar chunks:\n- a fair few\n- tons of\n- a smattering of\n\n✗ \"nothing to write home about\" belongs to Vague quality expressions — a casual, non-committal way of describing quality without a strong evaluative word, not this context.\nSimilar chunks:\n- so-so\n- decent\n- not bad"
+    },
+    {
+      "id": 17,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a quantity casually without giving an exact number. Which chunk fits best?",
+      "options": {
+        "A": "In principle, yes.",
+        "B": "one or two",
+        "C": "I'd have to check.",
+        "D": "north of"
+      },
+      "correct": "B",
+      "explanation": "✗ \"In principle, yes.\" belongs to Giving a soft, conditional yes — used to give a tentative, conditional 'yes' that leaves room to change later, not this context.\nSimilar chunks:\n- All being well...\n- Provisionally, yes.\n- Touch wood.\n\n✓ Correct — \"one or two\" is a Vague quantity expressions chunk: a casual, imprecise way of describing a quantity without giving an exact number.\nExample: \"One or two clients mentioned the checkout was slow.\"\nSimilar chunks:\n- a handful of\n- a bit of\n- tons of\n\n✗ \"I'd have to check.\" belongs to Staying non-committal / deferring a decision — used to defer a decision or commitment without shutting the door on it, not this context.\nSimilar chunks:\n- Let's see how it goes.\n- Let's see where we land.\n- Let me look into it.\n\n✗ \"north of\" belongs to Approximating amounts at work — a workplace-register approximator used to give a rough figure without sounding too casual, not this context.\nSimilar chunks:\n- something like\n- south of\n- in the ballpark of"
+    },
+    {
+      "id": 18,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a quantity casually without giving an exact number. Which chunk fits best?",
+      "options": {
+        "A": "tons of",
+        "B": "Let's just say it wasn't ideal.",
+        "C": "and so on",
+        "D": "Let's keep it loose."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"tons of\" is a Vague quantity expressions chunk: a casual, imprecise way of describing a quantity without giving an exact number.\nExample: \"There are tons of edge cases we haven't tested yet.\"\nSimilar chunks:\n- a handful of\n- a fair few\n- a couple of\n\n✗ \"Let's just say it wasn't ideal.\" belongs to Deflecting a direct question politely — used to politely avoid giving a direct answer to an uncomfortable or sensitive question, not this context.\nSimilar chunks:\n- Let's leave it there.\n- It's complicated.\n- I couldn't possibly comment.\n\n✗ \"and so on\" belongs to Open-ended list extenders (casual) — a casual list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- or something\n- and that kind of thing\n- and stuff like that\n\n✗ \"Let's keep it loose.\" belongs to Giving a soft, conditional yes — used to give a tentative, conditional 'yes' that leaves room to change later, not this context.\nSimilar chunks:\n- In principle, yes.\n- Provisionally, yes.\n- Subject to a few things."
+    },
+    {
+      "id": 19,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a quantity casually without giving an exact number. Which chunk fits best?",
+      "options": {
+        "A": "a bit of",
+        "B": "a handful",
+        "C": "over that way",
+        "D": "up north"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"a bit of\" is a Vague quantity expressions chunk: a casual, imprecise way of describing a quantity without giving an exact number.\nExample: \"There's a bit of confusion about who owns this ticket.\"\nSimilar chunks:\n- a fair few\n- tons of\n- a handful of\n\n✗ \"a handful\" belongs to Vague quantity expressions (everyday) — a casual, everyday way of describing an amount without giving an exact figure, not this context.\nSimilar chunks:\n- hardly any\n- a load of\n- not much\n\n✗ \"over that way\" belongs to Vague references to place — a casual, imprecise way of referring to a location without naming the exact place, not this context.\nSimilar chunks:\n- down south\n- somewhere\n- up north\n\n✗ \"up north\" belongs to Vague references to place — a casual, imprecise way of referring to a location without naming the exact place, not this context.\nSimilar chunks:\n- over that way\n- round here\n- down south"
+    },
+    {
+      "id": 20,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've forgotten the exact name of a person or object and need a placeholder word to keep talking. Which chunk fits best?",
+      "options": {
+        "A": "a bunch of",
+        "B": "so-and-so",
+        "C": "and the like",
+        "D": "stuff"
+      },
+      "correct": "B",
+      "explanation": "✗ \"a bunch of\" belongs to Vague quantity expressions (everyday) — a casual, everyday way of describing an amount without giving an exact figure, not this context.\nSimilar chunks:\n- not much\n- a load of\n- a fair bit\n\n✓ Correct — \"so-and-so\" is a Placeholder words for forgotten names chunk: an informal placeholder word used when the speaker has forgotten the exact name.\nExample: \"She said, quote, so-and-so promised this last week, unquote.\"\nSimilar chunks:\n- whatsit\n- thingamajig\n- thingy\n\n✗ \"and the like\" belongs to Open-ended list extenders (informal) — an informal list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- you name it\n- and all that\n- and whatnot\n\n✗ \"stuff\" belongs to Vague references to things — a casual, imprecise way of referring to objects or tasks without naming them precisely, not this context.\nSimilar chunks:\n- things\n- this and that\n- bits and bobs"
+    },
+    {
+      "id": 21,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've forgotten the exact name of a person or object and need a placeholder word to keep talking. Which chunk fits best?",
+      "options": {
+        "A": "a tad",
+        "B": "a load of",
+        "C": "There are a few moving parts.",
+        "D": "thingamajig"
+      },
+      "correct": "D",
+      "explanation": "✗ \"a tad\" belongs to Vague degree expressions — a casual degree word used to soften a description instead of giving a precise measurement, not this context.\nSimilar chunks:\n- a smidge\n- slightly\n- a touch\n\n✗ \"a load of\" belongs to Vague quantity expressions (everyday) — a casual, everyday way of describing an amount without giving an exact figure, not this context.\nSimilar chunks:\n- not much\n- a fair bit\n- hardly any\n\n✗ \"There are a few moving parts.\" belongs to Deflecting a direct question politely — used to politely avoid giving a direct answer to an uncomfortable or sensitive question, not this context.\nSimilar chunks:\n- I'd rather not say at this stage.\n- More or less.\n- I couldn't possibly comment.\n\n✓ Correct — \"thingamajig\" is a Placeholder words for forgotten names chunk: an informal placeholder word used when the speaker has forgotten the exact name.\nExample: \"He fixed it with some thingamajig from the hardware store.\"\nSimilar chunks:\n- what's-his-name\n- whatsit\n- so-and-so"
+    },
+    {
+      "id": 22,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to mention a small number of complaints or people without naming exactly who or how many, to protect someone's reputation. Which chunk fits best?",
+      "options": {
+        "A": "a fair bit",
+        "B": "one or two concerns",
+        "C": "south of",
+        "D": "More or less."
+      },
+      "correct": "B",
+      "explanation": "✗ \"a fair bit\" belongs to Vague quantity expressions (everyday) — a casual, everyday way of describing an amount without giving an exact figure, not this context.\nSimilar chunks:\n- not much\n- a load of\n- a bunch of\n\n✓ Correct — \"one or two concerns\" is a Diplomatically vague quantities chunk: a deliberately vague quantity used to protect someone's reputation instead of naming exact numbers or names.\nExample: \"There have been one or two concerns about response times.\"\nSimilar chunks:\n- some parties\n- certain stakeholders\n\n✗ \"south of\" belongs to Approximating amounts at work — a workplace-register approximator used to give a rough figure without sounding too casual, not this context.\nSimilar chunks:\n- something like\n- in the ballpark of\n- in the region of\n\n✗ \"More or less.\" belongs to Deflecting a direct question politely — used to politely avoid giving a direct answer to an uncomfortable or sensitive question, not this context.\nSimilar chunks:\n- In a manner of speaking.\n- Let's just say it wasn't ideal.\n- It depends."
+    },
+    {
+      "id": 23,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to mention a small number of complaints or people without naming exactly who or how many, to protect someone's reputation. Which chunk fits best?",
+      "options": {
+        "A": "give or take",
+        "B": "in a bit",
+        "C": "decent",
+        "D": "some parties"
+      },
+      "correct": "D",
+      "explanation": "✗ \"give or take\" belongs to Approximating amounts casually — a casual approximator used to round a number or amount instead of stating it exactly, not this context.\nSimilar chunks:\n- about\n- around\n- or thereabouts\n\n✗ \"in a bit\" belongs to Vague time expressions — a casual, imprecise way of referring to timing without committing to an exact time, not this context.\nSimilar chunks:\n- at some point\n- sooner or later\n- shortly\n\n✗ \"decent\" belongs to Vague quality expressions — a casual, non-committal way of describing quality without a strong evaluative word, not this context.\nSimilar chunks:\n- could be worse\n- alright\n- so-so\n\n✓ Correct — \"some parties\" is a Diplomatically vague quantities chunk: a deliberately vague quantity used to protect someone's reputation instead of naming exact numbers or names.\nExample: \"Some parties weren't happy with how the announcement was handled.\"\nSimilar chunks:\n- one or two concerns\n- certain stakeholders"
+    },
+    {
+      "id": 24,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a rough sense of when something will happen without committing to an exact time. Which chunk fits best?",
+      "options": {
+        "A": "hardly any",
+        "B": "this guy",
+        "C": "Touch wood.",
+        "D": "shortly"
+      },
+      "correct": "D",
+      "explanation": "✗ \"hardly any\" belongs to Vague quantity expressions (everyday) — a casual, everyday way of describing an amount without giving an exact figure, not this context.\nSimilar chunks:\n- a load of\n- a bunch of\n- a fair bit\n\n✗ \"this guy\" belongs to Vague references to people — a casual, imprecise way of referring to a person without naming exactly who they are, not this context.\nSimilar chunks:\n- a mate of mine\n- someone\n- a colleague\n\n✗ \"Touch wood.\" belongs to Giving a soft, conditional yes — used to give a tentative, conditional 'yes' that leaves room to change later, not this context.\nSimilar chunks:\n- Provisionally, yes.\n- Pencil it in.\n- All being well...\n\n✓ Correct — \"shortly\" is a Vague time expressions chunk: a casual, imprecise way of referring to timing without committing to an exact time.\nExample: \"The client should be joining shortly.\"\nSimilar chunks:\n- sooner or later\n- in a sec\n- in a bit"
+    },
+    {
+      "id": 25,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a rough sense of when something will happen without committing to an exact time. Which chunk fits best?",
+      "options": {
+        "A": "so-and-so",
+        "B": "things",
+        "C": "in a bit",
+        "D": "here and there"
+      },
+      "correct": "C",
+      "explanation": "✗ \"so-and-so\" belongs to Placeholder words for forgotten names — an informal placeholder word used when the speaker has forgotten the exact name, not this context.\nSimilar chunks:\n- whatsit\n- thingy\n- what's-his-name\n\n✗ \"things\" belongs to Vague references to things — a casual, imprecise way of referring to objects or tasks without naming them precisely, not this context.\nSimilar chunks:\n- bits and bobs\n- stuff\n- odds and ends\n\n✓ Correct — \"in a bit\" is a Vague time expressions chunk: a casual, imprecise way of referring to timing without committing to an exact time.\nExample: \"I'll send the notes over in a bit.\"\nSimilar chunks:\n- at some point\n- shortly\n- sooner or later\n\n✗ \"here and there\" belongs to Vague frequency expressions — a casual, imprecise way of describing how often something happens, not this context.\nSimilar chunks:\n- every so often\n- on and off\n- from time to time"
+    },
+    {
+      "id": 26,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a rough sense of when something will happen without committing to an exact time. Which chunk fits best?",
+      "options": {
+        "A": "decent",
+        "B": "so-so",
+        "C": "any minute now",
+        "D": "It's in the mix."
+      },
+      "correct": "C",
+      "explanation": "✗ \"decent\" belongs to Vague quality expressions — a casual, non-committal way of describing quality without a strong evaluative word, not this context.\nSimilar chunks:\n- so-so\n- could be worse\n- nothing to write home about\n\n✗ \"so-so\" belongs to Vague quality expressions — a casual, non-committal way of describing quality without a strong evaluative word, not this context.\nSimilar chunks:\n- nothing to write home about\n- decent\n- not bad\n\n✓ Correct — \"any minute now\" is a Vague time expressions chunk: a casual, imprecise way of referring to timing without committing to an exact time.\nExample: \"The report should land any minute now.\"\nSimilar chunks:\n- sooner or later\n- shortly\n- at some point\n\n✗ \"It's in the mix.\" belongs to Staying non-committal / deferring a decision — used to defer a decision or commitment without shutting the door on it, not this context.\nSimilar chunks:\n- Let's see where we land.\n- Let me look into it.\n- We'll play it by ear."
+    },
+    {
+      "id": 27,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe an amount casually, in relaxed everyday conversation rather than a report. Which chunk fits best?",
+      "options": {
+        "A": "and so on",
+        "B": "one or two",
+        "C": "a bunch of",
+        "D": "in a bit"
+      },
+      "correct": "C",
+      "explanation": "✗ \"and so on\" belongs to Open-ended list extenders (casual) — a casual list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- and that kind of thing\n- or something\n- and so forth\n\n✗ \"one or two\" belongs to Vague quantity expressions — a casual, imprecise way of describing a quantity without giving an exact number, not this context.\nSimilar chunks:\n- tons of\n- a handful of\n- a couple of\n\n✓ Correct — \"a bunch of\" is a Vague quantity expressions (everyday) chunk: a casual, everyday way of describing an amount without giving an exact figure.\nExample: \"A bunch of us are grabbing lunch after the demo.\"\nSimilar chunks:\n- a handful\n- hardly any\n- not much\n\n✗ \"in a bit\" belongs to Vague time expressions — a casual, imprecise way of referring to timing without committing to an exact time, not this context.\nSimilar chunks:\n- in a sec\n- shortly\n- at some point"
+    },
+    {
+      "id": 28,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe an amount casually, in relaxed everyday conversation rather than a report. Which chunk fits best?",
+      "options": {
+        "A": "and whatnot",
+        "B": "somewhat",
+        "C": "not much",
+        "D": "thingamajig"
+      },
+      "correct": "C",
+      "explanation": "✗ \"and whatnot\" belongs to Open-ended list extenders (informal) — an informal list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- that sort of thing\n- and the like\n- and all that\n\n✗ \"somewhat\" belongs to Vague degree expressions — a casual degree word used to soften a description instead of giving a precise measurement, not this context.\nSimilar chunks:\n- pretty\n- slightly\n- a smidge\n\n✓ Correct — \"not much\" is a Vague quantity expressions (everyday) chunk: a casual, everyday way of describing an amount without giving an exact figure.\nExample: \"There's not much left to do before the release.\"\nSimilar chunks:\n- a bunch of\n- a load of\n- a handful\n\n✗ \"thingamajig\" belongs to Placeholder words for forgotten names — an informal placeholder word used when the speaker has forgotten the exact name, not this context.\nSimilar chunks:\n- so-and-so\n- whatsit\n- what's-his-name"
+    },
+    {
+      "id": 29,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe an amount casually, in relaxed everyday conversation rather than a report. Which chunk fits best?",
+      "options": {
+        "A": "and whatnot",
+        "B": "hardly any",
+        "C": "in the ballpark of",
+        "D": "Let me look into it."
+      },
+      "correct": "B",
+      "explanation": "✗ \"and whatnot\" belongs to Open-ended list extenders (informal) — an informal list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- and the like\n- you name it\n- and all that\n\n✓ Correct — \"hardly any\" is a Vague quantity expressions (everyday) chunk: a casual, everyday way of describing an amount without giving an exact figure.\nExample: \"Hardly any customers noticed the price change.\"\nSimilar chunks:\n- a fair bit\n- a bunch of\n- a handful\n\n✗ \"in the ballpark of\" belongs to Approximating amounts at work — a workplace-register approximator used to give a rough figure without sounding too casual, not this context.\nSimilar chunks:\n- something like\n- in the region of\n- north of\n\n✗ \"Let me look into it.\" belongs to Staying non-committal / deferring a decision — used to defer a decision or commitment without shutting the door on it, not this context.\nSimilar chunks:\n- I'd have to check.\n- Let's see how it goes.\n- It's on the radar."
+    },
+    {
+      "id": 30,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to soften how strongly you're describing something, using a casual degree word instead of a precise measurement. Which chunk fits best?",
+      "options": {
+        "A": "loads of",
+        "B": "north of",
+        "C": "Leave it with me.",
+        "D": "slightly"
+      },
+      "correct": "D",
+      "explanation": "✗ \"loads of\" belongs to Vague quantity expressions — a casual, imprecise way of describing a quantity without giving an exact number, not this context.\nSimilar chunks:\n- tons of\n- one or two\n- a couple of\n\n✗ \"north of\" belongs to Approximating amounts at work — a workplace-register approximator used to give a rough figure without sounding too casual, not this context.\nSimilar chunks:\n- south of\n- in the ballpark of\n- something like\n\n✗ \"Leave it with me.\" belongs to Staying non-committal / deferring a decision — used to defer a decision or commitment without shutting the door on it, not this context.\nSimilar chunks:\n- It's on the radar.\n- Let me look into it.\n- I'd have to check.\n\n✓ Correct — \"slightly\" is a Vague degree expressions chunk: a casual degree word used to soften a description instead of giving a precise measurement.\nExample: \"Response times are slightly better since the fix.\"\nSimilar chunks:\n- a tad\n- pretty\n- fairly"
+    },
+    {
+      "id": 31,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to soften how strongly you're describing something, using a casual degree word instead of a precise measurement. Which chunk fits best?",
+      "options": {
+        "A": "and so forth",
+        "B": "fairly",
+        "C": "certain stakeholders",
+        "D": "here and there"
+      },
+      "correct": "B",
+      "explanation": "✗ \"and so forth\" belongs to Open-ended list extenders (casual) — a casual list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- and so on\n- and that kind of thing\n- and stuff like that\n\n✓ Correct — \"fairly\" is a Vague degree expressions chunk: a casual degree word used to soften a description instead of giving a precise measurement.\nExample: \"The rollout went fairly smoothly, all things considered.\"\nSimilar chunks:\n- a tad\n- slightly\n- pretty\n\n✗ \"certain stakeholders\" belongs to Diplomatically vague quantities — a deliberately vague quantity used to protect someone's reputation instead of naming exact numbers or names, not this context.\nSimilar chunks:\n- one or two concerns\n- some parties\n\n✗ \"here and there\" belongs to Vague frequency expressions — a casual, imprecise way of describing how often something happens, not this context.\nSimilar chunks:\n- now and then\n- every so often\n- from time to time"
+    },
+    {
+      "id": 32,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to soften how strongly you're describing something, using a casual degree word instead of a precise measurement. Which chunk fits best?",
+      "options": {
+        "A": "We're considering it.",
+        "B": "a tad",
+        "C": "tons of",
+        "D": "a couple of"
+      },
+      "correct": "B",
+      "explanation": "✗ \"We're considering it.\" belongs to Staying non-committal / deferring a decision — used to defer a decision or commitment without shutting the door on it, not this context.\nSimilar chunks:\n- Let me look into it.\n- Let's see how it goes.\n- We'll play it by ear.\n\n✓ Correct — \"a tad\" is a Vague degree expressions chunk: a casual degree word used to soften a description instead of giving a precise measurement.\nExample: \"This version runs a tad slower than the last one.\"\nSimilar chunks:\n- slightly\n- a touch\n- somewhat\n\n✗ \"tons of\" belongs to Vague quantity expressions — a casual, imprecise way of describing a quantity without giving an exact number, not this context.\nSimilar chunks:\n- a couple of\n- a fair few\n- one or two\n\n✗ \"a couple of\" belongs to Vague quantity expressions — a casual, imprecise way of describing a quantity without giving an exact number, not this context.\nSimilar chunks:\n- a bit of\n- a fair few\n- loads of"
+    },
+    {
+      "id": 33,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how often something happens without giving an exact frequency. Which chunk fits best?",
+      "options": {
+        "A": "nothing to write home about",
+        "B": "shortly",
+        "C": "here and there",
+        "D": "so-so"
+      },
+      "correct": "C",
+      "explanation": "✗ \"nothing to write home about\" belongs to Vague quality expressions — a casual, non-committal way of describing quality without a strong evaluative word, not this context.\nSimilar chunks:\n- so-so\n- decent\n- could be worse\n\n✗ \"shortly\" belongs to Vague time expressions — a casual, imprecise way of referring to timing without committing to an exact time, not this context.\nSimilar chunks:\n- any minute now\n- sooner or later\n- at some point\n\n✓ Correct — \"here and there\" is a Vague frequency expressions chunk: a casual, imprecise way of describing how often something happens.\nExample: \"There are still a few bugs here and there.\"\nSimilar chunks:\n- on and off\n- from time to time\n- every so often\n\n✗ \"so-so\" belongs to Vague quality expressions — a casual, non-committal way of describing quality without a strong evaluative word, not this context.\nSimilar chunks:\n- not bad\n- alright\n- nothing to write home about"
+    },
+    {
+      "id": 34,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how often something happens without giving an exact frequency. Which chunk fits best?",
+      "options": {
+        "A": "We'll play it by ear.",
+        "B": "somewhat",
+        "C": "one or two",
+        "D": "now and then"
+      },
+      "correct": "D",
+      "explanation": "✗ \"We'll play it by ear.\" belongs to Staying non-committal / deferring a decision — used to defer a decision or commitment without shutting the door on it, not this context.\nSimilar chunks:\n- It's in the mix.\n- Let's see where we land.\n- We're considering it.\n\n✗ \"somewhat\" belongs to Vague degree expressions — a casual degree word used to soften a description instead of giving a precise measurement, not this context.\nSimilar chunks:\n- a smidge\n- a touch\n- pretty\n\n✗ \"one or two\" belongs to Vague quantity expressions — a casual, imprecise way of describing a quantity without giving an exact number, not this context.\nSimilar chunks:\n- a handful of\n- a couple of\n- loads of\n\n✓ Correct — \"now and then\" is a Vague frequency expressions chunk: a casual, imprecise way of describing how often something happens.\nExample: \"The old bug still pops up now and then.\"\nSimilar chunks:\n- here and there\n- every so often\n- on and off"
+    },
+    {
+      "id": 35,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how good or bad something was, casually and non-committally, without a strong evaluative word. Which chunk fits best?",
+      "options": {
+        "A": "any minute now",
+        "B": "Pencil it in.",
+        "C": "shortly",
+        "D": "alright"
+      },
+      "correct": "D",
+      "explanation": "✗ \"any minute now\" belongs to Vague time expressions — a casual, imprecise way of referring to timing without committing to an exact time, not this context.\nSimilar chunks:\n- shortly\n- at some point\n- sooner or later\n\n✗ \"Pencil it in.\" belongs to Giving a soft, conditional yes — used to give a tentative, conditional 'yes' that leaves room to change later, not this context.\nSimilar chunks:\n- Let's keep it loose.\n- Provisionally, yes.\n- No promises, but...\n\n✗ \"shortly\" belongs to Vague time expressions — a casual, imprecise way of referring to timing without committing to an exact time, not this context.\nSimilar chunks:\n- sooner or later\n- at some point\n- in a sec\n\n✓ Correct — \"alright\" is a Vague quality expressions chunk: a casual, non-committal way of describing quality without a strong evaluative word.\nExample: \"The demo went alright, nothing broke at least.\"\nSimilar chunks:\n- so-so\n- not bad\n- could be worse"
+    },
+    {
+      "id": 36,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how good or bad something was, casually and non-committally, without a strong evaluative word. Which chunk fits best?",
+      "options": {
+        "A": "at some point",
+        "B": "nothing to write home about",
+        "C": "Mondayish",
+        "D": "Leave it with me."
+      },
+      "correct": "B",
+      "explanation": "✗ \"at some point\" belongs to Vague time expressions — a casual, imprecise way of referring to timing without committing to an exact time, not this context.\nSimilar chunks:\n- in a sec\n- any minute now\n- in a bit\n\n✓ Correct — \"nothing to write home about\" is a Vague quality expressions chunk: a casual, non-committal way of describing quality without a strong evaluative word.\nExample: \"The results were nothing to write home about, honestly.\"\nSimilar chunks:\n- so-so\n- alright\n- decent\n\n✗ \"Mondayish\" belongs to Approximating with -ish — an informal '-ish' suffix used to make a word approximate rather than exact, not this context.\nSimilar chunks:\n- tallish\n- blueish\n- fiveish\n\n✗ \"Leave it with me.\" belongs to Staying non-committal / deferring a decision — used to defer a decision or commitment without shutting the door on it, not this context.\nSimilar chunks:\n- Let's see how it goes.\n- I'd have to check.\n- It's on the radar."
+    },
+    {
+      "id": 37,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how good or bad something was, casually and non-committally, without a strong evaluative word. Which chunk fits best?",
+      "options": {
+        "A": "I couldn't possibly comment.",
+        "B": "not bad",
+        "C": "It's on the radar.",
+        "D": "and the like"
+      },
+      "correct": "B",
+      "explanation": "✗ \"I couldn't possibly comment.\" belongs to Deflecting a direct question politely — used to politely avoid giving a direct answer to an uncomfortable or sensitive question, not this context.\nSimilar chunks:\n- More or less.\n- I'd rather not say at this stage.\n- There are a few moving parts.\n\n✓ Correct — \"not bad\" is a Vague quality expressions chunk: a casual, non-committal way of describing quality without a strong evaluative word.\nExample: \"The first draft isn't bad, just needs trimming.\"\nSimilar chunks:\n- decent\n- nothing to write home about\n- could be worse\n\n✗ \"It's on the radar.\" belongs to Staying non-committal / deferring a decision — used to defer a decision or commitment without shutting the door on it, not this context.\nSimilar chunks:\n- I'd have to check.\n- We're considering it.\n- We'll play it by ear.\n\n✗ \"and the like\" belongs to Open-ended list extenders (informal) — an informal list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- you name it\n- and whatnot\n- and all that"
+    },
+    {
+      "id": 38,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to refer to a person casually without naming exactly who they are. Which chunk fits best?",
+      "options": {
+        "A": "a rough estimate",
+        "B": "a fair few",
+        "C": "tiredish",
+        "D": "a colleague"
+      },
+      "correct": "D",
+      "explanation": "✗ \"a rough estimate\" belongs to Rough workplace estimates — used to explicitly flag a number as a rough calculation rather than a precise figure, not this context.\nSimilar chunks:\n- back-of-the-envelope\n- order of magnitude\n\n✗ \"a fair few\" belongs to Vague quantity expressions — a casual, imprecise way of describing a quantity without giving an exact number, not this context.\nSimilar chunks:\n- loads of\n- a smattering of\n- a bit of\n\n✗ \"tiredish\" belongs to Approximating with -ish — an informal '-ish' suffix used to make a word approximate rather than exact, not this context.\nSimilar chunks:\n- blueish\n- fiveish\n- tallish\n\n✓ Correct — \"a colleague\" is a Vague references to people chunk: a casual, imprecise way of referring to a person without naming exactly who they are.\nExample: \"A colleague mentioned the same bug last week.\"\nSimilar chunks:\n- people\n- someone\n- a mate of mine"
+    },
+    {
+      "id": 39,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to refer to a person casually without naming exactly who they are. Which chunk fits best?",
+      "options": {
+        "A": "a handful",
+        "B": "could be worse",
+        "C": "this guy",
+        "D": "something like"
+      },
+      "correct": "C",
+      "explanation": "✗ \"a handful\" belongs to Vague quantity expressions (everyday) — a casual, everyday way of describing an amount without giving an exact figure, not this context.\nSimilar chunks:\n- a fair bit\n- a bunch of\n- a load of\n\n✗ \"could be worse\" belongs to Vague quality expressions — a casual, non-committal way of describing quality without a strong evaluative word, not this context.\nSimilar chunks:\n- nothing to write home about\n- alright\n- decent\n\n✓ Correct — \"this guy\" is a Vague references to people chunk: a casual, imprecise way of referring to a person without naming exactly who they are.\nExample: \"This guy on the support team fixed it in ten minutes.\"\nSimilar chunks:\n- someone\n- people\n- a colleague\n\n✗ \"something like\" belongs to Approximating amounts at work — a workplace-register approximator used to give a rough figure without sounding too casual, not this context.\nSimilar chunks:\n- in the region of\n- south of\n- north of"
+    },
+    {
+      "id": 40,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to refer to a location casually without naming the exact place. Which chunk fits best?",
+      "options": {
+        "A": "and downstream of that",
+        "B": "hardly any",
+        "C": "and that kind of thing",
+        "D": "up north"
+      },
+      "correct": "D",
+      "explanation": "✗ \"and downstream of that\" belongs to Open-ended list extenders (workplace) — a workplace list-ending phrase signaling the rest are the usual, predictable items, not this context.\nSimilar chunks:\n- and the usual suspects\n- and everything that goes with it\n\n✗ \"hardly any\" belongs to Vague quantity expressions (everyday) — a casual, everyday way of describing an amount without giving an exact figure, not this context.\nSimilar chunks:\n- a load of\n- a handful\n- a bunch of\n\n✗ \"and that kind of thing\" belongs to Open-ended list extenders (casual) — a casual list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- or something\n- and so forth\n- and so on\n\n✓ Correct — \"up north\" is a Vague references to place chunk: a casual, imprecise way of referring to a location without naming the exact place.\nExample: \"Their biggest warehouse is up north.\"\nSimilar chunks:\n- round here\n- down south\n- over that way"
+    },
+    {
+      "id": 41,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to refer to a location casually without naming the exact place. Which chunk fits best?",
+      "options": {
+        "A": "north of",
+        "B": "down south",
+        "C": "any minute now",
+        "D": "nothing to write home about"
+      },
+      "correct": "B",
+      "explanation": "✗ \"north of\" belongs to Approximating amounts at work — a workplace-register approximator used to give a rough figure without sounding too casual, not this context.\nSimilar chunks:\n- something like\n- in the region of\n- in the ballpark of\n\n✓ Correct — \"down south\" is a Vague references to place chunk: a casual, imprecise way of referring to a location without naming the exact place.\nExample: \"We're opening a second office down south next year.\"\nSimilar chunks:\n- up north\n- somewhere\n- over that way\n\n✗ \"any minute now\" belongs to Vague time expressions — a casual, imprecise way of referring to timing without committing to an exact time, not this context.\nSimilar chunks:\n- at some point\n- sooner or later\n- in a bit\n\n✗ \"nothing to write home about\" belongs to Vague quality expressions — a casual, non-committal way of describing quality without a strong evaluative word, not this context.\nSimilar chunks:\n- could be worse\n- so-so\n- alright"
+    },
+    {
+      "id": 42,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to refer to objects or tasks casually without naming them precisely. Which chunk fits best?",
+      "options": {
+        "A": "and so on",
+        "B": "in a sec",
+        "C": "stuff",
+        "D": "thingamajig"
+      },
+      "correct": "C",
+      "explanation": "✗ \"and so on\" belongs to Open-ended list extenders (casual) — a casual list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- and stuff like that\n- or something\n- and that kind of thing\n\n✗ \"in a sec\" belongs to Vague time expressions — a casual, imprecise way of referring to timing without committing to an exact time, not this context.\nSimilar chunks:\n- in a bit\n- at some point\n- sooner or later\n\n✓ Correct — \"stuff\" is a Vague references to things chunk: a casual, imprecise way of referring to objects or tasks without naming them precisely.\nExample: \"Leave your stuff by the door, we'll sort it out later.\"\nSimilar chunks:\n- things\n- bits and bobs\n- this and that\n\n✗ \"thingamajig\" belongs to Placeholder words for forgotten names — an informal placeholder word used when the speaker has forgotten the exact name, not this context.\nSimilar chunks:\n- so-and-so\n- whatsit\n- thingy"
+    },
+    {
+      "id": 43,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to refer to objects or tasks casually without naming them precisely. Which chunk fits best?",
+      "options": {
+        "A": "not much",
+        "B": "odds and ends",
+        "C": "down south",
+        "D": "certain stakeholders"
+      },
+      "correct": "B",
+      "explanation": "✗ \"not much\" belongs to Vague quantity expressions (everyday) — a casual, everyday way of describing an amount without giving an exact figure, not this context.\nSimilar chunks:\n- a fair bit\n- a load of\n- hardly any\n\n✓ Correct — \"odds and ends\" is a Vague references to things chunk: a casual, imprecise way of referring to objects or tasks without naming them precisely.\nExample: \"We spent the afternoon tidying up odds and ends in the backlog.\"\nSimilar chunks:\n- bits and bobs\n- stuff\n- things\n\n✗ \"down south\" belongs to Vague references to place — a casual, imprecise way of referring to a location without naming the exact place, not this context.\nSimilar chunks:\n- somewhere\n- up north\n- over that way\n\n✗ \"certain stakeholders\" belongs to Diplomatically vague quantities — a deliberately vague quantity used to protect someone's reputation instead of naming exact numbers or names, not this context.\nSimilar chunks:\n- some parties\n- one or two concerns"
+    },
+    {
+      "id": 44,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've been asked a direct question you don't want to, or can't, answer fully, and you need to deflect politely without being rude. Which chunk fits best?",
+      "options": {
+        "A": "and so forth",
+        "B": "order of magnitude",
+        "C": "I'd rather not say at this stage.",
+        "D": "thingy"
+      },
+      "correct": "C",
+      "explanation": "✗ \"and so forth\" belongs to Open-ended list extenders (casual) — a casual list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- and stuff like that\n- and so on\n- and that kind of thing\n\n✗ \"order of magnitude\" belongs to Rough workplace estimates — used to explicitly flag a number as a rough calculation rather than a precise figure, not this context.\nSimilar chunks:\n- back-of-the-envelope\n- a rough estimate\n\n✓ Correct — \"I'd rather not say at this stage.\" is a Deflecting a direct question politely chunk: used to politely avoid giving a direct answer to an uncomfortable or sensitive question.\nExample: \"I'd rather not say at this stage — we're still in negotiations.\"\nSimilar chunks:\n- That's still being worked out.\n- Let's leave it there.\n- There are a few moving parts.\n\n✗ \"thingy\" belongs to Placeholder words for forgotten names — an informal placeholder word used when the speaker has forgotten the exact name, not this context.\nSimilar chunks:\n- so-and-so\n- whatsit\n- what's-his-name"
+    },
+    {
+      "id": 45,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've been asked a direct question you don't want to, or can't, answer fully, and you need to deflect politely without being rude. Which chunk fits best?",
+      "options": {
+        "A": "I'd have to check.",
+        "B": "Subject to a few things.",
+        "C": "a touch",
+        "D": "That's still being worked out."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'd have to check.\" belongs to Staying non-committal / deferring a decision — used to defer a decision or commitment without shutting the door on it, not this context.\nSimilar chunks:\n- We'll play it by ear.\n- Let's see how it goes.\n- It's in the mix.\n\n✗ \"Subject to a few things.\" belongs to Giving a soft, conditional yes — used to give a tentative, conditional 'yes' that leaves room to change later, not this context.\nSimilar chunks:\n- Broadly, yes.\n- Pencil it in.\n- All being well...\n\n✗ \"a touch\" belongs to Vague degree expressions — a casual degree word used to soften a description instead of giving a precise measurement, not this context.\nSimilar chunks:\n- a smidge\n- somewhat\n- slightly\n\n✓ Correct — \"That's still being worked out.\" is a Deflecting a direct question politely chunk: used to politely avoid giving a direct answer to an uncomfortable or sensitive question.\nExample: \"The final terms are still being worked out.\"\nSimilar chunks:\n- It's complicated.\n- More or less.\n- There are a few moving parts."
+    },
+    {
+      "id": 46,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've been asked a direct question you don't want to, or can't, answer fully, and you need to deflect politely without being rude. Which chunk fits best?",
+      "options": {
+        "A": "and whatnot",
+        "B": "It's in the mix.",
+        "C": "a fair few",
+        "D": "It depends."
+      },
+      "correct": "D",
+      "explanation": "✗ \"and whatnot\" belongs to Open-ended list extenders (informal) — an informal list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- and all that\n- and the like\n- that sort of thing\n\n✗ \"It's in the mix.\" belongs to Staying non-committal / deferring a decision — used to defer a decision or commitment without shutting the door on it, not this context.\nSimilar chunks:\n- Let's see where we land.\n- I'd have to check.\n- Let's see how it goes.\n\n✗ \"a fair few\" belongs to Vague quantity expressions — a casual, imprecise way of describing a quantity without giving an exact number, not this context.\nSimilar chunks:\n- a bit of\n- a handful of\n- one or two\n\n✓ Correct — \"It depends.\" is a Deflecting a direct question politely chunk: used to politely avoid giving a direct answer to an uncomfortable or sensitive question.\nExample: \"Will this affect pricing? It depends.\"\nSimilar chunks:\n- In a manner of speaking.\n- I couldn't possibly comment.\n- Let's leave it there."
+    },
+    {
+      "id": 47,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've been asked a direct question you don't want to, or can't, answer fully, and you need to deflect politely without being rude. Which chunk fits best?",
+      "options": {
+        "A": "something like",
+        "B": "In a manner of speaking.",
+        "C": "We're considering it.",
+        "D": "bits and bobs"
+      },
+      "correct": "B",
+      "explanation": "✗ \"something like\" belongs to Approximating amounts at work — a workplace-register approximator used to give a rough figure without sounding too casual, not this context.\nSimilar chunks:\n- north of\n- south of\n- in the region of\n\n✓ Correct — \"In a manner of speaking.\" is a Deflecting a direct question politely chunk: used to politely avoid giving a direct answer to an uncomfortable or sensitive question.\nExample: \"Did we win the deal? In a manner of speaking.\"\nSimilar chunks:\n- Something like that.\n- I'd rather not say at this stage.\n- Let's leave it there.\n\n✗ \"We're considering it.\" belongs to Staying non-committal / deferring a decision — used to defer a decision or commitment without shutting the door on it, not this context.\nSimilar chunks:\n- It's on the radar.\n- We'll play it by ear.\n- I'd have to check.\n\n✗ \"bits and bobs\" belongs to Vague references to things — a casual, imprecise way of referring to objects or tasks without naming them precisely, not this context.\nSimilar chunks:\n- stuff\n- this and that\n- odds and ends"
+    },
+    {
+      "id": 48,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're not ready to commit to a plan or answer yet, and you want to defer without shutting the door. Which chunk fits best?",
+      "options": {
+        "A": "Let's see how it goes.",
+        "B": "give or take",
+        "C": "tallish",
+        "D": "about"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Let's see how it goes.\" is a Staying non-committal / deferring a decision chunk: used to defer a decision or commitment without shutting the door on it.\nExample: \"We'll launch to a small group first and see how it goes.\"\nSimilar chunks:\n- I'd have to check.\n- We'll play it by ear.\n- Let me look into it.\n\n✗ \"give or take\" belongs to Approximating amounts casually — a casual approximator used to round a number or amount instead of stating it exactly, not this context.\nSimilar chunks:\n- or so\n- or thereabouts\n- roughly\n\n✗ \"tallish\" belongs to Approximating with -ish — an informal '-ish' suffix used to make a word approximate rather than exact, not this context.\nSimilar chunks:\n- blueish\n- fiveish\n- tiredish\n\n✗ \"about\" belongs to Approximating amounts casually — a casual approximator used to round a number or amount instead of stating it exactly, not this context.\nSimilar chunks:\n- roughly\n- give or take\n- or thereabouts"
+    },
+    {
+      "id": 49,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're not ready to commit to a plan or answer yet, and you want to defer without shutting the door. Which chunk fits best?",
+      "options": {
+        "A": "We'll play it by ear.",
+        "B": "thingamajig",
+        "C": "and everything that goes with it",
+        "D": "blueish"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"We'll play it by ear.\" is a Staying non-committal / deferring a decision chunk: used to defer a decision or commitment without shutting the door on it.\nExample: \"We don't have a fixed agenda, we'll play it by ear.\"\nSimilar chunks:\n- We're considering it.\n- Let me look into it.\n- I'd have to check.\n\n✗ \"thingamajig\" belongs to Placeholder words for forgotten names — an informal placeholder word used when the speaker has forgotten the exact name, not this context.\nSimilar chunks:\n- whatsit\n- so-and-so\n- what's-his-name\n\n✗ \"and everything that goes with it\" belongs to Open-ended list extenders (workplace) — a workplace list-ending phrase signaling the rest are the usual, predictable items, not this context.\nSimilar chunks:\n- and the usual suspects\n- and downstream of that\n\n✗ \"blueish\" belongs to Approximating with -ish — an informal '-ish' suffix used to make a word approximate rather than exact, not this context.\nSimilar chunks:\n- tallish\n- Mondayish\n- fiveish"
+    },
+    {
+      "id": 50,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're not ready to commit to a plan or answer yet, and you want to defer without shutting the door. Which chunk fits best?",
+      "options": {
+        "A": "a load of",
+        "B": "and everything that goes with it",
+        "C": "It depends.",
+        "D": "Let's see where we land."
+      },
+      "correct": "D",
+      "explanation": "✗ \"a load of\" belongs to Vague quantity expressions (everyday) — a casual, everyday way of describing an amount without giving an exact figure, not this context.\nSimilar chunks:\n- a handful\n- a bunch of\n- not much\n\n✗ \"and everything that goes with it\" belongs to Open-ended list extenders (workplace) — a workplace list-ending phrase signaling the rest are the usual, predictable items, not this context.\nSimilar chunks:\n- and downstream of that\n- and the usual suspects\n\n✗ \"It depends.\" belongs to Deflecting a direct question politely — used to politely avoid giving a direct answer to an uncomfortable or sensitive question, not this context.\nSimilar chunks:\n- That's still being worked out.\n- Let's just say it wasn't ideal.\n- More or less.\n\n✓ Correct — \"Let's see where we land.\" is a Staying non-committal / deferring a decision chunk: used to defer a decision or commitment without shutting the door on it.\nExample: \"Let's see where we land after the client feedback comes in.\"\nSimilar chunks:\n- It's on the radar.\n- Let's see how it goes.\n- We're considering it."
+    },
+    {
+      "id": 51,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're not ready to commit to a plan or answer yet, and you want to defer without shutting the door. Which chunk fits best?",
+      "options": {
+        "A": "Let me look into it.",
+        "B": "so-so",
+        "C": "decent",
+        "D": "this and that"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Let me look into it.\" is a Staying non-committal / deferring a decision chunk: used to defer a decision or commitment without shutting the door on it.\nExample: \"Let me look into it and I'll follow up tomorrow.\"\nSimilar chunks:\n- Let's see where we land.\n- We're considering it.\n- We'll play it by ear.\n\n✗ \"so-so\" belongs to Vague quality expressions — a casual, non-committal way of describing quality without a strong evaluative word, not this context.\nSimilar chunks:\n- decent\n- not bad\n- nothing to write home about\n\n✗ \"decent\" belongs to Vague quality expressions — a casual, non-committal way of describing quality without a strong evaluative word, not this context.\nSimilar chunks:\n- nothing to write home about\n- alright\n- not bad\n\n✗ \"this and that\" belongs to Vague references to things — a casual, imprecise way of referring to objects or tasks without naming them precisely, not this context.\nSimilar chunks:\n- bits and bobs\n- odds and ends\n- stuff"
+    },
+    {
+      "id": 52,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a tentative 'yes' without fully committing, leaving room to change your mind later. Which chunk fits best?",
+      "options": {
+        "A": "slightly",
+        "B": "a fair bit",
+        "C": "Let me look into it.",
+        "D": "Let's keep it loose."
+      },
+      "correct": "D",
+      "explanation": "✗ \"slightly\" belongs to Vague degree expressions — a casual degree word used to soften a description instead of giving a precise measurement, not this context.\nSimilar chunks:\n- a touch\n- pretty\n- a smidge\n\n✗ \"a fair bit\" belongs to Vague quantity expressions (everyday) — a casual, everyday way of describing an amount without giving an exact figure, not this context.\nSimilar chunks:\n- a bunch of\n- a handful\n- a load of\n\n✗ \"Let me look into it.\" belongs to Staying non-committal / deferring a decision — used to defer a decision or commitment without shutting the door on it, not this context.\nSimilar chunks:\n- Let's see where we land.\n- Leave it with me.\n- Let's see how it goes.\n\n✓ Correct — \"Let's keep it loose.\" is a Giving a soft, conditional yes chunk: used to give a tentative, conditional 'yes' that leaves room to change later.\nExample: \"Let's keep it loose for now and firm up the agenda closer to the date.\"\nSimilar chunks:\n- Pencil it in.\n- In principle, yes.\n- Touch wood."
+    },
+    {
+      "id": 53,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a tentative 'yes' without fully committing, leaving room to change your mind later. Which chunk fits best?",
+      "options": {
+        "A": "More or less.",
+        "B": "Subject to a few things.",
+        "C": "shortly",
+        "D": "so-so"
+      },
+      "correct": "B",
+      "explanation": "✗ \"More or less.\" belongs to Deflecting a direct question politely — used to politely avoid giving a direct answer to an uncomfortable or sensitive question, not this context.\nSimilar chunks:\n- That's still being worked out.\n- It's complicated.\n- Let's leave it there.\n\n✓ Correct — \"Subject to a few things.\" is a Giving a soft, conditional yes chunk: used to give a tentative, conditional 'yes' that leaves room to change later.\nExample: \"We can hit that date, subject to a few things on the vendor's side.\"\nSimilar chunks:\n- All being well...\n- Pencil it in.\n- No promises, but...\n\n✗ \"shortly\" belongs to Vague time expressions — a casual, imprecise way of referring to timing without committing to an exact time, not this context.\nSimilar chunks:\n- in a bit\n- at some point\n- sooner or later\n\n✗ \"so-so\" belongs to Vague quality expressions — a casual, non-committal way of describing quality without a strong evaluative word, not this context.\nSimilar chunks:\n- alright\n- nothing to write home about\n- decent"
+    },
+    {
+      "id": 54,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a tentative 'yes' without fully committing, leaving room to change your mind later. Which chunk fits best?",
+      "options": {
+        "A": "this guy",
+        "B": "All being well...",
+        "C": "a handful",
+        "D": "whatsit"
+      },
+      "correct": "B",
+      "explanation": "✗ \"this guy\" belongs to Vague references to people — a casual, imprecise way of referring to a person without naming exactly who they are, not this context.\nSimilar chunks:\n- a colleague\n- a mate of mine\n- someone\n\n✓ Correct — \"All being well...\" is a Giving a soft, conditional yes chunk: used to give a tentative, conditional 'yes' that leaves room to change later.\nExample: \"All being well, we'll ship this by the end of the month.\"\nSimilar chunks:\n- No promises, but...\n- Subject to a few things.\n- In principle, yes.\n\n✗ \"a handful\" belongs to Vague quantity expressions (everyday) — a casual, everyday way of describing an amount without giving an exact figure, not this context.\nSimilar chunks:\n- a load of\n- a fair bit\n- a bunch of\n\n✗ \"whatsit\" belongs to Placeholder words for forgotten names — an informal placeholder word used when the speaker has forgotten the exact name, not this context.\nSimilar chunks:\n- thingy\n- thingamajig\n- so-and-so"
+    },
+    {
+      "id": 55,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a tentative 'yes' without fully committing, leaving room to change your mind later. Which chunk fits best?",
+      "options": {
+        "A": "you name it",
+        "B": "in a bit",
+        "C": "odds and ends",
+        "D": "In principle, yes."
+      },
+      "correct": "D",
+      "explanation": "✗ \"you name it\" belongs to Open-ended list extenders (informal) — an informal list-ending phrase signaling more unlisted examples of the same kind, not this context.\nSimilar chunks:\n- and the like\n- and whatnot\n- and all that\n\n✗ \"in a bit\" belongs to Vague time expressions — a casual, imprecise way of referring to timing without committing to an exact time, not this context.\nSimilar chunks:\n- shortly\n- at some point\n- sooner or later\n\n✗ \"odds and ends\" belongs to Vague references to things — a casual, imprecise way of referring to objects or tasks without naming them precisely, not this context.\nSimilar chunks:\n- things\n- stuff\n- bits and bobs\n\n✓ Correct — \"In principle, yes.\" is a Giving a soft, conditional yes chunk: used to give a tentative, conditional 'yes' that leaves room to change later.\nExample: \"Can we extend the trial? In principle, yes, pending finance approval.\"\nSimilar chunks:\n- Broadly, yes.\n- No promises, but...\n- Let's keep it loose."
+    }
+  ]
+}

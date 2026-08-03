@@ -1,0 +1,314 @@
+{
+  "examId": "voice-paralanguage",
+  "title": "Chunk Atlas — Voice & Presence: Voice & Paralanguage",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're about to say something dense or important, and want to signal out loud that you're slowing your pace on purpose. Which chunk fits best?",
+      "options": {
+        "A": "Listen to this.",
+        "B": "And that's it.",
+        "C": "Let me slow down here.",
+        "D": "Right. Let's begin."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Listen to this.\" belongs to Flagging importance (extra) — used to verbally flag, in the moment, that the coming sentence deserves full attention, not this context.\nSimilar chunks:\n- This is the bit that matters.\n\n✗ \"And that's it.\" belongs to Ending decisively — used to close a point or request decisively, with no trailing hedge, not this context.\nSimilar chunks:\n- Full stop.\n- That's the ask.\n\n✓ Correct — \"Let me slow down here.\" is a Signaling a slow-down chunk: used to announce that you're deliberately slowing down because what comes next matters.\nExample: \"Let me slow down here — this next part is where people usually get lost.\"\nSimilar chunks:\n- This bit matters, so bear with me.\n\n✗ \"Right. Let's begin.\" belongs to Opening a talk — used to open a talk or presentation crisply, signaling readiness to begin, not this context.\nSimilar chunks:\n- Thanks for coming.\n- Let's get into it."
+    },
+    {
+      "id": 2,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're about to say something dense or important, and want to signal out loud that you're slowing your pace on purpose. Which chunk fits best?",
+      "options": {
+        "A": "Let's get into it.",
+        "B": "That's it from me.",
+        "C": "Moving on.",
+        "D": "This bit matters, so bear with me."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let's get into it.\" belongs to Opening a talk — used to open a talk or presentation crisply, signaling readiness to begin, not this context.\nSimilar chunks:\n- Right. Let's begin.\n- Thanks for coming.\n\n✗ \"That's it from me.\" belongs to Closing decisively (extra) — used to close firmly, marking clearly that you're finished speaking, not this context.\nSimilar chunks:\n- And that's the ask.\n\n✗ \"Moving on.\" belongs to Transitioning — used as a short, brisk signal that you're moving on to the next part, not this context.\nSimilar chunks:\n- Next.\n- Different gear now.\n\n✓ Correct — \"This bit matters, so bear with me.\" is a Signaling a slow-down chunk: used to announce that you're deliberately slowing down because what comes next matters.\nExample: \"This bit matters, so bear with me — I want to get the numbers exactly right.\"\nSimilar chunks:\n- Let me slow down here."
+    },
+    {
+      "id": 3,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to explicitly flag that the sentence coming next is the one thing worth remembering. Which chunk fits best?",
+      "options": {
+        "A": "Okay — different gear now.",
+        "B": "Still with me?",
+        "C": "Here's the key point.",
+        "D": "Let me slow down here."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Okay — different gear now.\" belongs to Shifting energy — used to signal a clear shift in energy or direction when moving to a new topic, not this context.\nSimilar chunks:\n- Let's switch tack.\n\n✗ \"Still with me?\" belongs to Checking the audience — used to pause and check whether the listener or audience is still following, not this context.\nSimilar chunks:\n- Any questions so far?\n\n✓ Correct — \"Here's the key point.\" is a Flagging the key point chunk: used to explicitly flag the single most important point right before saying it.\nExample: \"Here's the key point: we're three weeks behind, not one.\"\nSimilar chunks:\n- This is the crux.\n- If you remember one thing...\n\n✗ \"Let me slow down here.\" belongs to Signaling a slow-down — used to announce that you're deliberately slowing down because what comes next matters, not this context.\nSimilar chunks:\n- This bit matters, so bear with me."
+    },
+    {
+      "id": 4,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to explicitly flag that the sentence coming next is the one thing worth remembering. Which chunk fits best?",
+      "options": {
+        "A": "This is the crux.",
+        "B": "This bit matters, so bear with me.",
+        "C": "Let me slow down here.",
+        "D": "Full stop."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"This is the crux.\" is a Flagging the key point chunk: used to explicitly flag the single most important point right before saying it.\nExample: \"This is the crux: the two systems don't talk to each other.\"\nSimilar chunks:\n- If you remember one thing...\n- Here's the key point.\n\n✗ \"This bit matters, so bear with me.\" belongs to Signaling a slow-down — used to announce that you're deliberately slowing down because what comes next matters, not this context.\nSimilar chunks:\n- Let me slow down here.\n\n✗ \"Let me slow down here.\" belongs to Signaling a slow-down — used to announce that you're deliberately slowing down because what comes next matters, not this context.\nSimilar chunks:\n- This bit matters, so bear with me.\n\n✗ \"Full stop.\" belongs to Ending decisively — used to close a point or request decisively, with no trailing hedge, not this context.\nSimilar chunks:\n- That's the ask.\n- And that's it."
+    },
+    {
+      "id": 5,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You've just made an important point and want to create silence around it so it registers, instead of rushing to the next sentence. Which chunk fits best?",
+      "options": {
+        "A": "Okay — different gear now.",
+        "B": "[pause] Right. [pause]",
+        "C": "And that's it.",
+        "D": "If you remember one thing..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Okay — different gear now.\" belongs to Shifting energy — used to signal a clear shift in energy or direction when moving to a new topic, not this context.\nSimilar chunks:\n- Let's switch tack.\n\n✓ Correct — \"[pause] Right. [pause]\" is a Building in a pause chunk: used to create a deliberate silence around an important point so it has time to register.\nExample: \"We're cutting the feature. [pause] Right. [pause] Let's talk about what replaces it.\"\nSimilar chunks:\n- Let that sit for a second.\n\n✗ \"And that's it.\" belongs to Ending decisively — used to close a point or request decisively, with no trailing hedge, not this context.\nSimilar chunks:\n- Full stop.\n- That's the ask.\n\n✗ \"If you remember one thing...\" belongs to Flagging the key point — used to explicitly flag the single most important point right before saying it, not this context.\nSimilar chunks:\n- This is the crux.\n- Here's the key point."
+    },
+    {
+      "id": 6,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You've just made an important point and want to create silence around it so it registers, instead of rushing to the next sentence. Which chunk fits best?",
+      "options": {
+        "A": "Moving on.",
+        "B": "If you remember one thing...",
+        "C": "Different gear now.",
+        "D": "Let that sit for a second."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Moving on.\" belongs to Transitioning — used as a short, brisk signal that you're moving on to the next part, not this context.\nSimilar chunks:\n- Next.\n- Different gear now.\n\n✗ \"If you remember one thing...\" belongs to Flagging the key point — used to explicitly flag the single most important point right before saying it, not this context.\nSimilar chunks:\n- This is the crux.\n- Here's the key point.\n\n✗ \"Different gear now.\" belongs to Transitioning — used as a short, brisk signal that you're moving on to the next part, not this context.\nSimilar chunks:\n- Next.\n- Moving on.\n\n✓ Correct — \"Let that sit for a second.\" is a Building in a pause chunk: used to create a deliberate silence around an important point so it has time to register.\nExample: \"We lost our biggest client this quarter. Let that sit for a second.\"\nSimilar chunks:\n- [pause] Right. [pause]"
+    },
+    {
+      "id": 7,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're about to cover something minor or background, and want to signal out loud that you'll move through it fast. Which chunk fits best?",
+      "options": {
+        "A": "This is the crux.",
+        "B": "If you remember one thing...",
+        "C": "This is just context, I'll be quick.",
+        "D": "That's the ask."
+      },
+      "correct": "C",
+      "explanation": "✗ \"This is the crux.\" belongs to Flagging the key point — used to explicitly flag the single most important point right before saying it, not this context.\nSimilar chunks:\n- If you remember one thing...\n- Here's the key point.\n\n✗ \"If you remember one thing...\" belongs to Flagging the key point — used to explicitly flag the single most important point right before saying it, not this context.\nSimilar chunks:\n- This is the crux.\n- Here's the key point.\n\n✓ Correct — \"This is just context, I'll be quick.\" is a Signaling a speed-up chunk: used to announce that you'll move quickly through minor or background material.\nExample: \"This is just context, I'll be quick, then we'll get to the decision.\"\nSimilar chunks:\n- I'll whip through this bit.\n\n✗ \"That's the ask.\" belongs to Ending decisively — used to close a point or request decisively, with no trailing hedge, not this context.\nSimilar chunks:\n- Full stop.\n- And that's it."
+    },
+    {
+      "id": 8,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're about to cover something minor or background, and want to signal out loud that you'll move through it fast. Which chunk fits best?",
+      "options": {
+        "A": "Let me slow down here.",
+        "B": "Next.",
+        "C": "Thanks for coming.",
+        "D": "I'll whip through this bit."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let me slow down here.\" belongs to Signaling a slow-down — used to announce that you're deliberately slowing down because what comes next matters, not this context.\nSimilar chunks:\n- This bit matters, so bear with me.\n\n✗ \"Next.\" belongs to Transitioning — used as a short, brisk signal that you're moving on to the next part, not this context.\nSimilar chunks:\n- Moving on.\n- Different gear now.\n\n✗ \"Thanks for coming.\" belongs to Opening a talk — used to open a talk or presentation crisply, signaling readiness to begin, not this context.\nSimilar chunks:\n- Let's get into it.\n- Right. Let's begin.\n\n✓ Correct — \"I'll whip through this bit.\" is a Signaling a speed-up chunk: used to announce that you'll move quickly through minor or background material.\nExample: \"I'll whip through this bit — it's just background on how we got here.\"\nSimilar chunks:\n- This is just context, I'll be quick."
+    },
+    {
+      "id": 9,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to signal a clear change in energy or direction as you move to a new part of the conversation. Which chunk fits best?",
+      "options": {
+        "A": "Here's the key point.",
+        "B": "Okay — different gear now.",
+        "C": "Next.",
+        "D": "Still with me?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Here's the key point.\" belongs to Flagging the key point — used to explicitly flag the single most important point right before saying it, not this context.\nSimilar chunks:\n- This is the crux.\n- If you remember one thing...\n\n✓ Correct — \"Okay — different gear now.\" is a Shifting energy chunk: used to signal a clear shift in energy or direction when moving to a new topic.\nExample: \"Okay — different gear now. Let's talk about budget.\"\nSimilar chunks:\n- Let's switch tack.\n\n✗ \"Next.\" belongs to Transitioning — used as a short, brisk signal that you're moving on to the next part, not this context.\nSimilar chunks:\n- Moving on.\n- Different gear now.\n\n✗ \"Still with me?\" belongs to Checking the audience — used to pause and check whether the listener or audience is still following, not this context.\nSimilar chunks:\n- Any questions so far?"
+    },
+    {
+      "id": 10,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to signal a clear change in energy or direction as you move to a new part of the conversation. Which chunk fits best?",
+      "options": {
+        "A": "Different gear now.",
+        "B": "Here's the key point.",
+        "C": "Let's switch tack.",
+        "D": "Full stop."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Different gear now.\" belongs to Transitioning — used as a short, brisk signal that you're moving on to the next part, not this context.\nSimilar chunks:\n- Next.\n- Moving on.\n\n✗ \"Here's the key point.\" belongs to Flagging the key point — used to explicitly flag the single most important point right before saying it, not this context.\nSimilar chunks:\n- If you remember one thing...\n- This is the crux.\n\n✓ Correct — \"Let's switch tack.\" is a Shifting energy chunk: used to signal a clear shift in energy or direction when moving to a new topic.\nExample: \"Let's switch tack and look at this from the customer's side.\"\nSimilar chunks:\n- Okay — different gear now.\n\n✗ \"Full stop.\" belongs to Ending decisively — used to close a point or request decisively, with no trailing hedge, not this context.\nSimilar chunks:\n- That's the ask.\n- And that's it."
+    },
+    {
+      "id": 11,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're closing a point or a request and want it to land as final, with no trailing hedge. Which chunk fits best?",
+      "options": {
+        "A": "Let me slow down here.",
+        "B": "Any questions so far?",
+        "C": "This is just context, I'll be quick.",
+        "D": "That's the ask."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let me slow down here.\" belongs to Signaling a slow-down — used to announce that you're deliberately slowing down because what comes next matters, not this context.\nSimilar chunks:\n- This bit matters, so bear with me.\n\n✗ \"Any questions so far?\" belongs to Checking the audience — used to pause and check whether the listener or audience is still following, not this context.\nSimilar chunks:\n- Still with me?\n\n✗ \"This is just context, I'll be quick.\" belongs to Signaling a speed-up — used to announce that you'll move quickly through minor or background material, not this context.\nSimilar chunks:\n- I'll whip through this bit.\n\n✓ Correct — \"That's the ask.\" is an Ending decisively chunk: used to close a point or request decisively, with no trailing hedge.\nExample: \"We need two more engineers by June. That's the ask.\"\nSimilar chunks:\n- Full stop.\n- And that's it."
+    },
+    {
+      "id": 12,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're closing a point or a request and want it to land as final, with no trailing hedge. Which chunk fits best?",
+      "options": {
+        "A": "Let that sit for a second.",
+        "B": "This bit matters, so bear with me.",
+        "C": "If you remember one thing...",
+        "D": "And that's it."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Let that sit for a second.\" belongs to Building in a pause — used to create a deliberate silence around an important point so it has time to register, not this context.\nSimilar chunks:\n- [pause] Right. [pause]\n\n✗ \"This bit matters, so bear with me.\" belongs to Signaling a slow-down — used to announce that you're deliberately slowing down because what comes next matters, not this context.\nSimilar chunks:\n- Let me slow down here.\n\n✗ \"If you remember one thing...\" belongs to Flagging the key point — used to explicitly flag the single most important point right before saying it, not this context.\nSimilar chunks:\n- Here's the key point.\n- This is the crux.\n\n✓ Correct — \"And that's it.\" is an Ending decisively chunk: used to close a point or request decisively, with no trailing hedge.\nExample: \"We ship Friday. And that's it.\"\nSimilar chunks:\n- Full stop.\n- That's the ask."
+    },
+    {
+      "id": 13,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're about to start a presentation or talk and want to open it crisply, signaling you're ready to begin. Which chunk fits best?",
+      "options": {
+        "A": "Okay — different gear now.",
+        "B": "And that's it.",
+        "C": "Full stop.",
+        "D": "Let's get into it."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Okay — different gear now.\" belongs to Shifting energy — used to signal a clear shift in energy or direction when moving to a new topic, not this context.\nSimilar chunks:\n- Let's switch tack.\n\n✗ \"And that's it.\" belongs to Ending decisively — used to close a point or request decisively, with no trailing hedge, not this context.\nSimilar chunks:\n- That's the ask.\n- Full stop.\n\n✗ \"Full stop.\" belongs to Ending decisively — used to close a point or request decisively, with no trailing hedge, not this context.\nSimilar chunks:\n- That's the ask.\n- And that's it.\n\n✓ Correct — \"Let's get into it.\" is an Opening a talk chunk: used to open a talk or presentation crisply, signaling readiness to begin.\nExample: \"No more preamble — let's get into it.\"\nSimilar chunks:\n- Right. Let's begin.\n- Thanks for coming."
+    },
+    {
+      "id": 14,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're about to start a presentation or talk and want to open it crisply, signaling you're ready to begin. Which chunk fits best?",
+      "options": {
+        "A": "Let me slow down here.",
+        "B": "Right. Let's begin.",
+        "C": "Still with me?",
+        "D": "I'll whip through this bit."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Let me slow down here.\" belongs to Signaling a slow-down — used to announce that you're deliberately slowing down because what comes next matters, not this context.\nSimilar chunks:\n- This bit matters, so bear with me.\n\n✓ Correct — \"Right. Let's begin.\" is an Opening a talk chunk: used to open a talk or presentation crisply, signaling readiness to begin.\nExample: \"Right. Let's begin.\" she said, closing her laptop lid halfway and looking up.\"\nSimilar chunks:\n- Thanks for coming.\n- Let's get into it.\n\n✗ \"Still with me?\" belongs to Checking the audience — used to pause and check whether the listener or audience is still following, not this context.\nSimilar chunks:\n- Any questions so far?\n\n✗ \"I'll whip through this bit.\" belongs to Signaling a speed-up — used to announce that you'll move quickly through minor or background material, not this context.\nSimilar chunks:\n- This is just context, I'll be quick."
+    },
+    {
+      "id": 15,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to verbally flag, in the moment, that what you're about to say deserves the listener's full attention. Which chunk fits best?",
+      "options": {
+        "A": "Let's get into it.",
+        "B": "And that's the ask.",
+        "C": "This is the bit that matters.",
+        "D": "This is just context, I'll be quick."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Let's get into it.\" belongs to Opening a talk — used to open a talk or presentation crisply, signaling readiness to begin, not this context.\nSimilar chunks:\n- Right. Let's begin.\n- Thanks for coming.\n\n✗ \"And that's the ask.\" belongs to Closing decisively (extra) — used to close firmly, marking clearly that you're finished speaking, not this context.\nSimilar chunks:\n- That's it from me.\n\n✓ Correct — \"This is the bit that matters.\" is a Flagging importance (extra) chunk: used to verbally flag, in the moment, that the coming sentence deserves full attention.\nExample: \"This is the bit that matters: the client hasn't actually signed yet.\"\nSimilar chunks:\n- Listen to this.\n\n✗ \"This is just context, I'll be quick.\" belongs to Signaling a speed-up — used to announce that you'll move quickly through minor or background material, not this context.\nSimilar chunks:\n- I'll whip through this bit."
+    },
+    {
+      "id": 16,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to verbally flag, in the moment, that what you're about to say deserves the listener's full attention. Which chunk fits best?",
+      "options": {
+        "A": "Moving on.",
+        "B": "Thanks for coming.",
+        "C": "Here's the key point.",
+        "D": "Listen to this."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Moving on.\" belongs to Transitioning — used as a short, brisk signal that you're moving on to the next part, not this context.\nSimilar chunks:\n- Different gear now.\n- Next.\n\n✗ \"Thanks for coming.\" belongs to Opening a talk — used to open a talk or presentation crisply, signaling readiness to begin, not this context.\nSimilar chunks:\n- Let's get into it.\n- Right. Let's begin.\n\n✗ \"Here's the key point.\" belongs to Flagging the key point — used to explicitly flag the single most important point right before saying it, not this context.\nSimilar chunks:\n- If you remember one thing...\n- This is the crux.\n\n✓ Correct — \"Listen to this.\" is a Flagging importance (extra) chunk: used to verbally flag, in the moment, that the coming sentence deserves full attention.\nExample: \"Listen to this — the numbers completely contradict what we assumed.\"\nSimilar chunks:\n- This is the bit that matters."
+    },
+    {
+      "id": 17,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You've finished one part of what you're saying and want a short, brisk signal that you're moving to the next part. Which chunk fits best?",
+      "options": {
+        "A": "Next.",
+        "B": "[pause] Right. [pause]",
+        "C": "If you remember one thing...",
+        "D": "This bit matters, so bear with me."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Next.\" is a Transitioning chunk: used as a short, brisk signal that you're moving on to the next part.\nExample: \"Next. Let's talk about staffing.\"\nSimilar chunks:\n- Moving on.\n- Different gear now.\n\n✗ \"[pause] Right. [pause]\" belongs to Building in a pause — used to create a deliberate silence around an important point so it has time to register, not this context.\nSimilar chunks:\n- Let that sit for a second.\n\n✗ \"If you remember one thing...\" belongs to Flagging the key point — used to explicitly flag the single most important point right before saying it, not this context.\nSimilar chunks:\n- This is the crux.\n- Here's the key point.\n\n✗ \"This bit matters, so bear with me.\" belongs to Signaling a slow-down — used to announce that you're deliberately slowing down because what comes next matters, not this context.\nSimilar chunks:\n- Let me slow down here."
+    },
+    {
+      "id": 18,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You've finished one part of what you're saying and want a short, brisk signal that you're moving to the next part. Which chunk fits best?",
+      "options": {
+        "A": "Different gear now.",
+        "B": "Any questions so far?",
+        "C": "Right. Let's begin.",
+        "D": "This bit matters, so bear with me."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Different gear now.\" is a Transitioning chunk: used as a short, brisk signal that you're moving on to the next part.\nExample: \"Different gear now — this next part is more technical.\"\nSimilar chunks:\n- Next.\n- Moving on.\n\n✗ \"Any questions so far?\" belongs to Checking the audience — used to pause and check whether the listener or audience is still following, not this context.\nSimilar chunks:\n- Still with me?\n\n✗ \"Right. Let's begin.\" belongs to Opening a talk — used to open a talk or presentation crisply, signaling readiness to begin, not this context.\nSimilar chunks:\n- Let's get into it.\n- Thanks for coming.\n\n✗ \"This bit matters, so bear with me.\" belongs to Signaling a slow-down — used to announce that you're deliberately slowing down because what comes next matters, not this context.\nSimilar chunks:\n- Let me slow down here."
+    },
+    {
+      "id": 19,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're finishing your part of the conversation and want to close it firmly, marking clearly that you're done. Which chunk fits best?",
+      "options": {
+        "A": "And that's the ask.",
+        "B": "Still with me?",
+        "C": "This is the bit that matters.",
+        "D": "Let me slow down here."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"And that's the ask.\" is a Closing decisively (extra) chunk: used to close firmly, marking clearly that you're finished speaking.\nExample: \"We need sign-off by Friday. And that's the ask.\"\nSimilar chunks:\n- That's it from me.\n\n✗ \"Still with me?\" belongs to Checking the audience — used to pause and check whether the listener or audience is still following, not this context.\nSimilar chunks:\n- Any questions so far?\n\n✗ \"This is the bit that matters.\" belongs to Flagging importance (extra) — used to verbally flag, in the moment, that the coming sentence deserves full attention, not this context.\nSimilar chunks:\n- Listen to this.\n\n✗ \"Let me slow down here.\" belongs to Signaling a slow-down — used to announce that you're deliberately slowing down because what comes next matters, not this context.\nSimilar chunks:\n- This bit matters, so bear with me."
+    },
+    {
+      "id": 20,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're finishing your part of the conversation and want to close it firmly, marking clearly that you're done. Which chunk fits best?",
+      "options": {
+        "A": "Let me slow down here.",
+        "B": "Here's the key point.",
+        "C": "That's it from me.",
+        "D": "Let's switch tack."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Let me slow down here.\" belongs to Signaling a slow-down — used to announce that you're deliberately slowing down because what comes next matters, not this context.\nSimilar chunks:\n- This bit matters, so bear with me.\n\n✗ \"Here's the key point.\" belongs to Flagging the key point — used to explicitly flag the single most important point right before saying it, not this context.\nSimilar chunks:\n- If you remember one thing...\n- This is the crux.\n\n✓ Correct — \"That's it from me.\" is a Closing decisively (extra) chunk: used to close firmly, marking clearly that you're finished speaking.\nExample: \"That's it from me — happy to take questions.\"\nSimilar chunks:\n- And that's the ask.\n\n✗ \"Let's switch tack.\" belongs to Shifting energy — used to signal a clear shift in energy or direction when moving to a new topic, not this context.\nSimilar chunks:\n- Okay — different gear now."
+    },
+    {
+      "id": 21,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to pause and check whether your listener or audience is still following before you continue. Which chunk fits best?",
+      "options": {
+        "A": "Any questions so far?",
+        "B": "Listen to this.",
+        "C": "And that's it.",
+        "D": "Thanks for coming."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Any questions so far?\" is a Checking the audience chunk: used to pause and check whether the listener or audience is still following.\nExample: \"Any questions so far, before I move to the next section?\"\nSimilar chunks:\n- Still with me?\n\n✗ \"Listen to this.\" belongs to Flagging importance (extra) — used to verbally flag, in the moment, that the coming sentence deserves full attention, not this context.\nSimilar chunks:\n- This is the bit that matters.\n\n✗ \"And that's it.\" belongs to Ending decisively — used to close a point or request decisively, with no trailing hedge, not this context.\nSimilar chunks:\n- That's the ask.\n- Full stop.\n\n✗ \"Thanks for coming.\" belongs to Opening a talk — used to open a talk or presentation crisply, signaling readiness to begin, not this context.\nSimilar chunks:\n- Right. Let's begin.\n- Let's get into it."
+    },
+    {
+      "id": 22,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to pause and check whether your listener or audience is still following before you continue. Which chunk fits best?",
+      "options": {
+        "A": "Different gear now.",
+        "B": "Still with me?",
+        "C": "Let's switch tack.",
+        "D": "This is just context, I'll be quick."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Different gear now.\" belongs to Transitioning — used as a short, brisk signal that you're moving on to the next part, not this context.\nSimilar chunks:\n- Moving on.\n- Next.\n\n✓ Correct — \"Still with me?\" is a Checking the audience chunk: used to pause and check whether the listener or audience is still following.\nExample: \"Still with me? I know that was a lot of numbers.\"\nSimilar chunks:\n- Any questions so far?\n\n✗ \"Let's switch tack.\" belongs to Shifting energy — used to signal a clear shift in energy or direction when moving to a new topic, not this context.\nSimilar chunks:\n- Okay — different gear now.\n\n✗ \"This is just context, I'll be quick.\" belongs to Signaling a speed-up — used to announce that you'll move quickly through minor or background material, not this context.\nSimilar chunks:\n- I'll whip through this bit."
+    }
+  ]
+}

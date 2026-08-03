@@ -1,0 +1,958 @@
+{
+  "examId": "near-synonym",
+  "title": "Chunk Atlas — Language Systems: Near-Synonym Discrimination",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how good a result was, choosing a word that matches the right intensity — from mildly okay to truly exceptional. Which chunk fits best?",
+      "options": {
+        "A": "exceptional",
+        "B": "practice",
+        "C": "livid",
+        "D": "borrow"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"exceptional\" is a Degree ladder: how good something was chunk: a degree-ladder word describing how good something was, at one specific intensity level.\nExample: \"This is an exceptional result for a first release.\"\nSimilar chunks:\n- alright\n- great\n- outstanding\n\n✗ \"practice\" belongs to practise vs practice — the VERB form (UK spelling, with 's') for the act of rehearsing, not the noun, not this context.\nSimilar chunks:\n- practise\n\n✗ \"livid\" belongs to Degree ladder: how angry someone was — a degree-ladder word describing how angry someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- furious\n- angry\n- annoyed\n\n✗ \"borrow\" belongs to borrow vs lend — the correct verb when someone RECEIVES something temporarily from someone else, not gives it, not this context.\nSimilar chunks:\n- lend"
+    },
+    {
+      "id": 2,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how good a result was, choosing a word that matches the right intensity — from mildly okay to truly exceptional. Which chunk fits best?",
+      "options": {
+        "A": "imminently",
+        "B": "angry",
+        "C": "delighted",
+        "D": "outstanding"
+      },
+      "correct": "D",
+      "explanation": "✗ \"imminently\" belongs to Degree ladder: how soon something will happen — a degree-ladder word describing how soon something will happen, at one specific urgency level, not this context.\nSimilar chunks:\n- shortly\n- soon\n- any moment\n\n✗ \"angry\" belongs to Degree ladder: how angry someone was — a degree-ladder word describing how angry someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- furious\n- frustrated\n- annoyed\n\n✗ \"delighted\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- thrilled\n- happy\n- over the moon\n\n✓ Correct — \"outstanding\" is a Degree ladder: how good something was chunk: a degree-ladder word describing how good something was, at one specific intensity level.\nExample: \"Her handling of the outage was outstanding.\"\nSimilar chunks:\n- good\n- excellent\n- exceptional"
+    },
+    {
+      "id": 3,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how good a result was, choosing a word that matches the right intensity — from mildly okay to truly exceptional. Which chunk fits best?",
+      "options": {
+        "A": "brutal",
+        "B": "delighted",
+        "C": "livid",
+        "D": "great"
+      },
+      "correct": "D",
+      "explanation": "✗ \"brutal\" belongs to Degree ladder: how difficult something was — a degree-ladder word describing how difficult something was, at one specific intensity level, not this context.\nSimilar chunks:\n- fiddly\n- hard\n- challenging\n\n✗ \"delighted\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- thrilled\n- pleased\n- over the moon\n\n✗ \"livid\" belongs to Degree ladder: how angry someone was — a degree-ladder word describing how angry someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- furious\n- annoyed\n- irritated\n\n✓ Correct — \"great\" is a Degree ladder: how good something was chunk: a degree-ladder word describing how good something was, at one specific intensity level.\nExample: \"The client feedback was great across the board.\"\nSimilar chunks:\n- good\n- exceptional\n- excellent"
+    },
+    {
+      "id": 4,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how bad a result was, choosing a word that matches the right intensity — from merely disappointing to truly disastrous. Which chunk fits best?",
+      "options": {
+        "A": "swamped",
+        "B": "remember",
+        "C": "not ideal",
+        "D": "tell"
+      },
+      "correct": "C",
+      "explanation": "✗ \"swamped\" belongs to Degree ladder: how busy someone was — a degree-ladder word describing how busy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- busy\n- slammed\n- underwater\n\n✗ \"remember\" belongs to remind vs remember — the correct verb for prompting SOMEONE ELSE to recall something, not recalling it yourself, not this context.\nSimilar chunks:\n- remind\n\n✓ Correct — \"not ideal\" is a Degree ladder: how bad something was chunk: a degree-ladder word describing how bad something was, at one specific intensity level.\nExample: \"The timing isn't ideal, but we can work with it.\"\nSimilar chunks:\n- terrible\n- disastrous\n- poor\n\n✗ \"tell\" belongs to tell / inform / notify — a word for telling someone something, at one specific register level (neutral, formal, or official), not this context.\nSimilar chunks:\n- notify\n- inform"
+    },
+    {
+      "id": 5,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how bad a result was, choosing a word that matches the right intensity — from merely disappointing to truly disastrous. Which chunk fits best?",
+      "options": {
+        "A": "fewer",
+        "B": "terrible",
+        "C": "annoyed",
+        "D": "verify"
+      },
+      "correct": "B",
+      "explanation": "✗ \"fewer\" belongs to fewer vs less — the correct quantifier for a COUNTABLE noun, not an uncountable amount, not this context.\nSimilar chunks:\n- less\n\n✓ Correct — \"terrible\" is a Degree ladder: how bad something was chunk: a degree-ladder word describing how bad something was, at one specific intensity level.\nExample: \"Response times last week were terrible.\"\nSimilar chunks:\n- poor\n- not ideal\n- bad\n\n✗ \"annoyed\" belongs to Degree ladder: how angry someone was — a degree-ladder word describing how angry someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- angry\n- irritated\n- frustrated\n\n✗ \"verify\" belongs to check / verify / audit — a word for examining something, at one specific level of rigor (light, formal, or a full review), not this context.\nSimilar chunks:\n- audit\n- check"
+    },
+    {
+      "id": 6,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how bad a result was, choosing a word that matches the right intensity — from merely disappointing to truly disastrous. Which chunk fits best?",
+      "options": {
+        "A": "cost-effective",
+        "B": "affordable",
+        "C": "over the moon",
+        "D": "poor"
+      },
+      "correct": "D",
+      "explanation": "✗ \"cost-effective\" belongs to cheap / affordable / cost-effective — a word for describing a low price, with one specific connotation (negative, neutral, or a smart tradeoff), not this context.\nSimilar chunks:\n- affordable\n- cheap\n\n✗ \"affordable\" belongs to cheap / affordable / cost-effective — a word for describing a low price, with one specific connotation (negative, neutral, or a smart tradeoff), not this context.\nSimilar chunks:\n- cheap\n- cost-effective\n\n✗ \"over the moon\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- delighted\n- happy\n- thrilled\n\n✓ Correct — \"poor\" is a Degree ladder: how bad something was chunk: a degree-ladder word describing how bad something was, at one specific intensity level.\nExample: \"Turnout for the workshop was poor.\"\nSimilar chunks:\n- not ideal\n- disastrous\n- terrible"
+    },
+    {
+      "id": 7,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how difficult a task was, choosing a word that matches the right intensity — from mildly fiddly to truly brutal. Which chunk fits best?",
+      "options": {
+        "A": "pleased",
+        "B": "difficult",
+        "C": "stunned",
+        "D": "cheap"
+      },
+      "correct": "B",
+      "explanation": "✗ \"pleased\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- glad\n- delighted\n- over the moon\n\n✓ Correct — \"difficult\" is a Degree ladder: how difficult something was chunk: a degree-ladder word describing how difficult something was, at one specific intensity level.\nExample: \"Negotiating the contract was difficult.\"\nSimilar chunks:\n- fiddly\n- tricky\n- challenging\n\n✗ \"stunned\" belongs to Degree ladder: how surprised someone was — a degree-ladder word describing how surprised someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- taken aback\n- gobsmacked (UK)\n- floored\n\n✗ \"cheap\" belongs to cheap / affordable / cost-effective — a word for describing a low price, with one specific connotation (negative, neutral, or a smart tradeoff), not this context.\nSimilar chunks:\n- cost-effective\n- affordable"
+    },
+    {
+      "id": 8,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how difficult a task was, choosing a word that matches the right intensity — from mildly fiddly to truly brutal. Which chunk fits best?",
+      "options": {
+        "A": "fewer",
+        "B": "tricky",
+        "C": "verify",
+        "D": "any moment"
+      },
+      "correct": "B",
+      "explanation": "✗ \"fewer\" belongs to fewer vs less — the correct quantifier for a COUNTABLE noun, not an uncountable amount, not this context.\nSimilar chunks:\n- less\n\n✓ Correct — \"tricky\" is a Degree ladder: how difficult something was chunk: a degree-ladder word describing how difficult something was, at one specific intensity level.\nExample: \"This bug is tricky to reproduce.\"\nSimilar chunks:\n- fiddly\n- hard\n- difficult\n\n✗ \"verify\" belongs to check / verify / audit — a word for examining something, at one specific level of rigor (light, formal, or a full review), not this context.\nSimilar chunks:\n- check\n- audit\n\n✗ \"any moment\" belongs to Degree ladder: how soon something will happen — a degree-ladder word describing how soon something will happen, at one specific urgency level, not this context.\nSimilar chunks:\n- soon\n- shortly\n- imminently"
+    },
+    {
+      "id": 9,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how difficult a task was, choosing a word that matches the right intensity — from mildly fiddly to truly brutal. Which chunk fits best?",
+      "options": {
+        "A": "challenging",
+        "B": "practise",
+        "C": "stretched",
+        "D": "cost-effective"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"challenging\" is a Degree ladder: how difficult something was chunk: a degree-ladder word describing how difficult something was, at one specific intensity level.\nExample: \"The migration was challenging but manageable.\"\nSimilar chunks:\n- tricky\n- fiddly\n- brutal\n\n✗ \"practise\" belongs to practise vs practice — the VERB form (UK spelling, with 's') for the act of rehearsing, not the noun, not this context.\nSimilar chunks:\n- practice\n\n✗ \"stretched\" belongs to Degree ladder: how busy someone was — a degree-ladder word describing how busy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- drowning\n- swamped\n- slammed\n\n✗ \"cost-effective\" belongs to cheap / affordable / cost-effective — a word for describing a low price, with one specific connotation (negative, neutral, or a smart tradeoff), not this context.\nSimilar chunks:\n- cheap\n- affordable"
+    },
+    {
+      "id": 10,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how busy someone is, choosing a word that matches the right intensity — from lightly busy to completely underwater. Which chunk fits best?",
+      "options": {
+        "A": "thrilled",
+        "B": "help",
+        "C": "satisfactory",
+        "D": "busy"
+      },
+      "correct": "D",
+      "explanation": "✗ \"thrilled\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- happy\n- over the moon\n- delighted\n\n✗ \"help\" belongs to help / assist / support — a word for helping someone, at one specific register and scope (neutral, formal, or ongoing support), not this context.\nSimilar chunks:\n- support\n- assist\n\n✗ \"satisfactory\" belongs to good / adequate / satisfactory — a word for evaluating work, with one specific tone (genuinely positive, or a lukewarm 'just enough'), not this context.\nSimilar chunks:\n- good\n- adequate\n\n✓ Correct — \"busy\" is a Degree ladder: how busy someone was chunk: a degree-ladder word describing how busy someone was, at one specific intensity level.\nExample: \"I'm busy this afternoon, can we talk tomorrow?\"\nSimilar chunks:\n- stretched\n- slammed\n- underwater"
+    },
+    {
+      "id": 11,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how busy someone is, choosing a word that matches the right intensity — from lightly busy to completely underwater. Which chunk fits best?",
+      "options": {
+        "A": "not ideal",
+        "B": "change",
+        "C": "bring",
+        "D": "stretched"
+      },
+      "correct": "D",
+      "explanation": "✗ \"not ideal\" belongs to Degree ladder: how bad something was — a degree-ladder word describing how bad something was, at one specific intensity level, not this context.\nSimilar chunks:\n- disastrous\n- bad\n- poor\n\n✗ \"change\" belongs to change / amend / overhaul — a word for modifying something, at one specific scale (neutral, a small formal edit, or a complete rebuild), not this context.\nSimilar chunks:\n- overhaul\n- amend\n\n✗ \"bring\" belongs to bring vs take — the correct verb for moving something TOWARD the speaker's location, not away from it, not this context.\nSimilar chunks:\n- take\n\n✓ Correct — \"stretched\" is a Degree ladder: how busy someone was chunk: a degree-ladder word describing how busy someone was, at one specific intensity level.\nExample: \"The support team is stretched this week.\"\nSimilar chunks:\n- drowning\n- underwater\n- slammed"
+    },
+    {
+      "id": 12,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how busy someone is, choosing a word that matches the right intensity — from lightly busy to completely underwater. Which chunk fits best?",
+      "options": {
+        "A": "delighted",
+        "B": "exceptional",
+        "C": "established",
+        "D": "swamped"
+      },
+      "correct": "D",
+      "explanation": "✗ \"delighted\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- happy\n- thrilled\n- pleased\n\n✗ \"exceptional\" belongs to Degree ladder: how good something was — a degree-ladder word describing how good something was, at one specific intensity level, not this context.\nSimilar chunks:\n- great\n- excellent\n- outstanding\n\n✗ \"established\" belongs to old / outdated / established / legacy — a word for describing something not new, with one specific connotation (neutral, negative, positive, or technical), not this context.\nSimilar chunks:\n- legacy\n- outdated\n- old\n\n✓ Correct — \"swamped\" is a Degree ladder: how busy someone was chunk: a degree-ladder word describing how busy someone was, at one specific intensity level.\nExample: \"I'm swamped, can this wait until Friday?\"\nSimilar chunks:\n- drowning\n- underwater\n- slammed"
+    },
+    {
+      "id": 13,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how tired someone is, choosing a word that matches the right intensity — from a little tired to completely wiped out. Which chunk fits best?",
+      "options": {
+        "A": "cheap",
+        "B": "happy",
+        "C": "floored",
+        "D": "shattered"
+      },
+      "correct": "D",
+      "explanation": "✗ \"cheap\" belongs to cheap / affordable / cost-effective — a word for describing a low price, with one specific connotation (negative, neutral, or a smart tradeoff), not this context.\nSimilar chunks:\n- affordable\n- cost-effective\n\n✗ \"happy\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- delighted\n- thrilled\n- over the moon\n\n✗ \"floored\" belongs to Degree ladder: how surprised someone was — a degree-ladder word describing how surprised someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- stunned\n- gobsmacked (UK)\n- surprised\n\n✓ Correct — \"shattered\" is a Degree ladder: how tired someone was chunk: a degree-ladder word describing how tired someone was, at one specific intensity level.\nExample: \"I'm shattered after that all-hands week.\"\nSimilar chunks:\n- running on fumes\n- knackered (UK)\n- tired"
+    },
+    {
+      "id": 14,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how tired someone is, choosing a word that matches the right intensity — from a little tired to completely wiped out. Which chunk fits best?",
+      "options": {
+        "A": "swamped",
+        "B": "practise",
+        "C": "difficult",
+        "D": "knackered (UK)"
+      },
+      "correct": "D",
+      "explanation": "✗ \"swamped\" belongs to Degree ladder: how busy someone was — a degree-ladder word describing how busy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- busy\n- stretched\n- slammed\n\n✗ \"practise\" belongs to practise vs practice — the VERB form (UK spelling, with 's') for the act of rehearsing, not the noun, not this context.\nSimilar chunks:\n- practice\n\n✗ \"difficult\" belongs to Degree ladder: how difficult something was — a degree-ladder word describing how difficult something was, at one specific intensity level, not this context.\nSimilar chunks:\n- brutal\n- challenging\n- tricky\n\n✓ Correct — \"knackered (UK)\" is a Degree ladder: how tired someone was chunk: a degree-ladder word describing how tired someone was, at one specific intensity level.\nExample: \"I'm absolutely knackered after the conference.\"\nSimilar chunks:\n- running on fumes\n- shattered\n- tired"
+    },
+    {
+      "id": 15,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how soon something will happen, choosing a word that matches the right urgency — from vaguely soon to any moment now. Which chunk fits best?",
+      "options": {
+        "A": "audit",
+        "B": "remember",
+        "C": "economic",
+        "D": "imminently"
+      },
+      "correct": "D",
+      "explanation": "✗ \"audit\" belongs to check / verify / audit — a word for examining something, at one specific level of rigor (light, formal, or a full review), not this context.\nSimilar chunks:\n- check\n- verify\n\n✗ \"remember\" belongs to remind vs remember — the correct verb for prompting SOMEONE ELSE to recall something, not recalling it yourself, not this context.\nSimilar chunks:\n- remind\n\n✗ \"economic\" belongs to economic vs economical — the adjective for something related to the ECONOMY in general, not something money-saving, not this context.\nSimilar chunks:\n- economical\n\n✓ Correct — \"imminently\" is a Degree ladder: how soon something will happen chunk: a degree-ladder word describing how soon something will happen, at one specific urgency level.\nExample: \"The announcement is expected imminently.\"\nSimilar chunks:\n- soon\n- any moment\n- shortly"
+    },
+    {
+      "id": 16,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how soon something will happen, choosing a word that matches the right urgency — from vaguely soon to any moment now. Which chunk fits best?",
+      "options": {
+        "A": "good",
+        "B": "exceptional",
+        "C": "any moment",
+        "D": "irritated"
+      },
+      "correct": "C",
+      "explanation": "✗ \"good\" belongs to Degree ladder: how good something was — a degree-ladder word describing how good something was, at one specific intensity level, not this context.\nSimilar chunks:\n- great\n- alright\n- exceptional\n\n✗ \"exceptional\" belongs to Degree ladder: how good something was — a degree-ladder word describing how good something was, at one specific intensity level, not this context.\nSimilar chunks:\n- great\n- good\n- outstanding\n\n✓ Correct — \"any moment\" is a Degree ladder: how soon something will happen chunk: a degree-ladder word describing how soon something will happen, at one specific urgency level.\nExample: \"The fix should land any moment.\"\nSimilar chunks:\n- imminently\n- soon\n- shortly\n\n✗ \"irritated\" belongs to Degree ladder: how angry someone was — a degree-ladder word describing how angry someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- livid\n- angry\n- frustrated"
+    },
+    {
+      "id": 17,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how angry someone is, choosing a word that matches the right intensity — from mildly annoyed to truly livid. Which chunk fits best?",
+      "options": {
+        "A": "old",
+        "B": "legacy",
+        "C": "check",
+        "D": "irritated"
+      },
+      "correct": "D",
+      "explanation": "✗ \"old\" belongs to old / outdated / established / legacy — a word for describing something not new, with one specific connotation (neutral, negative, positive, or technical), not this context.\nSimilar chunks:\n- established\n- legacy\n- outdated\n\n✗ \"legacy\" belongs to old / outdated / established / legacy — a word for describing something not new, with one specific connotation (neutral, negative, positive, or technical), not this context.\nSimilar chunks:\n- established\n- outdated\n- old\n\n✗ \"check\" belongs to check / verify / audit — a word for examining something, at one specific level of rigor (light, formal, or a full review), not this context.\nSimilar chunks:\n- verify\n- audit\n\n✓ Correct — \"irritated\" is a Degree ladder: how angry someone was chunk: a degree-ladder word describing how angry someone was, at one specific intensity level.\nExample: \"He sounded irritated on the call.\"\nSimilar chunks:\n- annoyed\n- frustrated\n- angry"
+    },
+    {
+      "id": 18,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how angry someone is, choosing a word that matches the right intensity — from mildly annoyed to truly livid. Which chunk fits best?",
+      "options": {
+        "A": "happy",
+        "B": "prompt",
+        "C": "angry",
+        "D": "ask"
+      },
+      "correct": "C",
+      "explanation": "✗ \"happy\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- over the moon\n- delighted\n- pleased\n\n✗ \"prompt\" belongs to quick / hasty / prompt — a word for describing speed, with one specific connotation (neutral, careless, or admirably timely), not this context.\nSimilar chunks:\n- hasty\n- quick\n\n✓ Correct — \"angry\" is a Degree ladder: how angry someone was chunk: a degree-ladder word describing how angry someone was, at one specific intensity level.\nExample: \"The team was angry about the last-minute change.\"\nSimilar chunks:\n- annoyed\n- livid\n- frustrated\n\n✗ \"ask\" belongs to ask / demand / request — a word for asking for something, at one specific register level (neutral, forceful, or formal), not this context.\nSimilar chunks:\n- request\n- demand"
+    },
+    {
+      "id": 19,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how angry someone is, choosing a word that matches the right intensity — from mildly annoyed to truly livid. Which chunk fits best?",
+      "options": {
+        "A": "cease",
+        "B": "furious",
+        "C": "pause",
+        "D": "swamped"
+      },
+      "correct": "B",
+      "explanation": "✗ \"cease\" belongs to stop / halt / pause / cease — a word for stopping something, with one specific tone (neutral, abrupt, temporary, or formal), not this context.\nSimilar chunks:\n- stop\n- halt\n- pause\n\n✓ Correct — \"furious\" is a Degree ladder: how angry someone was chunk: a degree-ladder word describing how angry someone was, at one specific intensity level.\nExample: \"He was furious when he saw the invoice error.\"\nSimilar chunks:\n- irritated\n- livid\n- annoyed\n\n✗ \"pause\" belongs to stop / halt / pause / cease — a word for stopping something, with one specific tone (neutral, abrupt, temporary, or formal), not this context.\nSimilar chunks:\n- cease\n- halt\n- stop\n\n✗ \"swamped\" belongs to Degree ladder: how busy someone was — a degree-ladder word describing how busy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- slammed\n- busy\n- stretched"
+    },
+    {
+      "id": 20,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how happy someone is, choosing a word that matches the right intensity — from simply pleased to over the moon. Which chunk fits best?",
+      "options": {
+        "A": "happy",
+        "B": "terrible",
+        "C": "advice",
+        "D": "running on fumes"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"happy\" is a Degree ladder: how happy someone was chunk: a degree-ladder word describing how happy someone was, at one specific intensity level.\nExample: \"The client seems happy with the new design.\"\nSimilar chunks:\n- pleased\n- delighted\n- thrilled\n\n✗ \"terrible\" belongs to Degree ladder: how bad something was — a degree-ladder word describing how bad something was, at one specific intensity level, not this context.\nSimilar chunks:\n- not ideal\n- disastrous\n- bad\n\n✗ \"advice\" belongs to advise vs advice — the VERB form for giving guidance (spelled with an 's'), not the noun, not this context.\nSimilar chunks:\n- advise\n\n✗ \"running on fumes\" belongs to Degree ladder: how tired someone was — a degree-ladder word describing how tired someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- tired\n- shattered\n- wiped out"
+    },
+    {
+      "id": 21,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how happy someone is, choosing a word that matches the right intensity — from simply pleased to over the moon. Which chunk fits best?",
+      "options": {
+        "A": "over the moon",
+        "B": "remember",
+        "C": "request",
+        "D": "tell"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"over the moon\" is a Degree ladder: how happy someone was chunk: a degree-ladder word describing how happy someone was, at one specific intensity level.\nExample: \"The team was over the moon when the deal closed.\"\nSimilar chunks:\n- pleased\n- delighted\n- happy\n\n✗ \"remember\" belongs to remind vs remember — the correct verb for prompting SOMEONE ELSE to recall something, not recalling it yourself, not this context.\nSimilar chunks:\n- remind\n\n✗ \"request\" belongs to ask / demand / request — a word for asking for something, at one specific register level (neutral, forceful, or formal), not this context.\nSimilar chunks:\n- ask\n- demand\n\n✗ \"tell\" belongs to tell / inform / notify — a word for telling someone something, at one specific register level (neutral, formal, or official), not this context.\nSimilar chunks:\n- notify\n- inform"
+    },
+    {
+      "id": 22,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how happy someone is, choosing a word that matches the right intensity — from simply pleased to over the moon. Which chunk fits best?",
+      "options": {
+        "A": "practice",
+        "B": "pleased",
+        "C": "difficult",
+        "D": "lend"
+      },
+      "correct": "B",
+      "explanation": "✗ \"practice\" belongs to practise vs practice — the VERB form (UK spelling, with 's') for the act of rehearsing, not the noun, not this context.\nSimilar chunks:\n- practise\n\n✓ Correct — \"pleased\" is a Degree ladder: how happy someone was chunk: a degree-ladder word describing how happy someone was, at one specific intensity level.\nExample: \"We're pleased with how the pilot went.\"\nSimilar chunks:\n- happy\n- glad\n- thrilled\n\n✗ \"difficult\" belongs to Degree ladder: how difficult something was — a degree-ladder word describing how difficult something was, at one specific intensity level, not this context.\nSimilar chunks:\n- challenging\n- hard\n- tricky\n\n✗ \"lend\" belongs to borrow vs lend — the correct verb when someone RECEIVES something temporarily from someone else, not gives it, not this context.\nSimilar chunks:\n- borrow"
+    },
+    {
+      "id": 23,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how surprised someone is, choosing a word that matches the right intensity — from mildly surprised to completely gobsmacked. Which chunk fits best?",
+      "options": {
+        "A": "over the moon",
+        "B": "busy",
+        "C": "drowning",
+        "D": "taken aback"
+      },
+      "correct": "D",
+      "explanation": "✗ \"over the moon\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- pleased\n- glad\n- happy\n\n✗ \"busy\" belongs to Degree ladder: how busy someone was — a degree-ladder word describing how busy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- stretched\n- swamped\n- underwater\n\n✗ \"drowning\" belongs to Degree ladder: how busy someone was — a degree-ladder word describing how busy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- underwater\n- swamped\n- busy\n\n✓ Correct — \"taken aback\" is a Degree ladder: how surprised someone was chunk: a degree-ladder word describing how surprised someone was, at one specific intensity level.\nExample: \"She was taken aback by how blunt the feedback was.\"\nSimilar chunks:\n- gobsmacked (UK)\n- stunned\n- floored"
+    },
+    {
+      "id": 24,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how surprised someone is, choosing a word that matches the right intensity — from mildly surprised to completely gobsmacked. Which chunk fits best?",
+      "options": {
+        "A": "tricky",
+        "B": "advise",
+        "C": "affordable",
+        "D": "surprised"
+      },
+      "correct": "D",
+      "explanation": "✗ \"tricky\" belongs to Degree ladder: how difficult something was — a degree-ladder word describing how difficult something was, at one specific intensity level, not this context.\nSimilar chunks:\n- hard\n- fiddly\n- challenging\n\n✗ \"advise\" belongs to advise vs advice — the VERB form for giving guidance (spelled with an 's'), not the noun, not this context.\nSimilar chunks:\n- advice\n\n✗ \"affordable\" belongs to cheap / affordable / cost-effective — a word for describing a low price, with one specific connotation (negative, neutral, or a smart tradeoff), not this context.\nSimilar chunks:\n- cheap\n- cost-effective\n\n✓ Correct — \"surprised\" is a Degree ladder: how surprised someone was chunk: a degree-ladder word describing how surprised someone was, at one specific intensity level.\nExample: \"I was surprised the fix worked on the first try.\"\nSimilar chunks:\n- taken aback\n- gobsmacked (UK)\n- stunned"
+    },
+    {
+      "id": 25,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say someone takes something temporarily from another person, not that they give it. Which chunk fits best?",
+      "options": {
+        "A": "livid",
+        "B": "lend",
+        "C": "poor",
+        "D": "practise"
+      },
+      "correct": "B",
+      "explanation": "✗ \"livid\" belongs to Degree ladder: how angry someone was — a degree-ladder word describing how angry someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- irritated\n- angry\n- furious\n\n✓ Correct — \"lend\" is a borrow vs lend chunk: the correct verb when someone RECEIVES something temporarily from someone else, not gives it.\nExample: \"Can you lend me your laptop charger for the meeting?\"\nSimilar chunks:\n- borrow\n\n✗ \"poor\" belongs to Degree ladder: how bad something was — a degree-ladder word describing how bad something was, at one specific intensity level, not this context.\nSimilar chunks:\n- disastrous\n- awful\n- bad\n\n✗ \"practise\" belongs to practise vs practice — the VERB form (UK spelling, with 's') for the act of rehearsing, not the noun, not this context.\nSimilar chunks:\n- practice"
+    },
+    {
+      "id": 26,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say someone takes something temporarily from another person, not that they give it. Which chunk fits best?",
+      "options": {
+        "A": "established",
+        "B": "taken aback",
+        "C": "challenging",
+        "D": "borrow"
+      },
+      "correct": "D",
+      "explanation": "✗ \"established\" belongs to old / outdated / established / legacy — a word for describing something not new, with one specific connotation (neutral, negative, positive, or technical), not this context.\nSimilar chunks:\n- old\n- outdated\n- legacy\n\n✗ \"taken aback\" belongs to Degree ladder: how surprised someone was — a degree-ladder word describing how surprised someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- floored\n- stunned\n- surprised\n\n✗ \"challenging\" belongs to Degree ladder: how difficult something was — a degree-ladder word describing how difficult something was, at one specific intensity level, not this context.\nSimilar chunks:\n- tricky\n- difficult\n- fiddly\n\n✓ Correct — \"borrow\" is a borrow vs lend chunk: the correct verb when someone RECEIVES something temporarily from someone else, not gives it.\nExample: \"Can I borrow your laptop charger for the meeting?\"\nSimilar chunks:\n- lend"
+    },
+    {
+      "id": 27,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe moving something toward the speaker's current location, not away from it. Which chunk fits best?",
+      "options": {
+        "A": "bring",
+        "B": "less",
+        "C": "excellent",
+        "D": "underwater"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"bring\" is a bring vs take chunk: the correct verb for moving something TOWARD the speaker's location, not away from it.\nExample: \"Please bring your laptop to the workshop tomorrow.\"\nSimilar chunks:\n- take\n\n✗ \"less\" belongs to fewer vs less — the correct quantifier for a COUNTABLE noun, not an uncountable amount, not this context.\nSimilar chunks:\n- fewer\n\n✗ \"excellent\" belongs to Degree ladder: how good something was — a degree-ladder word describing how good something was, at one specific intensity level, not this context.\nSimilar chunks:\n- great\n- good\n- outstanding\n\n✗ \"underwater\" belongs to Degree ladder: how busy someone was — a degree-ladder word describing how busy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- busy\n- slammed\n- swamped"
+    },
+    {
+      "id": 28,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe moving something toward the speaker's current location, not away from it. Which chunk fits best?",
+      "options": {
+        "A": "cost-effective",
+        "B": "take",
+        "C": "ask",
+        "D": "demand"
+      },
+      "correct": "B",
+      "explanation": "✗ \"cost-effective\" belongs to cheap / affordable / cost-effective — a word for describing a low price, with one specific connotation (negative, neutral, or a smart tradeoff), not this context.\nSimilar chunks:\n- cheap\n- affordable\n\n✓ Correct — \"take\" is a bring vs take chunk: the correct verb for moving something TOWARD the speaker's location, not away from it.\nExample: \"Take these documents to the client's office on your way out.\"\nSimilar chunks:\n- bring\n\n✗ \"ask\" belongs to ask / demand / request — a word for asking for something, at one specific register level (neutral, forceful, or formal), not this context.\nSimilar chunks:\n- demand\n- request\n\n✗ \"demand\" belongs to ask / demand / request — a word for asking for something, at one specific register level (neutral, forceful, or formal), not this context.\nSimilar chunks:\n- request\n- ask"
+    },
+    {
+      "id": 29,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to report what was said without naming the listener directly after the verb. Which chunk fits best?",
+      "options": {
+        "A": "stop",
+        "B": "cease",
+        "C": "less",
+        "D": "tell"
+      },
+      "correct": "D",
+      "explanation": "✗ \"stop\" belongs to stop / halt / pause / cease — a word for stopping something, with one specific tone (neutral, abrupt, temporary, or formal), not this context.\nSimilar chunks:\n- cease\n- pause\n- halt\n\n✗ \"cease\" belongs to stop / halt / pause / cease — a word for stopping something, with one specific tone (neutral, abrupt, temporary, or formal), not this context.\nSimilar chunks:\n- halt\n- stop\n- pause\n\n✗ \"less\" belongs to fewer vs less — the correct quantifier for a COUNTABLE noun, not an uncountable amount, not this context.\nSimilar chunks:\n- fewer\n\n✓ Correct — \"tell\" is a say vs tell chunk: the correct verb when the listener is NOT named directly after it (use 'tell' when it is).\nExample: \"She told me the deadline had moved.\"\nSimilar chunks:\n- say"
+    },
+    {
+      "id": 30,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to report what was said without naming the listener directly after the verb. Which chunk fits best?",
+      "options": {
+        "A": "outstanding",
+        "B": "advise",
+        "C": "say",
+        "D": "historical"
+      },
+      "correct": "C",
+      "explanation": "✗ \"outstanding\" belongs to Degree ladder: how good something was — a degree-ladder word describing how good something was, at one specific intensity level, not this context.\nSimilar chunks:\n- good\n- exceptional\n- great\n\n✗ \"advise\" belongs to advise vs advice — the VERB form for giving guidance (spelled with an 's'), not the noun, not this context.\nSimilar chunks:\n- advice\n\n✓ Correct — \"say\" is a say vs tell chunk: the correct verb when the listener is NOT named directly after it (use 'tell' when it is).\nExample: \"She said the deadline had moved, but didn't say who to.\"\nSimilar chunks:\n- tell\n\n✗ \"historical\" belongs to historic vs historical — the adjective for something historically IMPORTANT and memorable, not just something from the past, not this context.\nSimilar chunks:\n- historic"
+    },
+    {
+      "id": 31,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe prompting someone else to recall something, not recalling it yourself. Which chunk fits best?",
+      "options": {
+        "A": "soon",
+        "B": "cost-effective",
+        "C": "remind",
+        "D": "good"
+      },
+      "correct": "C",
+      "explanation": "✗ \"soon\" belongs to Degree ladder: how soon something will happen — a degree-ladder word describing how soon something will happen, at one specific urgency level, not this context.\nSimilar chunks:\n- any moment\n- imminently\n- shortly\n\n✗ \"cost-effective\" belongs to cheap / affordable / cost-effective — a word for describing a low price, with one specific connotation (negative, neutral, or a smart tradeoff), not this context.\nSimilar chunks:\n- cheap\n- affordable\n\n✓ Correct — \"remind\" is a remind vs remember chunk: the correct verb for prompting SOMEONE ELSE to recall something, not recalling it yourself.\nExample: \"Can you remind me to send the invoice tomorrow?\"\nSimilar chunks:\n- remember\n\n✗ \"good\" belongs to good / adequate / satisfactory — a word for evaluating work, with one specific tone (genuinely positive, or a lukewarm 'just enough'), not this context.\nSimilar chunks:\n- satisfactory\n- adequate"
+    },
+    {
+      "id": 32,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe prompting someone else to recall something, not recalling it yourself. Which chunk fits best?",
+      "options": {
+        "A": "remember",
+        "B": "support",
+        "C": "inform",
+        "D": "quick"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"remember\" is a remind vs remember chunk: the correct verb for prompting SOMEONE ELSE to recall something, not recalling it yourself.\nExample: \"I need to remember to send the invoice tomorrow.\"\nSimilar chunks:\n- remind\n\n✗ \"support\" belongs to help / assist / support — a word for helping someone, at one specific register and scope (neutral, formal, or ongoing support), not this context.\nSimilar chunks:\n- help\n- assist\n\n✗ \"inform\" belongs to tell / inform / notify — a word for telling someone something, at one specific register level (neutral, formal, or official), not this context.\nSimilar chunks:\n- notify\n- tell\n\n✗ \"quick\" belongs to quick / hasty / prompt — a word for describing speed, with one specific connotation (neutral, careless, or admirably timely), not this context.\nSimilar chunks:\n- prompt\n- hasty"
+    },
+    {
+      "id": 33,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're describing something related to the economy in general, not something that saves money. Which chunk fits best?",
+      "options": {
+        "A": "hard",
+        "B": "sensitive",
+        "C": "annoyed",
+        "D": "economic"
+      },
+      "correct": "D",
+      "explanation": "✗ \"hard\" belongs to Degree ladder: how difficult something was — a degree-ladder word describing how difficult something was, at one specific intensity level, not this context.\nSimilar chunks:\n- tricky\n- difficult\n- challenging\n\n✗ \"sensitive\" belongs to sensible vs sensitive — the adjective for something PRACTICAL and well-reasoned, not emotionally delicate, not this context.\nSimilar chunks:\n- sensible\n\n✗ \"annoyed\" belongs to Degree ladder: how angry someone was — a degree-ladder word describing how angry someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- angry\n- irritated\n- livid\n\n✓ Correct — \"economic\" is a economic vs economical chunk: the adjective for something related to the ECONOMY in general, not something money-saving.\nExample: \"The economic outlook for next quarter looks uncertain.\"\nSimilar chunks:\n- economical"
+    },
+    {
+      "id": 34,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're describing something related to the economy in general, not something that saves money. Which chunk fits best?",
+      "options": {
+        "A": "economical",
+        "B": "terrible",
+        "C": "tell",
+        "D": "good"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"economical\" is a economic vs economical chunk: the adjective for something related to the ECONOMY in general, not something money-saving.\nExample: \"This printer is far more economical than our old one.\"\nSimilar chunks:\n- economic\n\n✗ \"terrible\" belongs to Degree ladder: how bad something was — a degree-ladder word describing how bad something was, at one specific intensity level, not this context.\nSimilar chunks:\n- disastrous\n- bad\n- not ideal\n\n✗ \"tell\" belongs to tell / inform / notify — a word for telling someone something, at one specific register level (neutral, formal, or official), not this context.\nSimilar chunks:\n- notify\n- inform\n\n✗ \"good\" belongs to good / adequate / satisfactory — a word for evaluating work, with one specific tone (genuinely positive, or a lukewarm 'just enough'), not this context.\nSimilar chunks:\n- satisfactory\n- adequate"
+    },
+    {
+      "id": 35,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe an event as important and memorable in history, not simply something that happened in the past. Which chunk fits best?",
+      "options": {
+        "A": "advise",
+        "B": "historic",
+        "C": "irritated",
+        "D": "lend"
+      },
+      "correct": "B",
+      "explanation": "✗ \"advise\" belongs to advise vs advice — the VERB form for giving guidance (spelled with an 's'), not the noun, not this context.\nSimilar chunks:\n- advice\n\n✓ Correct — \"historic\" is a historic vs historical chunk: the adjective for something historically IMPORTANT and memorable, not just something from the past.\nExample: \"Signing this deal was a historic moment for the company.\"\nSimilar chunks:\n- historical\n\n✗ \"irritated\" belongs to Degree ladder: how angry someone was — a degree-ladder word describing how angry someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- furious\n- frustrated\n- livid\n\n✗ \"lend\" belongs to borrow vs lend — the correct verb when someone RECEIVES something temporarily from someone else, not gives it, not this context.\nSimilar chunks:\n- borrow"
+    },
+    {
+      "id": 36,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe an event as important and memorable in history, not simply something that happened in the past. Which chunk fits best?",
+      "options": {
+        "A": "lend",
+        "B": "amend",
+        "C": "hard",
+        "D": "historical"
+      },
+      "correct": "D",
+      "explanation": "✗ \"lend\" belongs to borrow vs lend — the correct verb when someone RECEIVES something temporarily from someone else, not gives it, not this context.\nSimilar chunks:\n- borrow\n\n✗ \"amend\" belongs to change / amend / overhaul — a word for modifying something, at one specific scale (neutral, a small formal edit, or a complete rebuild), not this context.\nSimilar chunks:\n- overhaul\n- change\n\n✗ \"hard\" belongs to Degree ladder: how difficult something was — a degree-ladder word describing how difficult something was, at one specific intensity level, not this context.\nSimilar chunks:\n- challenging\n- difficult\n- fiddly\n\n✓ Correct — \"historical\" is a historic vs historical chunk: the adjective for something historically IMPORTANT and memorable, not just something from the past.\nExample: \"We looked at historical sales data before setting the target.\"\nSimilar chunks:\n- historic"
+    },
+    {
+      "id": 37,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a decision as practical and well-reasoned, not describe a person's emotional delicacy. Which chunk fits best?",
+      "options": {
+        "A": "stunned",
+        "B": "tired",
+        "C": "poor",
+        "D": "sensitive"
+      },
+      "correct": "D",
+      "explanation": "✗ \"stunned\" belongs to Degree ladder: how surprised someone was — a degree-ladder word describing how surprised someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- surprised\n- gobsmacked (UK)\n- taken aback\n\n✗ \"tired\" belongs to Degree ladder: how tired someone was — a degree-ladder word describing how tired someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- knackered (UK)\n- shattered\n- wiped out\n\n✗ \"poor\" belongs to Degree ladder: how bad something was — a degree-ladder word describing how bad something was, at one specific intensity level, not this context.\nSimilar chunks:\n- disastrous\n- awful\n- terrible\n\n✓ Correct — \"sensitive\" is a sensible vs sensitive chunk: the adjective for something PRACTICAL and well-reasoned, not emotionally delicate.\nExample: \"Be sensitive when you deliver this feedback, he's had a rough month.\"\nSimilar chunks:\n- sensible"
+    },
+    {
+      "id": 38,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a decision as practical and well-reasoned, not describe a person's emotional delicacy. Which chunk fits best?",
+      "options": {
+        "A": "borrow",
+        "B": "help",
+        "C": "sensible",
+        "D": "tell"
+      },
+      "correct": "C",
+      "explanation": "✗ \"borrow\" belongs to borrow vs lend — the correct verb when someone RECEIVES something temporarily from someone else, not gives it, not this context.\nSimilar chunks:\n- lend\n\n✗ \"help\" belongs to help / assist / support — a word for helping someone, at one specific register and scope (neutral, formal, or ongoing support), not this context.\nSimilar chunks:\n- assist\n- support\n\n✓ Correct — \"sensible\" is a sensible vs sensitive chunk: the adjective for something PRACTICAL and well-reasoned, not emotionally delicate.\nExample: \"Delaying the launch was the sensible choice.\"\nSimilar chunks:\n- sensitive\n\n✗ \"tell\" belongs to say vs tell — the correct verb when the listener is NOT named directly after it (use 'tell' when it is), not this context.\nSimilar chunks:\n- say"
+    },
+    {
+      "id": 39,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe genuinely sharing and understanding someone's feelings, not just feeling sorry for them from a distance. Which chunk fits best?",
+      "options": {
+        "A": "irritated",
+        "B": "sympathy",
+        "C": "change",
+        "D": "difficult"
+      },
+      "correct": "B",
+      "explanation": "✗ \"irritated\" belongs to Degree ladder: how angry someone was — a degree-ladder word describing how angry someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- livid\n- annoyed\n- frustrated\n\n✓ Correct — \"sympathy\" is a sympathy vs empathy chunk: the noun for genuinely SHARING someone's feelings, not just feeling sorry for them from a distance.\nExample: \"I have a lot of sympathy for the support team right now.\"\nSimilar chunks:\n- empathy\n\n✗ \"change\" belongs to change / amend / overhaul — a word for modifying something, at one specific scale (neutral, a small formal edit, or a complete rebuild), not this context.\nSimilar chunks:\n- overhaul\n- amend\n\n✗ \"difficult\" belongs to Degree ladder: how difficult something was — a degree-ladder word describing how difficult something was, at one specific intensity level, not this context.\nSimilar chunks:\n- tricky\n- hard\n- brutal"
+    },
+    {
+      "id": 40,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe genuinely sharing and understanding someone's feelings, not just feeling sorry for them from a distance. Which chunk fits best?",
+      "options": {
+        "A": "bring",
+        "B": "empathy",
+        "C": "disastrous",
+        "D": "surprised"
+      },
+      "correct": "B",
+      "explanation": "✗ \"bring\" belongs to bring vs take — the correct verb for moving something TOWARD the speaker's location, not away from it, not this context.\nSimilar chunks:\n- take\n\n✓ Correct — \"empathy\" is a sympathy vs empathy chunk: the noun for genuinely SHARING someone's feelings, not just feeling sorry for them from a distance.\nExample: \"Good managers show empathy, not just sympathy, when a project fails.\"\nSimilar chunks:\n- sympathy\n\n✗ \"disastrous\" belongs to Degree ladder: how bad something was — a degree-ladder word describing how bad something was, at one specific intensity level, not this context.\nSimilar chunks:\n- not ideal\n- awful\n- poor\n\n✗ \"surprised\" belongs to Degree ladder: how surprised someone was — a degree-ladder word describing how surprised someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- gobsmacked (UK)\n- floored\n- stunned"
+    },
+    {
+      "id": 41,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You need the verb form for giving guidance, not the noun. Which chunk fits best?",
+      "options": {
+        "A": "remember",
+        "B": "quick",
+        "C": "imply",
+        "D": "advise"
+      },
+      "correct": "D",
+      "explanation": "✗ \"remember\" belongs to remind vs remember — the correct verb for prompting SOMEONE ELSE to recall something, not recalling it yourself, not this context.\nSimilar chunks:\n- remind\n\n✗ \"quick\" belongs to quick / hasty / prompt — a word for describing speed, with one specific connotation (neutral, careless, or admirably timely), not this context.\nSimilar chunks:\n- hasty\n- prompt\n\n✗ \"imply\" belongs to imply vs infer — the correct verb for the SPEAKER hinting at something, not the listener drawing a conclusion, not this context.\nSimilar chunks:\n- infer\n\n✓ Correct — \"advise\" is a advise vs advice chunk: the VERB form for giving guidance (spelled with an 's'), not the noun.\nExample: \"I'd advise you to get legal to review this first.\"\nSimilar chunks:\n- advice"
+    },
+    {
+      "id": 42,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You need the verb form for giving guidance, not the noun. Which chunk fits best?",
+      "options": {
+        "A": "cheap",
+        "B": "advice",
+        "C": "remind",
+        "D": "good"
+      },
+      "correct": "B",
+      "explanation": "✗ \"cheap\" belongs to cheap / affordable / cost-effective — a word for describing a low price, with one specific connotation (negative, neutral, or a smart tradeoff), not this context.\nSimilar chunks:\n- cost-effective\n- affordable\n\n✓ Correct — \"advice\" is a advise vs advice chunk: the VERB form for giving guidance (spelled with an 's'), not the noun.\nExample: \"Thanks for the advice, I'll loop in legal first.\"\nSimilar chunks:\n- advise\n\n✗ \"remind\" belongs to remind vs remember — the correct verb for prompting SOMEONE ELSE to recall something, not recalling it yourself, not this context.\nSimilar chunks:\n- remember\n\n✗ \"good\" belongs to Degree ladder: how good something was — a degree-ladder word describing how good something was, at one specific intensity level, not this context.\nSimilar chunks:\n- great\n- excellent\n- exceptional"
+    },
+    {
+      "id": 43,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You need the verb form, UK spelling, for the act of rehearsing, not the noun. Which chunk fits best?",
+      "options": {
+        "A": "assist",
+        "B": "pleased",
+        "C": "tell",
+        "D": "practise"
+      },
+      "correct": "D",
+      "explanation": "✗ \"assist\" belongs to help / assist / support — a word for helping someone, at one specific register and scope (neutral, formal, or ongoing support), not this context.\nSimilar chunks:\n- help\n- support\n\n✗ \"pleased\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- delighted\n- thrilled\n- glad\n\n✗ \"tell\" belongs to say vs tell — the correct verb when the listener is NOT named directly after it (use 'tell' when it is), not this context.\nSimilar chunks:\n- say\n\n✓ Correct — \"practise\" is a practise vs practice chunk: the VERB form (UK spelling, with 's') for the act of rehearsing, not the noun.\nExample: \"You should practise the pitch a few times before the client call.\"\nSimilar chunks:\n- practice"
+    },
+    {
+      "id": 44,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You need the verb form, UK spelling, for the act of rehearsing, not the noun. Which chunk fits best?",
+      "options": {
+        "A": "demand",
+        "B": "historical",
+        "C": "shortly",
+        "D": "practice"
+      },
+      "correct": "D",
+      "explanation": "✗ \"demand\" belongs to ask / demand / request — a word for asking for something, at one specific register level (neutral, forceful, or formal), not this context.\nSimilar chunks:\n- request\n- ask\n\n✗ \"historical\" belongs to historic vs historical — the adjective for something historically IMPORTANT and memorable, not just something from the past, not this context.\nSimilar chunks:\n- historic\n\n✗ \"shortly\" belongs to Degree ladder: how soon something will happen — a degree-ladder word describing how soon something will happen, at one specific urgency level, not this context.\nSimilar chunks:\n- any moment\n- soon\n- imminently\n\n✓ Correct — \"practice\" is a practise vs practice chunk: the VERB form (UK spelling, with 's') for the act of rehearsing, not the noun.\nExample: \"The pitch needs more practice before the client call.\"\nSimilar chunks:\n- practise"
+    },
+    {
+      "id": 45,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're describing a countable noun, not an uncountable amount. Which chunk fits best?",
+      "options": {
+        "A": "cost-effective",
+        "B": "less",
+        "C": "annoyed",
+        "D": "excellent"
+      },
+      "correct": "B",
+      "explanation": "✗ \"cost-effective\" belongs to cheap / affordable / cost-effective — a word for describing a low price, with one specific connotation (negative, neutral, or a smart tradeoff), not this context.\nSimilar chunks:\n- affordable\n- cheap\n\n✓ Correct — \"less\" is a fewer vs less chunk: the correct quantifier for a COUNTABLE noun, not an uncountable amount.\nExample: \"We had less traffic this week.\"\nSimilar chunks:\n- fewer\n\n✗ \"annoyed\" belongs to Degree ladder: how angry someone was — a degree-ladder word describing how angry someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- furious\n- irritated\n- angry\n\n✗ \"excellent\" belongs to Degree ladder: how good something was — a degree-ladder word describing how good something was, at one specific intensity level, not this context.\nSimilar chunks:\n- exceptional\n- great\n- alright"
+    },
+    {
+      "id": 46,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're describing a countable noun, not an uncountable amount. Which chunk fits best?",
+      "options": {
+        "A": "sympathy",
+        "B": "fewer",
+        "C": "delighted",
+        "D": "help"
+      },
+      "correct": "B",
+      "explanation": "✗ \"sympathy\" belongs to sympathy vs empathy — the noun for genuinely SHARING someone's feelings, not just feeling sorry for them from a distance, not this context.\nSimilar chunks:\n- empathy\n\n✓ Correct — \"fewer\" is a fewer vs less chunk: the correct quantifier for a COUNTABLE noun, not an uncountable amount.\nExample: \"We had fewer support tickets this week.\"\nSimilar chunks:\n- less\n\n✗ \"delighted\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- pleased\n- thrilled\n- happy\n\n✗ \"help\" belongs to help / assist / support — a word for helping someone, at one specific register and scope (neutral, formal, or ongoing support), not this context.\nSimilar chunks:\n- support\n- assist"
+    },
+    {
+      "id": 47,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe the speaker hinting at something, not the listener drawing a conclusion. Which chunk fits best?",
+      "options": {
+        "A": "running on fumes",
+        "B": "infer",
+        "C": "good",
+        "D": "ask"
+      },
+      "correct": "B",
+      "explanation": "✗ \"running on fumes\" belongs to Degree ladder: how tired someone was — a degree-ladder word describing how tired someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- knackered (UK)\n- tired\n- wiped out\n\n✓ Correct — \"infer\" is a imply vs infer chunk: the correct verb for the SPEAKER hinting at something, not the listener drawing a conclusion.\nExample: \"From his tone, I inferred he wasn't happy with the results.\"\nSimilar chunks:\n- imply\n\n✗ \"good\" belongs to Degree ladder: how good something was — a degree-ladder word describing how good something was, at one specific intensity level, not this context.\nSimilar chunks:\n- exceptional\n- outstanding\n- excellent\n\n✗ \"ask\" belongs to ask / demand / request — a word for asking for something, at one specific register level (neutral, forceful, or formal), not this context.\nSimilar chunks:\n- demand\n- request"
+    },
+    {
+      "id": 48,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe the speaker hinting at something, not the listener drawing a conclusion. Which chunk fits best?",
+      "options": {
+        "A": "imply",
+        "B": "not ideal",
+        "C": "tell",
+        "D": "sympathy"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"imply\" is a imply vs infer chunk: the correct verb for the SPEAKER hinting at something, not the listener drawing a conclusion.\nExample: \"Are you implying the numbers were manipulated?\"\nSimilar chunks:\n- infer\n\n✗ \"not ideal\" belongs to Degree ladder: how bad something was — a degree-ladder word describing how bad something was, at one specific intensity level, not this context.\nSimilar chunks:\n- terrible\n- bad\n- disastrous\n\n✗ \"tell\" belongs to tell / inform / notify — a word for telling someone something, at one specific register level (neutral, formal, or official), not this context.\nSimilar chunks:\n- notify\n- inform\n\n✗ \"sympathy\" belongs to sympathy vs empathy — the noun for genuinely SHARING someone's feelings, not just feeling sorry for them from a distance, not this context.\nSimilar chunks:\n- empathy"
+    },
+    {
+      "id": 49,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe someone asking for something — choose the word matching the right register: neutral, forceful, or formal and polite. Which chunk fits best?",
+      "options": {
+        "A": "demand",
+        "B": "sympathy",
+        "C": "tell",
+        "D": "taken aback"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"demand\" is a ask / demand / request chunk: a word for asking for something, at one specific register level (neutral, forceful, or formal).\nExample: \"The client demanded a full refund within 24 hours.\"\nSimilar chunks:\n- ask\n- request\n\n✗ \"sympathy\" belongs to sympathy vs empathy — the noun for genuinely SHARING someone's feelings, not just feeling sorry for them from a distance, not this context.\nSimilar chunks:\n- empathy\n\n✗ \"tell\" belongs to say vs tell — the correct verb when the listener is NOT named directly after it (use 'tell' when it is), not this context.\nSimilar chunks:\n- say\n\n✗ \"taken aback\" belongs to Degree ladder: how surprised someone was — a degree-ladder word describing how surprised someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- gobsmacked (UK)\n- floored\n- surprised"
+    },
+    {
+      "id": 50,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe someone asking for something — choose the word matching the right register: neutral, forceful, or formal and polite. Which chunk fits best?",
+      "options": {
+        "A": "cease",
+        "B": "overhaul",
+        "C": "tell",
+        "D": "request"
+      },
+      "correct": "D",
+      "explanation": "✗ \"cease\" belongs to stop / halt / pause / cease — a word for stopping something, with one specific tone (neutral, abrupt, temporary, or formal), not this context.\nSimilar chunks:\n- pause\n- halt\n- stop\n\n✗ \"overhaul\" belongs to change / amend / overhaul — a word for modifying something, at one specific scale (neutral, a small formal edit, or a complete rebuild), not this context.\nSimilar chunks:\n- amend\n- change\n\n✗ \"tell\" belongs to say vs tell — the correct verb when the listener is NOT named directly after it (use 'tell' when it is), not this context.\nSimilar chunks:\n- say\n\n✓ Correct — \"request\" is a ask / demand / request chunk: a word for asking for something, at one specific register level (neutral, forceful, or formal).\nExample: \"We formally requested an extension from the vendor.\"\nSimilar chunks:\n- demand\n- ask"
+    },
+    {
+      "id": 51,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe telling someone something — choose the word matching the right register: neutral, formal, or official. Which chunk fits best?",
+      "options": {
+        "A": "sympathy",
+        "B": "sensitive",
+        "C": "glad",
+        "D": "notify"
+      },
+      "correct": "D",
+      "explanation": "✗ \"sympathy\" belongs to sympathy vs empathy — the noun for genuinely SHARING someone's feelings, not just feeling sorry for them from a distance, not this context.\nSimilar chunks:\n- empathy\n\n✗ \"sensitive\" belongs to sensible vs sensitive — the adjective for something PRACTICAL and well-reasoned, not emotionally delicate, not this context.\nSimilar chunks:\n- sensible\n\n✗ \"glad\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- happy\n- delighted\n- thrilled\n\n✓ Correct — \"notify\" is a tell / inform / notify chunk: a word for telling someone something, at one specific register level (neutral, formal, or official).\nExample: \"We are required to notify affected users within 72 hours.\"\nSimilar chunks:\n- tell\n- inform"
+    },
+    {
+      "id": 52,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe telling someone something — choose the word matching the right register: neutral, formal, or official. Which chunk fits best?",
+      "options": {
+        "A": "inform",
+        "B": "swamped",
+        "C": "knackered (UK)",
+        "D": "request"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"inform\" is a tell / inform / notify chunk: a word for telling someone something, at one specific register level (neutral, formal, or official).\nExample: \"Please inform the client of the delay as soon as possible.\"\nSimilar chunks:\n- tell\n- notify\n\n✗ \"swamped\" belongs to Degree ladder: how busy someone was — a degree-ladder word describing how busy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- underwater\n- drowning\n- slammed\n\n✗ \"knackered (UK)\" belongs to Degree ladder: how tired someone was — a degree-ladder word describing how tired someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- shattered\n- tired\n- running on fumes\n\n✗ \"request\" belongs to ask / demand / request — a word for asking for something, at one specific register level (neutral, forceful, or formal), not this context.\nSimilar chunks:\n- ask\n- demand"
+    },
+    {
+      "id": 53,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe helping someone — choose the word matching the right register and scope: neutral, formal, or broader ongoing support. Which chunk fits best?",
+      "options": {
+        "A": "outdated",
+        "B": "historical",
+        "C": "help",
+        "D": "any moment"
+      },
+      "correct": "C",
+      "explanation": "✗ \"outdated\" belongs to old / outdated / established / legacy — a word for describing something not new, with one specific connotation (neutral, negative, positive, or technical), not this context.\nSimilar chunks:\n- established\n- old\n- legacy\n\n✗ \"historical\" belongs to historic vs historical — the adjective for something historically IMPORTANT and memorable, not just something from the past, not this context.\nSimilar chunks:\n- historic\n\n✓ Correct — \"help\" is a help / assist / support chunk: a word for helping someone, at one specific register and scope (neutral, formal, or ongoing support).\nExample: \"Can you help me finish this deck before the call?\"\nSimilar chunks:\n- support\n- assist\n\n✗ \"any moment\" belongs to Degree ladder: how soon something will happen — a degree-ladder word describing how soon something will happen, at one specific urgency level, not this context.\nSimilar chunks:\n- soon\n- shortly\n- imminently"
+    },
+    {
+      "id": 54,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe helping someone — choose the word matching the right register and scope: neutral, formal, or broader ongoing support. Which chunk fits best?",
+      "options": {
+        "A": "furious",
+        "B": "satisfactory",
+        "C": "assist",
+        "D": "outstanding"
+      },
+      "correct": "C",
+      "explanation": "✗ \"furious\" belongs to Degree ladder: how angry someone was — a degree-ladder word describing how angry someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- frustrated\n- angry\n- irritated\n\n✗ \"satisfactory\" belongs to good / adequate / satisfactory — a word for evaluating work, with one specific tone (genuinely positive, or a lukewarm 'just enough'), not this context.\nSimilar chunks:\n- good\n- adequate\n\n✓ Correct — \"assist\" is a help / assist / support chunk: a word for helping someone, at one specific register and scope (neutral, formal, or ongoing support).\nExample: \"Our team will assist you with the migration process.\"\nSimilar chunks:\n- support\n- help\n\n✗ \"outstanding\" belongs to Degree ladder: how good something was — a degree-ladder word describing how good something was, at one specific intensity level, not this context.\nSimilar chunks:\n- excellent\n- exceptional\n- great"
+    },
+    {
+      "id": 55,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe modifying something — choose the word matching the right scale: neutral, a small formal edit, or a complete rebuild. Which chunk fits best?",
+      "options": {
+        "A": "angry",
+        "B": "outstanding",
+        "C": "audit",
+        "D": "amend"
+      },
+      "correct": "D",
+      "explanation": "✗ \"angry\" belongs to Degree ladder: how angry someone was — a degree-ladder word describing how angry someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- livid\n- irritated\n- frustrated\n\n✗ \"outstanding\" belongs to Degree ladder: how good something was — a degree-ladder word describing how good something was, at one specific intensity level, not this context.\nSimilar chunks:\n- exceptional\n- good\n- excellent\n\n✗ \"audit\" belongs to check / verify / audit — a word for examining something, at one specific level of rigor (light, formal, or a full review), not this context.\nSimilar chunks:\n- check\n- verify\n\n✓ Correct — \"amend\" is a change / amend / overhaul chunk: a word for modifying something, at one specific scale (neutral, a small formal edit, or a complete rebuild).\nExample: \"Please amend clause 4 to reflect the new payment terms.\"\nSimilar chunks:\n- overhaul\n- change"
+    },
+    {
+      "id": 56,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe modifying something — choose the word matching the right scale: neutral, a small formal edit, or a complete rebuild. Which chunk fits best?",
+      "options": {
+        "A": "historical",
+        "B": "remember",
+        "C": "overhaul",
+        "D": "tell"
+      },
+      "correct": "C",
+      "explanation": "✗ \"historical\" belongs to historic vs historical — the adjective for something historically IMPORTANT and memorable, not just something from the past, not this context.\nSimilar chunks:\n- historic\n\n✗ \"remember\" belongs to remind vs remember — the correct verb for prompting SOMEONE ELSE to recall something, not recalling it yourself, not this context.\nSimilar chunks:\n- remind\n\n✓ Correct — \"overhaul\" is a change / amend / overhaul chunk: a word for modifying something, at one specific scale (neutral, a small formal edit, or a complete rebuild).\nExample: \"The whole pricing structure needs an overhaul, not a tweak.\"\nSimilar chunks:\n- change\n- amend\n\n✗ \"tell\" belongs to tell / inform / notify — a word for telling someone something, at one specific register level (neutral, formal, or official), not this context.\nSimilar chunks:\n- notify\n- inform"
+    },
+    {
+      "id": 57,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe stopping something — choose the word matching the right tone: neutral, abrupt, temporary, or formal. Which chunk fits best?",
+      "options": {
+        "A": "cease",
+        "B": "inform",
+        "C": "shortly",
+        "D": "good"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"cease\" is a stop / halt / pause / cease chunk: a word for stopping something, with one specific tone (neutral, abrupt, temporary, or formal).\nExample: \"The vendor will cease support for this version in June.\"\nSimilar chunks:\n- pause\n- halt\n- stop\n\n✗ \"inform\" belongs to tell / inform / notify — a word for telling someone something, at one specific register level (neutral, formal, or official), not this context.\nSimilar chunks:\n- notify\n- tell\n\n✗ \"shortly\" belongs to Degree ladder: how soon something will happen — a degree-ladder word describing how soon something will happen, at one specific urgency level, not this context.\nSimilar chunks:\n- soon\n- any moment\n- imminently\n\n✗ \"good\" belongs to good / adequate / satisfactory — a word for evaluating work, with one specific tone (genuinely positive, or a lukewarm 'just enough'), not this context.\nSimilar chunks:\n- satisfactory\n- adequate"
+    },
+    {
+      "id": 58,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe stopping something — choose the word matching the right tone: neutral, abrupt, temporary, or formal. Which chunk fits best?",
+      "options": {
+        "A": "stop",
+        "B": "over the moon",
+        "C": "thrilled",
+        "D": "poor"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"stop\" is a stop / halt / pause / cease chunk: a word for stopping something, with one specific tone (neutral, abrupt, temporary, or formal).\nExample: \"We stopped the rollout after the first error report.\"\nSimilar chunks:\n- halt\n- cease\n- pause\n\n✗ \"over the moon\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- pleased\n- thrilled\n- happy\n\n✗ \"thrilled\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- over the moon\n- pleased\n- happy\n\n✗ \"poor\" belongs to Degree ladder: how bad something was — a degree-ladder word describing how bad something was, at one specific intensity level, not this context.\nSimilar chunks:\n- terrible\n- disastrous\n- not ideal"
+    },
+    {
+      "id": 59,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe examining something — choose the word matching the right level of rigor: light, formal, or a serious full review. Which chunk fits best?",
+      "options": {
+        "A": "not ideal",
+        "B": "check",
+        "C": "disastrous",
+        "D": "sensible"
+      },
+      "correct": "B",
+      "explanation": "✗ \"not ideal\" belongs to Degree ladder: how bad something was — a degree-ladder word describing how bad something was, at one specific intensity level, not this context.\nSimilar chunks:\n- awful\n- disastrous\n- poor\n\n✓ Correct — \"check\" is a check / verify / audit chunk: a word for examining something, at one specific level of rigor (light, formal, or a full review).\nExample: \"Can you check the numbers before I send them?\"\nSimilar chunks:\n- verify\n- audit\n\n✗ \"disastrous\" belongs to Degree ladder: how bad something was — a degree-ladder word describing how bad something was, at one specific intensity level, not this context.\nSimilar chunks:\n- awful\n- not ideal\n- poor\n\n✗ \"sensible\" belongs to sensible vs sensitive — the adjective for something PRACTICAL and well-reasoned, not emotionally delicate, not this context.\nSimilar chunks:\n- sensitive"
+    },
+    {
+      "id": 60,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe examining something — choose the word matching the right level of rigor: light, formal, or a serious full review. Which chunk fits best?",
+      "options": {
+        "A": "outdated",
+        "B": "furious",
+        "C": "verify",
+        "D": "over the moon"
+      },
+      "correct": "C",
+      "explanation": "✗ \"outdated\" belongs to old / outdated / established / legacy — a word for describing something not new, with one specific connotation (neutral, negative, positive, or technical), not this context.\nSimilar chunks:\n- old\n- legacy\n- established\n\n✗ \"furious\" belongs to Degree ladder: how angry someone was — a degree-ladder word describing how angry someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- annoyed\n- angry\n- livid\n\n✓ Correct — \"verify\" is a check / verify / audit chunk: a word for examining something, at one specific level of rigor (light, formal, or a full review).\nExample: \"Finance needs to verify the invoice before we pay it.\"\nSimilar chunks:\n- check\n- audit\n\n✗ \"over the moon\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- happy\n- delighted\n- glad"
+    },
+    {
+      "id": 61,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to evaluate work — choose the word matching the right tone: genuinely positive, or a lukewarm 'just enough'. Which chunk fits best?",
+      "options": {
+        "A": "adequate",
+        "B": "floored",
+        "C": "good",
+        "D": "pause"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"adequate\" is a good / adequate / satisfactory chunk: a word for evaluating work, with one specific tone (genuinely positive, or a lukewarm 'just enough').\nExample: \"The report was adequate, though it lacked real analysis.\"\nSimilar chunks:\n- good\n- satisfactory\n\n✗ \"floored\" belongs to Degree ladder: how surprised someone was — a degree-ladder word describing how surprised someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- surprised\n- stunned\n- taken aback\n\n✗ \"good\" belongs to Degree ladder: how good something was — a degree-ladder word describing how good something was, at one specific intensity level, not this context.\nSimilar chunks:\n- exceptional\n- alright\n- excellent\n\n✗ \"pause\" belongs to stop / halt / pause / cease — a word for stopping something, with one specific tone (neutral, abrupt, temporary, or formal), not this context.\nSimilar chunks:\n- cease\n- stop\n- halt"
+    },
+    {
+      "id": 62,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to evaluate work — choose the word matching the right tone: genuinely positive, or a lukewarm 'just enough'. Which chunk fits best?",
+      "options": {
+        "A": "any moment",
+        "B": "not ideal",
+        "C": "shattered",
+        "D": "good"
+      },
+      "correct": "D",
+      "explanation": "✗ \"any moment\" belongs to Degree ladder: how soon something will happen — a degree-ladder word describing how soon something will happen, at one specific urgency level, not this context.\nSimilar chunks:\n- soon\n- imminently\n- shortly\n\n✗ \"not ideal\" belongs to Degree ladder: how bad something was — a degree-ladder word describing how bad something was, at one specific intensity level, not this context.\nSimilar chunks:\n- poor\n- terrible\n- disastrous\n\n✗ \"shattered\" belongs to Degree ladder: how tired someone was — a degree-ladder word describing how tired someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- knackered (UK)\n- running on fumes\n- wiped out\n\n✓ Correct — \"good\" is a good / adequate / satisfactory chunk: a word for evaluating work, with one specific tone (genuinely positive, or a lukewarm 'just enough').\nExample: \"This is genuinely good work, well above what we expected.\"\nSimilar chunks:\n- satisfactory\n- adequate"
+    },
+    {
+      "id": 63,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe speed — choose the word matching the right connotation: neutral, careless, or admirably timely. Which chunk fits best?",
+      "options": {
+        "A": "good",
+        "B": "borrow",
+        "C": "bad",
+        "D": "prompt"
+      },
+      "correct": "D",
+      "explanation": "✗ \"good\" belongs to Degree ladder: how good something was — a degree-ladder word describing how good something was, at one specific intensity level, not this context.\nSimilar chunks:\n- excellent\n- exceptional\n- outstanding\n\n✗ \"borrow\" belongs to borrow vs lend — the correct verb when someone RECEIVES something temporarily from someone else, not gives it, not this context.\nSimilar chunks:\n- lend\n\n✗ \"bad\" belongs to Degree ladder: how bad something was — a degree-ladder word describing how bad something was, at one specific intensity level, not this context.\nSimilar chunks:\n- disastrous\n- awful\n- terrible\n\n✓ Correct — \"prompt\" is a quick / hasty / prompt chunk: a word for describing speed, with one specific connotation (neutral, careless, or admirably timely).\nExample: \"Thanks for the prompt response, it really helped.\"\nSimilar chunks:\n- quick\n- hasty"
+    },
+    {
+      "id": 64,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe speed — choose the word matching the right connotation: neutral, careless, or admirably timely. Which chunk fits best?",
+      "options": {
+        "A": "not ideal",
+        "B": "verify",
+        "C": "soon",
+        "D": "quick"
+      },
+      "correct": "D",
+      "explanation": "✗ \"not ideal\" belongs to Degree ladder: how bad something was — a degree-ladder word describing how bad something was, at one specific intensity level, not this context.\nSimilar chunks:\n- disastrous\n- bad\n- awful\n\n✗ \"verify\" belongs to check / verify / audit — a word for examining something, at one specific level of rigor (light, formal, or a full review), not this context.\nSimilar chunks:\n- audit\n- check\n\n✗ \"soon\" belongs to Degree ladder: how soon something will happen — a degree-ladder word describing how soon something will happen, at one specific urgency level, not this context.\nSimilar chunks:\n- imminently\n- any moment\n- shortly\n\n✓ Correct — \"quick\" is a quick / hasty / prompt chunk: a word for describing speed, with one specific connotation (neutral, careless, or admirably timely).\nExample: \"That was a quick turnaround on the fix.\"\nSimilar chunks:\n- prompt\n- hasty"
+    },
+    {
+      "id": 65,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a low price — choose the word matching the right connotation: negative (low quality), neutral, or a smart business tradeoff. Which chunk fits best?",
+      "options": {
+        "A": "cheap",
+        "B": "drowning",
+        "C": "change",
+        "D": "advice"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"cheap\" is a cheap / affordable / cost-effective chunk: a word for describing a low price, with one specific connotation (negative, neutral, or a smart tradeoff).\nExample: \"The materials felt cheap for the price we paid.\"\nSimilar chunks:\n- cost-effective\n- affordable\n\n✗ \"drowning\" belongs to Degree ladder: how busy someone was — a degree-ladder word describing how busy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- busy\n- swamped\n- slammed\n\n✗ \"change\" belongs to change / amend / overhaul — a word for modifying something, at one specific scale (neutral, a small formal edit, or a complete rebuild), not this context.\nSimilar chunks:\n- amend\n- overhaul\n\n✗ \"advice\" belongs to advise vs advice — the VERB form for giving guidance (spelled with an 's'), not the noun, not this context.\nSimilar chunks:\n- advise"
+    },
+    {
+      "id": 66,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a low price — choose the word matching the right connotation: negative (low quality), neutral, or a smart business tradeoff. Which chunk fits best?",
+      "options": {
+        "A": "halt",
+        "B": "overhaul",
+        "C": "cost-effective",
+        "D": "delighted"
+      },
+      "correct": "C",
+      "explanation": "✗ \"halt\" belongs to stop / halt / pause / cease — a word for stopping something, with one specific tone (neutral, abrupt, temporary, or formal), not this context.\nSimilar chunks:\n- cease\n- stop\n- pause\n\n✗ \"overhaul\" belongs to change / amend / overhaul — a word for modifying something, at one specific scale (neutral, a small formal edit, or a complete rebuild), not this context.\nSimilar chunks:\n- amend\n- change\n\n✓ Correct — \"cost-effective\" is a cheap / affordable / cost-effective chunk: a word for describing a low price, with one specific connotation (negative, neutral, or a smart tradeoff).\nExample: \"Switching vendors turned out to be a cost-effective move.\"\nSimilar chunks:\n- cheap\n- affordable\n\n✗ \"delighted\" belongs to Degree ladder: how happy someone was — a degree-ladder word describing how happy someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- happy\n- glad\n- pleased"
+    },
+    {
+      "id": 67,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe something that isn't new — choose the word matching the right connotation: neutral age, negative obsolescence, positive reputation, or technical continuity. Which chunk fits best?",
+      "options": {
+        "A": "outdated",
+        "B": "advice",
+        "C": "poor",
+        "D": "annoyed"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"outdated\" is a old / outdated / established / legacy chunk: a word for describing something not new, with one specific connotation (neutral, negative, positive, or technical).\nExample: \"Our onboarding docs are outdated and confuse new hires.\"\nSimilar chunks:\n- established\n- old\n- legacy\n\n✗ \"advice\" belongs to advise vs advice — the VERB form for giving guidance (spelled with an 's'), not the noun, not this context.\nSimilar chunks:\n- advise\n\n✗ \"poor\" belongs to Degree ladder: how bad something was — a degree-ladder word describing how bad something was, at one specific intensity level, not this context.\nSimilar chunks:\n- bad\n- terrible\n- not ideal\n\n✗ \"annoyed\" belongs to Degree ladder: how angry someone was — a degree-ladder word describing how angry someone was, at one specific intensity level, not this context.\nSimilar chunks:\n- angry\n- furious\n- irritated"
+    },
+    {
+      "id": 68,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe something that isn't new — choose the word matching the right connotation: neutral age, negative obsolescence, positive reputation, or technical continuity. Which chunk fits best?",
+      "options": {
+        "A": "economical",
+        "B": "take",
+        "C": "old",
+        "D": "check"
+      },
+      "correct": "C",
+      "explanation": "✗ \"economical\" belongs to economic vs economical — the adjective for something related to the ECONOMY in general, not something money-saving, not this context.\nSimilar chunks:\n- economic\n\n✗ \"take\" belongs to bring vs take — the correct verb for moving something TOWARD the speaker's location, not away from it, not this context.\nSimilar chunks:\n- bring\n\n✓ Correct — \"old\" is a old / outdated / established / legacy chunk: a word for describing something not new, with one specific connotation (neutral, negative, positive, or technical).\nExample: \"This is an old version of the app, but it still works fine.\"\nSimilar chunks:\n- established\n- outdated\n- legacy\n\n✗ \"check\" belongs to check / verify / audit — a word for examining something, at one specific level of rigor (light, formal, or a full review), not this context.\nSimilar chunks:\n- audit\n- verify"
+    }
+  ]
+}

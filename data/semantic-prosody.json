@@ -1,0 +1,916 @@
+{
+  "examId": "semantic-prosody",
+  "title": "Chunk Atlas — Language Systems: Semantic Prosody & Connotation",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a system outage created real problems for customers, using the verb natives reach for with a bad outcome. Which chunk fits best?",
+      "options": {
+        "A": "cause damage",
+        "B": "going forward",
+        "C": "emphasised",
+        "D": "exacerbate"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"cause damage\" is a Negative-prosody verb: cause + bad noun chunk: used with \"cause\" + a negative noun (damage, delay, concern, confusion, disruption) — \"cause\" almost never pairs with something good.\nExample: \"The leak caused serious damage to the server room.\"\nSimilar chunks:\n- cause concern\n- cause confusion\n- cause disruption\n\n✗ \"going forward\" belongs to Signalling mild professional irritation — used to politely mask irritation, impatience, or a firm expectation that something won't happen again, not this context.\nSimilar chunks:\n- it is what it is\n- as per my previous email\n\n✗ \"emphasised\" belongs to Reporting verb: signals agreement or reluctant concession — used to report something in a way that signals the speaker agrees with it, or that the person had to reluctantly admit it, not this context.\nSimilar chunks:\n- acknowledged\n- pointed out\n- conceded\n\n✗ \"exacerbate\" belongs to Negative-prosody verb: worsening & undermining — used for something bad gradually getting worse, or something being weakened or threatened, not this context.\nSimilar chunks:\n- deteriorate\n- escalate\n- erode"
+    },
+    {
+      "id": 2,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a system outage created real problems for customers, using the verb natives reach for with a bad outcome. Which chunk fits best?",
+      "options": {
+        "A": "bring about",
+        "B": "emphasised",
+        "C": "let go",
+        "D": "cause confusion"
+      },
+      "correct": "D",
+      "explanation": "✗ \"bring about\" belongs to Neutral-safe cause/result verb — used to link a cause to a result without pre-judging whether the outcome is good or bad — safer than \"cause\" when you're not sure, not this context.\nSimilar chunks:\n- lead to\n- translate into\n- contribute to\n\n✗ \"emphasised\" belongs to Reporting verb: signals agreement or reluctant concession — used to report something in a way that signals the speaker agrees with it, or that the person had to reluctantly admit it, not this context.\nSimilar chunks:\n- conceded\n- acknowledged\n- pointed out\n\n✗ \"let go\" belongs to Workplace euphemism: job loss & underperformance — used as a softer, less blunt way to say someone was fired or that something is going badly, not this context.\nSimilar chunks:\n- room for improvement\n- made redundant\n- underperforming\n\n✓ Correct — \"cause confusion\" is a Negative-prosody verb: cause + bad noun chunk: used with \"cause\" + a negative noun (damage, delay, concern, confusion, disruption) — \"cause\" almost never pairs with something good.\nExample: \"The vague email caused confusion about who owned the task.\"\nSimilar chunks:\n- cause concern\n- cause disruption\n- cause delay"
+    },
+    {
+      "id": 3,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe an employee falsifying expense reports, using the verb natives reach for with wrongdoing. Which chunk fits best?",
+      "options": {
+        "A": "remarked",
+        "B": "commit a crime",
+        "C": "he delivers",
+        "D": "a bit of a character"
+      },
+      "correct": "B",
+      "explanation": "✗ \"remarked\" belongs to Reporting verb: neutral — used to report what someone said without signaling belief, doubt, or agreement either way, not this context.\nSimilar chunks:\n- noted\n- reported\n- stated\n\n✓ Correct — \"commit a crime\" is a Negative-prosody verb: commit + wrongdoing chunk: used with \"commit\" + a noun describing a crime, fraud, or serious error — \"commit\" almost always signals wrongdoing.\nExample: \"He was accused of committing a crime against company policy, not just breaking a rule.\"\nSimilar chunks:\n- commit an offence\n- commit a blunder\n- commit an error\n\n✗ \"he delivers\" belongs to Strong implicit praise about a person — used to praise someone as highly reliable, without using a plain word like \"good\", not this context.\nSimilar chunks:\n- a safe pair of hands\n- gets things done\n- rock solid\n\n✗ \"a bit of a character\" belongs to Mild implicit criticism about a person — used to mildly, deniably criticize someone as difficult, without directly attacking them, not this context.\nSimilar chunks:\n- an acquired taste\n- not the easiest\n- high maintenance"
+    },
+    {
+      "id": 4,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe an employee falsifying expense reports, using the verb natives reach for with wrongdoing. Which chunk fits best?",
+      "options": {
+        "A": "upshot",
+        "B": "commit a blunder",
+        "C": "incur costs",
+        "D": "translate into"
+      },
+      "correct": "B",
+      "explanation": "✗ \"upshot\" belongs to Neutral/positive-prosody noun: results and collections — used for the neutral or positive result of something, or a helpful collection of things, not this context.\nSimilar chunks:\n- a suite of tools\n- outcome\n- dividend\n\n✓ Correct — \"commit a blunder\" is a Negative-prosody verb: commit + wrongdoing chunk: used with \"commit\" + a noun describing a crime, fraud, or serious error — \"commit\" almost always signals wrongdoing.\nExample: \"Sending that email to the whole client list was a serious blunder to commit.\"\nSimilar chunks:\n- commit an offence\n- commit a crime\n- commit fraud\n\n✗ \"incur costs\" belongs to Negative-prosody verb: office problems — used in office contexts for problems that pile up, stall, or get quietly hidden, not this context.\nSimilar chunks:\n- incur delays\n- sweep under the rug\n- rack up debt\n\n✗ \"translate into\" belongs to Neutral-safe cause/result verb — used to link a cause to a result without pre-judging whether the outcome is good or bad — safer than \"cause\" when you're not sure, not this context.\nSimilar chunks:\n- bring about\n- contribute to\n- lead to"
+    },
+    {
+      "id": 5,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe doubts quietly building up among the team after a rocky launch, using the verb natives use for a bad thing settling in. Which chunk fits best?",
+      "options": {
+        "A": "complacency set in",
+        "B": "offer guidance",
+        "C": "foster collaboration",
+        "D": "notorious"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"complacency set in\" is a Negative-prosody verb: something bad takes hold or erupts chunk: used for something unpleasant beginning and settling in, or suddenly breaking out.\nExample: \"Once the metrics looked good, complacency set in and testing slipped.\"\nSimilar chunks:\n- an epidemic broke out\n- a fight broke out\n- doubts set in\n\n✗ \"offer guidance\" belongs to Positive-prosody verb: provide/offer + good noun — used with \"provide\" or \"offer\" + a positive noun like support, guidance, or clarity, not this context.\nSimilar chunks:\n- provide support\n- offer opportunities\n- provide clarity\n\n✗ \"foster collaboration\" belongs to Positive-prosody verb: building something up — used for actively building up, strengthening, or unlocking something valuable, not this context.\nSimilar chunks:\n- spearhead the initiative\n- bolster confidence\n- cultivate trust\n\n✗ \"notorious\" belongs to Words for a bad reputation — used for being famous in a bad, disreputable way, not this context.\nSimilar chunks:\n- infamous"
+    },
+    {
+      "id": 6,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe doubts quietly building up among the team after a rocky launch, using the verb natives use for a bad thing settling in. Which chunk fits best?",
+      "options": {
+        "A": "an acquired taste",
+        "B": "a fight broke out",
+        "C": "gets things done",
+        "D": "take offline"
+      },
+      "correct": "B",
+      "explanation": "✗ \"an acquired taste\" belongs to Mild implicit criticism about a person — used to mildly, deniably criticize someone as difficult, without directly attacking them, not this context.\nSimilar chunks:\n- not the easiest\n- a bit of a character\n- high maintenance\n\n✓ Correct — \"a fight broke out\" is a Negative-prosody verb: something bad takes hold or erupts chunk: used for something unpleasant beginning and settling in, or suddenly breaking out.\nExample: \"A fight broke out in the comments over the pricing change.\"\nSimilar chunks:\n- doubts set in\n- an epidemic broke out\n- complacency set in\n\n✗ \"gets things done\" belongs to Strong implicit praise about a person — used to praise someone as highly reliable, without using a plain word like \"good\", not this context.\nSimilar chunks:\n- a safe pair of hands\n- rock solid\n- he delivers\n\n✗ \"take offline\" belongs to Deflecting a topic to later or privately — used to postpone or move a sensitive discussion away from the current, more public setting, not this context.\nSimilar chunks:\n- circle back"
+    },
+    {
+      "id": 7,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a small disagreement has gotten steadily worse over several weeks, using the verb natives reach for. Which chunk fits best?",
+      "options": {
+        "A": "pointed out",
+        "B": "notorious",
+        "C": "an epidemic broke out",
+        "D": "undermine"
+      },
+      "correct": "D",
+      "explanation": "✗ \"pointed out\" belongs to Reporting verb: signals agreement or reluctant concession — used to report something in a way that signals the speaker agrees with it, or that the person had to reluctantly admit it, not this context.\nSimilar chunks:\n- emphasised\n- acknowledged\n- admitted\n\n✗ \"notorious\" belongs to Words for a bad reputation — used for being famous in a bad, disreputable way, not this context.\nSimilar chunks:\n- infamous\n\n✗ \"an epidemic broke out\" belongs to Negative-prosody verb: something bad takes hold or erupts — used for something unpleasant beginning and settling in, or suddenly breaking out, not this context.\nSimilar chunks:\n- complacency set in\n- a fight broke out\n- doubts set in\n\n✓ Correct — \"undermine\" is a Negative-prosody verb: worsening & undermining chunk: used for something bad gradually getting worse, or something being weakened or threatened.\nExample: \"Skipping the review process undermines the whole QA effort.\"\nSimilar chunks:\n- erode\n- escalate\n- jeopardise"
+    },
+    {
+      "id": 8,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a small disagreement has gotten steadily worse over several weeks, using the verb natives reach for. Which chunk fits best?",
+      "options": {
+        "A": "not fully aligned",
+        "B": "jeopardise",
+        "C": "hard to read",
+        "D": "as per my previous email"
+      },
+      "correct": "B",
+      "explanation": "✗ \"not fully aligned\" belongs to Workplace euphemism: sidelined, disagreement & cuts — used as a softer way to say something was abandoned, that people disagreed, or that budgets were cut, not this context.\nSimilar chunks:\n- on the back burner\n- a difference of opinion\n- parked\n\n✓ Correct — \"jeopardise\" is a Negative-prosody verb: worsening & undermining chunk: used for something bad gradually getting worse, or something being weakened or threatened.\nExample: \"One more delay could jeopardise the entire contract.\"\nSimilar chunks:\n- deteriorate\n- escalate\n- undermine\n\n✗ \"hard to read\" belongs to Safe, non-committal remarks about a person — used to describe someone in a neutral way that avoids committing to a clear positive or negative judgment, not this context.\nSimilar chunks:\n- very thorough\n- has strong views\n\n✗ \"as per my previous email\" belongs to Signalling mild professional irritation — used to politely mask irritation, impatience, or a firm expectation that something won't happen again, not this context.\nSimilar chunks:\n- it is what it is\n- going forward"
+    },
+    {
+      "id": 9,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a small disagreement has gotten steadily worse over several weeks, using the verb natives reach for. Which chunk fits best?",
+      "options": {
+        "A": "maintained",
+        "B": "not the easiest",
+        "C": "symptomatic of",
+        "D": "escalate"
+      },
+      "correct": "D",
+      "explanation": "✗ \"maintained\" belongs to Reporting verb: signals you doubt it — used to report something in a way that signals the speaker isn't fully convinced it's true, not this context.\nSimilar chunks:\n- asserted\n- claimed\n- insisted\n\n✗ \"not the easiest\" belongs to Mild implicit criticism about a person — used to mildly, deniably criticize someone as difficult, without directly attacking them, not this context.\nSimilar chunks:\n- an acquired taste\n- high maintenance\n- a bit of a character\n\n✗ \"symptomatic of\" belongs to Negative-prosody noun: fallout and repeated bad events — used for the negative consequences or repeated occurrence of something bad, not this context.\nSimilar chunks:\n- a spate of complaints\n- repercussions\n- fallout\n\n✓ Correct — \"escalate\" is a Negative-prosody verb: worsening & undermining chunk: used for something bad gradually getting worse, or something being weakened or threatened.\nExample: \"The disagreement escalated into a formal complaint.\"\nSimilar chunks:\n- deteriorate\n- exacerbate\n- jeopardise"
+    },
+    {
+      "id": 10,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a project quietly kept incurring extra costs without anyone flagging it, using the natural office collocation. Which chunk fits best?",
+      "options": {
+        "A": "incur costs",
+        "B": "showed",
+        "C": "drops the ball",
+        "D": "a good first draft"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"incur costs\" is a Negative-prosody verb: office problems chunk: used in office contexts for problems that pile up, stall, or get quietly hidden.\nExample: \"Delays like this incur costs we didn't budget for.\"\nSimilar chunks:\n- rack up debt\n- incur delays\n- sweep under the rug\n\n✗ \"showed\" belongs to Reporting verb: signals you believe it — used to report something in a way that signals the speaker trusts or accepts it as true, not this context.\nSimilar chunks:\n- demonstrated\n- confirmed\n- established\n\n✗ \"drops the ball\" belongs to Strong implicit criticism about a person — used to sharply criticize someone as unreliable or full of empty talk, not this context.\nSimilar chunks:\n- all talk\n- spreads himself thin\n- a lot of noise\n\n✗ \"a good first draft\" belongs to Hidden-meaning evaluation of a deliverable — used to soften feedback on unfinished or weak work while still hinting it needs more, not this context.\nSimilar chunks:\n- a solid start"
+    },
+    {
+      "id": 11,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a project quietly kept incurring extra costs without anyone flagging it, using the natural office collocation. Which chunk fits best?",
+      "options": {
+        "A": "bog down",
+        "B": "erode",
+        "C": "showed",
+        "D": "notorious"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"bog down\" is a Negative-prosody verb: office problems chunk: used in office contexts for problems that pile up, stall, or get quietly hidden.\nExample: \"The approval process gets bogged down in unnecessary sign-offs.\"\nSimilar chunks:\n- incur costs\n- rack up debt\n- sweep under the rug\n\n✗ \"erode\" belongs to Negative-prosody verb: worsening & undermining — used for something bad gradually getting worse, or something being weakened or threatened, not this context.\nSimilar chunks:\n- deteriorate\n- exacerbate\n- escalate\n\n✗ \"showed\" belongs to Reporting verb: signals you believe it — used to report something in a way that signals the speaker trusts or accepts it as true, not this context.\nSimilar chunks:\n- confirmed\n- revealed\n- demonstrated\n\n✗ \"notorious\" belongs to Words for a bad reputation — used for being famous in a bad, disreputable way, not this context.\nSimilar chunks:\n- infamous"
+    },
+    {
+      "id": 12,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a project quietly kept incurring extra costs without anyone flagging it, using the natural office collocation. Which chunk fits best?",
+      "options": {
+        "A": "dividend",
+        "B": "gets things done",
+        "C": "drag on",
+        "D": "cause concern"
+      },
+      "correct": "C",
+      "explanation": "✗ \"dividend\" belongs to Neutral/positive-prosody noun: results and collections — used for the neutral or positive result of something, or a helpful collection of things, not this context.\nSimilar chunks:\n- a suite of tools\n- outcome\n- upshot\n\n✗ \"gets things done\" belongs to Strong implicit praise about a person — used to praise someone as highly reliable, without using a plain word like \"good\", not this context.\nSimilar chunks:\n- rock solid\n- he delivers\n- a safe pair of hands\n\n✓ Correct — \"drag on\" is a Negative-prosody verb: office problems chunk: used in office contexts for problems that pile up, stall, or get quietly hidden.\nExample: \"The negotiation dragged on for three more months than expected.\"\nSimilar chunks:\n- rack up debt\n- sweep under the rug\n- incur costs\n\n✗ \"cause concern\" belongs to Negative-prosody verb: cause + bad noun — used with \"cause\" + a negative noun (damage, delay, concern, confusion, disruption) — \"cause\" almost never pairs with something good, not this context.\nSimilar chunks:\n- cause damage\n- cause disruption\n- cause confusion"
+    },
+    {
+      "id": 13,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a mentor gave a new hire clear direction during onboarding, using the verb natives reach for with something helpful. Which chunk fits best?",
+      "options": {
+        "A": "efficiency drive",
+        "B": "noted",
+        "C": "provide support",
+        "D": "deteriorate"
+      },
+      "correct": "C",
+      "explanation": "✗ \"efficiency drive\" belongs to Workplace euphemism: sidelined, disagreement & cuts — used as a softer way to say something was abandoned, that people disagreed, or that budgets were cut, not this context.\nSimilar chunks:\n- on the back burner\n- parked\n- a difference of opinion\n\n✗ \"noted\" belongs to Reporting verb: neutral — used to report what someone said without signaling belief, doubt, or agreement either way, not this context.\nSimilar chunks:\n- said\n- remarked\n- stated\n\n✓ Correct — \"provide support\" is a Positive-prosody verb: provide/offer + good noun chunk: used with \"provide\" or \"offer\" + a positive noun like support, guidance, or clarity.\nExample: \"The customer success team provides support during the first thirty days.\"\nSimilar chunks:\n- offer guidance\n- offer opportunities\n- provide clarity\n\n✗ \"deteriorate\" belongs to Negative-prosody verb: worsening & undermining — used for something bad gradually getting worse, or something being weakened or threatened, not this context.\nSimilar chunks:\n- undermine\n- escalate\n- erode"
+    },
+    {
+      "id": 14,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a mentor gave a new hire clear direction during onboarding, using the verb natives reach for with something helpful. Which chunk fits best?",
+      "options": {
+        "A": "spearhead the initiative",
+        "B": "bolster confidence",
+        "C": "offer guidance",
+        "D": "incur costs"
+      },
+      "correct": "C",
+      "explanation": "✗ \"spearhead the initiative\" belongs to Positive-prosody verb: building something up — used for actively building up, strengthening, or unlocking something valuable, not this context.\nSimilar chunks:\n- streamline the process\n- cultivate trust\n- foster collaboration\n\n✗ \"bolster confidence\" belongs to Positive-prosody verb: building something up — used for actively building up, strengthening, or unlocking something valuable, not this context.\nSimilar chunks:\n- spearhead the initiative\n- cultivate trust\n- enhance performance\n\n✓ Correct — \"offer guidance\" is a Positive-prosody verb: provide/offer + good noun chunk: used with \"provide\" or \"offer\" + a positive noun like support, guidance, or clarity.\nExample: \"Her manager offered guidance on how to handle the difficult client.\"\nSimilar chunks:\n- offer opportunities\n- provide clarity\n- provide support\n\n✗ \"incur costs\" belongs to Negative-prosody verb: office problems — used in office contexts for problems that pile up, stall, or get quietly hidden, not this context.\nSimilar chunks:\n- rack up debt\n- drag on\n- sweep under the rug"
+    },
+    {
+      "id": 15,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a new manager is deliberately building trust across two teams that used to compete, using the natural positive verb. Which chunk fits best?",
+      "options": {
+        "A": "result in",
+        "B": "enhance performance",
+        "C": "cause confusion",
+        "D": "a solid start"
+      },
+      "correct": "B",
+      "explanation": "✗ \"result in\" belongs to Neutral-safe cause/result verb — used to link a cause to a result without pre-judging whether the outcome is good or bad — safer than \"cause\" when you're not sure, not this context.\nSimilar chunks:\n- bring about\n- translate into\n- lead to\n\n✓ Correct — \"enhance performance\" is a Positive-prosody verb: building something up chunk: used for actively building up, strengthening, or unlocking something valuable.\nExample: \"The new tooling is meant to enhance performance across the pipeline.\"\nSimilar chunks:\n- spearhead the initiative\n- cultivate trust\n- foster collaboration\n\n✗ \"cause confusion\" belongs to Negative-prosody verb: cause + bad noun — used with \"cause\" + a negative noun (damage, delay, concern, confusion, disruption) — \"cause\" almost never pairs with something good, not this context.\nSimilar chunks:\n- cause damage\n- cause concern\n- cause delay\n\n✗ \"a solid start\" belongs to Hidden-meaning evaluation of a deliverable — used to soften feedback on unfinished or weak work while still hinting it needs more, not this context.\nSimilar chunks:\n- a good first draft"
+    },
+    {
+      "id": 16,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a new manager is deliberately building trust across two teams that used to compete, using the natural positive verb. Which chunk fits best?",
+      "options": {
+        "A": "reported",
+        "B": "foster collaboration",
+        "C": "circle back",
+        "D": "a bit of a character"
+      },
+      "correct": "B",
+      "explanation": "✗ \"reported\" belongs to Reporting verb: neutral — used to report what someone said without signaling belief, doubt, or agreement either way, not this context.\nSimilar chunks:\n- noted\n- stated\n- observed\n\n✓ Correct — \"foster collaboration\" is a Positive-prosody verb: building something up chunk: used for actively building up, strengthening, or unlocking something valuable.\nExample: \"The offsite was designed to foster collaboration between the two teams.\"\nSimilar chunks:\n- cultivate trust\n- enhance performance\n- bolster confidence\n\n✗ \"circle back\" belongs to Deflecting a topic to later or privately — used to postpone or move a sensitive discussion away from the current, more public setting, not this context.\nSimilar chunks:\n- take offline\n\n✗ \"a bit of a character\" belongs to Mild implicit criticism about a person — used to mildly, deniably criticize someone as difficult, without directly attacking them, not this context.\nSimilar chunks:\n- an acquired taste\n- high maintenance\n- not the easiest"
+    },
+    {
+      "id": 17,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a new manager is deliberately building trust across two teams that used to compete, using the natural positive verb. Which chunk fits best?",
+      "options": {
+        "A": "asserted",
+        "B": "cause damage",
+        "C": "underperforming",
+        "D": "bolster confidence"
+      },
+      "correct": "D",
+      "explanation": "✗ \"asserted\" belongs to Reporting verb: signals you doubt it — used to report something in a way that signals the speaker isn't fully convinced it's true, not this context.\nSimilar chunks:\n- alleged\n- insisted\n- claimed\n\n✗ \"cause damage\" belongs to Negative-prosody verb: cause + bad noun — used with \"cause\" + a negative noun (damage, delay, concern, confusion, disruption) — \"cause\" almost never pairs with something good, not this context.\nSimilar chunks:\n- cause concern\n- cause disruption\n- cause delay\n\n✗ \"underperforming\" belongs to Workplace euphemism: job loss & underperformance — used as a softer, less blunt way to say someone was fired or that something is going badly, not this context.\nSimilar chunks:\n- let go\n- made redundant\n- room for improvement\n\n✓ Correct — \"bolster confidence\" is a Positive-prosody verb: building something up chunk: used for actively building up, strengthening, or unlocking something valuable.\nExample: \"A strong Q1 bolstered confidence among the investors.\"\nSimilar chunks:\n- spearhead the initiative\n- cultivate trust\n- streamline the process"
+    },
+    {
+      "id": 18,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state that a policy change led to an outcome, without implying whether that outcome was good or bad. Which chunk fits best?",
+      "options": {
+        "A": "result in",
+        "B": "claimed",
+        "C": "complacency set in",
+        "D": "offer opportunities"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"result in\" is a Neutral-safe cause/result verb chunk: used to link a cause to a result without pre-judging whether the outcome is good or bad — safer than \"cause\" when you're not sure.\nExample: \"Skipping the beta test could result in more support tickets.\"\nSimilar chunks:\n- bring about\n- lead to\n- contribute to\n\n✗ \"claimed\" belongs to Reporting verb: signals you doubt it — used to report something in a way that signals the speaker isn't fully convinced it's true, not this context.\nSimilar chunks:\n- asserted\n- insisted\n- alleged\n\n✗ \"complacency set in\" belongs to Negative-prosody verb: something bad takes hold or erupts — used for something unpleasant beginning and settling in, or suddenly breaking out, not this context.\nSimilar chunks:\n- doubts set in\n- an epidemic broke out\n- a fight broke out\n\n✗ \"offer opportunities\" belongs to Positive-prosody verb: provide/offer + good noun — used with \"provide\" or \"offer\" + a positive noun like support, guidance, or clarity, not this context.\nSimilar chunks:\n- provide clarity\n- offer guidance\n- provide support"
+    },
+    {
+      "id": 19,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state that a policy change led to an outcome, without implying whether that outcome was good or bad. Which chunk fits best?",
+      "options": {
+        "A": "give rise to",
+        "B": "incur delays",
+        "C": "reported",
+        "D": "asserted"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"give rise to\" is a Neutral-safe cause/result verb chunk: used to link a cause to a result without pre-judging whether the outcome is good or bad — safer than \"cause\" when you're not sure.\nExample: \"The merger gave rise to a whole new set of reporting requirements.\"\nSimilar chunks:\n- translate into\n- result in\n- bring about\n\n✗ \"incur delays\" belongs to Negative-prosody verb: office problems — used in office contexts for problems that pile up, stall, or get quietly hidden, not this context.\nSimilar chunks:\n- bog down\n- drag on\n- sweep under the rug\n\n✗ \"reported\" belongs to Reporting verb: neutral — used to report what someone said without signaling belief, doubt, or agreement either way, not this context.\nSimilar chunks:\n- remarked\n- observed\n- said\n\n✗ \"asserted\" belongs to Reporting verb: signals you doubt it — used to report something in a way that signals the speaker isn't fully convinced it's true, not this context.\nSimilar chunks:\n- insisted\n- alleged\n- claimed"
+    },
+    {
+      "id": 20,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to state that a policy change led to an outcome, without implying whether that outcome was good or bad. Which chunk fits best?",
+      "options": {
+        "A": "distinguished",
+        "B": "demonstrated",
+        "C": "contribute to",
+        "D": "hard to read"
+      },
+      "correct": "C",
+      "explanation": "✗ \"distinguished\" belongs to Words for a good reputation — used for being famous in a respected, admired way, not this context.\nSimilar chunks:\n- renowned\n- esteemed\n- eminent\n\n✗ \"demonstrated\" belongs to Reporting verb: signals you believe it — used to report something in a way that signals the speaker trusts or accepts it as true, not this context.\nSimilar chunks:\n- confirmed\n- established\n- showed\n\n✓ Correct — \"contribute to\" is a Neutral-safe cause/result verb chunk: used to link a cause to a result without pre-judging whether the outcome is good or bad — safer than \"cause\" when you're not sure.\nExample: \"Slow page loads contribute to a large share of our drop-off.\"\nSimilar chunks:\n- bring about\n- lead to\n- give rise to\n\n✗ \"hard to read\" belongs to Safe, non-committal remarks about a person — used to describe someone in a neutral way that avoids committing to a clear positive or negative judgment, not this context.\nSimilar chunks:\n- has strong views\n- very thorough"
+    },
+    {
+      "id": 21,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe someone who's well known for something they should be ashamed of, using the word that carries that negative charge. Which chunk fits best?",
+      "options": {
+        "A": "infamous",
+        "B": "pointed out",
+        "C": "fallout",
+        "D": "doubts set in"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"infamous\" is a Words for a bad reputation chunk: used for being famous in a bad, disreputable way.\nExample: \"That release is now infamous for breaking half our integrations.\"\nSimilar chunks:\n- notorious\n\n✗ \"pointed out\" belongs to Reporting verb: signals agreement or reluctant concession — used to report something in a way that signals the speaker agrees with it, or that the person had to reluctantly admit it, not this context.\nSimilar chunks:\n- highlighted\n- acknowledged\n- emphasised\n\n✗ \"fallout\" belongs to Negative-prosody noun: fallout and repeated bad events — used for the negative consequences or repeated occurrence of something bad, not this context.\nSimilar chunks:\n- symptomatic of\n- repercussions\n- backlash\n\n✗ \"doubts set in\" belongs to Negative-prosody verb: something bad takes hold or erupts — used for something unpleasant beginning and settling in, or suddenly breaking out, not this context.\nSimilar chunks:\n- complacency set in\n- a fight broke out\n- an epidemic broke out"
+    },
+    {
+      "id": 22,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe someone who's well known for something they should be ashamed of, using the word that carries that negative charge. Which chunk fits best?",
+      "options": {
+        "A": "has strong views",
+        "B": "a bit of a character",
+        "C": "notorious",
+        "D": "distinguished"
+      },
+      "correct": "C",
+      "explanation": "✗ \"has strong views\" belongs to Safe, non-committal remarks about a person — used to describe someone in a neutral way that avoids committing to a clear positive or negative judgment, not this context.\nSimilar chunks:\n- hard to read\n- very thorough\n\n✗ \"a bit of a character\" belongs to Mild implicit criticism about a person — used to mildly, deniably criticize someone as difficult, without directly attacking them, not this context.\nSimilar chunks:\n- not the easiest\n- an acquired taste\n- high maintenance\n\n✓ Correct — \"notorious\" is a Words for a bad reputation chunk: used for being famous in a bad, disreputable way.\nExample: \"The vendor is notorious for missing delivery dates.\"\nSimilar chunks:\n- infamous\n\n✗ \"distinguished\" belongs to Words for a good reputation — used for being famous in a respected, admired way, not this context.\nSimilar chunks:\n- renowned\n- eminent\n- esteemed"
+    },
+    {
+      "id": 23,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe an expert who's widely respected in their field, using the word that carries that positive charge. Which chunk fits best?",
+      "options": {
+        "A": "ambitious",
+        "B": "renowned",
+        "C": "deteriorate",
+        "D": "rock solid"
+      },
+      "correct": "B",
+      "explanation": "✗ \"ambitious\" belongs to Diplomatically flagging an overly ambitious plan — used to gently suggest a plan is too risky or unrealistic without saying so directly, not this context.\nSimilar chunks:\n- let's be pragmatic\n\n✓ Correct — \"renowned\" is a Words for a good reputation chunk: used for being famous in a respected, admired way.\nExample: \"She's a renowned researcher in supply-chain optimization.\"\nSimilar chunks:\n- eminent\n- esteemed\n- distinguished\n\n✗ \"deteriorate\" belongs to Negative-prosody verb: worsening & undermining — used for something bad gradually getting worse, or something being weakened or threatened, not this context.\nSimilar chunks:\n- jeopardise\n- exacerbate\n- erode\n\n✗ \"rock solid\" belongs to Strong implicit praise about a person — used to praise someone as highly reliable, without using a plain word like \"good\", not this context.\nSimilar chunks:\n- gets things done\n- a safe pair of hands\n- he delivers"
+    },
+    {
+      "id": 24,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe an expert who's widely respected in their field, using the word that carries that positive charge. Which chunk fits best?",
+      "options": {
+        "A": "eminent",
+        "B": "an acquired taste",
+        "C": "an epidemic broke out",
+        "D": "cause delay"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"eminent\" is a Words for a good reputation chunk: used for being famous in a respected, admired way.\nExample: \"The panel included an eminent economist from the region.\"\nSimilar chunks:\n- renowned\n- esteemed\n- distinguished\n\n✗ \"an acquired taste\" belongs to Mild implicit criticism about a person — used to mildly, deniably criticize someone as difficult, without directly attacking them, not this context.\nSimilar chunks:\n- not the easiest\n- high maintenance\n- a bit of a character\n\n✗ \"an epidemic broke out\" belongs to Negative-prosody verb: something bad takes hold or erupts — used for something unpleasant beginning and settling in, or suddenly breaking out, not this context.\nSimilar chunks:\n- doubts set in\n- a fight broke out\n- complacency set in\n\n✗ \"cause delay\" belongs to Negative-prosody verb: cause + bad noun — used with \"cause\" + a negative noun (damage, delay, concern, confusion, disruption) — \"cause\" almost never pairs with something good, not this context.\nSimilar chunks:\n- cause disruption\n- cause confusion\n- cause concern"
+    },
+    {
+      "id": 25,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe the wave of angry customer emails that followed a price hike, using the noun that carries that negative charge. Which chunk fits best?",
+      "options": {
+        "A": "backlash",
+        "B": "streamline the process",
+        "C": "provide clarity",
+        "D": "let go"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"backlash\" is a Negative-prosody noun: fallout and repeated bad events chunk: used for the negative consequences or repeated occurrence of something bad.\nExample: \"The price increase triggered immediate backlash on social media.\"\nSimilar chunks:\n- ramifications\n- repercussions\n- fallout\n\n✗ \"streamline the process\" belongs to Positive-prosody verb: building something up — used for actively building up, strengthening, or unlocking something valuable, not this context.\nSimilar chunks:\n- enhance performance\n- cultivate trust\n- bolster confidence\n\n✗ \"provide clarity\" belongs to Positive-prosody verb: provide/offer + good noun — used with \"provide\" or \"offer\" + a positive noun like support, guidance, or clarity, not this context.\nSimilar chunks:\n- offer opportunities\n- offer guidance\n- provide support\n\n✗ \"let go\" belongs to Workplace euphemism: job loss & underperformance — used as a softer, less blunt way to say someone was fired or that something is going badly, not this context.\nSimilar chunks:\n- room for improvement\n- underperforming\n- made redundant"
+    },
+    {
+      "id": 26,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe the wave of angry customer emails that followed a price hike, using the noun that carries that negative charge. Which chunk fits best?",
+      "options": {
+        "A": "noted",
+        "B": "efficiency drive",
+        "C": "high maintenance",
+        "D": "symptomatic of"
+      },
+      "correct": "D",
+      "explanation": "✗ \"noted\" belongs to Reporting verb: neutral — used to report what someone said without signaling belief, doubt, or agreement either way, not this context.\nSimilar chunks:\n- observed\n- stated\n- remarked\n\n✗ \"efficiency drive\" belongs to Workplace euphemism: sidelined, disagreement & cuts — used as a softer way to say something was abandoned, that people disagreed, or that budgets were cut, not this context.\nSimilar chunks:\n- a difference of opinion\n- cost optimisation\n- on the back burner\n\n✗ \"high maintenance\" belongs to Mild implicit criticism about a person — used to mildly, deniably criticize someone as difficult, without directly attacking them, not this context.\nSimilar chunks:\n- not the easiest\n- a bit of a character\n- an acquired taste\n\n✓ Correct — \"symptomatic of\" is a Negative-prosody noun: fallout and repeated bad events chunk: used for the negative consequences or repeated occurrence of something bad.\nExample: \"The missed deadline is symptomatic of a deeper staffing problem.\"\nSimilar chunks:\n- a spate of complaints\n- repercussions\n- ramifications"
+    },
+    {
+      "id": 27,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe the wave of angry customer emails that followed a price hike, using the noun that carries that negative charge. Which chunk fits best?",
+      "options": {
+        "A": "translate into",
+        "B": "a challenge",
+        "C": "room for improvement",
+        "D": "ramifications"
+      },
+      "correct": "D",
+      "explanation": "✗ \"translate into\" belongs to Neutral-safe cause/result verb — used to link a cause to a result without pre-judging whether the outcome is good or bad — safer than \"cause\" when you're not sure, not this context.\nSimilar chunks:\n- give rise to\n- lead to\n- result in\n\n✗ \"a challenge\" belongs to Workplace euphemism: job loss & underperformance — used as a softer, less blunt way to say someone was fired or that something is going badly, not this context.\nSimilar chunks:\n- let go\n- a headwind\n- made redundant\n\n✗ \"room for improvement\" belongs to Workplace euphemism: job loss & underperformance — used as a softer, less blunt way to say someone was fired or that something is going badly, not this context.\nSimilar chunks:\n- a challenge\n- underperforming\n- a headwind\n\n✓ Correct — \"ramifications\" is a Negative-prosody noun: fallout and repeated bad events chunk: used for the negative consequences or repeated occurrence of something bad.\nExample: \"Nobody had considered the legal ramifications of the new policy.\"\nSimilar chunks:\n- fallout\n- a spate of complaints\n- symptomatic of"
+    },
+    {
+      "id": 28,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe the collection of measures a client is rolling out after a strong quarter, using the noun that carries a neutral-to-positive charge. Which chunk fits best?",
+      "options": {
+        "A": "upshot",
+        "B": "provide clarity",
+        "C": "an acquired taste",
+        "D": "symptomatic of"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"upshot\" is a Neutral/positive-prosody noun: results and collections chunk: used for the neutral or positive result of something, or a helpful collection of things.\nExample: \"The upshot of the review is that we're keeping the current vendor.\"\nSimilar chunks:\n- dividend\n- a raft of measures\n- outcome\n\n✗ \"provide clarity\" belongs to Positive-prosody verb: provide/offer + good noun — used with \"provide\" or \"offer\" + a positive noun like support, guidance, or clarity, not this context.\nSimilar chunks:\n- offer guidance\n- offer opportunities\n- provide support\n\n✗ \"an acquired taste\" belongs to Mild implicit criticism about a person — used to mildly, deniably criticize someone as difficult, without directly attacking them, not this context.\nSimilar chunks:\n- not the easiest\n- a bit of a character\n- high maintenance\n\n✗ \"symptomatic of\" belongs to Negative-prosody noun: fallout and repeated bad events — used for the negative consequences or repeated occurrence of something bad, not this context.\nSimilar chunks:\n- a spate of complaints\n- repercussions\n- ramifications"
+    },
+    {
+      "id": 29,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe the collection of measures a client is rolling out after a strong quarter, using the noun that carries a neutral-to-positive charge. Which chunk fits best?",
+      "options": {
+        "A": "a raft of measures",
+        "B": "distinguished",
+        "C": "commit an offence",
+        "D": "bring about"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"a raft of measures\" is a Neutral/positive-prosody noun: results and collections chunk: used for the neutral or positive result of something, or a helpful collection of things.\nExample: \"The government announced a raft of measures to support small businesses.\"\nSimilar chunks:\n- dividend\n- a suite of tools\n- outcome\n\n✗ \"distinguished\" belongs to Words for a good reputation — used for being famous in a respected, admired way, not this context.\nSimilar chunks:\n- eminent\n- esteemed\n- renowned\n\n✗ \"commit an offence\" belongs to Negative-prosody verb: commit + wrongdoing — used with \"commit\" + a noun describing a crime, fraud, or serious error — \"commit\" almost always signals wrongdoing, not this context.\nSimilar chunks:\n- commit fraud\n- commit an error\n- commit a crime\n\n✗ \"bring about\" belongs to Neutral-safe cause/result verb — used to link a cause to a result without pre-judging whether the outcome is good or bad — safer than \"cause\" when you're not sure, not this context.\nSimilar chunks:\n- result in\n- lead to\n- give rise to"
+    },
+    {
+      "id": 30,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say someone lost their job in the recent restructuring, using the softer term managers actually use. Which chunk fits best?",
+      "options": {
+        "A": "emphasised",
+        "B": "a headwind",
+        "C": "provide support",
+        "D": "distinguished"
+      },
+      "correct": "B",
+      "explanation": "✗ \"emphasised\" belongs to Reporting verb: signals agreement or reluctant concession — used to report something in a way that signals the speaker agrees with it, or that the person had to reluctantly admit it, not this context.\nSimilar chunks:\n- admitted\n- pointed out\n- highlighted\n\n✓ Correct — \"a headwind\" is a Workplace euphemism: job loss & underperformance chunk: used as a softer, less blunt way to say someone was fired or that something is going badly.\nExample: \"Rising costs are a headwind for the whole industry right now.\"\nSimilar chunks:\n- let go\n- underperforming\n- a challenge\n\n✗ \"provide support\" belongs to Positive-prosody verb: provide/offer + good noun — used with \"provide\" or \"offer\" + a positive noun like support, guidance, or clarity, not this context.\nSimilar chunks:\n- offer guidance\n- provide clarity\n- offer opportunities\n\n✗ \"distinguished\" belongs to Words for a good reputation — used for being famous in a respected, admired way, not this context.\nSimilar chunks:\n- esteemed\n- eminent\n- renowned"
+    },
+    {
+      "id": 31,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say someone lost their job in the recent restructuring, using the softer term managers actually use. Which chunk fits best?",
+      "options": {
+        "A": "a safe pair of hands",
+        "B": "take offline",
+        "C": "made redundant",
+        "D": "commit an error"
+      },
+      "correct": "C",
+      "explanation": "✗ \"a safe pair of hands\" belongs to Strong implicit praise about a person — used to praise someone as highly reliable, without using a plain word like \"good\", not this context.\nSimilar chunks:\n- rock solid\n- gets things done\n- he delivers\n\n✗ \"take offline\" belongs to Deflecting a topic to later or privately — used to postpone or move a sensitive discussion away from the current, more public setting, not this context.\nSimilar chunks:\n- circle back\n\n✓ Correct — \"made redundant\" is a Workplace euphemism: job loss & underperformance chunk: used as a softer, less blunt way to say someone was fired or that something is going badly.\nExample: \"She was made redundant when the regional office closed.\"\nSimilar chunks:\n- underperforming\n- a challenge\n- room for improvement\n\n✗ \"commit an error\" belongs to Negative-prosody verb: commit + wrongdoing — used with \"commit\" + a noun describing a crime, fraud, or serious error — \"commit\" almost always signals wrongdoing, not this context.\nSimilar chunks:\n- commit a blunder\n- commit an offence\n- commit a crime"
+    },
+    {
+      "id": 32,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say someone lost their job in the recent restructuring, using the softer term managers actually use. Which chunk fits best?",
+      "options": {
+        "A": "provide support",
+        "B": "a challenge",
+        "C": "efficiency drive",
+        "D": "confirmed"
+      },
+      "correct": "B",
+      "explanation": "✗ \"provide support\" belongs to Positive-prosody verb: provide/offer + good noun — used with \"provide\" or \"offer\" + a positive noun like support, guidance, or clarity, not this context.\nSimilar chunks:\n- offer guidance\n- provide clarity\n- offer opportunities\n\n✓ Correct — \"a challenge\" is a Workplace euphemism: job loss & underperformance chunk: used as a softer, less blunt way to say someone was fired or that something is going badly.\nExample: \"Retention has been a real challenge this year.\"\nSimilar chunks:\n- a headwind\n- underperforming\n- made redundant\n\n✗ \"efficiency drive\" belongs to Workplace euphemism: sidelined, disagreement & cuts — used as a softer way to say something was abandoned, that people disagreed, or that budgets were cut, not this context.\nSimilar chunks:\n- cost optimisation\n- a difference of opinion\n- on the back burner\n\n✗ \"confirmed\" belongs to Reporting verb: signals you believe it — used to report something in a way that signals the speaker trusts or accepts it as true, not this context.\nSimilar chunks:\n- revealed\n- showed\n- established"
+    },
+    {
+      "id": 33,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a project got quietly dropped without anyone officially cancelling it, using the softer term managers actually use. Which chunk fits best?",
+      "options": {
+        "A": "cause concern",
+        "B": "maintained",
+        "C": "take offline",
+        "D": "a difference of opinion"
+      },
+      "correct": "D",
+      "explanation": "✗ \"cause concern\" belongs to Negative-prosody verb: cause + bad noun — used with \"cause\" + a negative noun (damage, delay, concern, confusion, disruption) — \"cause\" almost never pairs with something good, not this context.\nSimilar chunks:\n- cause disruption\n- cause damage\n- cause delay\n\n✗ \"maintained\" belongs to Reporting verb: signals you doubt it — used to report something in a way that signals the speaker isn't fully convinced it's true, not this context.\nSimilar chunks:\n- asserted\n- alleged\n- claimed\n\n✗ \"take offline\" belongs to Deflecting a topic to later or privately — used to postpone or move a sensitive discussion away from the current, more public setting, not this context.\nSimilar chunks:\n- circle back\n\n✓ Correct — \"a difference of opinion\" is a Workplace euphemism: sidelined, disagreement & cuts chunk: used as a softer way to say something was abandoned, that people disagreed, or that budgets were cut.\nExample: \"There was a difference of opinion about which vendor to choose.\"\nSimilar chunks:\n- parked\n- cost optimisation\n- on the back burner"
+    },
+    {
+      "id": 34,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a project got quietly dropped without anyone officially cancelling it, using the softer term managers actually use. Which chunk fits best?",
+      "options": {
+        "A": "esteemed",
+        "B": "not fully aligned",
+        "C": "a bit of a character",
+        "D": "commit fraud"
+      },
+      "correct": "B",
+      "explanation": "✗ \"esteemed\" belongs to Words for a good reputation — used for being famous in a respected, admired way, not this context.\nSimilar chunks:\n- eminent\n- distinguished\n- renowned\n\n✓ Correct — \"not fully aligned\" is a Workplace euphemism: sidelined, disagreement & cuts chunk: used as a softer way to say something was abandoned, that people disagreed, or that budgets were cut.\nExample: \"The two teams weren't fully aligned on the launch date.\"\nSimilar chunks:\n- efficiency drive\n- cost optimisation\n- on the back burner\n\n✗ \"a bit of a character\" belongs to Mild implicit criticism about a person — used to mildly, deniably criticize someone as difficult, without directly attacking them, not this context.\nSimilar chunks:\n- not the easiest\n- an acquired taste\n- high maintenance\n\n✗ \"commit fraud\" belongs to Negative-prosody verb: commit + wrongdoing — used with \"commit\" + a noun describing a crime, fraud, or serious error — \"commit\" almost always signals wrongdoing, not this context.\nSimilar chunks:\n- commit an offence\n- commit a blunder\n- commit a crime"
+    },
+    {
+      "id": 35,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a project got quietly dropped without anyone officially cancelling it, using the softer term managers actually use. Which chunk fits best?",
+      "options": {
+        "A": "cost optimisation",
+        "B": "asserted",
+        "C": "complacency set in",
+        "D": "pointed out"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"cost optimisation\" is a Workplace euphemism: sidelined, disagreement & cuts chunk: used as a softer way to say something was abandoned, that people disagreed, or that budgets were cut.\nExample: \"The layoffs were announced as part of a cost optimisation drive.\"\nSimilar chunks:\n- on the back burner\n- a difference of opinion\n- efficiency drive\n\n✗ \"asserted\" belongs to Reporting verb: signals you doubt it — used to report something in a way that signals the speaker isn't fully convinced it's true, not this context.\nSimilar chunks:\n- maintained\n- insisted\n- alleged\n\n✗ \"complacency set in\" belongs to Negative-prosody verb: something bad takes hold or erupts — used for something unpleasant beginning and settling in, or suddenly breaking out, not this context.\nSimilar chunks:\n- doubts set in\n- a fight broke out\n- an epidemic broke out\n\n✗ \"pointed out\" belongs to Reporting verb: signals agreement or reluctant concession — used to report something in a way that signals the speaker agrees with it, or that the person had to reluctantly admit it, not this context.\nSimilar chunks:\n- emphasised\n- conceded\n- acknowledged"
+    },
+    {
+      "id": 36,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to report what a colleague said in a meeting without implying whether you believe it, using a neutral reporting verb. Which chunk fits best?",
+      "options": {
+        "A": "said",
+        "B": "all talk",
+        "C": "lead to",
+        "D": "underperforming"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"said\" is a Reporting verb: neutral chunk: used to report what someone said without signaling belief, doubt, or agreement either way.\nExample: \"He said the numbers would be ready by Monday.\"\nSimilar chunks:\n- noted\n- remarked\n- stated\n\n✗ \"all talk\" belongs to Strong implicit criticism about a person — used to sharply criticize someone as unreliable or full of empty talk, not this context.\nSimilar chunks:\n- a lot of noise\n- drops the ball\n- spreads himself thin\n\n✗ \"lead to\" belongs to Neutral-safe cause/result verb — used to link a cause to a result without pre-judging whether the outcome is good or bad — safer than \"cause\" when you're not sure, not this context.\nSimilar chunks:\n- bring about\n- result in\n- give rise to\n\n✗ \"underperforming\" belongs to Workplace euphemism: job loss & underperformance — used as a softer, less blunt way to say someone was fired or that something is going badly, not this context.\nSimilar chunks:\n- made redundant\n- a challenge\n- room for improvement"
+    },
+    {
+      "id": 37,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to report what a colleague said in a meeting without implying whether you believe it, using a neutral reporting verb. Which chunk fits best?",
+      "options": {
+        "A": "ramifications",
+        "B": "stated",
+        "C": "cause concern",
+        "D": "confirmed"
+      },
+      "correct": "B",
+      "explanation": "✗ \"ramifications\" belongs to Negative-prosody noun: fallout and repeated bad events — used for the negative consequences or repeated occurrence of something bad, not this context.\nSimilar chunks:\n- fallout\n- a spate of complaints\n- repercussions\n\n✓ Correct — \"stated\" is a Reporting verb: neutral chunk: used to report what someone said without signaling belief, doubt, or agreement either way.\nExample: \"The spokesperson stated that the outage was resolved.\"\nSimilar chunks:\n- remarked\n- said\n- reported\n\n✗ \"cause concern\" belongs to Negative-prosody verb: cause + bad noun — used with \"cause\" + a negative noun (damage, delay, concern, confusion, disruption) — \"cause\" almost never pairs with something good, not this context.\nSimilar chunks:\n- cause disruption\n- cause damage\n- cause delay\n\n✗ \"confirmed\" belongs to Reporting verb: signals you believe it — used to report something in a way that signals the speaker trusts or accepts it as true, not this context.\nSimilar chunks:\n- demonstrated\n- revealed\n- showed"
+    },
+    {
+      "id": 38,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to report what a colleague said in a meeting without implying whether you believe it, using a neutral reporting verb. Which chunk fits best?",
+      "options": {
+        "A": "demonstrated",
+        "B": "a spate of complaints",
+        "C": "gets things done",
+        "D": "observed"
+      },
+      "correct": "D",
+      "explanation": "✗ \"demonstrated\" belongs to Reporting verb: signals you believe it — used to report something in a way that signals the speaker trusts or accepts it as true, not this context.\nSimilar chunks:\n- showed\n- confirmed\n- established\n\n✗ \"a spate of complaints\" belongs to Negative-prosody noun: fallout and repeated bad events — used for the negative consequences or repeated occurrence of something bad, not this context.\nSimilar chunks:\n- symptomatic of\n- repercussions\n- ramifications\n\n✗ \"gets things done\" belongs to Strong implicit praise about a person — used to praise someone as highly reliable, without using a plain word like \"good\", not this context.\nSimilar chunks:\n- he delivers\n- rock solid\n- a safe pair of hands\n\n✓ Correct — \"observed\" is a Reporting verb: neutral chunk: used to report what someone said without signaling belief, doubt, or agreement either way.\nExample: \"The auditor observed that two invoices were missing.\"\nSimilar chunks:\n- stated\n- remarked\n- noted"
+    },
+    {
+      "id": 39,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to report a finding you trust as solid, using a verb that signals confidence in the source. Which chunk fits best?",
+      "options": {
+        "A": "demonstrated",
+        "B": "ambitious",
+        "C": "a safe pair of hands",
+        "D": "with respect"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"demonstrated\" is a Reporting verb: signals you believe it chunk: used to report something in a way that signals the speaker trusts or accepts it as true.\nExample: \"The test demonstrated that the fix actually worked.\"\nSimilar chunks:\n- revealed\n- confirmed\n- showed\n\n✗ \"ambitious\" belongs to Diplomatically flagging an overly ambitious plan — used to gently suggest a plan is too risky or unrealistic without saying so directly, not this context.\nSimilar chunks:\n- let's be pragmatic\n\n✗ \"a safe pair of hands\" belongs to Strong implicit praise about a person — used to praise someone as highly reliable, without using a plain word like \"good\", not this context.\nSimilar chunks:\n- rock solid\n- gets things done\n- he delivers\n\n✗ \"with respect\" belongs to Diplomatically prefacing disagreement — used at the start of a turn to soften an upcoming disagreement or criticism, said in a flat or careful tone, not this context.\nSimilar chunks:\n- happy to discuss\n- interesting"
+    },
+    {
+      "id": 40,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to report a finding you trust as solid, using a verb that signals confidence in the source. Which chunk fits best?",
+      "options": {
+        "A": "remarked",
+        "B": "established",
+        "C": "a difference of opinion",
+        "D": "insisted"
+      },
+      "correct": "B",
+      "explanation": "✗ \"remarked\" belongs to Reporting verb: neutral — used to report what someone said without signaling belief, doubt, or agreement either way, not this context.\nSimilar chunks:\n- observed\n- said\n- stated\n\n✓ Correct — \"established\" is a Reporting verb: signals you believe it chunk: used to report something in a way that signals the speaker trusts or accepts it as true.\nExample: \"The investigation established that the delay was the vendor's fault.\"\nSimilar chunks:\n- confirmed\n- showed\n- demonstrated\n\n✗ \"a difference of opinion\" belongs to Workplace euphemism: sidelined, disagreement & cuts — used as a softer way to say something was abandoned, that people disagreed, or that budgets were cut, not this context.\nSimilar chunks:\n- on the back burner\n- parked\n- not fully aligned\n\n✗ \"insisted\" belongs to Reporting verb: signals you doubt it — used to report something in a way that signals the speaker isn't fully convinced it's true, not this context.\nSimilar chunks:\n- asserted\n- claimed\n- maintained"
+    },
+    {
+      "id": 41,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to report what a vendor said about a delay while quietly signaling you're not fully convinced, using the right reporting verb. Which chunk fits best?",
+      "options": {
+        "A": "rack up debt",
+        "B": "alleged",
+        "C": "spreads himself thin",
+        "D": "reported"
+      },
+      "correct": "B",
+      "explanation": "✗ \"rack up debt\" belongs to Negative-prosody verb: office problems — used in office contexts for problems that pile up, stall, or get quietly hidden, not this context.\nSimilar chunks:\n- incur costs\n- bog down\n- sweep under the rug\n\n✓ Correct — \"alleged\" is a Reporting verb: signals you doubt it chunk: used to report something in a way that signals the speaker isn't fully convinced it's true.\nExample: \"The email alleged that the account had been compromised.\"\nSimilar chunks:\n- insisted\n- maintained\n- claimed\n\n✗ \"spreads himself thin\" belongs to Strong implicit criticism about a person — used to sharply criticize someone as unreliable or full of empty talk, not this context.\nSimilar chunks:\n- all talk\n- a lot of noise\n- drops the ball\n\n✗ \"reported\" belongs to Reporting verb: neutral — used to report what someone said without signaling belief, doubt, or agreement either way, not this context.\nSimilar chunks:\n- observed\n- remarked\n- said"
+    },
+    {
+      "id": 42,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to report what a vendor said about a delay while quietly signaling you're not fully convinced, using the right reporting verb. Which chunk fits best?",
+      "options": {
+        "A": "claimed",
+        "B": "high maintenance",
+        "C": "reported",
+        "D": "take offline"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"claimed\" is a Reporting verb: signals you doubt it chunk: used to report something in a way that signals the speaker isn't fully convinced it's true.\nExample: \"The vendor claimed the delay was due to customs, though we never got proof.\"\nSimilar chunks:\n- maintained\n- alleged\n- insisted\n\n✗ \"high maintenance\" belongs to Mild implicit criticism about a person — used to mildly, deniably criticize someone as difficult, without directly attacking them, not this context.\nSimilar chunks:\n- a bit of a character\n- an acquired taste\n- not the easiest\n\n✗ \"reported\" belongs to Reporting verb: neutral — used to report what someone said without signaling belief, doubt, or agreement either way, not this context.\nSimilar chunks:\n- noted\n- observed\n- stated\n\n✗ \"take offline\" belongs to Deflecting a topic to later or privately — used to postpone or move a sensitive discussion away from the current, more public setting, not this context.\nSimilar chunks:\n- circle back"
+    },
+    {
+      "id": 43,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to report that a colleague finally admitted a point you'd been making, using the verb that carries that implication. Which chunk fits best?",
+      "options": {
+        "A": "let go",
+        "B": "confirmed",
+        "C": "notorious",
+        "D": "conceded"
+      },
+      "correct": "D",
+      "explanation": "✗ \"let go\" belongs to Workplace euphemism: job loss & underperformance — used as a softer, less blunt way to say someone was fired or that something is going badly, not this context.\nSimilar chunks:\n- underperforming\n- a headwind\n- a challenge\n\n✗ \"confirmed\" belongs to Reporting verb: signals you believe it — used to report something in a way that signals the speaker trusts or accepts it as true, not this context.\nSimilar chunks:\n- revealed\n- established\n- demonstrated\n\n✗ \"notorious\" belongs to Words for a bad reputation — used for being famous in a bad, disreputable way, not this context.\nSimilar chunks:\n- infamous\n\n✓ Correct — \"conceded\" is a Reporting verb: signals agreement or reluctant concession chunk: used to report something in a way that signals the speaker agrees with it, or that the person had to reluctantly admit it.\nExample: \"The vendor eventually conceded that the delay was on their end.\"\nSimilar chunks:\n- pointed out\n- admitted\n- acknowledged"
+    },
+    {
+      "id": 44,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to report that a colleague finally admitted a point you'd been making, using the verb that carries that implication. Which chunk fits best?",
+      "options": {
+        "A": "interesting",
+        "B": "cause damage",
+        "C": "emphasised",
+        "D": "exacerbate"
+      },
+      "correct": "C",
+      "explanation": "✗ \"interesting\" belongs to Hidden-meaning evaluation of an idea — used to hint at a real judgment about an idea — risky, unrealistic, or disliked — while sounding neutral, not this context.\nSimilar chunks:\n- optimistic\n- ambitious\n\n✗ \"cause damage\" belongs to Negative-prosody verb: cause + bad noun — used with \"cause\" + a negative noun (damage, delay, concern, confusion, disruption) — \"cause\" almost never pairs with something good, not this context.\nSimilar chunks:\n- cause concern\n- cause delay\n- cause disruption\n\n✓ Correct — \"emphasised\" is a Reporting verb: signals agreement or reluctant concession chunk: used to report something in a way that signals the speaker agrees with it, or that the person had to reluctantly admit it.\nExample: \"He emphasised how much the team had improved this quarter.\"\nSimilar chunks:\n- conceded\n- pointed out\n- admitted\n\n✗ \"exacerbate\" belongs to Negative-prosody verb: worsening & undermining — used for something bad gradually getting worse, or something being weakened or threatened, not this context.\nSimilar chunks:\n- erode\n- undermine\n- escalate"
+    },
+    {
+      "id": 45,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to report that a colleague finally admitted a point you'd been making, using the verb that carries that implication. Which chunk fits best?",
+      "options": {
+        "A": "parked",
+        "B": "underperforming",
+        "C": "contribute to",
+        "D": "pointed out"
+      },
+      "correct": "D",
+      "explanation": "✗ \"parked\" belongs to Workplace euphemism: sidelined, disagreement & cuts — used as a softer way to say something was abandoned, that people disagreed, or that budgets were cut, not this context.\nSimilar chunks:\n- a difference of opinion\n- not fully aligned\n- cost optimisation\n\n✗ \"underperforming\" belongs to Workplace euphemism: job loss & underperformance — used as a softer, less blunt way to say someone was fired or that something is going badly, not this context.\nSimilar chunks:\n- a headwind\n- made redundant\n- let go\n\n✗ \"contribute to\" belongs to Neutral-safe cause/result verb — used to link a cause to a result without pre-judging whether the outcome is good or bad — safer than \"cause\" when you're not sure, not this context.\nSimilar chunks:\n- give rise to\n- lead to\n- translate into\n\n✓ Correct — \"pointed out\" is a Reporting verb: signals agreement or reluctant concession chunk: used to report something in a way that signals the speaker agrees with it, or that the person had to reluctantly admit it.\nExample: \"She pointed out that the deadline had already slipped once.\"\nSimilar chunks:\n- conceded\n- emphasised\n- acknowledged"
+    },
+    {
+      "id": 46,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to push back on a colleague's plan and want to signal, before you even start, that disagreement is coming. Which chunk fits best?",
+      "options": {
+        "A": "spearhead the initiative",
+        "B": "escalate",
+        "C": "not fully aligned",
+        "D": "interesting"
+      },
+      "correct": "D",
+      "explanation": "✗ \"spearhead the initiative\" belongs to Positive-prosody verb: building something up — used for actively building up, strengthening, or unlocking something valuable, not this context.\nSimilar chunks:\n- foster collaboration\n- streamline the process\n- cultivate trust\n\n✗ \"escalate\" belongs to Negative-prosody verb: worsening & undermining — used for something bad gradually getting worse, or something being weakened or threatened, not this context.\nSimilar chunks:\n- jeopardise\n- deteriorate\n- erode\n\n✗ \"not fully aligned\" belongs to Workplace euphemism: sidelined, disagreement & cuts — used as a softer way to say something was abandoned, that people disagreed, or that budgets were cut, not this context.\nSimilar chunks:\n- cost optimisation\n- efficiency drive\n- a difference of opinion\n\n✓ Correct — \"interesting\" is a Diplomatically prefacing disagreement chunk: used at the start of a turn to soften an upcoming disagreement or criticism, said in a flat or careful tone.\nExample: \"Interesting,\" she said flatly, which everyone understood meant she disagreed.\"\nSimilar chunks:\n- happy to discuss\n- with respect"
+    },
+    {
+      "id": 47,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to push back on a colleague's plan and want to signal, before you even start, that disagreement is coming. Which chunk fits best?",
+      "options": {
+        "A": "cause damage",
+        "B": "infamous",
+        "C": "happy to discuss",
+        "D": "insisted"
+      },
+      "correct": "C",
+      "explanation": "✗ \"cause damage\" belongs to Negative-prosody verb: cause + bad noun — used with \"cause\" + a negative noun (damage, delay, concern, confusion, disruption) — \"cause\" almost never pairs with something good, not this context.\nSimilar chunks:\n- cause concern\n- cause delay\n- cause disruption\n\n✗ \"infamous\" belongs to Words for a bad reputation — used for being famous in a bad, disreputable way, not this context.\nSimilar chunks:\n- notorious\n\n✓ Correct — \"happy to discuss\" is a Diplomatically prefacing disagreement chunk: used at the start of a turn to soften an upcoming disagreement or criticism, said in a flat or careful tone.\nExample: \"I'm happy to discuss this further, though I don't see it the same way.\"\nSimilar chunks:\n- interesting\n- with respect\n\n✗ \"insisted\" belongs to Reporting verb: signals you doubt it — used to report something in a way that signals the speaker isn't fully convinced it's true, not this context.\nSimilar chunks:\n- maintained\n- alleged\n- claimed"
+    },
+    {
+      "id": 48,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to avoid getting into a sensitive topic in front of the whole meeting, using the phrase natives use to defer it. Which chunk fits best?",
+      "options": {
+        "A": "a safe pair of hands",
+        "B": "circle back",
+        "C": "maintained",
+        "D": "cause damage"
+      },
+      "correct": "B",
+      "explanation": "✗ \"a safe pair of hands\" belongs to Strong implicit praise about a person — used to praise someone as highly reliable, without using a plain word like \"good\", not this context.\nSimilar chunks:\n- rock solid\n- he delivers\n- gets things done\n\n✓ Correct — \"circle back\" is a Deflecting a topic to later or privately chunk: used to postpone or move a sensitive discussion away from the current, more public setting.\nExample: \"Let's circle back to the budget question after this call.\"\nSimilar chunks:\n- take offline\n\n✗ \"maintained\" belongs to Reporting verb: signals you doubt it — used to report something in a way that signals the speaker isn't fully convinced it's true, not this context.\nSimilar chunks:\n- claimed\n- alleged\n- insisted\n\n✗ \"cause damage\" belongs to Negative-prosody verb: cause + bad noun — used with \"cause\" + a negative noun (damage, delay, concern, confusion, disruption) — \"cause\" almost never pairs with something good, not this context.\nSimilar chunks:\n- cause confusion\n- cause delay\n- cause disruption"
+    },
+    {
+      "id": 49,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to avoid getting into a sensitive topic in front of the whole meeting, using the phrase natives use to defer it. Which chunk fits best?",
+      "options": {
+        "A": "a headwind",
+        "B": "take offline",
+        "C": "bog down",
+        "D": "claimed"
+      },
+      "correct": "B",
+      "explanation": "✗ \"a headwind\" belongs to Workplace euphemism: job loss & underperformance — used as a softer, less blunt way to say someone was fired or that something is going badly, not this context.\nSimilar chunks:\n- room for improvement\n- let go\n- a challenge\n\n✓ Correct — \"take offline\" is a Deflecting a topic to later or privately chunk: used to postpone or move a sensitive discussion away from the current, more public setting.\nExample: \"Can we take this offline? I don't think we need to hash it out here.\"\nSimilar chunks:\n- circle back\n\n✗ \"bog down\" belongs to Negative-prosody verb: office problems — used in office contexts for problems that pile up, stall, or get quietly hidden, not this context.\nSimilar chunks:\n- sweep under the rug\n- incur costs\n- drag on\n\n✗ \"claimed\" belongs to Reporting verb: signals you doubt it — used to report something in a way that signals the speaker isn't fully convinced it's true, not this context.\nSimilar chunks:\n- asserted\n- insisted\n- alleged"
+    },
+    {
+      "id": 50,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've already explained something once and are quietly annoyed at having to repeat it, using the phrase natives reach for. Which chunk fits best?",
+      "options": {
+        "A": "commit a crime",
+        "B": "claimed",
+        "C": "ambitious",
+        "D": "it is what it is"
+      },
+      "correct": "D",
+      "explanation": "✗ \"commit a crime\" belongs to Negative-prosody verb: commit + wrongdoing — used with \"commit\" + a noun describing a crime, fraud, or serious error — \"commit\" almost always signals wrongdoing, not this context.\nSimilar chunks:\n- commit a blunder\n- commit fraud\n- commit an offence\n\n✗ \"claimed\" belongs to Reporting verb: signals you doubt it — used to report something in a way that signals the speaker isn't fully convinced it's true, not this context.\nSimilar chunks:\n- alleged\n- insisted\n- asserted\n\n✗ \"ambitious\" belongs to Diplomatically flagging an overly ambitious plan — used to gently suggest a plan is too risky or unrealistic without saying so directly, not this context.\nSimilar chunks:\n- let's be pragmatic\n\n✓ Correct — \"it is what it is\" is a Signalling mild professional irritation chunk: used to politely mask irritation, impatience, or a firm expectation that something won't happen again.\nExample: \"The client changed their mind again — it is what it is, let's move on.\"\nSimilar chunks:\n- as per my previous email\n- going forward"
+    },
+    {
+      "id": 51,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've already explained something once and are quietly annoyed at having to repeat it, using the phrase natives reach for. Which chunk fits best?",
+      "options": {
+        "A": "interesting",
+        "B": "as per my previous email",
+        "C": "a fight broke out",
+        "D": "commit an offence"
+      },
+      "correct": "B",
+      "explanation": "✗ \"interesting\" belongs to Hidden-meaning evaluation of an idea — used to hint at a real judgment about an idea — risky, unrealistic, or disliked — while sounding neutral, not this context.\nSimilar chunks:\n- optimistic\n- ambitious\n\n✓ Correct — \"as per my previous email\" is a Signalling mild professional irritation chunk: used to politely mask irritation, impatience, or a firm expectation that something won't happen again.\nExample: \"As per my previous email, the deadline is Thursday, not Friday.\"\nSimilar chunks:\n- it is what it is\n- going forward\n\n✗ \"a fight broke out\" belongs to Negative-prosody verb: something bad takes hold or erupts — used for something unpleasant beginning and settling in, or suddenly breaking out, not this context.\nSimilar chunks:\n- doubts set in\n- an epidemic broke out\n- complacency set in\n\n✗ \"commit an offence\" belongs to Negative-prosody verb: commit + wrongdoing — used with \"commit\" + a noun describing a crime, fraud, or serious error — \"commit\" almost always signals wrongdoing, not this context.\nSimilar chunks:\n- commit a blunder\n- commit a crime\n- commit an error"
+    },
+    {
+      "id": 52,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You think a colleague's timeline is unrealistic but want to say so gently, using the phrase natives reach for. Which chunk fits best?",
+      "options": {
+        "A": "ambitious",
+        "B": "cultivate trust",
+        "C": "spearhead the initiative",
+        "D": "made redundant"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"ambitious\" is a Diplomatically flagging an overly ambitious plan chunk: used to gently suggest a plan is too risky or unrealistic without saying so directly.\nExample: \"That's an ambitious timeline for a launch this size.\"\nSimilar chunks:\n- let's be pragmatic\n\n✗ \"cultivate trust\" belongs to Positive-prosody verb: building something up — used for actively building up, strengthening, or unlocking something valuable, not this context.\nSimilar chunks:\n- bolster confidence\n- streamline the process\n- spearhead the initiative\n\n✗ \"spearhead the initiative\" belongs to Positive-prosody verb: building something up — used for actively building up, strengthening, or unlocking something valuable, not this context.\nSimilar chunks:\n- enhance performance\n- bolster confidence\n- streamline the process\n\n✗ \"made redundant\" belongs to Workplace euphemism: job loss & underperformance — used as a softer, less blunt way to say someone was fired or that something is going badly, not this context.\nSimilar chunks:\n- a headwind\n- underperforming\n- let go"
+    },
+    {
+      "id": 53,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You think a colleague's timeline is unrealistic but want to say so gently, using the phrase natives reach for. Which chunk fits best?",
+      "options": {
+        "A": "let's be pragmatic",
+        "B": "made redundant",
+        "C": "showed",
+        "D": "hard to read"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"let's be pragmatic\" is a Diplomatically flagging an overly ambitious plan chunk: used to gently suggest a plan is too risky or unrealistic without saying so directly.\nExample: \"Let's be pragmatic about what we can actually ship by March.\"\nSimilar chunks:\n- ambitious\n\n✗ \"made redundant\" belongs to Workplace euphemism: job loss & underperformance — used as a softer, less blunt way to say someone was fired or that something is going badly, not this context.\nSimilar chunks:\n- a headwind\n- a challenge\n- underperforming\n\n✗ \"showed\" belongs to Reporting verb: signals you believe it — used to report something in a way that signals the speaker trusts or accepts it as true, not this context.\nSimilar chunks:\n- revealed\n- established\n- demonstrated\n\n✗ \"hard to read\" belongs to Safe, non-committal remarks about a person — used to describe someone in a neutral way that avoids committing to a clear positive or negative judgment, not this context.\nSimilar chunks:\n- very thorough\n- has strong views"
+    },
+    {
+      "id": 54,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a colleague is completely dependable and always delivers, using the phrase natives reach for. Which chunk fits best?",
+      "options": {
+        "A": "sweep under the rug",
+        "B": "asserted",
+        "C": "he delivers",
+        "D": "cause concern"
+      },
+      "correct": "C",
+      "explanation": "✗ \"sweep under the rug\" belongs to Negative-prosody verb: office problems — used in office contexts for problems that pile up, stall, or get quietly hidden, not this context.\nSimilar chunks:\n- incur costs\n- rack up debt\n- incur delays\n\n✗ \"asserted\" belongs to Reporting verb: signals you doubt it — used to report something in a way that signals the speaker isn't fully convinced it's true, not this context.\nSimilar chunks:\n- insisted\n- claimed\n- maintained\n\n✓ Correct — \"he delivers\" is a Strong implicit praise about a person chunk: used to praise someone as highly reliable, without using a plain word like \"good\".\nExample: \"Whatever you give him, he delivers.\"\nSimilar chunks:\n- gets things done\n- rock solid\n- a safe pair of hands\n\n✗ \"cause concern\" belongs to Negative-prosody verb: cause + bad noun — used with \"cause\" + a negative noun (damage, delay, concern, confusion, disruption) — \"cause\" almost never pairs with something good, not this context.\nSimilar chunks:\n- cause delay\n- cause disruption\n- cause confusion"
+    },
+    {
+      "id": 55,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a colleague is completely dependable and always delivers, using the phrase natives reach for. Which chunk fits best?",
+      "options": {
+        "A": "an epidemic broke out",
+        "B": "incur costs",
+        "C": "a safe pair of hands",
+        "D": "renowned"
+      },
+      "correct": "C",
+      "explanation": "✗ \"an epidemic broke out\" belongs to Negative-prosody verb: something bad takes hold or erupts — used for something unpleasant beginning and settling in, or suddenly breaking out, not this context.\nSimilar chunks:\n- complacency set in\n- doubts set in\n- a fight broke out\n\n✗ \"incur costs\" belongs to Negative-prosody verb: office problems — used in office contexts for problems that pile up, stall, or get quietly hidden, not this context.\nSimilar chunks:\n- sweep under the rug\n- incur delays\n- bog down\n\n✓ Correct — \"a safe pair of hands\" is a Strong implicit praise about a person chunk: used to praise someone as highly reliable, without using a plain word like \"good\".\nExample: \"Put Dan on it — he's a safe pair of hands.\"\nSimilar chunks:\n- rock solid\n- he delivers\n- gets things done\n\n✗ \"renowned\" belongs to Words for a good reputation — used for being famous in a respected, admired way, not this context.\nSimilar chunks:\n- distinguished\n- esteemed\n- eminent"
+    },
+    {
+      "id": 56,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a colleague is a bit difficult to work with, without being openly critical, using the phrase natives reach for. Which chunk fits best?",
+      "options": {
+        "A": "a headwind",
+        "B": "symptomatic of",
+        "C": "an acquired taste",
+        "D": "erode"
+      },
+      "correct": "C",
+      "explanation": "✗ \"a headwind\" belongs to Workplace euphemism: job loss & underperformance — used as a softer, less blunt way to say someone was fired or that something is going badly, not this context.\nSimilar chunks:\n- underperforming\n- made redundant\n- let go\n\n✗ \"symptomatic of\" belongs to Negative-prosody noun: fallout and repeated bad events — used for the negative consequences or repeated occurrence of something bad, not this context.\nSimilar chunks:\n- a spate of complaints\n- repercussions\n- ramifications\n\n✓ Correct — \"an acquired taste\" is a Mild implicit criticism about a person chunk: used to mildly, deniably criticize someone as difficult, without directly attacking them.\nExample: \"His presentation style is an acquired taste.\"\nSimilar chunks:\n- not the easiest\n- a bit of a character\n- high maintenance\n\n✗ \"erode\" belongs to Negative-prosody verb: worsening & undermining — used for something bad gradually getting worse, or something being weakened or threatened, not this context.\nSimilar chunks:\n- escalate\n- deteriorate\n- exacerbate"
+    },
+    {
+      "id": 57,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a colleague is a bit difficult to work with, without being openly critical, using the phrase natives reach for. Which chunk fits best?",
+      "options": {
+        "A": "efficiency drive",
+        "B": "a bit of a character",
+        "C": "provide support",
+        "D": "bog down"
+      },
+      "correct": "B",
+      "explanation": "✗ \"efficiency drive\" belongs to Workplace euphemism: sidelined, disagreement & cuts — used as a softer way to say something was abandoned, that people disagreed, or that budgets were cut, not this context.\nSimilar chunks:\n- on the back burner\n- a difference of opinion\n- cost optimisation\n\n✓ Correct — \"a bit of a character\" is a Mild implicit criticism about a person chunk: used to mildly, deniably criticize someone as difficult, without directly attacking them.\nExample: \"He's a bit of a character, but the clients love him.\"\nSimilar chunks:\n- not the easiest\n- an acquired taste\n- high maintenance\n\n✗ \"provide support\" belongs to Positive-prosody verb: provide/offer + good noun — used with \"provide\" or \"offer\" + a positive noun like support, guidance, or clarity, not this context.\nSimilar chunks:\n- provide clarity\n- offer guidance\n- offer opportunities\n\n✗ \"bog down\" belongs to Negative-prosody verb: office problems — used in office contexts for problems that pile up, stall, or get quietly hidden, not this context.\nSimilar chunks:\n- sweep under the rug\n- drag on\n- incur delays"
+    },
+    {
+      "id": 58,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a colleague talks big but doesn't actually deliver, using the phrase natives reach for. Which chunk fits best?",
+      "options": {
+        "A": "all talk",
+        "B": "offer opportunities",
+        "C": "a bit of a character",
+        "D": "streamline the process"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"all talk\" is a Strong implicit criticism about a person chunk: used to sharply criticize someone as unreliable or full of empty talk.\nExample: \"He's all talk — the numbers never back up what he promises.\"\nSimilar chunks:\n- spreads himself thin\n- drops the ball\n- a lot of noise\n\n✗ \"offer opportunities\" belongs to Positive-prosody verb: provide/offer + good noun — used with \"provide\" or \"offer\" + a positive noun like support, guidance, or clarity, not this context.\nSimilar chunks:\n- offer guidance\n- provide support\n- provide clarity\n\n✗ \"a bit of a character\" belongs to Mild implicit criticism about a person — used to mildly, deniably criticize someone as difficult, without directly attacking them, not this context.\nSimilar chunks:\n- not the easiest\n- high maintenance\n- an acquired taste\n\n✗ \"streamline the process\" belongs to Positive-prosody verb: building something up — used for actively building up, strengthening, or unlocking something valuable, not this context.\nSimilar chunks:\n- enhance performance\n- bolster confidence\n- spearhead the initiative"
+    },
+    {
+      "id": 59,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to say a colleague talks big but doesn't actually deliver, using the phrase natives reach for. Which chunk fits best?",
+      "options": {
+        "A": "a lot of noise",
+        "B": "asserted",
+        "C": "parked",
+        "D": "claimed"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"a lot of noise\" is a Strong implicit criticism about a person chunk: used to sharply criticize someone as unreliable or full of empty talk.\nExample: \"There's been a lot of noise from that team but nothing shipped.\"\nSimilar chunks:\n- spreads himself thin\n- all talk\n- drops the ball\n\n✗ \"asserted\" belongs to Reporting verb: signals you doubt it — used to report something in a way that signals the speaker isn't fully convinced it's true, not this context.\nSimilar chunks:\n- insisted\n- claimed\n- alleged\n\n✗ \"parked\" belongs to Workplace euphemism: sidelined, disagreement & cuts — used as a softer way to say something was abandoned, that people disagreed, or that budgets were cut, not this context.\nSimilar chunks:\n- on the back burner\n- not fully aligned\n- efficiency drive\n\n✗ \"claimed\" belongs to Reporting verb: signals you doubt it — used to report something in a way that signals the speaker isn't fully convinced it's true, not this context.\nSimilar chunks:\n- asserted\n- maintained\n- insisted"
+    },
+    {
+      "id": 60,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're asked what a colleague is like and want to give a safe answer that avoids saying anything too positive or negative. Which chunk fits best?",
+      "options": {
+        "A": "very thorough",
+        "B": "contribute to",
+        "C": "not fully aligned",
+        "D": "room for improvement"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"very thorough\" is a Safe, non-committal remarks about a person chunk: used to describe someone in a neutral way that avoids committing to a clear positive or negative judgment.\nExample: \"She's very thorough, so reviews with her take a while.\"\nSimilar chunks:\n- hard to read\n- has strong views\n\n✗ \"contribute to\" belongs to Neutral-safe cause/result verb — used to link a cause to a result without pre-judging whether the outcome is good or bad — safer than \"cause\" when you're not sure, not this context.\nSimilar chunks:\n- translate into\n- bring about\n- give rise to\n\n✗ \"not fully aligned\" belongs to Workplace euphemism: sidelined, disagreement & cuts — used as a softer way to say something was abandoned, that people disagreed, or that budgets were cut, not this context.\nSimilar chunks:\n- parked\n- efficiency drive\n- cost optimisation\n\n✗ \"room for improvement\" belongs to Workplace euphemism: job loss & underperformance — used as a softer, less blunt way to say someone was fired or that something is going badly, not this context.\nSimilar chunks:\n- underperforming\n- made redundant\n- a headwind"
+    },
+    {
+      "id": 61,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're asked what a colleague is like and want to give a safe answer that avoids saying anything too positive or negative. Which chunk fits best?",
+      "options": {
+        "A": "has strong views",
+        "B": "enhance performance",
+        "C": "reported",
+        "D": "spreads himself thin"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"has strong views\" is a Safe, non-committal remarks about a person chunk: used to describe someone in a neutral way that avoids committing to a clear positive or negative judgment.\nExample: \"He has strong views on tooling, so expect a debate.\"\nSimilar chunks:\n- hard to read\n- very thorough\n\n✗ \"enhance performance\" belongs to Positive-prosody verb: building something up — used for actively building up, strengthening, or unlocking something valuable, not this context.\nSimilar chunks:\n- spearhead the initiative\n- bolster confidence\n- streamline the process\n\n✗ \"reported\" belongs to Reporting verb: neutral — used to report what someone said without signaling belief, doubt, or agreement either way, not this context.\nSimilar chunks:\n- said\n- stated\n- remarked\n\n✗ \"spreads himself thin\" belongs to Strong implicit criticism about a person — used to sharply criticize someone as unreliable or full of empty talk, not this context.\nSimilar chunks:\n- drops the ball\n- a lot of noise\n- all talk"
+    },
+    {
+      "id": 62,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've been asked what you think of a colleague's plan and want to hint at your real opinion diplomatically. Which chunk fits best?",
+      "options": {
+        "A": "commit an error",
+        "B": "drag on",
+        "C": "an epidemic broke out",
+        "D": "ambitious"
+      },
+      "correct": "D",
+      "explanation": "✗ \"commit an error\" belongs to Negative-prosody verb: commit + wrongdoing — used with \"commit\" + a noun describing a crime, fraud, or serious error — \"commit\" almost always signals wrongdoing, not this context.\nSimilar chunks:\n- commit a blunder\n- commit an offence\n- commit fraud\n\n✗ \"drag on\" belongs to Negative-prosody verb: office problems — used in office contexts for problems that pile up, stall, or get quietly hidden, not this context.\nSimilar chunks:\n- bog down\n- incur delays\n- incur costs\n\n✗ \"an epidemic broke out\" belongs to Negative-prosody verb: something bad takes hold or erupts — used for something unpleasant beginning and settling in, or suddenly breaking out, not this context.\nSimilar chunks:\n- doubts set in\n- complacency set in\n- a fight broke out\n\n✓ Correct — \"ambitious\" is a Hidden-meaning evaluation of an idea chunk: used to hint at a real judgment about an idea — risky, unrealistic, or disliked — while sounding neutral.\nExample: \"That's ambitious,\" the director said, meaning he thought it was too risky.\"\nSimilar chunks:\n- interesting\n- optimistic"
+    },
+    {
+      "id": 63,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've been asked what you think of a colleague's plan and want to hint at your real opinion diplomatically. Which chunk fits best?",
+      "options": {
+        "A": "ramifications",
+        "B": "distinguished",
+        "C": "alleged",
+        "D": "interesting"
+      },
+      "correct": "D",
+      "explanation": "✗ \"ramifications\" belongs to Negative-prosody noun: fallout and repeated bad events — used for the negative consequences or repeated occurrence of something bad, not this context.\nSimilar chunks:\n- a spate of complaints\n- symptomatic of\n- backlash\n\n✗ \"distinguished\" belongs to Words for a good reputation — used for being famous in a respected, admired way, not this context.\nSimilar chunks:\n- eminent\n- renowned\n- esteemed\n\n✗ \"alleged\" belongs to Reporting verb: signals you doubt it — used to report something in a way that signals the speaker isn't fully convinced it's true, not this context.\nSimilar chunks:\n- insisted\n- claimed\n- asserted\n\n✓ Correct — \"interesting\" is a Hidden-meaning evaluation of an idea chunk: used to hint at a real judgment about an idea — risky, unrealistic, or disliked — while sounding neutral.\nExample: \"Interesting approach,\" was all he said, which usually means he doesn't like it.\"\nSimilar chunks:\n- optimistic\n- ambitious"
+    },
+    {
+      "id": 64,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've reviewed a colleague's draft and want to signal, diplomatically, that it still needs real work. Which chunk fits best?",
+      "options": {
+        "A": "doubts set in",
+        "B": "foster collaboration",
+        "C": "renowned",
+        "D": "a good first draft"
+      },
+      "correct": "D",
+      "explanation": "✗ \"doubts set in\" belongs to Negative-prosody verb: something bad takes hold or erupts — used for something unpleasant beginning and settling in, or suddenly breaking out, not this context.\nSimilar chunks:\n- an epidemic broke out\n- a fight broke out\n- complacency set in\n\n✗ \"foster collaboration\" belongs to Positive-prosody verb: building something up — used for actively building up, strengthening, or unlocking something valuable, not this context.\nSimilar chunks:\n- streamline the process\n- enhance performance\n- spearhead the initiative\n\n✗ \"renowned\" belongs to Words for a good reputation — used for being famous in a respected, admired way, not this context.\nSimilar chunks:\n- esteemed\n- eminent\n- distinguished\n\n✓ Correct — \"a good first draft\" is a Hidden-meaning evaluation of a deliverable chunk: used to soften feedback on unfinished or weak work while still hinting it needs more.\nExample: \"It's a good first draft — let's talk through what still needs work.\"\nSimilar chunks:\n- a solid start"
+    },
+    {
+      "id": 65,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've reviewed a colleague's draft and want to signal, diplomatically, that it still needs real work. Which chunk fits best?",
+      "options": {
+        "A": "a solid start",
+        "B": "undermine",
+        "C": "revealed",
+        "D": "interesting"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"a solid start\" is a Hidden-meaning evaluation of a deliverable chunk: used to soften feedback on unfinished or weak work while still hinting it needs more.\nExample: \"This is a solid start, but the middle section needs a lot more detail.\"\nSimilar chunks:\n- a good first draft\n\n✗ \"undermine\" belongs to Negative-prosody verb: worsening & undermining — used for something bad gradually getting worse, or something being weakened or threatened, not this context.\nSimilar chunks:\n- jeopardise\n- escalate\n- erode\n\n✗ \"revealed\" belongs to Reporting verb: signals you believe it — used to report something in a way that signals the speaker trusts or accepts it as true, not this context.\nSimilar chunks:\n- demonstrated\n- confirmed\n- showed\n\n✗ \"interesting\" belongs to Diplomatically prefacing disagreement — used at the start of a turn to soften an upcoming disagreement or criticism, said in a flat or careful tone, not this context.\nSimilar chunks:\n- with respect\n- happy to discuss"
+    }
+  ]
+}

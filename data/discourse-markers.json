@@ -1,0 +1,860 @@
+{
+  "examId": "discourse-markers",
+  "title": "Chunk Atlas — Language Systems: Discourse & Pragmatic Markers",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've just been asked a question in a meeting and need a natural way to start speaking while you gather your thoughts. Which chunk fits best?",
+      "options": {
+        "A": "So, ...",
+        "B": "On top of that, ...",
+        "C": "That's true.",
+        "D": "if that makes sense"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"So, ...\" is a Starting to speak, or buying a second to think chunk: used to open a turn or briefly stall for a second before answering, without an awkward silent pause.\nExample: \"So, where should we start — the budget or the timeline?\"\nSimilar chunks:\n- Right, ...\n- Now, ...\n- Well, ...\n\n✗ \"On top of that, ...\" belongs to Adding another point — used to add another point to what you or someone else just said, not this context.\nSimilar chunks:\n- And another thing, ...\n- Not to mention, ...\n- Also, ...\n\n✗ \"That's true.\" belongs to Backchanneling agreement while listening — used as a short verbal signal while listening, to show agreement or that you're following along, not this context.\nSimilar chunks:\n- Exactly.\n- Fair enough.\n- Good point.\n\n✗ \"if that makes sense\" belongs to Leaving room for correction or generous interpretation — used to leave room for the listener to correct you, or invite them to interpret generously, not this context.\nSimilar chunks:\n- correct me if I'm wrong, but...\n- if I'm being honest\n- I don't know if..."
+    },
+    {
+      "id": 2,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've just been asked a question in a meeting and need a natural way to start speaking while you gather your thoughts. Which chunk fits best?",
+      "options": {
+        "A": "In any case, ...",
+        "B": "to be honest",
+        "C": "Right, ...",
+        "D": "Come on."
+      },
+      "correct": "C",
+      "explanation": "✗ \"In any case, ...\" belongs to Returning to the main topic after a digression — used to signal a return to the main topic after a side comment or tangent, not this context.\nSimilar chunks:\n- Anyway, ...\n- Anyhow, ...\n\n✗ \"to be honest\" belongs to Framing your honest stance before speaking — used to signal you're about to speak candidly, without dressing up the opinion, not this context.\nSimilar chunks:\n- frankly\n- honestly\n- candidly\n\n✓ Correct — \"Right, ...\" is a Starting to speak, or buying a second to think chunk: used to open a turn or briefly stall for a second before answering, without an awkward silent pause.\nExample: \"Right, let's get into the numbers then.\"\nSimilar chunks:\n- Well, ...\n- Give me a sec.\n- Now, ...\n\n✗ \"Come on.\" belongs to Expressing disbelief casually — used casually to express disbelief or mild pushback at what someone just said, not this context.\nSimilar chunks:\n- Surely not.\n- Seriously though.\n- I mean, really?"
+    },
+    {
+      "id": 3,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've just been asked a question in a meeting and need a natural way to start speaking while you gather your thoughts. Which chunk fits best?",
+      "options": {
+        "A": "How can I put this.",
+        "B": "I mean, really?",
+        "C": "Here's the thing, ...",
+        "D": "Exactly."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"How can I put this.\" is a Starting to speak, or buying a second to think chunk: used to open a turn or briefly stall for a second before answering, without an awkward silent pause.\nExample: \"How can I put this — it's not quite ready, but it's close.\"\nSimilar chunks:\n- So, ...\n- OK so...\n- Hang on.\n\n✗ \"I mean, really?\" belongs to Expressing disbelief casually — used casually to express disbelief or mild pushback at what someone just said, not this context.\nSimilar chunks:\n- Come on.\n- Surely not.\n- Seriously though.\n\n✗ \"Here's the thing, ...\" belongs to Signalling the core point or an obstacle — used to signal you're about to state the real point, or the real obstacle, behind a situation, not this context.\nSimilar chunks:\n- The thing is, ...\n\n✗ \"Exactly.\" belongs to Backchanneling agreement while listening — used as a short verbal signal while listening, to show agreement or that you're following along, not this context.\nSimilar chunks:\n- Right, right.\n- Good point.\n- Fair enough."
+    },
+    {
+      "id": 4,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've just been asked a question in a meeting and need a natural way to start speaking while you gather your thoughts. Which chunk fits best?",
+      "options": {
+        "A": "Seriously though.",
+        "B": "if that makes sense",
+        "C": "Well, ...",
+        "D": "I guess"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Seriously though.\" belongs to Expressing disbelief casually — used casually to express disbelief or mild pushback at what someone just said, not this context.\nSimilar chunks:\n- I mean, really?\n- Surely not.\n- Come on.\n\n✗ \"if that makes sense\" belongs to Leaving room for correction or generous interpretation — used to leave room for the listener to correct you, or invite them to interpret generously, not this context.\nSimilar chunks:\n- I don't know if...\n- correct me if I'm wrong, but...\n- if I'm being honest\n\n✓ Correct — \"Well, ...\" is a Starting to speak, or buying a second to think chunk: used to open a turn or briefly stall for a second before answering, without an awkward silent pause.\nExample: \"Well, I think it depends on which region we're talking about.\"\nSimilar chunks:\n- Let me see.\n- How can I put this.\n- Give me a sec.\n\n✗ \"I guess\" belongs to Neutral register filler — used in ordinary, everyday spoken register — neither noticeably casual nor formal, not this context.\nSimilar chunks:\n- I suppose"
+    },
+    {
+      "id": 5,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "The conversation has drifted off-topic and you want to naturally pull it back to what you were originally discussing. Which chunk fits best?",
+      "options": {
+        "A": "Anyhow, ...",
+        "B": "Just to finish my thought...",
+        "C": "So, ...",
+        "D": "correct me if I'm wrong, but..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Anyhow, ...\" is a Returning to the main topic after a digression chunk: used to signal a return to the main topic after a side comment or tangent.\nExample: \"Anyhow, the point is we still need a decision by Friday.\"\nSimilar chunks:\n- In any case, ...\n- Anyway, ...\n\n✗ \"Just to finish my thought...\" belongs to Holding the floor when interrupted — used to politely keep the floor and finish your point when someone tries to interrupt, not this context.\nSimilar chunks:\n- Bear with me, I'm getting to that.\n- If I could just finish...\n\n✗ \"So, ...\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- Right, ...\n- Let me see.\n- Hang on.\n\n✗ \"correct me if I'm wrong, but...\" belongs to Leaving room for correction or generous interpretation — used to leave room for the listener to correct you, or invite them to interpret generously, not this context.\nSimilar chunks:\n- if I'm being honest\n- I don't know if...\n- if that makes sense"
+    },
+    {
+      "id": 6,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "The conversation has drifted off-topic and you want to naturally pull it back to what you were originally discussing. Which chunk fits best?",
+      "options": {
+        "A": "Anyway, ...",
+        "B": "If I could just finish...",
+        "C": "How can I put this.",
+        "D": "Then again, ..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Anyway, ...\" is a Returning to the main topic after a digression chunk: used to signal a return to the main topic after a side comment or tangent.\nExample: \"Anyway, back to the budget — where were we?\"\nSimilar chunks:\n- Anyhow, ...\n- In any case, ...\n\n✗ \"If I could just finish...\" belongs to Holding the floor when interrupted — used to politely keep the floor and finish your point when someone tries to interrupt, not this context.\nSimilar chunks:\n- Bear with me, I'm getting to that.\n- Just to finish my thought...\n\n✗ \"How can I put this.\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- Now, ...\n- Right, ...\n- So, ...\n\n✗ \"Then again, ...\" belongs to Pivoting to a contrasting point — used to add a thought that pulls slightly against what was just said, not this context.\nSimilar chunks:\n- Having said that, ..."
+    },
+    {
+      "id": 7,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to say the one thing that really matters in this situation, and want to flag that clearly first. Which chunk fits best?",
+      "options": {
+        "A": "The thing is, ...",
+        "B": "candidly",
+        "C": "interestingly",
+        "D": "in a sense"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"The thing is, ...\" is a Signalling the core point or an obstacle chunk: used to signal you're about to state the real point, or the real obstacle, behind a situation.\nExample: \"The thing is, we never actually tested this with real users.\"\nSimilar chunks:\n- Here's the thing, ...\n\n✗ \"candidly\" belongs to Framing your honest stance before speaking — used to signal you're about to speak candidly, without dressing up the opinion, not this context.\nSimilar chunks:\n- to be fair\n- frankly\n- to be honest\n\n✗ \"interestingly\" belongs to Flagging something interesting or unusual — used to flag that something is a bit odd, coincidental, or noteworthy, not this context.\nSimilar chunks:\n- funnily enough\n- oddly enough\n\n✗ \"in a sense\" belongs to Formal register filler — used in formal or high-stakes spoken register — sounds stiff or out of place in casual conversation, not this context.\nSimilar chunks:\n- if you will\n- as it were"
+    },
+    {
+      "id": 8,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to say the one thing that really matters in this situation, and want to flag that clearly first. Which chunk fits best?",
+      "options": {
+        "A": "interestingly",
+        "B": "to be honest",
+        "C": "Here's the thing, ...",
+        "D": "actually"
+      },
+      "correct": "C",
+      "explanation": "✗ \"interestingly\" belongs to Flagging something interesting or unusual — used to flag that something is a bit odd, coincidental, or noteworthy, not this context.\nSimilar chunks:\n- funnily enough\n- oddly enough\n\n✗ \"to be honest\" belongs to Framing your honest stance before speaking — used to signal you're about to speak candidly, without dressing up the opinion, not this context.\nSimilar chunks:\n- candidly\n- to be fair\n- frankly\n\n✓ Correct — \"Here's the thing, ...\" is a Signalling the core point or an obstacle chunk: used to signal you're about to state the real point, or the real obstacle, behind a situation.\nExample: \"Here's the thing — legal hasn't signed off yet.\"\nSimilar chunks:\n- The thing is, ...\n\n✗ \"actually\" belongs to Introducing a mildly surprising fact — used to introduce information that's mildly surprising or gently corrects an assumption, not this context.\nSimilar chunks:\n- in fact\n- as it happens"
+    },
+    {
+      "id": 9,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're wrapping up one part of a presentation and want a natural, professional way to move to the next. Which chunk fits best?",
+      "options": {
+        "A": "Let me put it another way.",
+        "B": "dunno",
+        "C": "That said, ...",
+        "D": "clearly"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Let me put it another way.\" belongs to Rephrasing in different words — used to restate an idea in different words after the listener seemed confused, not this context.\nSimilar chunks:\n- What I'm trying to say is...\n- Let me rephrase that.\n\n✗ \"dunno\" belongs to Casual, informal register filler — used in casual, informal conversation among friends or close colleagues — sounds out of place in a formal meeting, not this context.\nSimilar chunks:\n- kinda\n- like\n- whatever\n\n✓ Correct — \"That said, ...\" is a Formal transition to the next part chunk: used for a more formal, deliberate shift from one part of a talk or discussion to the next.\nExample: \"That said, I think we should still proceed with the pilot.\"\nSimilar chunks:\n- Moving on, ...\n- With that in mind, ...\n\n✗ \"clearly\" belongs to Stating the obvious — used to flag something as self-evident, though it can sound condescending if overused, not this context.\nSimilar chunks:\n- needless to say\n- obviously"
+    },
+    {
+      "id": 10,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're wrapping up one part of a presentation and want a natural, professional way to move to the next. Which chunk fits best?",
+      "options": {
+        "A": "With that in mind, ...",
+        "B": "Give me a sec.",
+        "C": "as it happens",
+        "D": "Plus, ..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"With that in mind, ...\" is a Formal transition to the next part chunk: used for a more formal, deliberate shift from one part of a talk or discussion to the next.\nExample: \"With that in mind, here's what I'd suggest we do next.\"\nSimilar chunks:\n- That said, ...\n- Moving on, ...\n\n✗ \"Give me a sec.\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- Now, ...\n- How can I put this.\n- OK so...\n\n✗ \"as it happens\" belongs to Introducing a mildly surprising fact — used to introduce information that's mildly surprising or gently corrects an assumption, not this context.\nSimilar chunks:\n- in fact\n- actually\n\n✗ \"Plus, ...\" belongs to Adding another point — used to add another point to what you or someone else just said, not this context.\nSimilar chunks:\n- And another thing, ...\n- Not to mention, ...\n- On top of that, ..."
+    },
+    {
+      "id": 11,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to slip in a small but relevant piece of extra information without derailing the main conversation. Which chunk fits best?",
+      "options": {
+        "A": "Come on.",
+        "B": "Right, right.",
+        "C": "in a nutshell",
+        "D": "While we're on the subject, ..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Come on.\" belongs to Expressing disbelief casually — used casually to express disbelief or mild pushback at what someone just said, not this context.\nSimilar chunks:\n- Surely not.\n- I mean, really?\n- Seriously though.\n\n✗ \"Right, right.\" belongs to Backchanneling agreement while listening — used as a short verbal signal while listening, to show agreement or that you're following along, not this context.\nSimilar chunks:\n- Exactly.\n- Good point.\n- Fair enough.\n\n✗ \"in a nutshell\" belongs to Summarizing or simplifying what you said — used to boil a longer explanation down to its simplest form, not this context.\nSimilar chunks:\n- in other words\n- to put it simply\n- simply put\n\n✓ Correct — \"While we're on the subject, ...\" is an Inserting a quick side point chunk: used to insert a short, related side point without derailing the main conversation.\nExample: \"While we're on the subject, did we ever fix that login bug?\"\nSimilar chunks:\n- Speaking of which, ...\n- While I remember, ...\n- That reminds me, ..."
+    },
+    {
+      "id": 12,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to slip in a small but relevant piece of extra information without derailing the main conversation. Which chunk fits best?",
+      "options": {
+        "A": "While I remember, ...",
+        "B": "frankly",
+        "C": "Anyhow, ...",
+        "D": "if you like"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"While I remember, ...\" is an Inserting a quick side point chunk: used to insert a short, related side point without derailing the main conversation.\nExample: \"While I remember, can you send me that spreadsheet later?\"\nSimilar chunks:\n- While we're on the subject, ...\n- Speaking of which, ...\n- Before I forget, ...\n\n✗ \"frankly\" belongs to Framing your honest stance before speaking — used to signal you're about to speak candidly, without dressing up the opinion, not this context.\nSimilar chunks:\n- honestly\n- to be fair\n- candidly\n\n✗ \"Anyhow, ...\" belongs to Returning to the main topic after a digression — used to signal a return to the main topic after a side comment or tangent, not this context.\nSimilar chunks:\n- Anyway, ...\n- In any case, ...\n\n✗ \"if you like\" belongs to Approximating a word choice — used to signal that a word choice is approximate rather than exact, not this context.\nSimilar chunks:\n- for want of a better word\n- so to speak"
+    },
+    {
+      "id": 13,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to slip in a small but relevant piece of extra information without derailing the main conversation. Which chunk fits best?",
+      "options": {
+        "A": "I suppose",
+        "B": "if you like",
+        "C": "On top of that, ...",
+        "D": "Just quickly, ..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I suppose\" belongs to Neutral register filler — used in ordinary, everyday spoken register — neither noticeably casual nor formal, not this context.\nSimilar chunks:\n- I guess\n\n✗ \"if you like\" belongs to Approximating a word choice — used to signal that a word choice is approximate rather than exact, not this context.\nSimilar chunks:\n- so to speak\n- for want of a better word\n\n✗ \"On top of that, ...\" belongs to Adding another point — used to add another point to what you or someone else just said, not this context.\nSimilar chunks:\n- Plus, ...\n- And another thing, ...\n- Not to mention, ...\n\n✓ Correct — \"Just quickly, ...\" is an Inserting a quick side point chunk: used to insert a short, related side point without derailing the main conversation.\nExample: \"Just quickly, the client also asked about pricing tiers.\"\nSimilar chunks:\n- While I remember, ...\n- Speaking of which, ...\n- That reminds me, ..."
+    },
+    {
+      "id": 14,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've just said something imprecise and want to immediately correct it more accurately. Which chunk fits best?",
+      "options": {
+        "A": "That is, ...",
+        "B": "as it happens",
+        "C": "That said, ...",
+        "D": "That reminds me, ..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"That is, ...\" is a Correcting or restating what you just said chunk: used to immediately correct or narrow down something you just said.\nExample: \"We need sign-off from the owner, that is, whoever's leading the account now.\"\nSimilar chunks:\n- Or rather, ...\n- I mean, ...\n\n✗ \"as it happens\" belongs to Introducing a mildly surprising fact — used to introduce information that's mildly surprising or gently corrects an assumption, not this context.\nSimilar chunks:\n- in fact\n- actually\n\n✗ \"That said, ...\" belongs to Formal transition to the next part — used for a more formal, deliberate shift from one part of a talk or discussion to the next, not this context.\nSimilar chunks:\n- With that in mind, ...\n- Moving on, ...\n\n✗ \"That reminds me, ...\" belongs to Inserting a quick side point — used to insert a short, related side point without derailing the main conversation, not this context.\nSimilar chunks:\n- While I remember, ...\n- Speaking of which, ...\n- Just quickly, ..."
+    },
+    {
+      "id": 15,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've just said something imprecise and want to immediately correct it more accurately. Which chunk fits best?",
+      "options": {
+        "A": "in a way",
+        "B": "I mean, ...",
+        "C": "With that in mind, ...",
+        "D": "Well, ..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"in a way\" belongs to Softening a claim as approximate, not exact — used to soften a statement, making it approximate rather than an absolute claim, not this context.\nSimilar chunks:\n- sort of\n- kind of\n- more or less\n\n✓ Correct — \"I mean, ...\" is a Correcting or restating what you just said chunk: used to immediately correct or narrow down something you just said.\nExample: \"It's broken — I mean, it's technically working, just really slow.\"\nSimilar chunks:\n- Or rather, ...\n- That is, ...\n\n✗ \"With that in mind, ...\" belongs to Formal transition to the next part — used for a more formal, deliberate shift from one part of a talk or discussion to the next, not this context.\nSimilar chunks:\n- That said, ...\n- Moving on, ...\n\n✗ \"Well, ...\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- OK so...\n- How can I put this.\n- Now, ..."
+    },
+    {
+      "id": 16,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "The listener seems confused, and you want to explain the same idea again in a different way. Which chunk fits best?",
+      "options": {
+        "A": "Just to add to that...",
+        "B": "a bit",
+        "C": "What I'm trying to say is...",
+        "D": "mind you"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Just to add to that...\" belongs to Asking to jump into the conversation — used to politely ask for a turn to speak while someone else is talking, not this context.\nSimilar chunks:\n- If I may...\n- Sorry to interrupt, but...\n- Can I jump in here?\n\n✗ \"a bit\" belongs to Softening a claim as approximate, not exact — used to soften a statement, making it approximate rather than an absolute claim, not this context.\nSimilar chunks:\n- more or less\n- to some degree\n- sort of\n\n✓ Correct — \"What I'm trying to say is...\" is a Rephrasing in different words chunk: used to restate an idea in different words after the listener seemed confused.\nExample: \"What I'm trying to say is, we need more time, not more people.\"\nSimilar chunks:\n- Let me rephrase that.\n- Let me put it another way.\n\n✗ \"mind you\" belongs to Conceding a point before continuing — used to acknowledge a valid point, or partially agree, before adding a qualification or your own view, not this context.\nSimilar chunks:\n- granted\n- true\n- admittedly"
+    },
+    {
+      "id": 17,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "The listener seems confused, and you want to explain the same idea again in a different way. Which chunk fits best?",
+      "options": {
+        "A": "funnily enough",
+        "B": "Let me rephrase that.",
+        "C": "granted",
+        "D": "Can I jump in here?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"funnily enough\" belongs to Flagging something interesting or unusual — used to flag that something is a bit odd, coincidental, or noteworthy, not this context.\nSimilar chunks:\n- interestingly\n- oddly enough\n\n✓ Correct — \"Let me rephrase that.\" is a Rephrasing in different words chunk: used to restate an idea in different words after the listener seemed confused.\nExample: \"Let me rephrase that — I meant next Friday, not this one.\"\nSimilar chunks:\n- What I'm trying to say is...\n- Let me put it another way.\n\n✗ \"granted\" belongs to Conceding a point before continuing — used to acknowledge a valid point, or partially agree, before adding a qualification or your own view, not this context.\nSimilar chunks:\n- admittedly\n- I'll give you that.\n- true\n\n✗ \"Can I jump in here?\" belongs to Asking to jump into the conversation — used to politely ask for a turn to speak while someone else is talking, not this context.\nSimilar chunks:\n- Just to add to that...\n- If I may...\n- Sorry to interrupt, but..."
+    },
+    {
+      "id": 18,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've made a fairly complex point and want to boil it down to one simple sentence. Which chunk fits best?",
+      "options": {
+        "A": "simply put",
+        "B": "Now, ...",
+        "C": "Anyhow, ...",
+        "D": "a bit"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"simply put\" is a Summarizing or simplifying what you said chunk: used to boil a longer explanation down to its simplest form.\nExample: \"Simply put, we can't ship without more testing.\"\nSimilar chunks:\n- essentially\n- in other words\n- to put it simply\n\n✗ \"Now, ...\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- Let me see.\n- Give me a sec.\n- So, ...\n\n✗ \"Anyhow, ...\" belongs to Returning to the main topic after a digression — used to signal a return to the main topic after a side comment or tangent, not this context.\nSimilar chunks:\n- In any case, ...\n- Anyway, ...\n\n✗ \"a bit\" belongs to Softening a claim as approximate, not exact — used to soften a statement, making it approximate rather than an absolute claim, not this context.\nSimilar chunks:\n- in a way\n- to some degree\n- sort of"
+    },
+    {
+      "id": 19,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've made a fairly complex point and want to boil it down to one simple sentence. Which chunk fits best?",
+      "options": {
+        "A": "sort of",
+        "B": "Well, ...",
+        "C": "interestingly",
+        "D": "in other words"
+      },
+      "correct": "D",
+      "explanation": "✗ \"sort of\" belongs to Softening a claim as approximate, not exact — used to soften a statement, making it approximate rather than an absolute claim, not this context.\nSimilar chunks:\n- in a way\n- to some degree\n- kind of\n\n✗ \"Well, ...\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- How can I put this.\n- Now, ...\n- Let me see.\n\n✗ \"interestingly\" belongs to Flagging something interesting or unusual — used to flag that something is a bit odd, coincidental, or noteworthy, not this context.\nSimilar chunks:\n- funnily enough\n- oddly enough\n\n✓ Correct — \"in other words\" is a Summarizing or simplifying what you said chunk: used to boil a longer explanation down to its simplest form.\nExample: \"In other words, we're over budget and behind schedule.\"\nSimilar chunks:\n- essentially\n- simply put\n- in a nutshell"
+    },
+    {
+      "id": 20,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've been asked what happened and don't want to go through every detail — just the outcome. Which chunk fits best?",
+      "options": {
+        "A": "basically",
+        "B": "admittedly",
+        "C": "In any case, ...",
+        "D": "Seriously though."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"basically\" is a Cutting to the short version chunk: used to skip the details and jump straight to the outcome of a longer story.\nExample: \"Basically, the vendor missed the deadline and we had no backup.\"\nSimilar chunks:\n- long story short\n- to cut a long story short\n\n✗ \"admittedly\" belongs to Conceding a point before continuing — used to acknowledge a valid point, or partially agree, before adding a qualification or your own view, not this context.\nSimilar chunks:\n- granted\n- Point taken.\n- I'll give you that.\n\n✗ \"In any case, ...\" belongs to Returning to the main topic after a digression — used to signal a return to the main topic after a side comment or tangent, not this context.\nSimilar chunks:\n- Anyway, ...\n- Anyhow, ...\n\n✗ \"Seriously though.\" belongs to Expressing disbelief casually — used casually to express disbelief or mild pushback at what someone just said, not this context.\nSimilar chunks:\n- I mean, really?\n- Come on.\n- Surely not."
+    },
+    {
+      "id": 21,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've been asked what happened and don't want to go through every detail — just the outcome. Which chunk fits best?",
+      "options": {
+        "A": "With that in mind, ...",
+        "B": "to cut a long story short",
+        "C": "If I could just finish...",
+        "D": "to be honest"
+      },
+      "correct": "B",
+      "explanation": "✗ \"With that in mind, ...\" belongs to Formal transition to the next part — used for a more formal, deliberate shift from one part of a talk or discussion to the next, not this context.\nSimilar chunks:\n- That said, ...\n- Moving on, ...\n\n✓ Correct — \"to cut a long story short\" is a Cutting to the short version chunk: used to skip the details and jump straight to the outcome of a longer story.\nExample: \"To cut a long story short, we ended up switching providers.\"\nSimilar chunks:\n- basically\n- long story short\n\n✗ \"If I could just finish...\" belongs to Holding the floor when interrupted — used to politely keep the floor and finish your point when someone tries to interrupt, not this context.\nSimilar chunks:\n- Just to finish my thought...\n- Bear with me, I'm getting to that.\n\n✗ \"to be honest\" belongs to Framing your honest stance before speaking — used to signal you're about to speak candidly, without dressing up the opinion, not this context.\nSimilar chunks:\n- candidly\n- honestly\n- to be fair"
+    },
+    {
+      "id": 22,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're reaching for a word that isn't quite exact and want to flag that you're speaking loosely. Which chunk fits best?",
+      "options": {
+        "A": "listen",
+        "B": "so to speak",
+        "C": "What do you think?",
+        "D": "That is, ..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"listen\" belongs to Assuming shared understanding and engaging the listener — used to draw the listener in and check they share your assumption or are following along, not this context.\nSimilar chunks:\n- you see\n- you know\n- look\n\n✓ Correct — \"so to speak\" is an Approximating a word choice chunk: used to signal that a word choice is approximate rather than exact.\nExample: \"He's the unofficial team lead, so to speak.\"\nSimilar chunks:\n- for want of a better word\n- if you like\n\n✗ \"What do you think?\" belongs to Handing the floor to someone else — used to hand the conversation over to someone else and invite their input, not this context.\nSimilar chunks:\n- Over to you.\n- I'd be interested in your take.\n\n✗ \"That is, ...\" belongs to Correcting or restating what you just said — used to immediately correct or narrow down something you just said, not this context.\nSimilar chunks:\n- Or rather, ...\n- I mean, ..."
+    },
+    {
+      "id": 23,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're reaching for a word that isn't quite exact and want to flag that you're speaking loosely. Which chunk fits best?",
+      "options": {
+        "A": "interestingly",
+        "B": "In any case, ...",
+        "C": "for want of a better word",
+        "D": "you know"
+      },
+      "correct": "C",
+      "explanation": "✗ \"interestingly\" belongs to Flagging something interesting or unusual — used to flag that something is a bit odd, coincidental, or noteworthy, not this context.\nSimilar chunks:\n- funnily enough\n- oddly enough\n\n✗ \"In any case, ...\" belongs to Returning to the main topic after a digression — used to signal a return to the main topic after a side comment or tangent, not this context.\nSimilar chunks:\n- Anyhow, ...\n- Anyway, ...\n\n✓ Correct — \"for want of a better word\" is an Approximating a word choice chunk: used to signal that a word choice is approximate rather than exact.\nExample: \"The launch was, for want of a better word, chaotic.\"\nSimilar chunks:\n- if you like\n- so to speak\n\n✗ \"you know\" belongs to Assuming shared understanding and engaging the listener — used to draw the listener in and check they share your assumption or are following along, not this context.\nSimilar chunks:\n- look\n- listen\n- you see"
+    },
+    {
+      "id": 24,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're explaining something and want to draw the listener in, checking they're following along with you. Which chunk fits best?",
+      "options": {
+        "A": "Exactly.",
+        "B": "look",
+        "C": "Right, ...",
+        "D": "Well, ..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Exactly.\" belongs to Backchanneling agreement while listening — used as a short verbal signal while listening, to show agreement or that you're following along, not this context.\nSimilar chunks:\n- Good point.\n- That's true.\n- Right, right.\n\n✓ Correct — \"look\" is an Assuming shared understanding and engaging the listener chunk: used to draw the listener in and check they share your assumption or are following along.\nExample: \"Look, we can't keep pushing this deadline.\"\nSimilar chunks:\n- listen\n- you see\n- you know\n\n✗ \"Right, ...\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- Let me see.\n- OK so...\n- How can I put this.\n\n✗ \"Well, ...\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- Hang on.\n- Give me a sec.\n- How can I put this."
+    },
+    {
+      "id": 25,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're explaining something and want to draw the listener in, checking they're following along with you. Which chunk fits best?",
+      "options": {
+        "A": "in other words",
+        "B": "I mean, ...",
+        "C": "listen",
+        "D": "On top of that, ..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"in other words\" belongs to Summarizing or simplifying what you said — used to boil a longer explanation down to its simplest form, not this context.\nSimilar chunks:\n- essentially\n- to put it simply\n- simply put\n\n✗ \"I mean, ...\" belongs to Correcting or restating what you just said — used to immediately correct or narrow down something you just said, not this context.\nSimilar chunks:\n- That is, ...\n- Or rather, ...\n\n✓ Correct — \"listen\" is an Assuming shared understanding and engaging the listener chunk: used to draw the listener in and check they share your assumption or are following along.\nExample: \"Listen, I really think we should talk to the client before deciding.\"\nSimilar chunks:\n- you know\n- you see\n- look\n\n✗ \"On top of that, ...\" belongs to Adding another point — used to add another point to what you or someone else just said, not this context.\nSimilar chunks:\n- And another thing, ...\n- Plus, ...\n- Also, ..."
+    },
+    {
+      "id": 26,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a plan as roughly on track without committing to an exact, absolute claim. Which chunk fits best?",
+      "options": {
+        "A": "in other words",
+        "B": "sort of",
+        "C": "correct me if I'm wrong, but...",
+        "D": "Sorry to interrupt, but..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"in other words\" belongs to Summarizing or simplifying what you said — used to boil a longer explanation down to its simplest form, not this context.\nSimilar chunks:\n- to put it simply\n- in a nutshell\n- simply put\n\n✓ Correct — \"sort of\" is a Softening a claim as approximate, not exact chunk: used to soften a statement, making it approximate rather than an absolute claim.\nExample: \"We're sort of on track, but the last two tickets are risky.\"\nSimilar chunks:\n- in a way\n- more or less\n- kind of\n\n✗ \"correct me if I'm wrong, but...\" belongs to Leaving room for correction or generous interpretation — used to leave room for the listener to correct you, or invite them to interpret generously, not this context.\nSimilar chunks:\n- if I'm being honest\n- if that makes sense\n- I don't know if...\n\n✗ \"Sorry to interrupt, but...\" belongs to Asking to jump into the conversation — used to politely ask for a turn to speak while someone else is talking, not this context.\nSimilar chunks:\n- If I may...\n- Can I jump in here?\n- Just to add to that..."
+    },
+    {
+      "id": 27,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a plan as roughly on track without committing to an exact, absolute claim. Which chunk fits best?",
+      "options": {
+        "A": "Let me put it another way.",
+        "B": "a bit",
+        "C": "Speaking of which, ...",
+        "D": "The thing is, ..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Let me put it another way.\" belongs to Rephrasing in different words — used to restate an idea in different words after the listener seemed confused, not this context.\nSimilar chunks:\n- Let me rephrase that.\n- What I'm trying to say is...\n\n✓ Correct — \"a bit\" is a Softening a claim as approximate, not exact chunk: used to soften a statement, making it approximate rather than an absolute claim.\nExample: \"The estimate was a bit optimistic, to be honest.\"\nSimilar chunks:\n- kind of\n- in a way\n- sort of\n\n✗ \"Speaking of which, ...\" belongs to Inserting a quick side point — used to insert a short, related side point without derailing the main conversation, not this context.\nSimilar chunks:\n- While we're on the subject, ...\n- Just quickly, ...\n- Before I forget, ...\n\n✗ \"The thing is, ...\" belongs to Signalling the core point or an obstacle — used to signal you're about to state the real point, or the real obstacle, behind a situation, not this context.\nSimilar chunks:\n- Here's the thing, ..."
+    },
+    {
+      "id": 28,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a plan as roughly on track without committing to an exact, absolute claim. Which chunk fits best?",
+      "options": {
+        "A": "So, ...",
+        "B": "granted",
+        "C": "actually",
+        "D": "in a way"
+      },
+      "correct": "D",
+      "explanation": "✗ \"So, ...\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- Give me a sec.\n- Let me see.\n- Hang on.\n\n✗ \"granted\" belongs to Conceding a point before continuing — used to acknowledge a valid point, or partially agree, before adding a qualification or your own view, not this context.\nSimilar chunks:\n- I'll give you that.\n- true\n- admittedly\n\n✗ \"actually\" belongs to Introducing a mildly surprising fact — used to introduce information that's mildly surprising or gently corrects an assumption, not this context.\nSimilar chunks:\n- in fact\n- as it happens\n\n✓ Correct — \"in a way\" is a Softening a claim as approximate, not exact chunk: used to soften a statement, making it approximate rather than an absolute claim.\nExample: \"In a way, the delay actually gave us time to fix the bigger bug.\"\nSimilar chunks:\n- sort of\n- a bit\n- to some degree"
+    },
+    {
+      "id": 29,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're not fully sure you're right and want to leave room for the listener to correct you. Which chunk fits best?",
+      "options": {
+        "A": "Point taken.",
+        "B": "correct me if I'm wrong, but...",
+        "C": "Fair enough.",
+        "D": "clearly"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Point taken.\" belongs to Conceding a point before continuing — used to acknowledge a valid point, or partially agree, before adding a qualification or your own view, not this context.\nSimilar chunks:\n- granted\n- I'll give you that.\n- true\n\n✓ Correct — \"correct me if I'm wrong, but...\" is a Leaving room for correction or generous interpretation chunk: used to leave room for the listener to correct you, or invite them to interpret generously.\nExample: \"Correct me if I'm wrong, but didn't we already try this fix?\"\nSimilar chunks:\n- if I'm being honest\n- I don't know if...\n- if that makes sense\n\n✗ \"Fair enough.\" belongs to Backchanneling agreement while listening — used as a short verbal signal while listening, to show agreement or that you're following along, not this context.\nSimilar chunks:\n- Good point.\n- That's true.\n- Exactly.\n\n✗ \"clearly\" belongs to Stating the obvious — used to flag something as self-evident, though it can sound condescending if overused, not this context.\nSimilar chunks:\n- obviously\n- needless to say"
+    },
+    {
+      "id": 30,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're not fully sure you're right and want to leave room for the listener to correct you. Which chunk fits best?",
+      "options": {
+        "A": "I don't know if...",
+        "B": "if you like",
+        "C": "While I remember, ...",
+        "D": "funnily enough"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I don't know if...\" is a Leaving room for correction or generous interpretation chunk: used to leave room for the listener to correct you, or invite them to interpret generously.\nExample: \"I don't know if this is the right call, but I'd delay the launch.\"\nSimilar chunks:\n- if I'm being honest\n- correct me if I'm wrong, but...\n- if that makes sense\n\n✗ \"if you like\" belongs to Approximating a word choice — used to signal that a word choice is approximate rather than exact, not this context.\nSimilar chunks:\n- so to speak\n- for want of a better word\n\n✗ \"While I remember, ...\" belongs to Inserting a quick side point — used to insert a short, related side point without derailing the main conversation, not this context.\nSimilar chunks:\n- Before I forget, ...\n- Speaking of which, ...\n- That reminds me, ...\n\n✗ \"funnily enough\" belongs to Flagging something interesting or unusual — used to flag that something is a bit odd, coincidental, or noteworthy, not this context.\nSimilar chunks:\n- interestingly\n- oddly enough"
+    },
+    {
+      "id": 31,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to say something a bit blunt and want to flag upfront that you're being straightforward. Which chunk fits best?",
+      "options": {
+        "A": "honestly",
+        "B": "clearly",
+        "C": "Before I forget, ...",
+        "D": "in a sense"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"honestly\" is a Framing your honest stance before speaking chunk: used to signal you're about to speak candidly, without dressing up the opinion.\nExample: \"Honestly, I was surprised the demo went as smoothly as it did.\"\nSimilar chunks:\n- candidly\n- to be fair\n- frankly\n\n✗ \"clearly\" belongs to Stating the obvious — used to flag something as self-evident, though it can sound condescending if overused, not this context.\nSimilar chunks:\n- obviously\n- needless to say\n\n✗ \"Before I forget, ...\" belongs to Inserting a quick side point — used to insert a short, related side point without derailing the main conversation, not this context.\nSimilar chunks:\n- Just quickly, ...\n- While I remember, ...\n- That reminds me, ...\n\n✗ \"in a sense\" belongs to Formal register filler — used in formal or high-stakes spoken register — sounds stiff or out of place in casual conversation, not this context.\nSimilar chunks:\n- if you will\n- as it were"
+    },
+    {
+      "id": 32,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're about to say something a bit blunt and want to flag upfront that you're being straightforward. Which chunk fits best?",
+      "options": {
+        "A": "in a nutshell",
+        "B": "candidly",
+        "C": "basically",
+        "D": "That reminds me, ..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"in a nutshell\" belongs to Summarizing or simplifying what you said — used to boil a longer explanation down to its simplest form, not this context.\nSimilar chunks:\n- simply put\n- essentially\n- to put it simply\n\n✓ Correct — \"candidly\" is a Framing your honest stance before speaking chunk: used to signal you're about to speak candidly, without dressing up the opinion.\nExample: \"Candidly, I don't think we're ready to launch this week.\"\nSimilar chunks:\n- honestly\n- frankly\n- to be honest\n\n✗ \"basically\" belongs to Cutting to the short version — used to skip the details and jump straight to the outcome of a longer story, not this context.\nSimilar chunks:\n- to cut a long story short\n- long story short\n\n✗ \"That reminds me, ...\" belongs to Inserting a quick side point — used to insert a short, related side point without derailing the main conversation, not this context.\nSimilar chunks:\n- While we're on the subject, ...\n- Speaking of which, ...\n- Just quickly, ..."
+    },
+    {
+      "id": 33,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to introduce a fact that slightly contradicts what people assumed, without making a big deal of it. Which chunk fits best?",
+      "options": {
+        "A": "honestly",
+        "B": "as it happens",
+        "C": "whatever",
+        "D": "Let me rephrase that."
+      },
+      "correct": "B",
+      "explanation": "✗ \"honestly\" belongs to Framing your honest stance before speaking — used to signal you're about to speak candidly, without dressing up the opinion, not this context.\nSimilar chunks:\n- to be honest\n- to be fair\n- frankly\n\n✓ Correct — \"as it happens\" is an Introducing a mildly surprising fact chunk: used to introduce information that's mildly surprising or gently corrects an assumption.\nExample: \"As it happens, we already have a draft of that document.\"\nSimilar chunks:\n- in fact\n- actually\n\n✗ \"whatever\" belongs to Casual, informal register filler — used in casual, informal conversation among friends or close colleagues — sounds out of place in a formal meeting, not this context.\nSimilar chunks:\n- dunno\n- like\n- kinda\n\n✗ \"Let me rephrase that.\" belongs to Rephrasing in different words — used to restate an idea in different words after the listener seemed confused, not this context.\nSimilar chunks:\n- Let me put it another way.\n- What I'm trying to say is..."
+    },
+    {
+      "id": 34,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to introduce a fact that slightly contradicts what people assumed, without making a big deal of it. Which chunk fits best?",
+      "options": {
+        "A": "needless to say",
+        "B": "actually",
+        "C": "Let me put it another way.",
+        "D": "granted"
+      },
+      "correct": "B",
+      "explanation": "✗ \"needless to say\" belongs to Stating the obvious — used to flag something as self-evident, though it can sound condescending if overused, not this context.\nSimilar chunks:\n- clearly\n- obviously\n\n✓ Correct — \"actually\" is an Introducing a mildly surprising fact chunk: used to introduce information that's mildly surprising or gently corrects an assumption.\nExample: \"Actually, the client asked for this change themselves.\"\nSimilar chunks:\n- as it happens\n- in fact\n\n✗ \"Let me put it another way.\" belongs to Rephrasing in different words — used to restate an idea in different words after the listener seemed confused, not this context.\nSimilar chunks:\n- Let me rephrase that.\n- What I'm trying to say is...\n\n✗ \"granted\" belongs to Conceding a point before continuing — used to acknowledge a valid point, or partially agree, before adding a qualification or your own view, not this context.\nSimilar chunks:\n- Point taken.\n- admittedly\n- mind you"
+    },
+    {
+      "id": 35,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've noticed something a bit odd or coincidental and want to point it out to the listener. Which chunk fits best?",
+      "options": {
+        "A": "That's true.",
+        "B": "Come on.",
+        "C": "interestingly",
+        "D": "correct me if I'm wrong, but..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"That's true.\" belongs to Backchanneling agreement while listening — used as a short verbal signal while listening, to show agreement or that you're following along, not this context.\nSimilar chunks:\n- Right, right.\n- Good point.\n- Exactly.\n\n✗ \"Come on.\" belongs to Expressing disbelief casually — used casually to express disbelief or mild pushback at what someone just said, not this context.\nSimilar chunks:\n- Surely not.\n- I mean, really?\n- Seriously though.\n\n✓ Correct — \"interestingly\" is a Flagging something interesting or unusual chunk: used to flag that something is a bit odd, coincidental, or noteworthy.\nExample: \"Interestingly, the churn rate dropped right after the price increase.\"\nSimilar chunks:\n- funnily enough\n- oddly enough\n\n✗ \"correct me if I'm wrong, but...\" belongs to Leaving room for correction or generous interpretation — used to leave room for the listener to correct you, or invite them to interpret generously, not this context.\nSimilar chunks:\n- if I'm being honest\n- I don't know if...\n- if that makes sense"
+    },
+    {
+      "id": 36,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've noticed something a bit odd or coincidental and want to point it out to the listener. Which chunk fits best?",
+      "options": {
+        "A": "On top of that, ...",
+        "B": "oddly enough",
+        "C": "Point taken.",
+        "D": "Give me a sec."
+      },
+      "correct": "B",
+      "explanation": "✗ \"On top of that, ...\" belongs to Adding another point — used to add another point to what you or someone else just said, not this context.\nSimilar chunks:\n- Also, ...\n- Not to mention, ...\n- Plus, ...\n\n✓ Correct — \"oddly enough\" is a Flagging something interesting or unusual chunk: used to flag that something is a bit odd, coincidental, or noteworthy.\nExample: \"Oddly enough, traffic actually went up during the outage.\"\nSimilar chunks:\n- funnily enough\n- interestingly\n\n✗ \"Point taken.\" belongs to Conceding a point before continuing — used to acknowledge a valid point, or partially agree, before adding a qualification or your own view, not this context.\nSimilar chunks:\n- true\n- granted\n- mind you\n\n✗ \"Give me a sec.\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- Well, ...\n- Hang on.\n- Now, ..."
+    },
+    {
+      "id": 37,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to acknowledge something true about the other side's argument before pushing your own point. Which chunk fits best?",
+      "options": {
+        "A": "Moving on, ...",
+        "B": "true",
+        "C": "What do you think?",
+        "D": "Not to mention, ..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Moving on, ...\" belongs to Formal transition to the next part — used for a more formal, deliberate shift from one part of a talk or discussion to the next, not this context.\nSimilar chunks:\n- That said, ...\n- With that in mind, ...\n\n✓ Correct — \"true\" is a Conceding a point before continuing chunk: used to acknowledge a valid point, or partially agree, before adding a qualification or your own view.\nExample: \"True, the timeline is aggressive, but the team's done it before.\"\nSimilar chunks:\n- mind you\n- granted\n- Point taken.\n\n✗ \"What do you think?\" belongs to Handing the floor to someone else — used to hand the conversation over to someone else and invite their input, not this context.\nSimilar chunks:\n- I'd be interested in your take.\n- Over to you.\n\n✗ \"Not to mention, ...\" belongs to Adding another point — used to add another point to what you or someone else just said, not this context.\nSimilar chunks:\n- Plus, ...\n- Also, ...\n- And another thing, ..."
+    },
+    {
+      "id": 38,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to acknowledge something true about the other side's argument before pushing your own point. Which chunk fits best?",
+      "options": {
+        "A": "granted",
+        "B": "as it were",
+        "C": "in a way",
+        "D": "to be honest"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"granted\" is a Conceding a point before continuing chunk: used to acknowledge a valid point, or partially agree, before adding a qualification or your own view.\nExample: \"Granted, the budget is tight, but this really can't wait.\"\nSimilar chunks:\n- mind you\n- admittedly\n- I'll give you that.\n\n✗ \"as it were\" belongs to Formal register filler — used in formal or high-stakes spoken register — sounds stiff or out of place in casual conversation, not this context.\nSimilar chunks:\n- in a sense\n- if you will\n\n✗ \"in a way\" belongs to Softening a claim as approximate, not exact — used to soften a statement, making it approximate rather than an absolute claim, not this context.\nSimilar chunks:\n- a bit\n- to some degree\n- sort of\n\n✗ \"to be honest\" belongs to Framing your honest stance before speaking — used to signal you're about to speak candidly, without dressing up the opinion, not this context.\nSimilar chunks:\n- candidly\n- honestly\n- to be fair"
+    },
+    {
+      "id": 39,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to acknowledge something true about the other side's argument before pushing your own point. Which chunk fits best?",
+      "options": {
+        "A": "Let me put it another way.",
+        "B": "admittedly",
+        "C": "to be fair",
+        "D": "honestly"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Let me put it another way.\" belongs to Rephrasing in different words — used to restate an idea in different words after the listener seemed confused, not this context.\nSimilar chunks:\n- Let me rephrase that.\n- What I'm trying to say is...\n\n✓ Correct — \"admittedly\" is a Conceding a point before continuing chunk: used to acknowledge a valid point, or partially agree, before adding a qualification or your own view.\nExample: \"Admittedly, the old process was slower, but it caught more errors.\"\nSimilar chunks:\n- granted\n- mind you\n- true\n\n✗ \"to be fair\" belongs to Framing your honest stance before speaking — used to signal you're about to speak candidly, without dressing up the opinion, not this context.\nSimilar chunks:\n- to be honest\n- frankly\n- candidly\n\n✗ \"honestly\" belongs to Framing your honest stance before speaking — used to signal you're about to speak candidly, without dressing up the opinion, not this context.\nSimilar chunks:\n- to be fair\n- to be honest\n- frankly"
+    },
+    {
+      "id": 40,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to point out something that should already be clear to everyone in the room. Which chunk fits best?",
+      "options": {
+        "A": "needless to say",
+        "B": "Come on.",
+        "C": "Before I forget, ...",
+        "D": "In any case, ..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"needless to say\" is a Stating the obvious chunk: used to flag something as self-evident, though it can sound condescending if overused.\nExample: \"Needless to say, we won't be using that vendor again.\"\nSimilar chunks:\n- obviously\n- clearly\n\n✗ \"Come on.\" belongs to Expressing disbelief casually — used casually to express disbelief or mild pushback at what someone just said, not this context.\nSimilar chunks:\n- I mean, really?\n- Seriously though.\n- Surely not.\n\n✗ \"Before I forget, ...\" belongs to Inserting a quick side point — used to insert a short, related side point without derailing the main conversation, not this context.\nSimilar chunks:\n- While we're on the subject, ...\n- Speaking of which, ...\n- While I remember, ...\n\n✗ \"In any case, ...\" belongs to Returning to the main topic after a digression — used to signal a return to the main topic after a side comment or tangent, not this context.\nSimilar chunks:\n- Anyhow, ...\n- Anyway, ..."
+    },
+    {
+      "id": 41,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to point out something that should already be clear to everyone in the room. Which chunk fits best?",
+      "options": {
+        "A": "to put it simply",
+        "B": "So, ...",
+        "C": "clearly",
+        "D": "Now, ..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"to put it simply\" belongs to Summarizing or simplifying what you said — used to boil a longer explanation down to its simplest form, not this context.\nSimilar chunks:\n- essentially\n- in other words\n- in a nutshell\n\n✗ \"So, ...\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- OK so...\n- How can I put this.\n- Give me a sec.\n\n✓ Correct — \"clearly\" is a Stating the obvious chunk: used to flag something as self-evident, though it can sound condescending if overused.\nExample: \"Clearly, the current process isn't scaling with the team's growth.\"\nSimilar chunks:\n- obviously\n- needless to say\n\n✗ \"Now, ...\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- Let me see.\n- Hang on.\n- Give me a sec."
+    },
+    {
+      "id": 42,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "Someone tries to jump in while you're still mid-point, and you want to politely keep talking. Which chunk fits best?",
+      "options": {
+        "A": "true",
+        "B": "What I'm trying to say is...",
+        "C": "Just to finish my thought...",
+        "D": "sort of"
+      },
+      "correct": "C",
+      "explanation": "✗ \"true\" belongs to Conceding a point before continuing — used to acknowledge a valid point, or partially agree, before adding a qualification or your own view, not this context.\nSimilar chunks:\n- I'll give you that.\n- granted\n- admittedly\n\n✗ \"What I'm trying to say is...\" belongs to Rephrasing in different words — used to restate an idea in different words after the listener seemed confused, not this context.\nSimilar chunks:\n- Let me put it another way.\n- Let me rephrase that.\n\n✓ Correct — \"Just to finish my thought...\" is a Holding the floor when interrupted chunk: used to politely keep the floor and finish your point when someone tries to interrupt.\nExample: \"Just to finish my thought — the second issue is actually more urgent.\"\nSimilar chunks:\n- If I could just finish...\n- Bear with me, I'm getting to that.\n\n✗ \"sort of\" belongs to Softening a claim as approximate, not exact — used to soften a statement, making it approximate rather than an absolute claim, not this context.\nSimilar chunks:\n- in a way\n- more or less\n- a bit"
+    },
+    {
+      "id": 43,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "Someone tries to jump in while you're still mid-point, and you want to politely keep talking. Which chunk fits best?",
+      "options": {
+        "A": "That said, ...",
+        "B": "And another thing, ...",
+        "C": "Bear with me, I'm getting to that.",
+        "D": "With that in mind, ..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"That said, ...\" belongs to Formal transition to the next part — used for a more formal, deliberate shift from one part of a talk or discussion to the next, not this context.\nSimilar chunks:\n- Moving on, ...\n- With that in mind, ...\n\n✗ \"And another thing, ...\" belongs to Adding another point — used to add another point to what you or someone else just said, not this context.\nSimilar chunks:\n- Not to mention, ...\n- On top of that, ...\n- Also, ...\n\n✓ Correct — \"Bear with me, I'm getting to that.\" is a Holding the floor when interrupted chunk: used to politely keep the floor and finish your point when someone tries to interrupt.\nExample: \"Bear with me, I'm getting to that — it's the next slide.\"\nSimilar chunks:\n- If I could just finish...\n- Just to finish my thought...\n\n✗ \"With that in mind, ...\" belongs to Formal transition to the next part — used for a more formal, deliberate shift from one part of a talk or discussion to the next, not this context.\nSimilar chunks:\n- Moving on, ...\n- That said, ..."
+    },
+    {
+      "id": 44,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "Someone else is talking and you want to politely interrupt to add something. Which chunk fits best?",
+      "options": {
+        "A": "I mean, ...",
+        "B": "as it happens",
+        "C": "Can I jump in here?",
+        "D": "Good point."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I mean, ...\" belongs to Correcting or restating what you just said — used to immediately correct or narrow down something you just said, not this context.\nSimilar chunks:\n- That is, ...\n- Or rather, ...\n\n✗ \"as it happens\" belongs to Introducing a mildly surprising fact — used to introduce information that's mildly surprising or gently corrects an assumption, not this context.\nSimilar chunks:\n- in fact\n- actually\n\n✓ Correct — \"Can I jump in here?\" is an Asking to jump into the conversation chunk: used to politely ask for a turn to speak while someone else is talking.\nExample: \"Can I jump in here? I think there's a simpler option.\"\nSimilar chunks:\n- Just to add to that...\n- If I may...\n- Sorry to interrupt, but...\n\n✗ \"Good point.\" belongs to Backchanneling agreement while listening — used as a short verbal signal while listening, to show agreement or that you're following along, not this context.\nSimilar chunks:\n- Fair enough.\n- Right, right.\n- Exactly."
+    },
+    {
+      "id": 45,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "Someone else is talking and you want to politely interrupt to add something. Which chunk fits best?",
+      "options": {
+        "A": "Just to add to that...",
+        "B": "whatever",
+        "C": "to be honest",
+        "D": "actually"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Just to add to that...\" is an Asking to jump into the conversation chunk: used to politely ask for a turn to speak while someone else is talking.\nExample: \"Just to add to that, we also saw the same issue in QA.\"\nSimilar chunks:\n- If I may...\n- Can I jump in here?\n- Sorry to interrupt, but...\n\n✗ \"whatever\" belongs to Casual, informal register filler — used in casual, informal conversation among friends or close colleagues — sounds out of place in a formal meeting, not this context.\nSimilar chunks:\n- dunno\n- kinda\n- like\n\n✗ \"to be honest\" belongs to Framing your honest stance before speaking — used to signal you're about to speak candidly, without dressing up the opinion, not this context.\nSimilar chunks:\n- frankly\n- candidly\n- to be fair\n\n✗ \"actually\" belongs to Introducing a mildly surprising fact — used to introduce information that's mildly surprising or gently corrects an assumption, not this context.\nSimilar chunks:\n- in fact\n- as it happens"
+    },
+    {
+      "id": 46,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've finished making your point and want to invite someone else to share their perspective. Which chunk fits best?",
+      "options": {
+        "A": "simply put",
+        "B": "in a way",
+        "C": "That reminds me, ...",
+        "D": "What do you think?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"simply put\" belongs to Summarizing or simplifying what you said — used to boil a longer explanation down to its simplest form, not this context.\nSimilar chunks:\n- in other words\n- to put it simply\n- essentially\n\n✗ \"in a way\" belongs to Softening a claim as approximate, not exact — used to soften a statement, making it approximate rather than an absolute claim, not this context.\nSimilar chunks:\n- to some degree\n- a bit\n- kind of\n\n✗ \"That reminds me, ...\" belongs to Inserting a quick side point — used to insert a short, related side point without derailing the main conversation, not this context.\nSimilar chunks:\n- Before I forget, ...\n- Speaking of which, ...\n- While I remember, ...\n\n✓ Correct — \"What do you think?\" is a Handing the floor to someone else chunk: used to hand the conversation over to someone else and invite their input.\nExample: \"What do you think — does this timeline work for your team?\"\nSimilar chunks:\n- Over to you.\n- I'd be interested in your take."
+    },
+    {
+      "id": 47,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've finished making your point and want to invite someone else to share their perspective. Which chunk fits best?",
+      "options": {
+        "A": "I'd be interested in your take.",
+        "B": "a bit",
+        "C": "Let me put it another way.",
+        "D": "if you like"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I'd be interested in your take.\" is a Handing the floor to someone else chunk: used to hand the conversation over to someone else and invite their input.\nExample: \"I'd be interested in your take on the pricing change.\"\nSimilar chunks:\n- Over to you.\n- What do you think?\n\n✗ \"a bit\" belongs to Softening a claim as approximate, not exact — used to soften a statement, making it approximate rather than an absolute claim, not this context.\nSimilar chunks:\n- kind of\n- to some degree\n- sort of\n\n✗ \"Let me put it another way.\" belongs to Rephrasing in different words — used to restate an idea in different words after the listener seemed confused, not this context.\nSimilar chunks:\n- What I'm trying to say is...\n- Let me rephrase that.\n\n✗ \"if you like\" belongs to Approximating a word choice — used to signal that a word choice is approximate rather than exact, not this context.\nSimilar chunks:\n- for want of a better word\n- so to speak"
+    },
+    {
+      "id": 48,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "Someone else is speaking and you want to show, in a word or two, that you're following and agree. Which chunk fits best?",
+      "options": {
+        "A": "Now, ...",
+        "B": "Fair enough.",
+        "C": "Let me put it another way.",
+        "D": "actually"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Now, ...\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- So, ...\n- Well, ...\n- How can I put this.\n\n✓ Correct — \"Fair enough.\" is a Backchanneling agreement while listening chunk: used as a short verbal signal while listening, to show agreement or that you're following along.\nExample: \"We just don't have the headcount right now.\" \"Fair enough.\"\nSimilar chunks:\n- Good point.\n- That's true.\n- Exactly.\n\n✗ \"Let me put it another way.\" belongs to Rephrasing in different words — used to restate an idea in different words after the listener seemed confused, not this context.\nSimilar chunks:\n- Let me rephrase that.\n- What I'm trying to say is...\n\n✗ \"actually\" belongs to Introducing a mildly surprising fact — used to introduce information that's mildly surprising or gently corrects an assumption, not this context.\nSimilar chunks:\n- in fact\n- as it happens"
+    },
+    {
+      "id": 49,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "Someone else is speaking and you want to show, in a word or two, that you're following and agree. Which chunk fits best?",
+      "options": {
+        "A": "That's true.",
+        "B": "Come on.",
+        "C": "to be fair",
+        "D": "long story short"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"That's true.\" is a Backchanneling agreement while listening chunk: used as a short verbal signal while listening, to show agreement or that you're following along.\nExample: \"Nobody actually reads the release notes.\" \"That's true.\"\nSimilar chunks:\n- Right, right.\n- Exactly.\n- Good point.\n\n✗ \"Come on.\" belongs to Expressing disbelief casually — used casually to express disbelief or mild pushback at what someone just said, not this context.\nSimilar chunks:\n- I mean, really?\n- Seriously though.\n- Surely not.\n\n✗ \"to be fair\" belongs to Framing your honest stance before speaking — used to signal you're about to speak candidly, without dressing up the opinion, not this context.\nSimilar chunks:\n- to be honest\n- frankly\n- candidly\n\n✗ \"long story short\" belongs to Cutting to the short version — used to skip the details and jump straight to the outcome of a longer story, not this context.\nSimilar chunks:\n- basically\n- to cut a long story short"
+    },
+    {
+      "id": 50,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've made one point and want to naturally tack on another one without sounding repetitive. Which chunk fits best?",
+      "options": {
+        "A": "look",
+        "B": "That reminds me, ...",
+        "C": "candidly",
+        "D": "And another thing, ..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"look\" belongs to Assuming shared understanding and engaging the listener — used to draw the listener in and check they share your assumption or are following along, not this context.\nSimilar chunks:\n- you see\n- listen\n- you know\n\n✗ \"That reminds me, ...\" belongs to Inserting a quick side point — used to insert a short, related side point without derailing the main conversation, not this context.\nSimilar chunks:\n- Before I forget, ...\n- While I remember, ...\n- Just quickly, ...\n\n✗ \"candidly\" belongs to Framing your honest stance before speaking — used to signal you're about to speak candidly, without dressing up the opinion, not this context.\nSimilar chunks:\n- to be honest\n- frankly\n- honestly\n\n✓ Correct — \"And another thing, ...\" is an Adding another point chunk: used to add another point to what you or someone else just said.\nExample: \"And another thing — the ticket queue is a mess right now.\"\nSimilar chunks:\n- Not to mention, ...\n- Also, ...\n- On top of that, ..."
+    },
+    {
+      "id": 51,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've made one point and want to naturally tack on another one without sounding repetitive. Which chunk fits best?",
+      "options": {
+        "A": "I don't know if...",
+        "B": "Plus, ...",
+        "C": "Well, ...",
+        "D": "to be honest"
+      },
+      "correct": "B",
+      "explanation": "✗ \"I don't know if...\" belongs to Leaving room for correction or generous interpretation — used to leave room for the listener to correct you, or invite them to interpret generously, not this context.\nSimilar chunks:\n- correct me if I'm wrong, but...\n- if I'm being honest\n- if that makes sense\n\n✓ Correct — \"Plus, ...\" is an Adding another point chunk: used to add another point to what you or someone else just said.\nExample: \"Plus, the new plan is actually cheaper for most customers.\"\nSimilar chunks:\n- And another thing, ...\n- Also, ...\n- Not to mention, ...\n\n✗ \"Well, ...\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- So, ...\n- Hang on.\n- Right, ...\n\n✗ \"to be honest\" belongs to Framing your honest stance before speaking — used to signal you're about to speak candidly, without dressing up the opinion, not this context.\nSimilar chunks:\n- to be fair\n- honestly\n- frankly"
+    },
+    {
+      "id": 52,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've just made one point and want to add a second thought that pulls slightly against it. Which chunk fits best?",
+      "options": {
+        "A": "listen",
+        "B": "Then again, ...",
+        "C": "Right, ...",
+        "D": "Sorry to interrupt, but..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"listen\" belongs to Assuming shared understanding and engaging the listener — used to draw the listener in and check they share your assumption or are following along, not this context.\nSimilar chunks:\n- look\n- you know\n- you see\n\n✓ Correct — \"Then again, ...\" is a Pivoting to a contrasting point chunk: used to add a thought that pulls slightly against what was just said.\nExample: \"It's risky — then again, doing nothing is riskier.\"\nSimilar chunks:\n- Having said that, ...\n\n✗ \"Right, ...\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- So, ...\n- Let me see.\n- How can I put this.\n\n✗ \"Sorry to interrupt, but...\" belongs to Asking to jump into the conversation — used to politely ask for a turn to speak while someone else is talking, not this context.\nSimilar chunks:\n- If I may...\n- Just to add to that...\n- Can I jump in here?"
+    },
+    {
+      "id": 53,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You've just made one point and want to add a second thought that pulls slightly against it. Which chunk fits best?",
+      "options": {
+        "A": "needless to say",
+        "B": "Having said that, ...",
+        "C": "Exactly.",
+        "D": "Well, ..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"needless to say\" belongs to Stating the obvious — used to flag something as self-evident, though it can sound condescending if overused, not this context.\nSimilar chunks:\n- obviously\n- clearly\n\n✓ Correct — \"Having said that, ...\" is a Pivoting to a contrasting point chunk: used to add a thought that pulls slightly against what was just said.\nExample: \"Having said that, I don't think we should rush the fix.\"\nSimilar chunks:\n- Then again, ...\n\n✗ \"Exactly.\" belongs to Backchanneling agreement while listening — used as a short verbal signal while listening, to show agreement or that you're following along, not this context.\nSimilar chunks:\n- Fair enough.\n- That's true.\n- Right, right.\n\n✗ \"Well, ...\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- Hang on.\n- Give me a sec.\n- How can I put this."
+    },
+    {
+      "id": 54,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "Someone just told you something you find hard to believe, and you want a natural way to push back on it. Which chunk fits best?",
+      "options": {
+        "A": "if you will",
+        "B": "Seriously though.",
+        "C": "Let me rephrase that.",
+        "D": "Over to you."
+      },
+      "correct": "B",
+      "explanation": "✗ \"if you will\" belongs to Formal register filler — used in formal or high-stakes spoken register — sounds stiff or out of place in casual conversation, not this context.\nSimilar chunks:\n- in a sense\n- as it were\n\n✓ Correct — \"Seriously though.\" is an Expressing disbelief casually chunk: used casually to express disbelief or mild pushback at what someone just said.\nExample: \"Seriously though, has anyone actually tested this on mobile?\"\nSimilar chunks:\n- I mean, really?\n- Surely not.\n- Come on.\n\n✗ \"Let me rephrase that.\" belongs to Rephrasing in different words — used to restate an idea in different words after the listener seemed confused, not this context.\nSimilar chunks:\n- What I'm trying to say is...\n- Let me put it another way.\n\n✗ \"Over to you.\" belongs to Handing the floor to someone else — used to hand the conversation over to someone else and invite their input, not this context.\nSimilar chunks:\n- What do you think?\n- I'd be interested in your take."
+    },
+    {
+      "id": 55,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "Someone just told you something you find hard to believe, and you want a natural way to push back on it. Which chunk fits best?",
+      "options": {
+        "A": "interestingly",
+        "B": "Surely not.",
+        "C": "Let me rephrase that.",
+        "D": "Let me put it another way."
+      },
+      "correct": "B",
+      "explanation": "✗ \"interestingly\" belongs to Flagging something interesting or unusual — used to flag that something is a bit odd, coincidental, or noteworthy, not this context.\nSimilar chunks:\n- funnily enough\n- oddly enough\n\n✓ Correct — \"Surely not.\" is an Expressing disbelief casually chunk: used casually to express disbelief or mild pushback at what someone just said.\nExample: \"They're delaying it again? Surely not.\"\nSimilar chunks:\n- Seriously though.\n- I mean, really?\n- Come on.\n\n✗ \"Let me rephrase that.\" belongs to Rephrasing in different words — used to restate an idea in different words after the listener seemed confused, not this context.\nSimilar chunks:\n- Let me put it another way.\n- What I'm trying to say is...\n\n✗ \"Let me put it another way.\" belongs to Rephrasing in different words — used to restate an idea in different words after the listener seemed confused, not this context.\nSimilar chunks:\n- What I'm trying to say is...\n- Let me rephrase that."
+    },
+    {
+      "id": 56,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're chatting informally with a close colleague and want a filler word that matches that relaxed tone. Which chunk fits best?",
+      "options": {
+        "A": "if I'm being honest",
+        "B": "sort of",
+        "C": "whatever",
+        "D": "correct me if I'm wrong, but..."
+      },
+      "correct": "C",
+      "explanation": "✗ \"if I'm being honest\" belongs to Leaving room for correction or generous interpretation — used to leave room for the listener to correct you, or invite them to interpret generously, not this context.\nSimilar chunks:\n- I don't know if...\n- correct me if I'm wrong, but...\n- if that makes sense\n\n✗ \"sort of\" belongs to Softening a claim as approximate, not exact — used to soften a statement, making it approximate rather than an absolute claim, not this context.\nSimilar chunks:\n- a bit\n- more or less\n- in a way\n\n✓ Correct — \"whatever\" is a Casual, informal register filler chunk: used in casual, informal conversation among friends or close colleagues — sounds out of place in a formal meeting.\nExample: \"Whatever works for the team, honestly.\"\nSimilar chunks:\n- kinda\n- dunno\n- like\n\n✗ \"correct me if I'm wrong, but...\" belongs to Leaving room for correction or generous interpretation — used to leave room for the listener to correct you, or invite them to interpret generously, not this context.\nSimilar chunks:\n- I don't know if...\n- if that makes sense\n- if I'm being honest"
+    },
+    {
+      "id": 57,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're chatting informally with a close colleague and want a filler word that matches that relaxed tone. Which chunk fits best?",
+      "options": {
+        "A": "Surely not.",
+        "B": "if I'm being honest",
+        "C": "like",
+        "D": "as it were"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Surely not.\" belongs to Expressing disbelief casually — used casually to express disbelief or mild pushback at what someone just said, not this context.\nSimilar chunks:\n- I mean, really?\n- Seriously though.\n- Come on.\n\n✗ \"if I'm being honest\" belongs to Leaving room for correction or generous interpretation — used to leave room for the listener to correct you, or invite them to interpret generously, not this context.\nSimilar chunks:\n- if that makes sense\n- correct me if I'm wrong, but...\n- I don't know if...\n\n✓ Correct — \"like\" is a Casual, informal register filler chunk: used in casual, informal conversation among friends or close colleagues — sounds out of place in a formal meeting.\nExample: \"It was, like, the worst demo we've ever given.\"\nSimilar chunks:\n- dunno\n- kinda\n- whatever\n\n✗ \"as it were\" belongs to Formal register filler — used in formal or high-stakes spoken register — sounds stiff or out of place in casual conversation, not this context.\nSimilar chunks:\n- if you will\n- in a sense"
+    },
+    {
+      "id": 58,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're speaking in a fairly ordinary, everyday tone — not too casual, not too formal — and need a filler that matches. Which chunk fits best?",
+      "options": {
+        "A": "I guess",
+        "B": "to be fair",
+        "C": "correct me if I'm wrong, but...",
+        "D": "obviously"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I guess\" is a Neutral register filler chunk: used in ordinary, everyday spoken register — neither noticeably casual nor formal.\nExample: \"I guess we'll find out once the numbers come in.\"\nSimilar chunks:\n- I suppose\n\n✗ \"to be fair\" belongs to Framing your honest stance before speaking — used to signal you're about to speak candidly, without dressing up the opinion, not this context.\nSimilar chunks:\n- honestly\n- to be honest\n- frankly\n\n✗ \"correct me if I'm wrong, but...\" belongs to Leaving room for correction or generous interpretation — used to leave room for the listener to correct you, or invite them to interpret generously, not this context.\nSimilar chunks:\n- if that makes sense\n- if I'm being honest\n- I don't know if...\n\n✗ \"obviously\" belongs to Stating the obvious — used to flag something as self-evident, though it can sound condescending if overused, not this context.\nSimilar chunks:\n- clearly\n- needless to say"
+    },
+    {
+      "id": 59,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're speaking in a fairly ordinary, everyday tone — not too casual, not too formal — and need a filler that matches. Which chunk fits best?",
+      "options": {
+        "A": "Well, ...",
+        "B": "Moving on, ...",
+        "C": "I suppose",
+        "D": "in fact"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Well, ...\" belongs to Starting to speak, or buying a second to think — used to open a turn or briefly stall for a second before answering, without an awkward silent pause, not this context.\nSimilar chunks:\n- Hang on.\n- Right, ...\n- Now, ...\n\n✗ \"Moving on, ...\" belongs to Formal transition to the next part — used for a more formal, deliberate shift from one part of a talk or discussion to the next, not this context.\nSimilar chunks:\n- With that in mind, ...\n- That said, ...\n\n✓ Correct — \"I suppose\" is a Neutral register filler chunk: used in ordinary, everyday spoken register — neither noticeably casual nor formal.\nExample: \"I suppose we could try the smaller vendor instead.\"\nSimilar chunks:\n- I guess\n\n✗ \"in fact\" belongs to Introducing a mildly surprising fact — used to introduce information that's mildly surprising or gently corrects an assumption, not this context.\nSimilar chunks:\n- as it happens\n- actually"
+    },
+    {
+      "id": 60,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're speaking in a formal or high-stakes setting, like a board meeting, and need a filler that matches that register. Which chunk fits best?",
+      "options": {
+        "A": "Also, ...",
+        "B": "Anyhow, ...",
+        "C": "And another thing, ...",
+        "D": "as it were"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Also, ...\" belongs to Adding another point — used to add another point to what you or someone else just said, not this context.\nSimilar chunks:\n- Not to mention, ...\n- On top of that, ...\n- Plus, ...\n\n✗ \"Anyhow, ...\" belongs to Returning to the main topic after a digression — used to signal a return to the main topic after a side comment or tangent, not this context.\nSimilar chunks:\n- In any case, ...\n- Anyway, ...\n\n✗ \"And another thing, ...\" belongs to Adding another point — used to add another point to what you or someone else just said, not this context.\nSimilar chunks:\n- Also, ...\n- Not to mention, ...\n- On top of that, ...\n\n✓ Correct — \"as it were\" is a Formal register filler chunk: used in formal or high-stakes spoken register — sounds stiff or out of place in casual conversation.\nExample: \"The team became, as it were, the client's de facto support desk.\"\nSimilar chunks:\n- if you will\n- in a sense"
+    },
+    {
+      "id": 61,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You're speaking in a formal or high-stakes setting, like a board meeting, and need a filler that matches that register. Which chunk fits best?",
+      "options": {
+        "A": "Or rather, ...",
+        "B": "if you will",
+        "C": "if I'm being honest",
+        "D": "you see"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Or rather, ...\" belongs to Correcting or restating what you just said — used to immediately correct or narrow down something you just said, not this context.\nSimilar chunks:\n- I mean, ...\n- That is, ...\n\n✓ Correct — \"if you will\" is a Formal register filler chunk: used in formal or high-stakes spoken register — sounds stiff or out of place in casual conversation.\nExample: \"It's a soft launch, if you will, before the full rollout.\"\nSimilar chunks:\n- in a sense\n- as it were\n\n✗ \"if I'm being honest\" belongs to Leaving room for correction or generous interpretation — used to leave room for the listener to correct you, or invite them to interpret generously, not this context.\nSimilar chunks:\n- if that makes sense\n- correct me if I'm wrong, but...\n- I don't know if...\n\n✗ \"you see\" belongs to Assuming shared understanding and engaging the listener — used to draw the listener in and check they share your assumption or are following along, not this context.\nSimilar chunks:\n- you know\n- listen\n- look"
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "examId": "tonicity-stress",
+  "title": "Chunk Atlas — Voice & Presence: Tonicity",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to make clear that someone else made a claim — not you — using stress alone. Which chunk fits best?",
+      "options": {
+        "A": "This. Changes. Everything.",
+        "B": "I said **Tues**day, not **Thurs**day.",
+        "C": "**I** didn't say he stole the money.",
+        "D": "We **can** do it. The question is whether we **should**."
+      },
+      "correct": "C",
+      "explanation": "✗ \"This. Changes. Everything.\" belongs to Tone-unit chunking — used to break speech into short tone units, each carrying its own stress, to sound deliberate and weighty, not this context.\nSimilar chunks:\n- The main issue | is that the data | doesn't reconcile | across systems.\n\n✗ \"I said **Tues**day, not **Thurs**day.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- I didn't say it was **easy**. I said it was **possible**.\n- It's not a **budget** problem, it's a **timeline** problem.\n- I'm not saying it's **wrong** — I'm saying it's **incomplete**.\n\n✓ Correct — \"**I** didn't say he stole the money.\" is a Correcting the speaker chunk: used to stress the subject 'I', implying someone else is the one who said it.\nExample: \"**I** didn't say he stole the money — that was Mark, not me.\"\n\n✗ \"We **can** do it. The question is whether we **should**.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- I didn't say it was **easy**. I said it was **possible**.\n- That's what he **said**. It's not what he **meant**.\n- I said **Tues**day, not **Thurs**day."
+    },
+    {
+      "id": 2,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to make clear that someone else made a claim — not you — using stress alone. Which chunk fits best?",
+      "options": {
+        "A": "It's a **book**.",
+        "B": "That's what he **said**. It's not what he **meant**.",
+        "C": "The main issue | is that the data | doesn't reconcile | across systems.",
+        "D": "**I** didn't say he stole the money."
+      },
+      "correct": "D",
+      "explanation": "✗ \"It's a **book**.\" belongs to Stressing new information — used to place stress on new information while gliding over what's already known — the default English stress rule, not this context.\nSimilar chunks:\n- It's **my** book.\n- What **kind** of car?\n\n✗ \"That's what he **said**. It's not what he **meant**.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- I said **Tues**day, not **Thurs**day.\n- I didn't say it was **easy**. I said it was **possible**.\n- We **can** do it. The question is whether we **should**.\n\n✗ \"The main issue | is that the data | doesn't reconcile | across systems.\" belongs to Tone-unit chunking — used to break speech into short tone units, each carrying its own stress, to sound deliberate and weighty, not this context.\nSimilar chunks:\n- This. Changes. Everything.\n\n✓ Correct — \"**I** didn't say he stole the money.\" is a Correcting the speaker chunk: used to stress the subject 'I', implying someone else is the one who said it.\nExample: \"**I** didn't say he stole the money — that was Mark, not me.\""
+    },
+    {
+      "id": 3,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to flatly deny that you ever made a claim at all, using stress alone. Which chunk fits best?",
+      "options": {
+        "A": "I **didn't** say he stole the money.",
+        "B": "That's what he **said**. It's not what he **meant**.",
+        "C": "I'm not saying it's **wrong** — I'm saying it's **incomplete**.",
+        "D": "We **can** do it. The question is whether we **should**."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I **didn't** say he stole the money.\" is a Denying it outright chunk: used to stress 'didn't', flatly denying the whole statement.\nExample: \"I **didn't** say he stole the money — I never said anything like that.\"\n\n✗ \"That's what he **said**. It's not what he **meant**.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- I said **Tues**day, not **Thurs**day.\n- I'm not saying it's **wrong** — I'm saying it's **incomplete**.\n- I didn't say it was **easy**. I said it was **possible**.\n\n✗ \"I'm not saying it's **wrong** — I'm saying it's **incomplete**.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- I didn't say it was **easy**. I said it was **possible**.\n- That's what he **said**. It's not what he **meant**.\n- I said **Tues**day, not **Thurs**day.\n\n✗ \"We **can** do it. The question is whether we **should**.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- I said **Tues**day, not **Thurs**day.\n- It's not a **budget** problem, it's a **timeline** problem.\n- That's what he **said**. It's not what he **meant**."
+    },
+    {
+      "id": 4,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to flatly deny that you ever made a claim at all, using stress alone. Which chunk fits best?",
+      "options": {
+        "A": "I **didn't** say he stole the money.",
+        "B": "That's what he **said**. It's not what he **meant**.",
+        "C": "We need it **done**, not **perfect**.",
+        "D": "I said **Tuesday**, not **Thursday**."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I **didn't** say he stole the money.\" is a Denying it outright chunk: used to stress 'didn't', flatly denying the whole statement.\nExample: \"I **didn't** say he stole the money — I never said anything like that.\"\n\n✗ \"That's what he **said**. It's not what he **meant**.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- We **can** do it. The question is whether we **should**.\n- I didn't say it was **easy**. I said it was **possible**.\n- It's not a **budget** problem, it's a **timeline** problem.\n\n✗ \"We need it **done**, not **perfect**.\" belongs to Contrastive correction (extra) — used to correct a specific misunderstanding by stressing only the contrasting word, not this context.\nSimilar chunks:\n- **You** think that. **I** don't.\n- It **works**. It just isn't **ready**.\n- I'm not **against** it — I'm **cautious** about it.\n\n✗ \"I said **Tuesday**, not **Thursday**.\" belongs to Contrastive correction (extra) — used to correct a specific misunderstanding by stressing only the contrasting word, not this context.\nSimilar chunks:\n- I'm not **against** it — I'm **cautious** about it.\n- That's the **symptom**, not the **cause**.\n- It's not **my** decision, it's **hers**."
+    },
+    {
+      "id": 5,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to point out that you only implied something, without ever stating it outright. Which chunk fits best?",
+      "options": {
+        "A": "I didn't **say** he stole the money.",
+        "B": "We **can** do it. The question is whether we **should**.",
+        "C": "I didn't say **he** stole the money.",
+        "D": "That's what he **said**. It's not what he **meant**."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I didn't **say** he stole the money.\" is a Correcting the verb chunk: used to stress 'say', implying the point was suggested, not stated outright.\nExample: \"I didn't **say** he stole the money — I just raised a question about the missing receipts.\"\n\n✗ \"We **can** do it. The question is whether we **should**.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- I said **Tues**day, not **Thurs**day.\n- That's what he **said**. It's not what he **meant**.\n- I'm not saying it's **wrong** — I'm saying it's **incomplete**.\n\n✗ \"I didn't say **he** stole the money.\" belongs to Correcting who — used to stress 'he', implying someone else — not him — is responsible, not this context.\n\n✗ \"That's what he **said**. It's not what he **meant**.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- I said **Tues**day, not **Thurs**day.\n- I didn't say it was **easy**. I said it was **possible**.\n- It's not a **budget** problem, it's a **timeline** problem."
+    },
+    {
+      "id": 6,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to point out that you only implied something, without ever stating it outright. Which chunk fits best?",
+      "options": {
+        "A": "We **can** do it. The question is whether we **should**.",
+        "B": "I didn't **say** he stole the money.",
+        "C": "This. Changes. Everything.",
+        "D": "It's a **book**."
+      },
+      "correct": "B",
+      "explanation": "✗ \"We **can** do it. The question is whether we **should**.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- I'm not saying it's **wrong** — I'm saying it's **incomplete**.\n- It's not a **budget** problem, it's a **timeline** problem.\n- I said **Tues**day, not **Thurs**day.\n\n✓ Correct — \"I didn't **say** he stole the money.\" is a Correcting the verb chunk: used to stress 'say', implying the point was suggested, not stated outright.\nExample: \"I didn't **say** he stole the money — I just raised a question about the missing receipts.\"\n\n✗ \"This. Changes. Everything.\" belongs to Tone-unit chunking — used to break speech into short tone units, each carrying its own stress, to sound deliberate and weighty, not this context.\nSimilar chunks:\n- The main issue | is that the data | doesn't reconcile | across systems.\n\n✗ \"It's a **book**.\" belongs to Stressing new information — used to place stress on new information while gliding over what's already known — the default English stress rule, not this context.\nSimilar chunks:\n- It's **my** book.\n- What **kind** of car?"
+    },
+    {
+      "id": 7,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to make clear a different person is responsible, not the one currently being blamed. Which chunk fits best?",
+      "options": {
+        "A": "I didn't **say** he stole the money.",
+        "B": "It's not **my** decision, it's **hers**.",
+        "C": "I didn't say **he** stole the money.",
+        "D": "I said **Tuesday**, not **Thursday**."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I didn't **say** he stole the money.\" belongs to Correcting the verb — used to stress 'say', implying the point was suggested, not stated outright, not this context.\n\n✗ \"It's not **my** decision, it's **hers**.\" belongs to Contrastive correction (extra) — used to correct a specific misunderstanding by stressing only the contrasting word, not this context.\nSimilar chunks:\n- I **asked** him — I didn't **tell** him.\n- **You** think that. **I** don't.\n- We need it **done**, not **perfect**.\n\n✓ Correct — \"I didn't say **he** stole the money.\" is a Correcting who chunk: used to stress 'he', implying someone else — not him — is responsible.\nExample: \"I didn't say **he** stole the money — I think it was someone on the finance team.\"\n\n✗ \"I said **Tuesday**, not **Thursday**.\" belongs to Contrastive correction (extra) — used to correct a specific misunderstanding by stressing only the contrasting word, not this context.\nSimilar chunks:\n- **You** think that. **I** don't.\n- We need it **done**, not **perfect**.\n- I'm not **against** it — I'm **cautious** about it."
+    },
+    {
+      "id": 8,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to make clear a different person is responsible, not the one currently being blamed. Which chunk fits best?",
+      "options": {
+        "A": "I'm not **against** it — I'm **cautious** about it.",
+        "B": "This. Changes. Everything.",
+        "C": "It's a **book**.",
+        "D": "I didn't say **he** stole the money."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'm not **against** it — I'm **cautious** about it.\" belongs to Contrastive correction (extra) — used to correct a specific misunderstanding by stressing only the contrasting word, not this context.\nSimilar chunks:\n- It **works**. It just isn't **ready**.\n- We need it **done**, not **perfect**.\n- I **asked** him — I didn't **tell** him.\n\n✗ \"This. Changes. Everything.\" belongs to Tone-unit chunking — used to break speech into short tone units, each carrying its own stress, to sound deliberate and weighty, not this context.\nSimilar chunks:\n- The main issue | is that the data | doesn't reconcile | across systems.\n\n✗ \"It's a **book**.\" belongs to Stressing new information — used to place stress on new information while gliding over what's already known — the default English stress rule, not this context.\nSimilar chunks:\n- What **kind** of car?\n- It's **my** book.\n\n✓ Correct — \"I didn't say **he** stole the money.\" is a Correcting who chunk: used to stress 'he', implying someone else — not him — is responsible.\nExample: \"I didn't say **he** stole the money — I think it was someone on the finance team.\""
+    },
+    {
+      "id": 9,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to acknowledge he took it, while rejecting the specific word used to describe it. Which chunk fits best?",
+      "options": {
+        "A": "I didn't say he **stole** the money.",
+        "B": "I said **Tuesday**, not **Thursday**.",
+        "C": "That's what he **said**. It's not what he **meant**.",
+        "D": "**I** didn't say he stole the money."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I didn't say he **stole** the money.\" is a Correcting the action chunk: used to stress 'stole', rejecting that specific word while accepting he took it.\nExample: \"I didn't say he **stole** the money — I said he borrowed it without asking.\"\n\n✗ \"I said **Tuesday**, not **Thursday**.\" belongs to Contrastive correction (extra) — used to correct a specific misunderstanding by stressing only the contrasting word, not this context.\nSimilar chunks:\n- It **works**. It just isn't **ready**.\n- **You** think that. **I** don't.\n- I **asked** him — I didn't **tell** him.\n\n✗ \"That's what he **said**. It's not what he **meant**.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- I didn't say it was **easy**. I said it was **possible**.\n- We **can** do it. The question is whether we **should**.\n- I'm not saying it's **wrong** — I'm saying it's **incomplete**.\n\n✗ \"**I** didn't say he stole the money.\" belongs to Correcting the speaker — used to stress the subject 'I', implying someone else is the one who said it, not this context."
+    },
+    {
+      "id": 10,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to acknowledge he took it, while rejecting the specific word used to describe it. Which chunk fits best?",
+      "options": {
+        "A": "I didn't say he **stole** the money.",
+        "B": "I didn't say **he** stole the money.",
+        "C": "We **can** do it. The question is whether we **should**.",
+        "D": "I **asked** him — I didn't **tell** him."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I didn't say he **stole** the money.\" is a Correcting the action chunk: used to stress 'stole', rejecting that specific word while accepting he took it.\nExample: \"I didn't say he **stole** the money — I said he borrowed it without asking.\"\n\n✗ \"I didn't say **he** stole the money.\" belongs to Correcting who — used to stress 'he', implying someone else — not him — is responsible, not this context.\n\n✗ \"We **can** do it. The question is whether we **should**.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- I said **Tues**day, not **Thurs**day.\n- I didn't say it was **easy**. I said it was **possible**.\n- That's what he **said**. It's not what he **meant**.\n\n✗ \"I **asked** him — I didn't **tell** him.\" belongs to Contrastive correction (extra) — used to correct a specific misunderstanding by stressing only the contrasting word, not this context.\nSimilar chunks:\n- **You** think that. **I** don't.\n- I'm not **against** it — I'm **cautious** about it.\n- It's not **my** decision, it's **hers**."
+    },
+    {
+      "id": 11,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to clarify he took a different sum, not the specific amount in question. Which chunk fits best?",
+      "options": {
+        "A": "It's a **book**.",
+        "B": "I said **Tues**day, not **Thurs**day.",
+        "C": "I didn't say he stole **the** money.",
+        "D": "It **works**. It just isn't **ready**."
+      },
+      "correct": "C",
+      "explanation": "✗ \"It's a **book**.\" belongs to Stressing new information — used to place stress on new information while gliding over what's already known — the default English stress rule, not this context.\nSimilar chunks:\n- What **kind** of car?\n- It's **my** book.\n\n✗ \"I said **Tues**day, not **Thurs**day.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- I'm not saying it's **wrong** — I'm saying it's **incomplete**.\n- It's not a **budget** problem, it's a **timeline** problem.\n- I didn't say it was **easy**. I said it was **possible**.\n\n✓ Correct — \"I didn't say he stole **the** money.\" is a Correcting the amount chunk: used to stress 'the', implying a different, specific sum is meant.\nExample: \"I didn't say he stole **the** money — he took some other funds entirely.\"\n\n✗ \"It **works**. It just isn't **ready**.\" belongs to Contrastive correction (extra) — used to correct a specific misunderstanding by stressing only the contrasting word, not this context.\nSimilar chunks:\n- That's the **symptom**, not the **cause**.\n- I **asked** him — I didn't **tell** him.\n- I said **Tuesday**, not **Thursday**."
+    },
+    {
+      "id": 12,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to clarify he took a different sum, not the specific amount in question. Which chunk fits best?",
+      "options": {
+        "A": "I didn't say he stole **the** money.",
+        "B": "It's a **book**.",
+        "C": "It's not a **budget** problem, it's a **timeline** problem.",
+        "D": "It's not **my** decision, it's **hers**."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I didn't say he stole **the** money.\" is a Correcting the amount chunk: used to stress 'the', implying a different, specific sum is meant.\nExample: \"I didn't say he stole **the** money — he took some other funds entirely.\"\n\n✗ \"It's a **book**.\" belongs to Stressing new information — used to place stress on new information while gliding over what's already known — the default English stress rule, not this context.\nSimilar chunks:\n- It's **my** book.\n- What **kind** of car?\n\n✗ \"It's not a **budget** problem, it's a **timeline** problem.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- We **can** do it. The question is whether we **should**.\n- That's what he **said**. It's not what he **meant**.\n- I'm not saying it's **wrong** — I'm saying it's **incomplete**.\n\n✗ \"It's not **my** decision, it's **hers**.\" belongs to Contrastive correction (extra) — used to correct a specific misunderstanding by stressing only the contrasting word, not this context.\nSimilar chunks:\n- That's the **symptom**, not the **cause**.\n- I **asked** him — I didn't **tell** him.\n- It **works**. It just isn't **ready**."
+    },
+    {
+      "id": 13,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to clarify he stole something else, not the money. Which chunk fits best?",
+      "options": {
+        "A": "I didn't say he stole the **money**.",
+        "B": "The main issue | is that the data | doesn't reconcile | across systems.",
+        "C": "I said **Tues**day, not **Thurs**day.",
+        "D": "It's **my** book."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I didn't say he stole the **money**.\" is a Correcting what chunk: used to stress 'money', implying something else was stolen instead.\nExample: \"I didn't say he stole the **money** — he took the client list.\"\n\n✗ \"The main issue | is that the data | doesn't reconcile | across systems.\" belongs to Tone-unit chunking — used to break speech into short tone units, each carrying its own stress, to sound deliberate and weighty, not this context.\nSimilar chunks:\n- This. Changes. Everything.\n\n✗ \"I said **Tues**day, not **Thurs**day.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- It's not a **budget** problem, it's a **timeline** problem.\n- I didn't say it was **easy**. I said it was **possible**.\n- I'm not saying it's **wrong** — I'm saying it's **incomplete**.\n\n✗ \"It's **my** book.\" belongs to Stressing new information — used to place stress on new information while gliding over what's already known — the default English stress rule, not this context.\nSimilar chunks:\n- What **kind** of car?\n- It's a **book**."
+    },
+    {
+      "id": 14,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to clarify he stole something else, not the money. Which chunk fits best?",
+      "options": {
+        "A": "I didn't **say** he stole the money.",
+        "B": "The main issue | is that the data | doesn't reconcile | across systems.",
+        "C": "**You** think that. **I** don't.",
+        "D": "I didn't say he stole the **money**."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I didn't **say** he stole the money.\" belongs to Correcting the verb — used to stress 'say', implying the point was suggested, not stated outright, not this context.\n\n✗ \"The main issue | is that the data | doesn't reconcile | across systems.\" belongs to Tone-unit chunking — used to break speech into short tone units, each carrying its own stress, to sound deliberate and weighty, not this context.\nSimilar chunks:\n- This. Changes. Everything.\n\n✗ \"**You** think that. **I** don't.\" belongs to Contrastive correction (extra) — used to correct a specific misunderstanding by stressing only the contrasting word, not this context.\nSimilar chunks:\n- We need it **done**, not **perfect**.\n- That's the **symptom**, not the **cause**.\n- It **works**. It just isn't **ready**.\n\n✓ Correct — \"I didn't say he stole the **money**.\" is a Correcting what chunk: used to stress 'money', implying something else was stolen instead.\nExample: \"I didn't say he stole the **money** — he took the client list.\""
+    },
+    {
+      "id": 15,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're answering or reacting to something already said, and want to naturally stress only the new information while gliding over what's already known. Which chunk fits best?",
+      "options": {
+        "A": "It's not a **budget** problem, it's a **timeline** problem.",
+        "B": "I didn't say he stole **the** money.",
+        "C": "I didn't say he **stole** the money.",
+        "D": "It's a **book**."
+      },
+      "correct": "D",
+      "explanation": "✗ \"It's not a **budget** problem, it's a **timeline** problem.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- We **can** do it. The question is whether we **should**.\n- I'm not saying it's **wrong** — I'm saying it's **incomplete**.\n- I didn't say it was **easy**. I said it was **possible**.\n\n✗ \"I didn't say he stole **the** money.\" belongs to Correcting the amount — used to stress 'the', implying a different, specific sum is meant, not this context.\n\n✗ \"I didn't say he **stole** the money.\" belongs to Correcting the action — used to stress 'stole', rejecting that specific word while accepting he took it, not this context.\n\n✓ Correct — \"It's a **book**.\" is a Stressing new information chunk: used to place stress on new information while gliding over what's already known — the default English stress rule.\nExample: \"What's that?\" — \"It's a **book**, actually, not a folder.\"\nSimilar chunks:\n- It's **my** book.\n- What **kind** of car?"
+    },
+    {
+      "id": 16,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're answering or reacting to something already said, and want to naturally stress only the new information while gliding over what's already known. Which chunk fits best?",
+      "options": {
+        "A": "That's what he **said**. It's not what he **meant**.",
+        "B": "What **kind** of car?",
+        "C": "**You** think that. **I** don't.",
+        "D": "I **didn't** say he stole the money."
+      },
+      "correct": "B",
+      "explanation": "✗ \"That's what he **said**. It's not what he **meant**.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- I'm not saying it's **wrong** — I'm saying it's **incomplete**.\n- We **can** do it. The question is whether we **should**.\n- I said **Tues**day, not **Thurs**day.\n\n✓ Correct — \"What **kind** of car?\" is a Stressing new information chunk: used to place stress on new information while gliding over what's already known — the default English stress rule.\nExample: \"I bought a car.\" — \"Nice! What **kind** of car did you get?\"\nSimilar chunks:\n- It's **my** book.\n- It's a **book**.\n\n✗ \"**You** think that. **I** don't.\" belongs to Contrastive correction (extra) — used to correct a specific misunderstanding by stressing only the contrasting word, not this context.\nSimilar chunks:\n- That's the **symptom**, not the **cause**.\n- I **asked** him — I didn't **tell** him.\n- It **works**. It just isn't **ready**.\n\n✗ \"I **didn't** say he stole the money.\" belongs to Denying it outright — used to stress 'didn't', flatly denying the whole statement, not this context."
+    },
+    {
+      "id": 17,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to correct or contrast two things by stressing just the words that differ, without adding extra explanation. Which chunk fits best?",
+      "options": {
+        "A": "It's **my** book.",
+        "B": "I didn't say he **stole** the money.",
+        "C": "That's what he **said**. It's not what he **meant**.",
+        "D": "I'm not **against** it — I'm **cautious** about it."
+      },
+      "correct": "C",
+      "explanation": "✗ \"It's **my** book.\" belongs to Stressing new information — used to place stress on new information while gliding over what's already known — the default English stress rule, not this context.\nSimilar chunks:\n- It's a **book**.\n- What **kind** of car?\n\n✗ \"I didn't say he **stole** the money.\" belongs to Correcting the action — used to stress 'stole', rejecting that specific word while accepting he took it, not this context.\n\n✓ Correct — \"That's what he **said**. It's not what he **meant**.\" is a Contrastive correction chunk: used to correct or contrast two ideas by stressing only the words that differ.\nExample: \"That's what he **said**. It's not what he **meant** — read between the lines.\"\nSimilar chunks:\n- I didn't say it was **easy**. I said it was **possible**.\n- I'm not saying it's **wrong** — I'm saying it's **incomplete**.\n- It's not a **budget** problem, it's a **timeline** problem.\n\n✗ \"I'm not **against** it — I'm **cautious** about it.\" belongs to Contrastive correction (extra) — used to correct a specific misunderstanding by stressing only the contrasting word, not this context.\nSimilar chunks:\n- I **asked** him — I didn't **tell** him.\n- I said **Tuesday**, not **Thursday**.\n- That's the **symptom**, not the **cause**."
+    },
+    {
+      "id": 18,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to correct or contrast two things by stressing just the words that differ, without adding extra explanation. Which chunk fits best?",
+      "options": {
+        "A": "I didn't say it was **easy**. I said it was **possible**.",
+        "B": "I didn't say he stole **the** money.",
+        "C": "What **kind** of car?",
+        "D": "It's **my** book."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I didn't say it was **easy**. I said it was **possible**.\" is a Contrastive correction chunk: used to correct or contrast two ideas by stressing only the words that differ.\nExample: \"I didn't say it was **easy**. I said it was **possible** — with the right resources.\"\nSimilar chunks:\n- It's not a **budget** problem, it's a **timeline** problem.\n- I'm not saying it's **wrong** — I'm saying it's **incomplete**.\n- That's what he **said**. It's not what he **meant**.\n\n✗ \"I didn't say he stole **the** money.\" belongs to Correcting the amount — used to stress 'the', implying a different, specific sum is meant, not this context.\n\n✗ \"What **kind** of car?\" belongs to Stressing new information — used to place stress on new information while gliding over what's already known — the default English stress rule, not this context.\nSimilar chunks:\n- It's a **book**.\n- It's **my** book.\n\n✗ \"It's **my** book.\" belongs to Stressing new information — used to place stress on new information while gliding over what's already known — the default English stress rule, not this context.\nSimilar chunks:\n- What **kind** of car?\n- It's a **book**."
+    },
+    {
+      "id": 19,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to correct or contrast two things by stressing just the words that differ, without adding extra explanation. Which chunk fits best?",
+      "options": {
+        "A": "We need it **done**, not **perfect**.",
+        "B": "I said **Tues**day, not **Thurs**day.",
+        "C": "I didn't say he **stole** the money.",
+        "D": "It's **my** book."
+      },
+      "correct": "B",
+      "explanation": "✗ \"We need it **done**, not **perfect**.\" belongs to Contrastive correction (extra) — used to correct a specific misunderstanding by stressing only the contrasting word, not this context.\nSimilar chunks:\n- **You** think that. **I** don't.\n- It **works**. It just isn't **ready**.\n- It's not **my** decision, it's **hers**.\n\n✓ Correct — \"I said **Tues**day, not **Thurs**day.\" is a Contrastive correction chunk: used to correct or contrast two ideas by stressing only the words that differ.\nExample: \"I said **Tues**day, not **Thurs**day — please check your calendar again.\"\nSimilar chunks:\n- We **can** do it. The question is whether we **should**.\n- That's what he **said**. It's not what he **meant**.\n- I didn't say it was **easy**. I said it was **possible**.\n\n✗ \"I didn't say he **stole** the money.\" belongs to Correcting the action — used to stress 'stole', rejecting that specific word while accepting he took it, not this context.\n\n✗ \"It's **my** book.\" belongs to Stressing new information — used to place stress on new information while gliding over what's already known — the default English stress rule, not this context.\nSimilar chunks:\n- What **kind** of car?\n- It's a **book**."
+    },
+    {
+      "id": 20,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're about to say something important and want to break it into short deliberate chunks so it lands with weight. Which chunk fits best?",
+      "options": {
+        "A": "The main issue | is that the data | doesn't reconcile | across systems.",
+        "B": "What **kind** of car?",
+        "C": "I **asked** him — I didn't **tell** him.",
+        "D": "I didn't say **he** stole the money."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"The main issue | is that the data | doesn't reconcile | across systems.\" is a Tone-unit chunking chunk: used to break speech into short tone units, each carrying its own stress, to sound deliberate and weighty.\nExample: \"The main issue | is that the data | doesn't reconcile | across systems.\" — four short chunks, four stresses, easy to follow.\"\nSimilar chunks:\n- This. Changes. Everything.\n\n✗ \"What **kind** of car?\" belongs to Stressing new information — used to place stress on new information while gliding over what's already known — the default English stress rule, not this context.\nSimilar chunks:\n- It's a **book**.\n- It's **my** book.\n\n✗ \"I **asked** him — I didn't **tell** him.\" belongs to Contrastive correction (extra) — used to correct a specific misunderstanding by stressing only the contrasting word, not this context.\nSimilar chunks:\n- That's the **symptom**, not the **cause**.\n- I'm not **against** it — I'm **cautious** about it.\n- It **works**. It just isn't **ready**.\n\n✗ \"I didn't say **he** stole the money.\" belongs to Correcting who — used to stress 'he', implying someone else — not him — is responsible, not this context."
+    },
+    {
+      "id": 21,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're about to say something important and want to break it into short deliberate chunks so it lands with weight. Which chunk fits best?",
+      "options": {
+        "A": "I didn't say he stole the **money**.",
+        "B": "This. Changes. Everything.",
+        "C": "We **can** do it. The question is whether we **should**.",
+        "D": "I didn't **say** he stole the money."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I didn't say he stole the **money**.\" belongs to Correcting what — used to stress 'money', implying something else was stolen instead, not this context.\n\n✓ Correct — \"This. Changes. Everything.\" is a Tone-unit chunking chunk: used to break speech into short tone units, each carrying its own stress, to sound deliberate and weighty.\nExample: \"This. Changes. Everything.\" — three blunt chunks land far harder than one flat sentence.\"\nSimilar chunks:\n- The main issue | is that the data | doesn't reconcile | across systems.\n\n✗ \"We **can** do it. The question is whether we **should**.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- I'm not saying it's **wrong** — I'm saying it's **incomplete**.\n- I said **Tues**day, not **Thurs**day.\n- It's not a **budget** problem, it's a **timeline** problem.\n\n✗ \"I didn't **say** he stole the money.\" belongs to Correcting the verb — used to stress 'say', implying the point was suggested, not stated outright, not this context."
+    },
+    {
+      "id": 22,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to correct a specific detail someone got wrong, using stress on just the contrasting word — no extra explanation needed. Which chunk fits best?",
+      "options": {
+        "A": "It's not **my** decision, it's **hers**.",
+        "B": "I **didn't** say he stole the money.",
+        "C": "**I** didn't say he stole the money.",
+        "D": "I didn't say he stole the **money**."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"It's not **my** decision, it's **hers**.\" is a Contrastive correction (extra) chunk: used to correct a specific misunderstanding by stressing only the contrasting word.\nExample: \"It's not **my** decision, it's **hers** — she's the one who signs off.\"\nSimilar chunks:\n- I'm not **against** it — I'm **cautious** about it.\n- That's the **symptom**, not the **cause**.\n- It **works**. It just isn't **ready**.\n\n✗ \"I **didn't** say he stole the money.\" belongs to Denying it outright — used to stress 'didn't', flatly denying the whole statement, not this context.\n\n✗ \"**I** didn't say he stole the money.\" belongs to Correcting the speaker — used to stress the subject 'I', implying someone else is the one who said it, not this context.\n\n✗ \"I didn't say he stole the **money**.\" belongs to Correcting what — used to stress 'money', implying something else was stolen instead, not this context."
+    },
+    {
+      "id": 23,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to correct a specific detail someone got wrong, using stress on just the contrasting word — no extra explanation needed. Which chunk fits best?",
+      "options": {
+        "A": "**I** didn't say he stole the money.",
+        "B": "I **asked** him — I didn't **tell** him.",
+        "C": "It's a **book**.",
+        "D": "I said **Tues**day, not **Thurs**day."
+      },
+      "correct": "B",
+      "explanation": "✗ \"**I** didn't say he stole the money.\" belongs to Correcting the speaker — used to stress the subject 'I', implying someone else is the one who said it, not this context.\n\n✓ Correct — \"I **asked** him — I didn't **tell** him.\" is a Contrastive correction (extra) chunk: used to correct a specific misunderstanding by stressing only the contrasting word.\nExample: \"I **asked** him — I didn't **tell** him, so he was free to say no.\"\nSimilar chunks:\n- **You** think that. **I** don't.\n- That's the **symptom**, not the **cause**.\n- It **works**. It just isn't **ready**.\n\n✗ \"It's a **book**.\" belongs to Stressing new information — used to place stress on new information while gliding over what's already known — the default English stress rule, not this context.\nSimilar chunks:\n- What **kind** of car?\n- It's **my** book.\n\n✗ \"I said **Tues**day, not **Thurs**day.\" belongs to Contrastive correction — used to correct or contrast two ideas by stressing only the words that differ, not this context.\nSimilar chunks:\n- I didn't say it was **easy**. I said it was **possible**.\n- That's what he **said**. It's not what he **meant**.\n- I'm not saying it's **wrong** — I'm saying it's **incomplete**."
+    },
+    {
+      "id": 24,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to correct a specific detail someone got wrong, using stress on just the contrasting word — no extra explanation needed. Which chunk fits best?",
+      "options": {
+        "A": "I didn't **say** he stole the money.",
+        "B": "I didn't say **he** stole the money.",
+        "C": "What **kind** of car?",
+        "D": "I'm not **against** it — I'm **cautious** about it."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I didn't **say** he stole the money.\" belongs to Correcting the verb — used to stress 'say', implying the point was suggested, not stated outright, not this context.\n\n✗ \"I didn't say **he** stole the money.\" belongs to Correcting who — used to stress 'he', implying someone else — not him — is responsible, not this context.\n\n✗ \"What **kind** of car?\" belongs to Stressing new information — used to place stress on new information while gliding over what's already known — the default English stress rule, not this context.\nSimilar chunks:\n- It's a **book**.\n- It's **my** book.\n\n✓ Correct — \"I'm not **against** it — I'm **cautious** about it.\" is a Contrastive correction (extra) chunk: used to correct a specific misunderstanding by stressing only the contrasting word.\nExample: \"I'm not **against** it — I'm just **cautious** about it, given the cost.\"\nSimilar chunks:\n- I said **Tuesday**, not **Thursday**.\n- We need it **done**, not **perfect**.\n- I **asked** him — I didn't **tell** him."
+    },
+    {
+      "id": 25,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to correct a specific detail someone got wrong, using stress on just the contrasting word — no extra explanation needed. Which chunk fits best?",
+      "options": {
+        "A": "It's a **book**.",
+        "B": "I didn't say he stole the **money**.",
+        "C": "This. Changes. Everything.",
+        "D": "It **works**. It just isn't **ready**."
+      },
+      "correct": "D",
+      "explanation": "✗ \"It's a **book**.\" belongs to Stressing new information — used to place stress on new information while gliding over what's already known — the default English stress rule, not this context.\nSimilar chunks:\n- It's **my** book.\n- What **kind** of car?\n\n✗ \"I didn't say he stole the **money**.\" belongs to Correcting what — used to stress 'money', implying something else was stolen instead, not this context.\n\n✗ \"This. Changes. Everything.\" belongs to Tone-unit chunking — used to break speech into short tone units, each carrying its own stress, to sound deliberate and weighty, not this context.\nSimilar chunks:\n- The main issue | is that the data | doesn't reconcile | across systems.\n\n✓ Correct — \"It **works**. It just isn't **ready**.\" is a Contrastive correction (extra) chunk: used to correct a specific misunderstanding by stressing only the contrasting word.\nExample: \"It **works**. It just isn't **ready** for a client demo yet.\"\nSimilar chunks:\n- I **asked** him — I didn't **tell** him.\n- I said **Tuesday**, not **Thursday**.\n- It's not **my** decision, it's **hers**."
+    }
+  ]
+}

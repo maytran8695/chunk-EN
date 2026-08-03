@@ -1,0 +1,510 @@
+{
+  "examId": "decoding-fast-speech",
+  "title": "Chunk Atlas — Voice & Presence: Decoding Fast Speech",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a fast native speaker say something that sounds like one blended block, not several separate words — you need to recognize the phrase as a whole. Which chunk fits best?",
+      "options": {
+        "A": "can",
+        "B": "to",
+        "C": "are",
+        "D": "make a cup of tea"
+      },
+      "correct": "D",
+      "explanation": "✗ \"can\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- for\n- to\n- and\n\n✗ \"to\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- was\n- can\n- have\n\n✗ \"are\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- can\n- at\n- to\n\n✓ Correct — \"make a cup of tea\" is a Whole-phrase blending chunk: used to illustrate that native speech chunks whole phrases into blended sound-blocks rather than clearly separated words.\nExample: \"Fancy a brew?\" — she was already moving to **make a cup of tea**, the phrase blurring into three quick blocks: /meɪkə kʌpə tiː/.\""
+    },
+    {
+      "id": 2,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a fast native speaker say something that sounds like one blended block, not several separate words — you need to recognize the phrase as a whole. Which chunk fits best?",
+      "options": {
+        "A": "make a cup of tea",
+        "B": "are",
+        "C": "gonna",
+        "D": "a lotta"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"make a cup of tea\" is a Whole-phrase blending chunk: used to illustrate that native speech chunks whole phrases into blended sound-blocks rather than clearly separated words.\nExample: \"Fancy a brew?\" — she was already moving to **make a cup of tea**, the phrase blurring into three quick blocks: /meɪkə kʌpə tiː/.\"\n\n✗ \"are\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- and\n- can\n- of\n\n✗ \"gonna\" belongs to Reduction: gonna — used as the fast-speech reduction of 'going to', signaling a future plan or intention, not this context.\n\n✗ \"a lotta\" belongs to Reduction: quantity & cause — used as the fast-speech reduction of 'a lot of', 'out of', or 'because', not this context.\nSimilar chunks:\n- outta\n- cuz"
+    },
+    {
+      "id": 3,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear someone announce a future plan or intention, and the words 'going to' have blurred into one quick syllable. Which chunk fits best?",
+      "options": {
+        "A": "whaddaya",
+        "B": "gonna",
+        "C": "Do you want to...?",
+        "D": "wanna"
+      },
+      "correct": "B",
+      "explanation": "✗ \"whaddaya\" belongs to Reduction: question openers — used as the fast-speech reduction of common question openers like 'what are/do you', 'did you', or 'would you', not this context.\nSimilar chunks:\n- wouldja\n- didja\n\n✓ Correct — \"gonna\" is a Reduction: gonna chunk: used as the fast-speech reduction of 'going to', signaling a future plan or intention.\nExample: \"I'm **gonna** call the client after lunch.\" — heard fast, 'going to' collapses into 'gonna'.\"\n\n✗ \"Do you want to...?\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- What do you think?\n- Nice to meet you\n- Give me a minute.\n\n✗ \"wanna\" belongs to Reduction: wanna — used as the fast-speech reduction of 'want to', expressing desire or preference, not this context."
+    },
+    {
+      "id": 4,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear someone announce a future plan or intention, and the words 'going to' have blurred into one quick syllable. Which chunk fits best?",
+      "options": {
+        "A": "gonna",
+        "B": "a lotta",
+        "C": "Nice to meet you",
+        "D": "Come on!"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"gonna\" is a Reduction: gonna chunk: used as the fast-speech reduction of 'going to', signaling a future plan or intention.\nExample: \"I'm **gonna** call the client after lunch.\" — heard fast, 'going to' collapses into 'gonna'.\"\n\n✗ \"a lotta\" belongs to Reduction: quantity & cause — used as the fast-speech reduction of 'a lot of', 'out of', or 'because', not this context.\nSimilar chunks:\n- outta\n- cuz\n\n✗ \"Nice to meet you\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- A lot of people\n- Let me have a look.\n- Come on!\n\n✗ \"Come on!\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- Give me a minute.\n- Let me have a look.\n- Do you want to...?"
+    },
+    {
+      "id": 5,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear someone express what they want to do, and 'want to' has blurred into one syllable. Which chunk fits best?",
+      "options": {
+        "A": "hafta",
+        "B": "How is it going?",
+        "C": "wanna",
+        "D": "ten boys"
+      },
+      "correct": "C",
+      "explanation": "✗ \"hafta\" belongs to Reduction: obligation — used as the fast-speech reduction of 'have to' or 'got to', expressing obligation, not this context.\nSimilar chunks:\n- gotta\n\n✗ \"How is it going?\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- Give me a minute.\n- What are you up to?\n- Did you get it?\n\n✓ Correct — \"wanna\" is a Reduction: wanna chunk: used as the fast-speech reduction of 'want to', expressing desire or preference.\nExample: \"Do you **wanna** grab lunch before the call?\" — 'want to' reduces to 'wanna' in casual speech.\"\n\n✗ \"ten boys\" belongs to Assimilation — used to illustrate assimilation: a sound changes to match its neighboring sound, producing a blended consonant, not this context.\nSimilar chunks:\n- did you\n- meet you"
+    },
+    {
+      "id": 6,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear someone express what they want to do, and 'want to' has blurred into one syllable. Which chunk fits best?",
+      "options": {
+        "A": "and",
+        "B": "wanna",
+        "C": "Come on!",
+        "D": "Do you want to...?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"and\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- was\n- at\n- have\n\n✓ Correct — \"wanna\" is a Reduction: wanna chunk: used as the fast-speech reduction of 'want to', expressing desire or preference.\nExample: \"Do you **wanna** grab lunch before the call?\" — 'want to' reduces to 'wanna' in casual speech.\"\n\n✗ \"Come on!\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- What do you think?\n- Should have known\n- How is it going?\n\n✗ \"Do you want to...?\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- A lot of people\n- Nice to meet you\n- What are you up to?"
+    },
+    {
+      "id": 7,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear someone talk about something they're obligated to do, and 'have to' or 'got to' has collapsed into one blended syllable. Which chunk fits best?",
+      "options": {
+        "A": "gotta",
+        "B": "Give me a minute.",
+        "C": "cup of tea",
+        "D": "to"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"gotta\" is a Reduction: obligation chunk: used as the fast-speech reduction of 'have to' or 'got to', expressing obligation.\nExample: \"We've **gotta** move this meeting.\" — 'got to' reduces to 'gotta'.\"\nSimilar chunks:\n- hafta\n\n✗ \"Give me a minute.\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- Let me have a look.\n- I don't know.\n- How is it going?\n\n✗ \"cup of tea\" belongs to Weak forms in fixed phrases — used to illustrate how the connecting word inside a fixed everyday phrase (like 'and' or 'of') almost disappears in fast speech, not this context.\nSimilar chunks:\n- fish and chips\n\n✗ \"to\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- of\n- for\n- was"
+    },
+    {
+      "id": 8,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear someone talk about something they're obligated to do, and 'have to' or 'got to' has collapsed into one blended syllable. Which chunk fits best?",
+      "options": {
+        "A": "A lot of people",
+        "B": "didja",
+        "C": "did you",
+        "D": "hafta"
+      },
+      "correct": "D",
+      "explanation": "✗ \"A lot of people\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- Should have known\n- Did you get it?\n- How is it going?\n\n✗ \"didja\" belongs to Reduction: question openers — used as the fast-speech reduction of common question openers like 'what are/do you', 'did you', or 'would you', not this context.\nSimilar chunks:\n- whaddaya\n- wouldja\n\n✗ \"did you\" belongs to Assimilation — used to illustrate assimilation: a sound changes to match its neighboring sound, producing a blended consonant, not this context.\nSimilar chunks:\n- ten boys\n- meet you\n\n✓ Correct — \"hafta\" is a Reduction: obligation chunk: used as the fast-speech reduction of 'have to' or 'got to', expressing obligation.\nExample: \"I **hafta** finish this before five.\" — 'have to' reduces to 'hafta'.\"\nSimilar chunks:\n- gotta"
+    },
+    {
+      "id": 9,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a short, blended sound where a common verb phrase like 'don't know', 'let me', or 'give me' used to be. Which chunk fits best?",
+      "options": {
+        "A": "kinda",
+        "B": "Did you get it?",
+        "C": "are",
+        "D": "lemme"
+      },
+      "correct": "D",
+      "explanation": "✗ \"kinda\" belongs to Reduction: hedging — used as the fast-speech reduction of hedging phrases 'kind of' and 'sort of', not this context.\nSimilar chunks:\n- sorta\n\n✗ \"Did you get it?\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- I don't know.\n- Nice to meet you\n- A lot of people\n\n✗ \"are\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- can\n- at\n- have\n\n✓ Correct — \"lemme\" is a Reduction: everyday verbs chunk: used as the fast-speech reduction of common verb phrases like 'don't know', 'let me', or 'give me'.\nExample: \"**Lemme** take a look at that file.\" — 'let me' reduces to 'lemme'.\"\nSimilar chunks:\n- dunno\n- gimme"
+    },
+    {
+      "id": 10,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a short, blended sound where a common verb phrase like 'don't know', 'let me', or 'give me' used to be. Which chunk fits best?",
+      "options": {
+        "A": "gimme",
+        "B": "and",
+        "C": "for",
+        "D": "turn it off"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"gimme\" is a Reduction: everyday verbs chunk: used as the fast-speech reduction of common verb phrases like 'don't know', 'let me', or 'give me'.\nExample: \"**Gimme** a second, I'll pull up the numbers.\" — 'give me' reduces to 'gimme'.\"\nSimilar chunks:\n- dunno\n- lemme\n\n✗ \"and\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- at\n- are\n- for\n\n✗ \"for\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- are\n- have\n- can\n\n✗ \"turn it off\" belongs to Catenation — used to illustrate catenation: a final consonant links into the next word's vowel, blurring the boundary between words, not this context."
+    },
+    {
+      "id": 11,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear someone soften a claim with a quick blended syllable where 'kind of' or 'sort of' used to be. Which chunk fits best?",
+      "options": {
+        "A": "gotta",
+        "B": "kinda",
+        "C": "at",
+        "D": "I don't know (barely three pitch notes)"
+      },
+      "correct": "B",
+      "explanation": "✗ \"gotta\" belongs to Reduction: obligation — used as the fast-speech reduction of 'have to' or 'got to', expressing obligation, not this context.\nSimilar chunks:\n- hafta\n\n✓ Correct — \"kinda\" is a Reduction: hedging chunk: used as the fast-speech reduction of hedging phrases 'kind of' and 'sort of'.\nExample: \"It's **kinda** late to change the plan now.\" — 'kind of' reduces to 'kinda'.\"\nSimilar chunks:\n- sorta\n\n✗ \"at\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- to\n- have\n- and\n\n✗ \"I don't know (barely three pitch notes)\" belongs to Extreme reduction — used to illustrate the extreme end of reduction: 'I don't know' can shrink to almost no consonants, just a pitch contour, not this context."
+    },
+    {
+      "id": 12,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear someone soften a claim with a quick blended syllable where 'kind of' or 'sort of' used to be. Which chunk fits best?",
+      "options": {
+        "A": "sorta",
+        "B": "next day",
+        "C": "gotta",
+        "D": "asked"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"sorta\" is a Reduction: hedging chunk: used as the fast-speech reduction of hedging phrases 'kind of' and 'sort of'.\nExample: \"I'm **sorta** worried about the timeline.\" — 'sort of' reduces to 'sorta'.\"\nSimilar chunks:\n- kinda\n\n✗ \"next day\" belongs to Elision — used to illustrate elision: a consonant sound disappears completely rather than just weakening, not this context.\nSimilar chunks:\n- friendship\n- asked\n\n✗ \"gotta\" belongs to Reduction: obligation — used as the fast-speech reduction of 'have to' or 'got to', expressing obligation, not this context.\nSimilar chunks:\n- hafta\n\n✗ \"asked\" belongs to Elision — used to illustrate elision: a consonant sound disappears completely rather than just weakening, not this context.\nSimilar chunks:\n- next day\n- friendship"
+    },
+    {
+      "id": 13,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a blended syllable standing in for a common quantity phrase like 'a lot of', 'out of', or the word 'because'. Which chunk fits best?",
+      "options": {
+        "A": "outta",
+        "B": "What do you think?",
+        "C": "ten boys",
+        "D": "fish and chips"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"outta\" is a Reduction: quantity & cause chunk: used as the fast-speech reduction of 'a lot of', 'out of', or 'because'.\nExample: \"We're **outta** time for this discussion.\" — 'out of' reduces to 'outta'.\"\nSimilar chunks:\n- a lotta\n- cuz\n\n✗ \"What do you think?\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- Did you get it?\n- Nice to meet you\n- Come on!\n\n✗ \"ten boys\" belongs to Assimilation — used to illustrate assimilation: a sound changes to match its neighboring sound, producing a blended consonant, not this context.\nSimilar chunks:\n- meet you\n- did you\n\n✗ \"fish and chips\" belongs to Weak forms in fixed phrases — used to illustrate how the connecting word inside a fixed everyday phrase (like 'and' or 'of') almost disappears in fast speech, not this context.\nSimilar chunks:\n- cup of tea"
+    },
+    {
+      "id": 14,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a blended syllable standing in for a common quantity phrase like 'a lot of', 'out of', or the word 'because'. Which chunk fits best?",
+      "options": {
+        "A": "could've",
+        "B": "a lotta",
+        "C": "would've",
+        "D": "was"
+      },
+      "correct": "B",
+      "explanation": "✗ \"could've\" belongs to Reduction: modal-perfect — used as the fast-speech reduction of 'would have', 'should have', or 'could have' in hypothetical statements about the past, not this context.\nSimilar chunks:\n- would've\n- should've\n\n✓ Correct — \"a lotta\" is a Reduction: quantity & cause chunk: used as the fast-speech reduction of 'a lot of', 'out of', or 'because'.\nExample: \"There's **a lotta** feedback to go through before Friday.\" — 'a lot of' reduces to 'a lotta'.\"\nSimilar chunks:\n- cuz\n- outta\n\n✗ \"would've\" belongs to Reduction: modal-perfect — used as the fast-speech reduction of 'would have', 'should have', or 'could have' in hypothetical statements about the past, not this context.\nSimilar chunks:\n- could've\n- should've\n\n✗ \"was\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- have\n- are\n- and"
+    },
+    {
+      "id": 15,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a modal verb followed by a quick unstressed syllable where 'have' used to be, in a sentence about a hypothetical past. Which chunk fits best?",
+      "options": {
+        "A": "could've",
+        "B": "was",
+        "C": "Let me have a look.",
+        "D": "Nice to meet you"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"could've\" is a Reduction: modal-perfect chunk: used as the fast-speech reduction of 'would have', 'should have', or 'could have' in hypothetical statements about the past.\nExample: \"They **could've** warned us earlier.\" — 'could have' reduces to 'could've'.\"\nSimilar chunks:\n- would've\n- should've\n\n✗ \"was\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- of\n- have\n- for\n\n✗ \"Let me have a look.\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- Should have known\n- A lot of people\n- Did you get it?\n\n✗ \"Nice to meet you\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- Did you get it?\n- What do you think?\n- What are you up to?"
+    },
+    {
+      "id": 16,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a modal verb followed by a quick unstressed syllable where 'have' used to be, in a sentence about a hypothetical past. Which chunk fits best?",
+      "options": {
+        "A": "Come on!",
+        "B": "have",
+        "C": "next day",
+        "D": "would've"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Come on!\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- Do you want to...?\n- Give me a minute.\n- What do you think?\n\n✗ \"have\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- are\n- can\n- to\n\n✗ \"next day\" belongs to Elision — used to illustrate elision: a consonant sound disappears completely rather than just weakening, not this context.\nSimilar chunks:\n- asked\n- friendship\n\n✓ Correct — \"would've\" is a Reduction: modal-perfect chunk: used as the fast-speech reduction of 'would have', 'should have', or 'could have' in hypothetical statements about the past.\nExample: \"I **would've** told you sooner if I'd known.\" — 'would have' reduces to 'would've'.\"\nSimilar chunks:\n- should've\n- could've"
+    },
+    {
+      "id": 17,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a fast question opener where 'what are you', 'what do you', 'did you', or 'would you' has fused into one quick sound. Which chunk fits best?",
+      "options": {
+        "A": "cup of tea",
+        "B": "Give me a minute.",
+        "C": "wouldja",
+        "D": "at"
+      },
+      "correct": "C",
+      "explanation": "✗ \"cup of tea\" belongs to Weak forms in fixed phrases — used to illustrate how the connecting word inside a fixed everyday phrase (like 'and' or 'of') almost disappears in fast speech, not this context.\nSimilar chunks:\n- fish and chips\n\n✗ \"Give me a minute.\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- Should have known\n- I don't know.\n- What do you think?\n\n✓ Correct — \"wouldja\" is a Reduction: question openers chunk: used as the fast-speech reduction of common question openers like 'what are/do you', 'did you', or 'would you'.\nExample: \"**Wouldja** mind forwarding that email?\" — 'would you' fuses into 'wouldja'.\"\nSimilar chunks:\n- whaddaya\n- didja\n\n✗ \"at\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- was\n- have\n- to"
+    },
+    {
+      "id": 18,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a fast question opener where 'what are you', 'what do you', 'did you', or 'would you' has fused into one quick sound. Which chunk fits best?",
+      "options": {
+        "A": "gimme",
+        "B": "whaddaya",
+        "C": "of",
+        "D": "asked"
+      },
+      "correct": "B",
+      "explanation": "✗ \"gimme\" belongs to Reduction: everyday verbs — used as the fast-speech reduction of common verb phrases like 'don't know', 'let me', or 'give me', not this context.\nSimilar chunks:\n- dunno\n- lemme\n\n✓ Correct — \"whaddaya\" is a Reduction: question openers chunk: used as the fast-speech reduction of common question openers like 'what are/do you', 'did you', or 'would you'.\nExample: \"**Whaddaya** think of the new layout?\" — 'what do you' fuses into 'whaddaya'.\"\nSimilar chunks:\n- wouldja\n- didja\n\n✗ \"of\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- have\n- at\n- are\n\n✗ \"asked\" belongs to Elision — used to illustrate elision: a consonant sound disappears completely rather than just weakening, not this context.\nSimilar chunks:\n- next day\n- friendship"
+    },
+    {
+      "id": 19,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear someone respond with almost no consonants at all — just a fast rise and fall of pitch — where a full sentence used to be. Which chunk fits best?",
+      "options": {
+        "A": "and",
+        "B": "did you",
+        "C": "turn it off",
+        "D": "I don't know (barely three pitch notes)"
+      },
+      "correct": "D",
+      "explanation": "✗ \"and\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- for\n- have\n- can\n\n✗ \"did you\" belongs to Assimilation — used to illustrate assimilation: a sound changes to match its neighboring sound, producing a blended consonant, not this context.\nSimilar chunks:\n- ten boys\n- meet you\n\n✗ \"turn it off\" belongs to Catenation — used to illustrate catenation: a final consonant links into the next word's vowel, blurring the boundary between words, not this context.\n\n✓ Correct — \"I don't know (barely three pitch notes)\" is an Extreme reduction chunk: used to illustrate the extreme end of reduction: 'I don't know' can shrink to almost no consonants, just a pitch contour.\nExample: \"I don't know,\" she said, so fast and reduced it came out as barely three notes of pitch, no consonants audible at all.\""
+    },
+    {
+      "id": 20,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear someone respond with almost no consonants at all — just a fast rise and fall of pitch — where a full sentence used to be. Which chunk fits best?",
+      "options": {
+        "A": "sorta",
+        "B": "make a cup of tea",
+        "C": "I don't know (barely three pitch notes)",
+        "D": "a lotta"
+      },
+      "correct": "C",
+      "explanation": "✗ \"sorta\" belongs to Reduction: hedging — used as the fast-speech reduction of hedging phrases 'kind of' and 'sort of', not this context.\nSimilar chunks:\n- kinda\n\n✗ \"make a cup of tea\" belongs to Whole-phrase blending — used to illustrate that native speech chunks whole phrases into blended sound-blocks rather than clearly separated words, not this context.\n\n✓ Correct — \"I don't know (barely three pitch notes)\" is an Extreme reduction chunk: used to illustrate the extreme end of reduction: 'I don't know' can shrink to almost no consonants, just a pitch contour.\nExample: \"I don't know,\" she said, so fast and reduced it came out as barely three notes of pitch, no consonants audible at all.\"\n\n✗ \"a lotta\" belongs to Reduction: quantity & cause — used as the fast-speech reduction of 'a lot of', 'out of', or 'because', not this context.\nSimilar chunks:\n- outta\n- cuz"
+    },
+    {
+      "id": 21,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a fast native sentence where a small grammatical word — a preposition, conjunction, or auxiliary — has been swallowed down to a bare schwa sound. Which chunk fits best?",
+      "options": {
+        "A": "What do you think?",
+        "B": "whaddaya",
+        "C": "asked",
+        "D": "for"
+      },
+      "correct": "D",
+      "explanation": "✗ \"What do you think?\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- How is it going?\n- Should have known\n- I don't know.\n\n✗ \"whaddaya\" belongs to Reduction: question openers — used as the fast-speech reduction of common question openers like 'what are/do you', 'did you', or 'would you', not this context.\nSimilar chunks:\n- didja\n- wouldja\n\n✗ \"asked\" belongs to Elision — used to illustrate elision: a consonant sound disappears completely rather than just weakening, not this context.\nSimilar chunks:\n- friendship\n- next day\n\n✓ Correct — \"for\" is a Weak forms chunk: used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss.\nExample: \"This is **for** you.\" — 'for' weakens to /fə/ in fast speech.\"\nSimilar chunks:\n- was\n- and\n- of"
+    },
+    {
+      "id": 22,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a fast native sentence where a small grammatical word — a preposition, conjunction, or auxiliary — has been swallowed down to a bare schwa sound. Which chunk fits best?",
+      "options": {
+        "A": "did you",
+        "B": "A lot of people",
+        "C": "make a cup of tea",
+        "D": "of"
+      },
+      "correct": "D",
+      "explanation": "✗ \"did you\" belongs to Assimilation — used to illustrate assimilation: a sound changes to match its neighboring sound, producing a blended consonant, not this context.\nSimilar chunks:\n- ten boys\n- meet you\n\n✗ \"A lot of people\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- What are you up to?\n- Should have known\n- I don't know.\n\n✗ \"make a cup of tea\" belongs to Whole-phrase blending — used to illustrate that native speech chunks whole phrases into blended sound-blocks rather than clearly separated words, not this context.\n\n✓ Correct — \"of\" is a Weak forms chunk: used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss.\nExample: \"A cup **of** tea.\" — 'of' reduces to /əv/ or just /ə/.\"\nSimilar chunks:\n- was\n- at\n- for"
+    },
+    {
+      "id": 23,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a fast native sentence where a small grammatical word — a preposition, conjunction, or auxiliary — has been swallowed down to a bare schwa sound. Which chunk fits best?",
+      "options": {
+        "A": "What are you up to?",
+        "B": "next day",
+        "C": "cup of tea",
+        "D": "can"
+      },
+      "correct": "D",
+      "explanation": "✗ \"What are you up to?\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- Should have known\n- Do you want to...?\n- I don't know.\n\n✗ \"next day\" belongs to Elision — used to illustrate elision: a consonant sound disappears completely rather than just weakening, not this context.\nSimilar chunks:\n- asked\n- friendship\n\n✗ \"cup of tea\" belongs to Weak forms in fixed phrases — used to illustrate how the connecting word inside a fixed everyday phrase (like 'and' or 'of') almost disappears in fast speech, not this context.\nSimilar chunks:\n- fish and chips\n\n✓ Correct — \"can\" is a Weak forms chunk: used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss.\nExample: \"We **can** fix that today.\" — 'can' weakens to /kən/, almost inaudible.\"\nSimilar chunks:\n- and\n- at\n- have"
+    },
+    {
+      "id": 24,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a fast native sentence where a small grammatical word — a preposition, conjunction, or auxiliary — has been swallowed down to a bare schwa sound. Which chunk fits best?",
+      "options": {
+        "A": "at",
+        "B": "meet you",
+        "C": "What are you up to?",
+        "D": "outta"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"at\" is a Weak forms chunk: used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss.\nExample: \"Meet me **at** noon.\" — 'at' weakens to /ət/.\"\nSimilar chunks:\n- of\n- have\n- can\n\n✗ \"meet you\" belongs to Assimilation — used to illustrate assimilation: a sound changes to match its neighboring sound, producing a blended consonant, not this context.\nSimilar chunks:\n- ten boys\n- did you\n\n✗ \"What are you up to?\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- Let me have a look.\n- What do you think?\n- Do you want to...?\n\n✗ \"outta\" belongs to Reduction: quantity & cause — used as the fast-speech reduction of 'a lot of', 'out of', or 'because', not this context.\nSimilar chunks:\n- cuz\n- a lotta"
+    },
+    {
+      "id": 25,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a familiar two-part everyday phrase where the little connecting word in the middle has almost vanished. Which chunk fits best?",
+      "options": {
+        "A": "cup of tea",
+        "B": "make a cup of tea",
+        "C": "meet you",
+        "D": "kinda"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"cup of tea\" is a Weak forms in fixed phrases chunk: used to illustrate how the connecting word inside a fixed everyday phrase (like 'and' or 'of') almost disappears in fast speech.\nExample: \"Fancy a **cup of tea**?\" — 'of' reduces to just /ə/: /kʌpə tiː/.\"\nSimilar chunks:\n- fish and chips\n\n✗ \"make a cup of tea\" belongs to Whole-phrase blending — used to illustrate that native speech chunks whole phrases into blended sound-blocks rather than clearly separated words, not this context.\n\n✗ \"meet you\" belongs to Assimilation — used to illustrate assimilation: a sound changes to match its neighboring sound, producing a blended consonant, not this context.\nSimilar chunks:\n- ten boys\n- did you\n\n✗ \"kinda\" belongs to Reduction: hedging — used as the fast-speech reduction of hedging phrases 'kind of' and 'sort of', not this context.\nSimilar chunks:\n- sorta"
+    },
+    {
+      "id": 26,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a familiar two-part everyday phrase where the little connecting word in the middle has almost vanished. Which chunk fits best?",
+      "options": {
+        "A": "outta",
+        "B": "fish and chips",
+        "C": "Did you get it?",
+        "D": "meet you"
+      },
+      "correct": "B",
+      "explanation": "✗ \"outta\" belongs to Reduction: quantity & cause — used as the fast-speech reduction of 'a lot of', 'out of', or 'because', not this context.\nSimilar chunks:\n- a lotta\n- cuz\n\n✓ Correct — \"fish and chips\" is a Weak forms in fixed phrases chunk: used to illustrate how the connecting word inside a fixed everyday phrase (like 'and' or 'of') almost disappears in fast speech.\nExample: \"Let's grab **fish and chips** on the way home.\" — 'and' shrinks to a single /n/ sound: /fɪʃ n̩ tʃɪps/.\"\nSimilar chunks:\n- cup of tea\n\n✗ \"Did you get it?\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- Let me have a look.\n- What do you think?\n- Nice to meet you\n\n✗ \"meet you\" belongs to Assimilation — used to illustrate assimilation: a sound changes to match its neighboring sound, producing a blended consonant, not this context.\nSimilar chunks:\n- ten boys\n- did you"
+    },
+    {
+      "id": 27,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a short phrase where the final consonant of one word glides straight into the vowel that starts the next word, erasing the word boundary. Which chunk fits best?",
+      "options": {
+        "A": "are",
+        "B": "turn it off",
+        "C": "How is it going?",
+        "D": "cup of tea"
+      },
+      "correct": "B",
+      "explanation": "✗ \"are\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- to\n- and\n- of\n\n✓ Correct — \"turn it off\" is a Catenation chunk: used to illustrate catenation: a final consonant links into the next word's vowel, blurring the boundary between words.\nExample: \"Can you **turn it off**?\" — heard as one glided block, /tɜːnɪtɒf/, with no gap between the words.\"\n\n✗ \"How is it going?\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- What do you think?\n- Should have known\n- Nice to meet you\n\n✗ \"cup of tea\" belongs to Weak forms in fixed phrases — used to illustrate how the connecting word inside a fixed everyday phrase (like 'and' or 'of') almost disappears in fast speech, not this context.\nSimilar chunks:\n- fish and chips"
+    },
+    {
+      "id": 28,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a short phrase where the final consonant of one word glides straight into the vowel that starts the next word, erasing the word boundary. Which chunk fits best?",
+      "options": {
+        "A": "friendship",
+        "B": "to",
+        "C": "turn it off",
+        "D": "Give me a minute."
+      },
+      "correct": "C",
+      "explanation": "✗ \"friendship\" belongs to Elision — used to illustrate elision: a consonant sound disappears completely rather than just weakening, not this context.\nSimilar chunks:\n- asked\n- next day\n\n✗ \"to\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- can\n- and\n- was\n\n✓ Correct — \"turn it off\" is a Catenation chunk: used to illustrate catenation: a final consonant links into the next word's vowel, blurring the boundary between words.\nExample: \"Can you **turn it off**?\" — heard as one glided block, /tɜːnɪtɒf/, with no gap between the words.\"\n\n✗ \"Give me a minute.\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- Let me have a look.\n- I don't know.\n- Come on!"
+    },
+    {
+      "id": 29,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear two words blend so that one sound shifts to match the sound next to it, producing a completely different consonant. Which chunk fits best?",
+      "options": {
+        "A": "friendship",
+        "B": "cuz",
+        "C": "How is it going?",
+        "D": "did you"
+      },
+      "correct": "D",
+      "explanation": "✗ \"friendship\" belongs to Elision — used to illustrate elision: a consonant sound disappears completely rather than just weakening, not this context.\nSimilar chunks:\n- asked\n- next day\n\n✗ \"cuz\" belongs to Reduction: quantity & cause — used as the fast-speech reduction of 'a lot of', 'out of', or 'because', not this context.\nSimilar chunks:\n- outta\n- a lotta\n\n✗ \"How is it going?\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- What do you think?\n- Do you want to...?\n- A lot of people\n\n✓ Correct — \"did you\" is an Assimilation chunk: used to illustrate assimilation: a sound changes to match its neighboring sound, producing a blended consonant.\nExample: \"**Did you** finish the report?\" — heard as /dɪdʒə/, the 'd' and 'y' merging into a 'j' sound.\"\nSimilar chunks:\n- ten boys\n- meet you"
+    },
+    {
+      "id": 30,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear two words blend so that one sound shifts to match the sound next to it, producing a completely different consonant. Which chunk fits best?",
+      "options": {
+        "A": "Do you want to...?",
+        "B": "meet you",
+        "C": "A lot of people",
+        "D": "of"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Do you want to...?\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- What do you think?\n- What are you up to?\n- I don't know.\n\n✓ Correct — \"meet you\" is an Assimilation chunk: used to illustrate assimilation: a sound changes to match its neighboring sound, producing a blended consonant.\nExample: \"Nice to **meet you**.\" — heard as /miːtʃə/, the 't' and 'y' merging into a 'ch' sound.\"\nSimilar chunks:\n- did you\n- ten boys\n\n✗ \"A lot of people\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- I don't know.\n- What do you think?\n- Nice to meet you\n\n✗ \"of\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- and\n- have\n- can"
+    },
+    {
+      "id": 31,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a word where a whole consonant sound has dropped out completely, not just weakened. Which chunk fits best?",
+      "options": {
+        "A": "have",
+        "B": "I don't know.",
+        "C": "next day",
+        "D": "are"
+      },
+      "correct": "C",
+      "explanation": "✗ \"have\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- and\n- are\n- for\n\n✗ \"I don't know.\" belongs to Fast-speech phrase recognition — used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize, not this context.\nSimilar chunks:\n- What are you up to?\n- How is it going?\n- A lot of people\n\n✓ Correct — \"next day\" is an Elision chunk: used to illustrate elision: a consonant sound disappears completely rather than just weakening.\nExample: \"Let's follow up the **next day**.\" — heard as /neks deɪ/, the 't' disappearing entirely.\"\nSimilar chunks:\n- friendship\n- asked\n\n✗ \"are\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- of\n- at\n- have"
+    },
+    {
+      "id": 32,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a word where a whole consonant sound has dropped out completely, not just weakened. Which chunk fits best?",
+      "options": {
+        "A": "didja",
+        "B": "lemme",
+        "C": "asked",
+        "D": "should've"
+      },
+      "correct": "C",
+      "explanation": "✗ \"didja\" belongs to Reduction: question openers — used as the fast-speech reduction of common question openers like 'what are/do you', 'did you', or 'would you', not this context.\nSimilar chunks:\n- wouldja\n- whaddaya\n\n✗ \"lemme\" belongs to Reduction: everyday verbs — used as the fast-speech reduction of common verb phrases like 'don't know', 'let me', or 'give me', not this context.\nSimilar chunks:\n- gimme\n- dunno\n\n✓ Correct — \"asked\" is an Elision chunk: used to illustrate elision: a consonant sound disappears completely rather than just weakening.\nExample: \"I already **asked** him twice.\" — heard as /ɑːst/, the 'k' disappearing.\"\nSimilar chunks:\n- friendship\n- next day\n\n✗ \"should've\" belongs to Reduction: modal-perfect — used as the fast-speech reduction of 'would have', 'should have', or 'could have' in hypothetical statements about the past, not this context.\nSimilar chunks:\n- could've\n- would've"
+    },
+    {
+      "id": 33,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a common everyday phrase compressed into a fast, blended spoken form, and need to recognize the phrase it actually is. Which chunk fits best?",
+      "options": {
+        "A": "lemme",
+        "B": "gotta",
+        "C": "What are you up to?",
+        "D": "didja"
+      },
+      "correct": "C",
+      "explanation": "✗ \"lemme\" belongs to Reduction: everyday verbs — used as the fast-speech reduction of common verb phrases like 'don't know', 'let me', or 'give me', not this context.\nSimilar chunks:\n- dunno\n- gimme\n\n✗ \"gotta\" belongs to Reduction: obligation — used as the fast-speech reduction of 'have to' or 'got to', expressing obligation, not this context.\nSimilar chunks:\n- hafta\n\n✓ Correct — \"What are you up to?\" is a Fast-speech phrase recognition chunk: used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize.\nExample: \"**What are you up to** this weekend?\" — spoken fast, this comes out as 'Whatcha up to?'\"\nSimilar chunks:\n- A lot of people\n- Come on!\n- How is it going?\n\n✗ \"didja\" belongs to Reduction: question openers — used as the fast-speech reduction of common question openers like 'what are/do you', 'did you', or 'would you', not this context.\nSimilar chunks:\n- whaddaya\n- wouldja"
+    },
+    {
+      "id": 34,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a common everyday phrase compressed into a fast, blended spoken form, and need to recognize the phrase it actually is. Which chunk fits best?",
+      "options": {
+        "A": "are",
+        "B": "Should have known",
+        "C": "dunno",
+        "D": "and"
+      },
+      "correct": "B",
+      "explanation": "✗ \"are\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- at\n- of\n- and\n\n✓ Correct — \"Should have known\" is a Fast-speech phrase recognition chunk: used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize.\nExample: \"I **should have known** better.\" — spoken fast, this comes out as 'shoulda known' — not 'should of', even though it sounds like it.\"\nSimilar chunks:\n- Nice to meet you\n- Give me a minute.\n- I don't know.\n\n✗ \"dunno\" belongs to Reduction: everyday verbs — used as the fast-speech reduction of common verb phrases like 'don't know', 'let me', or 'give me', not this context.\nSimilar chunks:\n- lemme\n- gimme\n\n✗ \"and\" belongs to Weak forms — used to illustrate that common function words (prepositions, conjunctions, auxiliaries) weaken to a schwa sound /ə/ in connected speech and are easy to miss, not this context.\nSimilar chunks:\n- for\n- can\n- to"
+    },
+    {
+      "id": 35,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a common everyday phrase compressed into a fast, blended spoken form, and need to recognize the phrase it actually is. Which chunk fits best?",
+      "options": {
+        "A": "Nice to meet you",
+        "B": "gonna",
+        "C": "would've",
+        "D": "hafta"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Nice to meet you\" is a Fast-speech phrase recognition chunk: used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize.\nExample: \"**Nice to meet you**.\" — spoken fast, this comes out as 'Nice ta meetcha.'\"\nSimilar chunks:\n- I don't know.\n- Should have known\n- Did you get it?\n\n✗ \"gonna\" belongs to Reduction: gonna — used as the fast-speech reduction of 'going to', signaling a future plan or intention, not this context.\n\n✗ \"would've\" belongs to Reduction: modal-perfect — used as the fast-speech reduction of 'would have', 'should have', or 'could have' in hypothetical statements about the past, not this context.\nSimilar chunks:\n- should've\n- could've\n\n✗ \"hafta\" belongs to Reduction: obligation — used as the fast-speech reduction of 'have to' or 'got to', expressing obligation, not this context.\nSimilar chunks:\n- gotta"
+    },
+    {
+      "id": 36,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You hear a common everyday phrase compressed into a fast, blended spoken form, and need to recognize the phrase it actually is. Which chunk fits best?",
+      "options": {
+        "A": "cup of tea",
+        "B": "wouldja",
+        "C": "Did you get it?",
+        "D": "next day"
+      },
+      "correct": "C",
+      "explanation": "✗ \"cup of tea\" belongs to Weak forms in fixed phrases — used to illustrate how the connecting word inside a fixed everyday phrase (like 'and' or 'of') almost disappears in fast speech, not this context.\nSimilar chunks:\n- fish and chips\n\n✗ \"wouldja\" belongs to Reduction: question openers — used as the fast-speech reduction of common question openers like 'what are/do you', 'did you', or 'would you', not this context.\nSimilar chunks:\n- whaddaya\n- didja\n\n✓ Correct — \"Did you get it?\" is a Fast-speech phrase recognition chunk: used to illustrate a common phrase's fast, blended spoken form that learners often fail to recognize.\nExample: \"**Did you get it?**\" — spoken fast, this comes out as /dɪdʒə gedɪt/, 'Didja gedit?'\"\nSimilar chunks:\n- Do you want to...?\n- Come on!\n- A lot of people\n\n✗ \"next day\" belongs to Elision — used to illustrate elision: a consonant sound disappears completely rather than just weakening, not this context.\nSimilar chunks:\n- friendship\n- asked"
+    }
+  ]
+}

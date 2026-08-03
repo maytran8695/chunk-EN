@@ -1,0 +1,356 @@
+{
+  "examId": "cultural-fluency",
+  "title": "Chunk Atlas — Voice & Presence: Cultural Fluency & Varieties",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to make a point using a sports idiom that's common shorthand in Western offices. Which chunk fits best?",
+      "options": {
+        "A": "Right, I'd better circulate.",
+        "B": "How do you know [host]?",
+        "C": "Enjoy the rest of it.",
+        "D": "That's a slam dunk."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Right, I'd better circulate.\" belongs to Small talk: food comments & graceful exits — used to comment lightly on food at a work event, or to exit a conversation politely, not this context.\nSimilar chunks:\n- Have you tried the...?\n- This is dangerous, I've had four.\n- Enjoy the rest of it.\n\n✗ \"How do you know [host]?\" belongs to Small talk openers: work & events — used as a safe small-talk opener about work in general or the event you're both at, not this context.\nSimilar chunks:\n- First time at one of these?\n- How's your week looking?\n- How's the new role treating you?\n\n✗ \"Enjoy the rest of it.\" belongs to Small talk: food comments & graceful exits — used to comment lightly on food at a work event, or to exit a conversation politely, not this context.\nSimilar chunks:\n- This is dangerous, I've had four.\n- Lovely to meet you.\n- Right, I'd better circulate.\n\n✓ Correct — \"That's a slam dunk.\" is a Sports idioms as office shorthand chunk: used as a sports-derived idiom that doubles as everyday office shorthand.\nExample: \"Getting the client's sign-off after that demo? That's a slam dunk.\"\nSimilar chunks:\n- It's a level playing field.\n- That came out of left field.\n- That's an own goal."
+    },
+    {
+      "id": 2,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to make a point using a sports idiom that's common shorthand in Western offices. Which chunk fits best?",
+      "options": {
+        "A": "Lovely day for it.",
+        "B": "That's an own goal.",
+        "C": "Lovely day, isn't it?",
+        "D": "Back to reality, eh?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Lovely day for it.\" belongs to Small talk openers: weather & travel — used as a safe small-talk opener about the weather or someone's commute, not this context.\nSimilar chunks:\n- Did you find us alright?\n- How was the journey?\n- Miserable out there, isn't it?\n\n✓ Correct — \"That's an own goal.\" is a Sports idioms as office shorthand chunk: used as a sports-derived idiom that doubles as everyday office shorthand.\nExample: \"Cancelling the loyalty programme right before renewals? That's an own goal.\"\nSimilar chunks:\n- It's a level playing field.\n- The ball's in their court.\n- That came out of left field.\n\n✗ \"Lovely day, isn't it?\" belongs to Handling & contributing cultural references — used to keep small talk warm and inclusive — joining a ritual exchange, admitting a gap, or contributing your own culture's angle, not this context.\nSimilar chunks:\n- That's one for the locals — what am I missing?\n- In Vietnam we'd say...\n- Do you have family nearby?\n\n✗ \"Back to reality, eh?\" belongs to Small talk openers: weekend & holidays — used as a safe small-talk opener about someone's weekend or holiday, not this context.\nSimilar chunks:\n- How was the break?\n- Going anywhere nice?\n- Any plans for the weekend?"
+    },
+    {
+      "id": 3,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're in small talk and hit a moment where you don't share the cultural reference, or you want to add your own culture's angle. Which chunk fits best?",
+      "options": {
+        "A": "It's a level playing field.",
+        "B": "Any plans for the weekend?",
+        "C": "How was the break?",
+        "D": "Do you have family nearby?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"It's a level playing field.\" belongs to Sports idioms as office shorthand — used as a sports-derived idiom that doubles as everyday office shorthand, not this context.\nSimilar chunks:\n- That's a slam dunk.\n- That came out of left field.\n- The ball's in their court.\n\n✗ \"Any plans for the weekend?\" belongs to Small talk openers: weekend & holidays — used as a safe small-talk opener about someone's weekend or holiday, not this context.\nSimilar chunks:\n- Get up to much at the weekend?\n- How was the break?\n- Back to reality, eh?\n\n✗ \"How was the break?\" belongs to Small talk openers: weekend & holidays — used as a safe small-talk opener about someone's weekend or holiday, not this context.\nSimilar chunks:\n- Back to reality, eh?\n- Get up to much at the weekend?\n- Going anywhere nice?\n\n✓ Correct — \"Do you have family nearby?\" is a Handling & contributing cultural references chunk: used to keep small talk warm and inclusive — joining a ritual exchange, admitting a gap, or contributing your own culture's angle.\nExample: \"Do you have family nearby, or did you move here for work?\"\nSimilar chunks:\n- Lovely day, isn't it?\n- That's one for the locals — what am I missing?\n- In Vietnam we'd say..."
+    },
+    {
+      "id": 4,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're in small talk and hit a moment where you don't share the cultural reference, or you want to add your own culture's angle. Which chunk fits best?",
+      "options": {
+        "A": "fair play",
+        "B": "Have you tried the...?",
+        "C": "Going anywhere nice?",
+        "D": "That's one for the locals — what am I missing?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"fair play\" belongs to Casual invitations, reactions & intensifiers (UK) — used to casually invite, react, or add emphasis, British-colloquial register, not this context.\nSimilar chunks:\n- nice one\n- dead easy\n- reckon\n\n✗ \"Have you tried the...?\" belongs to Small talk: food comments & graceful exits — used to comment lightly on food at a work event, or to exit a conversation politely, not this context.\nSimilar chunks:\n- Lovely to meet you.\n- Right, I'd better circulate.\n- This is dangerous, I've had four.\n\n✗ \"Going anywhere nice?\" belongs to Small talk openers: weekend & holidays — used as a safe small-talk opener about someone's weekend or holiday, not this context.\nSimilar chunks:\n- Get up to much at the weekend?\n- How was the break?\n- Back to reality, eh?\n\n✓ Correct — \"That's one for the locals — what am I missing?\" is a Handling & contributing cultural references chunk: used to keep small talk warm and inclusive — joining a ritual exchange, admitting a gap, or contributing your own culture's angle.\nExample: \"Everyone laughed at that reference and I had no idea — that's one for the locals, what am I missing?\"\nSimilar chunks:\n- In Vietnam we'd say...\n- Do you have family nearby?\n- Lovely day, isn't it?"
+    },
+    {
+      "id": 5,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're making small talk before a meeting and want a safe opener about the weather or someone's journey in. Which chunk fits best?",
+      "options": {
+        "A": "It's a level playing field.",
+        "B": "gobsmacked",
+        "C": "How was the journey?",
+        "D": "chuffed"
+      },
+      "correct": "C",
+      "explanation": "✗ \"It's a level playing field.\" belongs to Sports idioms as office shorthand — used as a sports-derived idiom that doubles as everyday office shorthand, not this context.\nSimilar chunks:\n- The ball's in their court.\n- That's a slam dunk.\n- That came out of left field.\n\n✗ \"gobsmacked\" belongs to Naming a feeling, casually (UK) — used to casually name how you're feeling, British-colloquial register, not this context.\nSimilar chunks:\n- gutted\n- knackered\n- chuffed\n\n✓ Correct — \"How was the journey?\" is a Small talk openers: weather & travel chunk: used as a safe small-talk opener about the weather or someone's commute.\nExample: \"How was the journey? The trains can be a nightmare on Mondays.\"\nSimilar chunks:\n- Lovely day for it.\n- Traffic bad?\n- Bit nippy today.\n\n✗ \"chuffed\" belongs to Naming a feeling, casually (UK) — used to casually name how you're feeling, British-colloquial register, not this context.\nSimilar chunks:\n- knackered\n- gobsmacked\n- gutted"
+    },
+    {
+      "id": 6,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're making small talk before a meeting and want a safe opener about the weather or someone's journey in. Which chunk fits best?",
+      "options": {
+        "A": "Right, I'd better circulate.",
+        "B": "Bit nippy today.",
+        "C": "fair play",
+        "D": "a bit of a nightmare"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Right, I'd better circulate.\" belongs to Small talk: food comments & graceful exits — used to comment lightly on food at a work event, or to exit a conversation politely, not this context.\nSimilar chunks:\n- Enjoy the rest of it.\n- This is dangerous, I've had four.\n- Lovely to meet you.\n\n✓ Correct — \"Bit nippy today.\" is a Small talk openers: weather & travel chunk: used as a safe small-talk opener about the weather or someone's commute.\nExample: \"Bit nippy today, isn't it? I should've brought a coat.\"\nSimilar chunks:\n- Did you find us alright?\n- Lovely day for it.\n- Traffic bad?\n\n✗ \"fair play\" belongs to Casual invitations, reactions & intensifiers (UK) — used to casually invite, react, or add emphasis, British-colloquial register, not this context.\nSimilar chunks:\n- fancy a...?\n- nice one\n- reckon\n\n✗ \"a bit of a nightmare\" belongs to Describing outcomes/quality, casually (UK) — used to casually describe the quality or outcome of something, British-colloquial register, not this context.\nSimilar chunks:\n- dodgy\n- faff\n- naff"
+    },
+    {
+      "id": 7,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're making small talk before a meeting and want a safe opener about the weather or someone's journey in. Which chunk fits best?",
+      "options": {
+        "A": "That's an own goal.",
+        "B": "are you up for it?",
+        "C": "Miserable out there, isn't it?",
+        "D": "Have you tried the...?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"That's an own goal.\" belongs to Sports idioms as office shorthand — used as a sports-derived idiom that doubles as everyday office shorthand, not this context.\nSimilar chunks:\n- That came out of left field.\n- That's a slam dunk.\n- It's a level playing field.\n\n✗ \"are you up for it?\" belongs to Casual invitations, reactions & intensifiers (UK) — used to casually invite, react, or add emphasis, British-colloquial register, not this context.\nSimilar chunks:\n- proper\n- fair play\n- reckon\n\n✓ Correct — \"Miserable out there, isn't it?\" is a Small talk openers: weather & travel chunk: used as a safe small-talk opener about the weather or someone's commute.\nExample: \"Miserable out there, isn't it? I got soaked just crossing the car park.\"\nSimilar chunks:\n- Did you find us alright?\n- Traffic bad?\n- Bit nippy today.\n\n✗ \"Have you tried the...?\" belongs to Small talk: food comments & graceful exits — used to comment lightly on food at a work event, or to exit a conversation politely, not this context.\nSimilar chunks:\n- Right, I'd better circulate.\n- Enjoy the rest of it.\n- This is dangerous, I've had four."
+    },
+    {
+      "id": 8,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're catching up with a colleague and want a safe opener about their weekend or time off. Which chunk fits best?",
+      "options": {
+        "A": "dodgy",
+        "B": "Going anywhere nice?",
+        "C": "How's your week looking?",
+        "D": "mind how you go"
+      },
+      "correct": "B",
+      "explanation": "✗ \"dodgy\" belongs to Describing outcomes/quality, casually (UK) — used to casually describe the quality or outcome of something, British-colloquial register, not this context.\nSimilar chunks:\n- sorted\n- faff\n- naff\n\n✓ Correct — \"Going anywhere nice?\" is a Small talk openers: weekend & holidays chunk: used as a safe small-talk opener about someone's weekend or holiday.\nExample: \"Going anywhere nice for the half-term break?\"\nSimilar chunks:\n- Back to reality, eh?\n- Get up to much at the weekend?\n- Any plans for the weekend?\n\n✗ \"How's your week looking?\" belongs to Small talk openers: work & events — used as a safe small-talk opener about work in general or the event you're both at, not this context.\nSimilar chunks:\n- Busy period for you?\n- What did you make of the talk?\n- How's the new role treating you?\n\n✗ \"mind how you go\" belongs to Informal address & farewells (UK) — used as a casual, friendly British way to address someone or say goodbye, not this context.\nSimilar chunks:\n- mate\n- Cheers!\n- pal"
+    },
+    {
+      "id": 9,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're catching up with a colleague and want a safe opener about their weekend or time off. Which chunk fits best?",
+      "options": {
+        "A": "Back to reality, eh?",
+        "B": "Do you have family nearby?",
+        "C": "chuffed",
+        "D": "a bit of a nightmare"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Back to reality, eh?\" is a Small talk openers: weekend & holidays chunk: used as a safe small-talk opener about someone's weekend or holiday.\nExample: \"Back to reality, eh? Inbox must be a mess.\"\nSimilar chunks:\n- Get up to much at the weekend?\n- Any plans for the weekend?\n- Going anywhere nice?\n\n✗ \"Do you have family nearby?\" belongs to Handling & contributing cultural references — used to keep small talk warm and inclusive — joining a ritual exchange, admitting a gap, or contributing your own culture's angle, not this context.\nSimilar chunks:\n- Lovely day, isn't it?\n- That's one for the locals — what am I missing?\n- In Vietnam we'd say...\n\n✗ \"chuffed\" belongs to Naming a feeling, casually (UK) — used to casually name how you're feeling, British-colloquial register, not this context.\nSimilar chunks:\n- gobsmacked\n- gutted\n- knackered\n\n✗ \"a bit of a nightmare\" belongs to Describing outcomes/quality, casually (UK) — used to casually describe the quality or outcome of something, British-colloquial register, not this context.\nSimilar chunks:\n- spot on\n- dodgy\n- faff"
+    },
+    {
+      "id": 10,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're making small talk at the start of a meeting or event and want to ask about someone's week or the occasion itself. Which chunk fits best?",
+      "options": {
+        "A": "How do you know [host]?",
+        "B": "Lovely to meet you.",
+        "C": "mate",
+        "D": "sorted"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"How do you know [host]?\" is a Small talk openers: work & events chunk: used as a safe small-talk opener about work in general or the event you're both at.\nExample: \"How do you know Sarah? Old colleagues, or from the conference circuit?\"\nSimilar chunks:\n- What did you make of the talk?\n- How's the new role treating you?\n- Busy period for you?\n\n✗ \"Lovely to meet you.\" belongs to Small talk: food comments & graceful exits — used to comment lightly on food at a work event, or to exit a conversation politely, not this context.\nSimilar chunks:\n- Right, I'd better circulate.\n- Have you tried the...?\n- Enjoy the rest of it.\n\n✗ \"mate\" belongs to Informal address & farewells (UK) — used as a casual, friendly British way to address someone or say goodbye, not this context.\nSimilar chunks:\n- love\n- mind how you go\n- pal\n\n✗ \"sorted\" belongs to Describing outcomes/quality, casually (UK) — used to casually describe the quality or outcome of something, British-colloquial register, not this context.\nSimilar chunks:\n- naff\n- dodgy\n- spot on"
+    },
+    {
+      "id": 11,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're making small talk at the start of a meeting or event and want to ask about someone's week or the occasion itself. Which chunk fits best?",
+      "options": {
+        "A": "Bit nippy today.",
+        "B": "Do you have family nearby?",
+        "C": "Did you find us alright?",
+        "D": "Busy period for you?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Bit nippy today.\" belongs to Small talk openers: weather & travel — used as a safe small-talk opener about the weather or someone's commute, not this context.\nSimilar chunks:\n- Did you find us alright?\n- How was the journey?\n- Miserable out there, isn't it?\n\n✗ \"Do you have family nearby?\" belongs to Handling & contributing cultural references — used to keep small talk warm and inclusive — joining a ritual exchange, admitting a gap, or contributing your own culture's angle, not this context.\nSimilar chunks:\n- In Vietnam we'd say...\n- That's one for the locals — what am I missing?\n- Lovely day, isn't it?\n\n✗ \"Did you find us alright?\" belongs to Small talk openers: weather & travel — used as a safe small-talk opener about the weather or someone's commute, not this context.\nSimilar chunks:\n- Lovely day for it.\n- How was the journey?\n- Bit nippy today.\n\n✓ Correct — \"Busy period for you?\" is a Small talk openers: work & events chunk: used as a safe small-talk opener about work in general or the event you're both at.\nExample: \"Busy period for you at the moment, or has it calmed down?\"\nSimilar chunks:\n- How's your week looking?\n- How's the new role treating you?\n- What did you make of the talk?"
+    },
+    {
+      "id": 12,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're making small talk at the start of a meeting or event and want to ask about someone's week or the occasion itself. Which chunk fits best?",
+      "options": {
+        "A": "a bit of a nightmare",
+        "B": "Get up to much at the weekend?",
+        "C": "How's your week looking?",
+        "D": "That's an own goal."
+      },
+      "correct": "C",
+      "explanation": "✗ \"a bit of a nightmare\" belongs to Describing outcomes/quality, casually (UK) — used to casually describe the quality or outcome of something, British-colloquial register, not this context.\nSimilar chunks:\n- dodgy\n- faff\n- naff\n\n✗ \"Get up to much at the weekend?\" belongs to Small talk openers: weekend & holidays — used as a safe small-talk opener about someone's weekend or holiday, not this context.\nSimilar chunks:\n- Any plans for the weekend?\n- Going anywhere nice?\n- How was the break?\n\n✓ Correct — \"How's your week looking?\" is a Small talk openers: work & events chunk: used as a safe small-talk opener about work in general or the event you're both at.\nExample: \"How's your week looking? Anything exciting on, or just the usual grind?\"\nSimilar chunks:\n- First time at one of these?\n- How's the new role treating you?\n- What did you make of the talk?\n\n✗ \"That's an own goal.\" belongs to Sports idioms as office shorthand — used as a sports-derived idiom that doubles as everyday office shorthand, not this context.\nSimilar chunks:\n- The ball's in their court.\n- That's a slam dunk.\n- That came out of left field."
+    },
+    {
+      "id": 13,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're at a work social and want a light comment about the food, or a polite way to wrap up and move on to someone else. Which chunk fits best?",
+      "options": {
+        "A": "That's an own goal.",
+        "B": "nice one",
+        "C": "Right, I'd better circulate.",
+        "D": "Traffic bad?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"That's an own goal.\" belongs to Sports idioms as office shorthand — used as a sports-derived idiom that doubles as everyday office shorthand, not this context.\nSimilar chunks:\n- That's a slam dunk.\n- That came out of left field.\n- It's a level playing field.\n\n✗ \"nice one\" belongs to Casual invitations, reactions & intensifiers (UK) — used to casually invite, react, or add emphasis, British-colloquial register, not this context.\nSimilar chunks:\n- dead easy\n- proper\n- reckon\n\n✓ Correct — \"Right, I'd better circulate.\" is a Small talk: food comments & graceful exits chunk: used to comment lightly on food at a work event, or to exit a conversation politely.\nExample: \"Right, I'd better circulate — great to finally meet you though.\"\nSimilar chunks:\n- Lovely to meet you.\n- This is dangerous, I've had four.\n- Enjoy the rest of it.\n\n✗ \"Traffic bad?\" belongs to Small talk openers: weather & travel — used as a safe small-talk opener about the weather or someone's commute, not this context.\nSimilar chunks:\n- Lovely day for it.\n- Did you find us alright?\n- Bit nippy today."
+    },
+    {
+      "id": 14,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're at a work social and want a light comment about the food, or a polite way to wrap up and move on to someone else. Which chunk fits best?",
+      "options": {
+        "A": "How was the journey?",
+        "B": "This is dangerous, I've had four.",
+        "C": "Lovely day for it.",
+        "D": "How's the new role treating you?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"How was the journey?\" belongs to Small talk openers: weather & travel — used as a safe small-talk opener about the weather or someone's commute, not this context.\nSimilar chunks:\n- Lovely day for it.\n- Did you find us alright?\n- Bit nippy today.\n\n✓ Correct — \"This is dangerous, I've had four.\" is a Small talk: food comments & graceful exits chunk: used to comment lightly on food at a work event, or to exit a conversation politely.\nExample: \"This is dangerous, I've had four of these already.\"\nSimilar chunks:\n- Lovely to meet you.\n- Have you tried the...?\n- Enjoy the rest of it.\n\n✗ \"Lovely day for it.\" belongs to Small talk openers: weather & travel — used as a safe small-talk opener about the weather or someone's commute, not this context.\nSimilar chunks:\n- How was the journey?\n- Bit nippy today.\n- Traffic bad?\n\n✗ \"How's the new role treating you?\" belongs to Small talk openers: work & events — used as a safe small-talk opener about work in general or the event you're both at, not this context.\nSimilar chunks:\n- How do you know [host]?\n- How's your week looking?\n- Busy period for you?"
+    },
+    {
+      "id": 15,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're being casual and friendly with a British colleague you know well. Which chunk fits best?",
+      "options": {
+        "A": "love",
+        "B": "That came out of left field.",
+        "C": "Traffic bad?",
+        "D": "How was the journey?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"love\" is an Informal address & farewells (UK) chunk: used as a casual, friendly British way to address someone or say goodbye.\nExample: \"You alright, love? Haven't seen you in ages.\"\nSimilar chunks:\n- Cheers!\n- mate\n- mind how you go\n\n✗ \"That came out of left field.\" belongs to Sports idioms as office shorthand — used as a sports-derived idiom that doubles as everyday office shorthand, not this context.\nSimilar chunks:\n- It's a level playing field.\n- The ball's in their court.\n- That's an own goal.\n\n✗ \"Traffic bad?\" belongs to Small talk openers: weather & travel — used as a safe small-talk opener about the weather or someone's commute, not this context.\nSimilar chunks:\n- How was the journey?\n- Miserable out there, isn't it?\n- Lovely day for it.\n\n✗ \"How was the journey?\" belongs to Small talk openers: weather & travel — used as a safe small-talk opener about the weather or someone's commute, not this context.\nSimilar chunks:\n- Did you find us alright?\n- Lovely day for it.\n- Bit nippy today."
+    },
+    {
+      "id": 16,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're being casual and friendly with a British colleague you know well. Which chunk fits best?",
+      "options": {
+        "A": "proper",
+        "B": "Have you tried the...?",
+        "C": "mind how you go",
+        "D": "How do you know [host]?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"proper\" belongs to Casual invitations, reactions & intensifiers (UK) — used to casually invite, react, or add emphasis, British-colloquial register, not this context.\nSimilar chunks:\n- reckon\n- nice one\n- are you up for it?\n\n✗ \"Have you tried the...?\" belongs to Small talk: food comments & graceful exits — used to comment lightly on food at a work event, or to exit a conversation politely, not this context.\nSimilar chunks:\n- Enjoy the rest of it.\n- Lovely to meet you.\n- Right, I'd better circulate.\n\n✓ Correct — \"mind how you go\" is an Informal address & farewells (UK) chunk: used as a casual, friendly British way to address someone or say goodbye.\nExample: \"Right, I'm off — mind how you go!\"\nSimilar chunks:\n- pal\n- mate\n- Cheers!\n\n✗ \"How do you know [host]?\" belongs to Small talk openers: work & events — used as a safe small-talk opener about work in general or the event you're both at, not this context.\nSimilar chunks:\n- How's your week looking?\n- How's the new role treating you?\n- Busy period for you?"
+    },
+    {
+      "id": 17,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to describe how you're feeling, in the casual way a British colleague would. Which chunk fits best?",
+      "options": {
+        "A": "gobsmacked",
+        "B": "In Vietnam we'd say...",
+        "C": "Back to reality, eh?",
+        "D": "a bit of a nightmare"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"gobsmacked\" is a Naming a feeling, casually (UK) chunk: used to casually name how you're feeling, British-colloquial register.\nExample: \"I was gobsmacked when they announced the merger.\"\nSimilar chunks:\n- gutted\n- chuffed\n- knackered\n\n✗ \"In Vietnam we'd say...\" belongs to Handling & contributing cultural references — used to keep small talk warm and inclusive — joining a ritual exchange, admitting a gap, or contributing your own culture's angle, not this context.\nSimilar chunks:\n- Do you have family nearby?\n- Lovely day, isn't it?\n- That's one for the locals — what am I missing?\n\n✗ \"Back to reality, eh?\" belongs to Small talk openers: weekend & holidays — used as a safe small-talk opener about someone's weekend or holiday, not this context.\nSimilar chunks:\n- Going anywhere nice?\n- How was the break?\n- Any plans for the weekend?\n\n✗ \"a bit of a nightmare\" belongs to Describing outcomes/quality, casually (UK) — used to casually describe the quality or outcome of something, British-colloquial register, not this context.\nSimilar chunks:\n- spot on\n- dodgy\n- sorted"
+    },
+    {
+      "id": 18,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to describe how you're feeling, in the casual way a British colleague would. Which chunk fits best?",
+      "options": {
+        "A": "Enjoy the rest of it.",
+        "B": "What did you make of the talk?",
+        "C": "knackered",
+        "D": "Any plans for the weekend?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Enjoy the rest of it.\" belongs to Small talk: food comments & graceful exits — used to comment lightly on food at a work event, or to exit a conversation politely, not this context.\nSimilar chunks:\n- This is dangerous, I've had four.\n- Lovely to meet you.\n- Have you tried the...?\n\n✗ \"What did you make of the talk?\" belongs to Small talk openers: work & events — used as a safe small-talk opener about work in general or the event you're both at, not this context.\nSimilar chunks:\n- How's the new role treating you?\n- How's your week looking?\n- Busy period for you?\n\n✓ Correct — \"knackered\" is a Naming a feeling, casually (UK) chunk: used to casually name how you're feeling, British-colloquial register.\nExample: \"I'm absolutely knackered after that flight.\"\nSimilar chunks:\n- gutted\n- chuffed\n- gobsmacked\n\n✗ \"Any plans for the weekend?\" belongs to Small talk openers: weekend & holidays — used as a safe small-talk opener about someone's weekend or holiday, not this context.\nSimilar chunks:\n- Back to reality, eh?\n- Get up to much at the weekend?\n- How was the break?"
+    },
+    {
+      "id": 19,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to casually describe how something turned out, or how annoying or good it was, the way a British colleague would. Which chunk fits best?",
+      "options": {
+        "A": "sorted",
+        "B": "Have you tried the...?",
+        "C": "Enjoy the rest of it.",
+        "D": "Did you find us alright?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"sorted\" is a Describing outcomes/quality, casually (UK) chunk: used to casually describe the quality or outcome of something, British-colloquial register.\nExample: \"Don't worry, I've got it sorted.\"\nSimilar chunks:\n- faff\n- dodgy\n- naff\n\n✗ \"Have you tried the...?\" belongs to Small talk: food comments & graceful exits — used to comment lightly on food at a work event, or to exit a conversation politely, not this context.\nSimilar chunks:\n- Right, I'd better circulate.\n- Enjoy the rest of it.\n- Lovely to meet you.\n\n✗ \"Enjoy the rest of it.\" belongs to Small talk: food comments & graceful exits — used to comment lightly on food at a work event, or to exit a conversation politely, not this context.\nSimilar chunks:\n- Right, I'd better circulate.\n- This is dangerous, I've had four.\n- Have you tried the...?\n\n✗ \"Did you find us alright?\" belongs to Small talk openers: weather & travel — used as a safe small-talk opener about the weather or someone's commute, not this context.\nSimilar chunks:\n- How was the journey?\n- Miserable out there, isn't it?\n- Bit nippy today."
+    },
+    {
+      "id": 20,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to casually describe how something turned out, or how annoying or good it was, the way a British colleague would. Which chunk fits best?",
+      "options": {
+        "A": "Miserable out there, isn't it?",
+        "B": "That's a slam dunk.",
+        "C": "a bit of a nightmare",
+        "D": "Lovely day for it."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Miserable out there, isn't it?\" belongs to Small talk openers: weather & travel — used as a safe small-talk opener about the weather or someone's commute, not this context.\nSimilar chunks:\n- Bit nippy today.\n- Did you find us alright?\n- How was the journey?\n\n✗ \"That's a slam dunk.\" belongs to Sports idioms as office shorthand — used as a sports-derived idiom that doubles as everyday office shorthand, not this context.\nSimilar chunks:\n- The ball's in their court.\n- It's a level playing field.\n- That came out of left field.\n\n✓ Correct — \"a bit of a nightmare\" is a Describing outcomes/quality, casually (UK) chunk: used to casually describe the quality or outcome of something, British-colloquial register.\nExample: \"Getting a refund from them was a bit of a nightmare.\"\nSimilar chunks:\n- sorted\n- faff\n- naff\n\n✗ \"Lovely day for it.\" belongs to Small talk openers: weather & travel — used as a safe small-talk opener about the weather or someone's commute, not this context.\nSimilar chunks:\n- Traffic bad?\n- Did you find us alright?\n- How was the journey?"
+    },
+    {
+      "id": 21,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to casually describe how something turned out, or how annoying or good it was, the way a British colleague would. Which chunk fits best?",
+      "options": {
+        "A": "This is dangerous, I've had four.",
+        "B": "dead easy",
+        "C": "How was the journey?",
+        "D": "dodgy"
+      },
+      "correct": "D",
+      "explanation": "✗ \"This is dangerous, I've had four.\" belongs to Small talk: food comments & graceful exits — used to comment lightly on food at a work event, or to exit a conversation politely, not this context.\nSimilar chunks:\n- Lovely to meet you.\n- Right, I'd better circulate.\n- Enjoy the rest of it.\n\n✗ \"dead easy\" belongs to Casual invitations, reactions & intensifiers (UK) — used to casually invite, react, or add emphasis, British-colloquial register, not this context.\nSimilar chunks:\n- proper\n- I'm easy\n- fair play\n\n✗ \"How was the journey?\" belongs to Small talk openers: weather & travel — used as a safe small-talk opener about the weather or someone's commute, not this context.\nSimilar chunks:\n- Miserable out there, isn't it?\n- Did you find us alright?\n- Lovely day for it.\n\n✓ Correct — \"dodgy\" is a Describing outcomes/quality, casually (UK) chunk: used to casually describe the quality or outcome of something, British-colloquial register.\nExample: \"That Wi-Fi connection in the meeting room is a bit dodgy.\"\nSimilar chunks:\n- naff\n- sorted\n- a bit of a nightmare"
+    },
+    {
+      "id": 22,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to casually invite someone, react to what they said, or add emphasis, the way a British colleague would. Which chunk fits best?",
+      "options": {
+        "A": "Get up to much at the weekend?",
+        "B": "How's the new role treating you?",
+        "C": "proper",
+        "D": "spot on"
+      },
+      "correct": "C",
+      "explanation": "✗ \"Get up to much at the weekend?\" belongs to Small talk openers: weekend & holidays — used as a safe small-talk opener about someone's weekend or holiday, not this context.\nSimilar chunks:\n- Back to reality, eh?\n- Going anywhere nice?\n- Any plans for the weekend?\n\n✗ \"How's the new role treating you?\" belongs to Small talk openers: work & events — used as a safe small-talk opener about work in general or the event you're both at, not this context.\nSimilar chunks:\n- First time at one of these?\n- How's your week looking?\n- How do you know [host]?\n\n✓ Correct — \"proper\" is a Casual invitations, reactions & intensifiers (UK) chunk: used to casually invite, react, or add emphasis, British-colloquial register.\nExample: \"That was a proper mess of a meeting.\"\nSimilar chunks:\n- dead easy\n- are you up for it?\n- fair play\n\n✗ \"spot on\" belongs to Describing outcomes/quality, casually (UK) — used to casually describe the quality or outcome of something, British-colloquial register, not this context.\nSimilar chunks:\n- a bit of a nightmare\n- faff\n- dodgy"
+    },
+    {
+      "id": 23,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to casually invite someone, react to what they said, or add emphasis, the way a British colleague would. Which chunk fits best?",
+      "options": {
+        "A": "are you up for it?",
+        "B": "Get up to much at the weekend?",
+        "C": "a bit of a nightmare",
+        "D": "How's your week looking?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"are you up for it?\" is a Casual invitations, reactions & intensifiers (UK) chunk: used to casually invite, react, or add emphasis, British-colloquial register.\nExample: \"We're doing drinks after work — are you up for it?\"\nSimilar chunks:\n- dead easy\n- I'm easy\n- nice one\n\n✗ \"Get up to much at the weekend?\" belongs to Small talk openers: weekend & holidays — used as a safe small-talk opener about someone's weekend or holiday, not this context.\nSimilar chunks:\n- Going anywhere nice?\n- How was the break?\n- Back to reality, eh?\n\n✗ \"a bit of a nightmare\" belongs to Describing outcomes/quality, casually (UK) — used to casually describe the quality or outcome of something, British-colloquial register, not this context.\nSimilar chunks:\n- spot on\n- sorted\n- faff\n\n✗ \"How's your week looking?\" belongs to Small talk openers: work & events — used as a safe small-talk opener about work in general or the event you're both at, not this context.\nSimilar chunks:\n- How's the new role treating you?\n- How do you know [host]?\n- Busy period for you?"
+    },
+    {
+      "id": 24,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to casually invite someone, react to what they said, or add emphasis, the way a British colleague would. Which chunk fits best?",
+      "options": {
+        "A": "nice one",
+        "B": "Any plans for the weekend?",
+        "C": "a bit of a nightmare",
+        "D": "faff"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"nice one\" is a Casual invitations, reactions & intensifiers (UK) chunk: used to casually invite, react, or add emphasis, British-colloquial register.\nExample: \"You closed the deal? Nice one!\"\nSimilar chunks:\n- reckon\n- fair play\n- proper\n\n✗ \"Any plans for the weekend?\" belongs to Small talk openers: weekend & holidays — used as a safe small-talk opener about someone's weekend or holiday, not this context.\nSimilar chunks:\n- Get up to much at the weekend?\n- How was the break?\n- Back to reality, eh?\n\n✗ \"a bit of a nightmare\" belongs to Describing outcomes/quality, casually (UK) — used to casually describe the quality or outcome of something, British-colloquial register, not this context.\nSimilar chunks:\n- sorted\n- naff\n- faff\n\n✗ \"faff\" belongs to Describing outcomes/quality, casually (UK) — used to casually describe the quality or outcome of something, British-colloquial register, not this context.\nSimilar chunks:\n- sorted\n- spot on\n- dodgy"
+    },
+    {
+      "id": 25,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to casually invite someone, react to what they said, or add emphasis, the way a British colleague would. Which chunk fits best?",
+      "options": {
+        "A": "fancy a...?",
+        "B": "How was the journey?",
+        "C": "How's the new role treating you?",
+        "D": "Lovely day, isn't it?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"fancy a...?\" is a Casual invitations, reactions & intensifiers (UK) chunk: used to casually invite, react, or add emphasis, British-colloquial register.\nExample: \"Fancy a coffee before the meeting?\"\nSimilar chunks:\n- fair play\n- proper\n- dead easy\n\n✗ \"How was the journey?\" belongs to Small talk openers: weather & travel — used as a safe small-talk opener about the weather or someone's commute, not this context.\nSimilar chunks:\n- Traffic bad?\n- Bit nippy today.\n- Did you find us alright?\n\n✗ \"How's the new role treating you?\" belongs to Small talk openers: work & events — used as a safe small-talk opener about work in general or the event you're both at, not this context.\nSimilar chunks:\n- Busy period for you?\n- How's your week looking?\n- First time at one of these?\n\n✗ \"Lovely day, isn't it?\" belongs to Handling & contributing cultural references — used to keep small talk warm and inclusive — joining a ritual exchange, admitting a gap, or contributing your own culture's angle, not this context.\nSimilar chunks:\n- That's one for the locals — what am I missing?\n- Do you have family nearby?\n- In Vietnam we'd say..."
+    }
+  ]
+}

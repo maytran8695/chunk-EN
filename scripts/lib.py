@@ -29,6 +29,20 @@ import json
 import random
 
 
+def smart_quote(s):
+    """Wrap s in "..." for display — but skip adding an opening/closing
+    quote mark on whichever side already has one, so a source phrase or
+    example that already contains embedded quotes (a dialogue snippet like
+    '"Shall we park this?" "Good idea."', or a phrase that only opens or
+    only closes with a quote, like 'And she goes, "..."' or '"Deprecated"
+    — is that what you meant?') never ends up with a doubled ""..."" mark.
+    Checked independently per side since only one side is often quoted."""
+    s = s.strip()
+    left = '' if (s and s[0] in '"“') else '"'
+    right = '' if (s and s[-1] in '"”') else '"'
+    return f'{left}{s}{right}'
+
+
 def generate_topic(out_path, exam_id, title, tier_id, tier_name, groups_def, seed=42):
     random.seed(seed)
 
@@ -78,8 +92,8 @@ def generate_topic(out_path, exam_id, title, tier_id, tier_name, groups_def, see
                 eqs_str = "\n".join(f'- {e}' for e in eqs)
                 article = "an" if group_name[0] in "AEIOU" else "a"
                 block = (
-                    f'✓ Correct — "{phrase}" is {article} {group_name} chunk: {usage_note}.\n'
-                    f'Example: "{correct_example}"'
+                    f'✓ Correct — {smart_quote(phrase)} is {article} {group_name} chunk: {usage_note}.\n'
+                    f'Example: {smart_quote(correct_example)}'
                     + (f'\nSimilar chunks:\n{eqs_str}' if eqs else '')
                 )
             else:
@@ -87,7 +101,7 @@ def generate_topic(out_path, exam_id, title, tier_id, tier_name, groups_def, see
                 eqs = equivalents_for(group_name, phrase, k=3)
                 eqs_str = "\n".join(f'- {e}' for e in eqs)
                 block = (
-                    f'✗ "{phrase}" belongs to {group_name} — {g_note}, not this context.'
+                    f'✗ {smart_quote(phrase)} belongs to {group_name} — {g_note}, not this context.'
                     + (f'\nSimilar chunks:\n{eqs_str}' if eqs else '')
                 )
             explanation_blocks.append(block)

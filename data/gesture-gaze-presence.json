@@ -1,0 +1,146 @@
+{
+  "examId": "gesture-gaze-presence",
+  "title": "Chunk Atlas — Voice & Presence: Gesture, Gaze & Presence",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're explaining something and want language that naturally pulls your hands into the explanation — pointing, showing movement, or laying out structure in space. Which chunk fits best?",
+      "options": {
+        "A": "Go ahead — no, you go.",
+        "B": "Am I coming through okay?",
+        "C": "Have a look at the chat.",
+        "D": "It went up sharply."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Go ahead — no, you go.\" belongs to Video call logistics & connection checks — used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor, not this context.\nSimilar chunks:\n- I think we lost you there.\n- Have a look at the chat.\n- I'll stop sharing.\n\n✗ \"Am I coming through okay?\" belongs to Video call logistics & connection checks — used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor, not this context.\nSimilar chunks:\n- Have a look at the chat.\n- Sorry, we talked over each other.\n- I'll drop it in the chat.\n\n✗ \"Have a look at the chat.\" belongs to Video call logistics & connection checks — used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor, not this context.\nSimilar chunks:\n- Go ahead — no, you go.\n- Sorry, we talked over each other.\n- Let me put that on screen.\n\n✓ Correct — \"It went up sharply.\" is a Spatial & structural gesture language chunk: used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space.\nExample: \"Just look at this chart — it went up sharply the moment we changed the pricing.\"\nSimilar chunks:\n- There are three parts: this, this, and this.\n- Let me draw this for you.\n- This option here, that one there."
+    },
+    {
+      "id": 2,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're explaining something and want language that naturally pulls your hands into the explanation — pointing, showing movement, or laying out structure in space. Which chunk fits best?",
+      "options": {
+        "A": "Have a look at the chat.",
+        "B": "I'll stop sharing.",
+        "C": "Let me draw this for you.",
+        "D": "Let me put that on screen."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Have a look at the chat.\" belongs to Video call logistics & connection checks — used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor, not this context.\nSimilar chunks:\n- Can everyone see my screen?\n- Sorry, you're on mute.\n- I think we lost you there.\n\n✗ \"I'll stop sharing.\" belongs to Video call logistics & connection checks — used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor, not this context.\nSimilar chunks:\n- Sorry, we talked over each other.\n- Go ahead — no, you go.\n- Let me put that on screen.\n\n✓ Correct — \"Let me draw this for you.\" is a Spatial & structural gesture language chunk: used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space.\nExample: \"It's easier to show than explain — let me draw this for you.\"\nSimilar chunks:\n- This option here, that one there.\n- Roughly this far apart.\n- It's about this big.\n\n✗ \"Let me put that on screen.\" belongs to Video call logistics & connection checks — used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor, not this context.\nSimilar chunks:\n- I think we lost you there.\n- I'll drop it in the chat.\n- Am I coming through okay?"
+    },
+    {
+      "id": 3,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're explaining something and want language that naturally pulls your hands into the explanation — pointing, showing movement, or laying out structure in space. Which chunk fits best?",
+      "options": {
+        "A": "There are three parts: this, this, and this.",
+        "B": "Sorry, you're on mute.",
+        "C": "Can everyone see my screen?",
+        "D": "Go ahead — no, you go."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"There are three parts: this, this, and this.\" is a Spatial & structural gesture language chunk: used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space.\nExample: \"There are three parts to the proposal: this, this, and this.\"\nSimilar chunks:\n- Big picture... versus the detail.\n- On the one hand... on the other hand...\n- This option here, that one there.\n\n✗ \"Sorry, you're on mute.\" belongs to Video call logistics & connection checks — used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor, not this context.\nSimilar chunks:\n- I think we lost you there.\n- Go ahead — no, you go.\n- Have a look at the chat.\n\n✗ \"Can everyone see my screen?\" belongs to Video call logistics & connection checks — used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor, not this context.\nSimilar chunks:\n- Have a look at the chat.\n- I'll stop sharing.\n- Sorry, you're on mute.\n\n✗ \"Go ahead — no, you go.\" belongs to Video call logistics & connection checks — used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor, not this context.\nSimilar chunks:\n- Have a look at the chat.\n- I think we lost you there.\n- I'll stop sharing."
+    },
+    {
+      "id": 4,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're explaining something and want language that naturally pulls your hands into the explanation — pointing, showing movement, or laying out structure in space. Which chunk fits best?",
+      "options": {
+        "A": "Have a look at the chat.",
+        "B": "I'm nodding along, for what it's worth.",
+        "C": "Roughly this far apart.",
+        "D": "I think we lost you there."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Have a look at the chat.\" belongs to Video call logistics & connection checks — used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor, not this context.\nSimilar chunks:\n- I'll stop sharing.\n- Go ahead — no, you go.\n- Let me put that on screen.\n\n✗ \"I'm nodding along, for what it's worth.\" belongs to Compensating for lost non-verbal signals on video — used on a video call to say out loud a reaction that would normally just show on your face, since video weakens those signals, not this context.\nSimilar chunks:\n- That got a laugh from me.\n- Just so you know I'm still here — that all makes sense.\n\n✓ Correct — \"Roughly this far apart.\" is a Spatial & structural gesture language chunk: used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space.\nExample: \"The two racks need to sit roughly this far apart for the cabling to reach.\"\nSimilar chunks:\n- This option here, that one there.\n- Big picture... versus the detail.\n- There are three parts: this, this, and this.\n\n✗ \"I think we lost you there.\" belongs to Video call logistics & connection checks — used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor, not this context.\nSimilar chunks:\n- Can everyone see my screen?\n- Sorry, you're on mute.\n- Am I coming through okay?"
+    },
+    {
+      "id": 5,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're on a video call and need to sort out a technical hiccup — screen sharing, audio, or who talks next. Which chunk fits best?",
+      "options": {
+        "A": "On the one hand... on the other hand...",
+        "B": "We're here, and we need to get here.",
+        "C": "Am I coming through okay?",
+        "D": "Let me draw this for you."
+      },
+      "correct": "C",
+      "explanation": "✗ \"On the one hand... on the other hand...\" belongs to Spatial & structural gesture language — used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space, not this context.\nSimilar chunks:\n- Let me draw this for you.\n- We're here, and we need to get here.\n- This option here, that one there.\n\n✗ \"We're here, and we need to get here.\" belongs to Spatial & structural gesture language — used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space, not this context.\nSimilar chunks:\n- There are three parts: this, this, and this.\n- On the one hand... on the other hand...\n- This option here, that one there.\n\n✓ Correct — \"Am I coming through okay?\" is a Video call logistics & connection checks chunk: used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor.\nExample: \"Am I coming through okay? My connection's been patchy today.\"\nSimilar chunks:\n- I'll stop sharing.\n- I think we lost you there.\n- Let me put that on screen.\n\n✗ \"Let me draw this for you.\" belongs to Spatial & structural gesture language — used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space, not this context.\nSimilar chunks:\n- It went from here... to here.\n- We're here, and we need to get here.\n- There are three parts: this, this, and this."
+    },
+    {
+      "id": 6,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're on a video call and need to sort out a technical hiccup — screen sharing, audio, or who talks next. Which chunk fits best?",
+      "options": {
+        "A": "I'm nodding along, for what it's worth.",
+        "B": "Let me draw this for you.",
+        "C": "Big picture... versus the detail.",
+        "D": "Sorry, we talked over each other."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'm nodding along, for what it's worth.\" belongs to Compensating for lost non-verbal signals on video — used on a video call to say out loud a reaction that would normally just show on your face, since video weakens those signals, not this context.\nSimilar chunks:\n- Just so you know I'm still here — that all makes sense.\n- That got a laugh from me.\n\n✗ \"Let me draw this for you.\" belongs to Spatial & structural gesture language — used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space, not this context.\nSimilar chunks:\n- On the one hand... on the other hand...\n- There are three parts: this, this, and this.\n- It's about this big.\n\n✗ \"Big picture... versus the detail.\" belongs to Spatial & structural gesture language — used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space, not this context.\nSimilar chunks:\n- This option here, that one there.\n- It went up sharply.\n- We're here, and we need to get here.\n\n✓ Correct — \"Sorry, we talked over each other.\" is a Video call logistics & connection checks chunk: used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor.\nExample: \"Sorry, we talked over each other there — could you go first?\"\nSimilar chunks:\n- Have a look at the chat.\n- I think we lost you there.\n- I'll drop it in the chat."
+    },
+    {
+      "id": 7,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're on a video call and need to sort out a technical hiccup — screen sharing, audio, or who talks next. Which chunk fits best?",
+      "options": {
+        "A": "I'm nodding along, for what it's worth.",
+        "B": "Can everyone see my screen?",
+        "C": "It's about this big.",
+        "D": "It went from here... to here."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'm nodding along, for what it's worth.\" belongs to Compensating for lost non-verbal signals on video — used on a video call to say out loud a reaction that would normally just show on your face, since video weakens those signals, not this context.\nSimilar chunks:\n- That got a laugh from me.\n- Just so you know I'm still here — that all makes sense.\n\n✓ Correct — \"Can everyone see my screen?\" is a Video call logistics & connection checks chunk: used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor.\nExample: \"Can everyone see my screen? I want to make sure the slides are showing.\"\nSimilar chunks:\n- Have a look at the chat.\n- Sorry, we talked over each other.\n- Go ahead — no, you go.\n\n✗ \"It's about this big.\" belongs to Spatial & structural gesture language — used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space, not this context.\nSimilar chunks:\n- This option here, that one there.\n- Let me draw this for you.\n- There are three parts: this, this, and this.\n\n✗ \"It went from here... to here.\" belongs to Spatial & structural gesture language — used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space, not this context.\nSimilar chunks:\n- Let me draw this for you.\n- On the one hand... on the other hand...\n- We're here, and we need to get here."
+    },
+    {
+      "id": 8,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're on a video call and need to sort out a technical hiccup — screen sharing, audio, or who talks next. Which chunk fits best?",
+      "options": {
+        "A": "We're here, and we need to get here.",
+        "B": "I'll drop it in the chat.",
+        "C": "That got a laugh from me.",
+        "D": "This option here, that one there."
+      },
+      "correct": "B",
+      "explanation": "✗ \"We're here, and we need to get here.\" belongs to Spatial & structural gesture language — used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space, not this context.\nSimilar chunks:\n- It's about this big.\n- Let me draw this for you.\n- It went from here... to here.\n\n✓ Correct — \"I'll drop it in the chat.\" is a Video call logistics & connection checks chunk: used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor.\nExample: \"I'll drop it in the chat so you all have the link afterwards.\"\nSimilar chunks:\n- Sorry, you're on mute.\n- Can everyone see my screen?\n- Have a look at the chat.\n\n✗ \"That got a laugh from me.\" belongs to Compensating for lost non-verbal signals on video — used on a video call to say out loud a reaction that would normally just show on your face, since video weakens those signals, not this context.\nSimilar chunks:\n- Just so you know I'm still here — that all makes sense.\n- I'm nodding along, for what it's worth.\n\n✗ \"This option here, that one there.\" belongs to Spatial & structural gesture language — used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space, not this context.\nSimilar chunks:\n- Roughly this far apart.\n- There are three parts: this, this, and this.\n- Big picture... versus the detail."
+    },
+    {
+      "id": 9,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're on a video call and want to put into words a reaction that would normally just show on your face. Which chunk fits best?",
+      "options": {
+        "A": "Roughly this far apart.",
+        "B": "Let me draw this for you.",
+        "C": "I'm nodding along, for what it's worth.",
+        "D": "There are three parts: this, this, and this."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Roughly this far apart.\" belongs to Spatial & structural gesture language — used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space, not this context.\nSimilar chunks:\n- Big picture... versus the detail.\n- On the one hand... on the other hand...\n- This option here, that one there.\n\n✗ \"Let me draw this for you.\" belongs to Spatial & structural gesture language — used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space, not this context.\nSimilar chunks:\n- It's about this big.\n- We're here, and we need to get here.\n- There are three parts: this, this, and this.\n\n✓ Correct — \"I'm nodding along, for what it's worth.\" is a Compensating for lost non-verbal signals on video chunk: used on a video call to say out loud a reaction that would normally just show on your face, since video weakens those signals.\nExample: \"I'm nodding along, for what it's worth, since you can barely see me in this tiny window.\"\nSimilar chunks:\n- Just so you know I'm still here — that all makes sense.\n- That got a laugh from me.\n\n✗ \"There are three parts: this, this, and this.\" belongs to Spatial & structural gesture language — used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space, not this context.\nSimilar chunks:\n- Let me draw this for you.\n- It's about this big.\n- Roughly this far apart."
+    },
+    {
+      "id": 10,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're on a video call and want to put into words a reaction that would normally just show on your face. Which chunk fits best?",
+      "options": {
+        "A": "That got a laugh from me.",
+        "B": "It went from here... to here.",
+        "C": "Am I coming through okay?",
+        "D": "Have a look at the chat."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"That got a laugh from me.\" is a Compensating for lost non-verbal signals on video chunk: used on a video call to say out loud a reaction that would normally just show on your face, since video weakens those signals.\nExample: \"That got a laugh from me, even though my camera's off right now.\"\nSimilar chunks:\n- Just so you know I'm still here — that all makes sense.\n- I'm nodding along, for what it's worth.\n\n✗ \"It went from here... to here.\" belongs to Spatial & structural gesture language — used to accompany an explanation with natural hand gestures — pointing, showing movement, or organizing ideas in space, not this context.\nSimilar chunks:\n- Let me draw this for you.\n- This option here, that one there.\n- It's about this big.\n\n✗ \"Am I coming through okay?\" belongs to Video call logistics & connection checks — used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor, not this context.\nSimilar chunks:\n- I'll stop sharing.\n- I think we lost you there.\n- Sorry, we talked over each other.\n\n✗ \"Have a look at the chat.\" belongs to Video call logistics & connection checks — used to handle technical logistics on a video call — screen sharing, audio issues, or handing off the floor, not this context.\nSimilar chunks:\n- Am I coming through okay?\n- Go ahead — no, you go.\n- Let me put that on screen."
+    }
+  ]
+}

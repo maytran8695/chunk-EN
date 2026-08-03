@@ -1,0 +1,482 @@
+{
+  "examId": "emotional-attunement",
+  "title": "Chunk Atlas — Voice & Presence: Emotional Attunement",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You can tell from someone's tone or body language that they're upset, even though their words sound fine, and you want to gently name what you're picking up on. Which chunk fits best?",
+      "options": {
+        "A": "That's awful.",
+        "B": "What would help right now?",
+        "C": "It seems like you're under a lot of pressure.",
+        "D": "I'm sorry — that's really hard."
+      },
+      "correct": "C",
+      "explanation": "✗ \"That's awful.\" belongs to Responding when someone's sad or shares hard news — used to respond to someone sharing sad news or a hard moment, not this context.\nSimilar chunks:\n- I'm really sorry.\n- Do you want to talk about it?\n- I'm sorry — that's really hard.\n\n✗ \"What would help right now?\" belongs to Validating before solving — used to acknowledge someone's reaction as reasonable before offering any solution, not this context.\nSimilar chunks:\n- I'm with you on that.\n- You're not wrong to feel that.\n- That's completely fair.\n\n✓ Correct — \"It seems like you're under a lot of pressure.\" is a Labelling someone's emotion chunk: used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it.\nExample: \"It seems like you're under a lot of pressure with the deadline moved up.\"\nSimilar chunks:\n- That must have been difficult.\n- It seems like...\n- It sounds like this has been frustrating.\n\n✗ \"I'm sorry — that's really hard.\" belongs to Responding when someone's sad or shares hard news — used to respond to someone sharing sad news or a hard moment, not this context.\nSimilar chunks:\n- Do you want to talk about it?\n- I'm really sorry.\n- That's awful."
+    },
+    {
+      "id": 2,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You can tell from someone's tone or body language that they're upset, even though their words sound fine, and you want to gently name what you're picking up on. Which chunk fits best?",
+      "options": {
+        "A": "What would help right now?",
+        "B": "Of course you are.",
+        "C": "That's a fair reaction.",
+        "D": "That must have been difficult."
+      },
+      "correct": "D",
+      "explanation": "✗ \"What would help right now?\" belongs to Validating before solving — used to acknowledge someone's reaction as reasonable before offering any solution, not this context.\nSimilar chunks:\n- That's a fair reaction.\n- Of course you are.\n- That makes sense given what you've been dealing with.\n\n✗ \"Of course you are.\" belongs to Validating before solving — used to acknowledge someone's reaction as reasonable before offering any solution, not this context.\nSimilar chunks:\n- I'm with you on that.\n- I'd feel the same in your position.\n- I hear you.\n\n✗ \"That's a fair reaction.\" belongs to Validating before solving — used to acknowledge someone's reaction as reasonable before offering any solution, not this context.\nSimilar chunks:\n- You're not wrong to feel that.\n- That's completely fair.\n- I hear you.\n\n✓ Correct — \"That must have been difficult.\" is a Labelling someone's emotion chunk: used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it.\nExample: \"That must have been difficult, having to deliver that news yourself.\"\nSimilar chunks:\n- It sounds like...\n- I get the sense you're not convinced.\n- I imagine that wasn't easy."
+    },
+    {
+      "id": 3,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You can tell from someone's tone or body language that they're upset, even though their words sound fine, and you want to gently name what you're picking up on. Which chunk fits best?",
+      "options": {
+        "A": "How are you doing — actually?",
+        "B": "Look after yourself.",
+        "C": "That makes sense given what you've been dealing with.",
+        "D": "It seems like..."
+      },
+      "correct": "D",
+      "explanation": "✗ \"How are you doing — actually?\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- That was [name]'s idea, credit where it's due.\n- Thanks for making time — I know how full your week is.\n- No rush at all — take the time you need.\n\n✗ \"Look after yourself.\" belongs to Responding when someone's unwell — used to respond to a colleague who's unwell, not this context.\nSimilar chunks:\n- Get well soon.\n- Don't rush back.\n\n✗ \"That makes sense given what you've been dealing with.\" belongs to Validating before solving — used to acknowledge someone's reaction as reasonable before offering any solution, not this context.\nSimilar chunks:\n- I hear you.\n- That's completely fair.\n- That's a fair reaction.\n\n✓ Correct — \"It seems like...\" is a Labelling someone's emotion chunk: used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it.\nExample: \"It seems like the timing caught everyone off guard.\"\nSimilar chunks:\n- You seem hesitant — am I reading that right?\n- It looks like this matters a lot to you.\n- It sounds like..."
+    },
+    {
+      "id": 4,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You can tell from someone's tone or body language that they're upset, even though their words sound fine, and you want to gently name what you're picking up on. Which chunk fits best?",
+      "options": {
+        "A": "I'm with you on that.",
+        "B": "I'm really sorry.",
+        "C": "You seem hesitant — am I reading that right?",
+        "D": "Get well soon."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I'm with you on that.\" belongs to Validating before solving — used to acknowledge someone's reaction as reasonable before offering any solution, not this context.\nSimilar chunks:\n- What would help right now?\n- I'd feel the same in your position.\n- That makes sense given what you've been dealing with.\n\n✗ \"I'm really sorry.\" belongs to Responding when someone's sad or shares hard news — used to respond to someone sharing sad news or a hard moment, not this context.\nSimilar chunks:\n- Do you want to talk about it?\n- I'm sorry — that's really hard.\n- That's awful.\n\n✓ Correct — \"You seem hesitant — am I reading that right?\" is a Labelling someone's emotion chunk: used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it.\nExample: \"You seem hesitant — am I reading that right, or is it just me?\"\nSimilar chunks:\n- I imagine that wasn't easy.\n- I get the sense you're not convinced.\n- It looks like this matters a lot to you.\n\n✗ \"Get well soon.\" belongs to Responding when someone's unwell — used to respond to a colleague who's unwell, not this context.\nSimilar chunks:\n- Look after yourself.\n- Don't rush back."
+    },
+    {
+      "id": 5,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague is venting about a problem, and before jumping to a fix, you want to show them you actually heard what they said. Which chunk fits best?",
+      "options": {
+        "A": "I'm thinking of you.",
+        "B": "I'd feel the same in your position.",
+        "C": "Thinking of you.",
+        "D": "I'm just glad you told me."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I'm thinking of you.\" belongs to Responding to loss — used to respond to someone dealing with a death or significant loss, not this context.\nSimilar chunks:\n- There are no words.\n- I'm so sorry for your loss.\n\n✓ Correct — \"I'd feel the same in your position.\" is a Validating before solving chunk: used to acknowledge someone's reaction as reasonable before offering any solution.\nExample: \"I'd feel the same in your position, given how late the update came.\"\nSimilar chunks:\n- Of course you are.\n- I hear you.\n- I'm with you on that.\n\n✗ \"Thinking of you.\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- How did your daughter's recital go?\n- Thanks for making time — I know how full your week is.\n- That was [name]'s idea, credit where it's due.\n\n✗ \"I'm just glad you told me.\" belongs to When you don't know what to say — used when you genuinely don't know what to say but don't want to stay silent, not this context.\nSimilar chunks:\n- I don't know what to say."
+    },
+    {
+      "id": 6,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague is venting about a problem, and before jumping to a fix, you want to show them you actually heard what they said. Which chunk fits best?",
+      "options": {
+        "A": "Get well soon.",
+        "B": "I'm thinking of you.",
+        "C": "What would help right now?",
+        "D": "You must be delighted."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Get well soon.\" belongs to Responding when someone's unwell — used to respond to a colleague who's unwell, not this context.\nSimilar chunks:\n- Don't rush back.\n- Look after yourself.\n\n✗ \"I'm thinking of you.\" belongs to Responding to loss — used to respond to someone dealing with a death or significant loss, not this context.\nSimilar chunks:\n- I'm so sorry for your loss.\n- There are no words.\n\n✓ Correct — \"What would help right now?\" is a Validating before solving chunk: used to acknowledge someone's reaction as reasonable before offering any solution.\nExample: \"What would help right now — a shoulder to cry on or an action plan?\"\nSimilar chunks:\n- That makes sense given what you've been dealing with.\n- That's completely fair.\n- Of course you are.\n\n✗ \"You must be delighted.\" belongs to Responding when someone's happy — used to respond warmly to someone sharing good news, not this context.\nSimilar chunks:\n- I'm so pleased for you.\n- That's brilliant!"
+    },
+    {
+      "id": 7,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague is venting about a problem, and before jumping to a fix, you want to show them you actually heard what they said. Which chunk fits best?",
+      "options": {
+        "A": "How can I help?",
+        "B": "That was [name]'s idea, credit where it's due.",
+        "C": "I'm sorry — that's really hard.",
+        "D": "I'm with you on that."
+      },
+      "correct": "D",
+      "explanation": "✗ \"How can I help?\" belongs to Responding when someone's anxious — used to respond to someone who's anxious or worried about something, not this context.\nSimilar chunks:\n- That sounds stressful.\n- What's the worst case?\n\n✗ \"That was [name]'s idea, credit where it's due.\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- How did your daughter's recital go?\n- Did you get that issue with the landlord sorted?\n- How are you doing — actually?\n\n✗ \"I'm sorry — that's really hard.\" belongs to Responding when someone's sad or shares hard news — used to respond to someone sharing sad news or a hard moment, not this context.\nSimilar chunks:\n- That's awful.\n- I'm really sorry.\n- Do you want to talk about it?\n\n✓ Correct — \"I'm with you on that.\" is a Validating before solving chunk: used to acknowledge someone's reaction as reasonable before offering any solution.\nExample: \"I'm with you on that, the process really does need fixing.\"\nSimilar chunks:\n- You're not wrong to feel that.\n- That's a fair reaction.\n- Do you want me to help fix it, or do you just want to vent?"
+    },
+    {
+      "id": 8,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague is venting about a problem, and before jumping to a fix, you want to show them you actually heard what they said. Which chunk fits best?",
+      "options": {
+        "A": "I hear you.",
+        "B": "It seems like...",
+        "C": "Let me pause here — where is everyone on this?",
+        "D": "How are you doing — actually?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I hear you.\" is a Validating before solving chunk: used to acknowledge someone's reaction as reasonable before offering any solution.\nExample: \"I hear you — that's the third time this month it's happened.\"\nSimilar chunks:\n- That's completely fair.\n- That makes sense given what you've been dealing with.\n- Do you want me to help fix it, or do you just want to vent?\n\n✗ \"It seems like...\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- It sounds like this has been frustrating.\n- It seems like you're under a lot of pressure.\n- It looks like this matters a lot to you.\n\n✗ \"Let me pause here — where is everyone on this?\" belongs to Reading the room — used to check in when you sense unspoken hesitation or discomfort in a group, not this context.\nSimilar chunks:\n- Is now a bad time?\n- I feel like there's something unsaid.\n- I'm sensing some hesitation.\n\n✗ \"How are you doing — actually?\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- How did your daughter's recital go?\n- No rush at all — take the time you need.\n- That was [name]'s idea, credit where it's due."
+    },
+    {
+      "id": 9,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "The room's gone quiet or people seem hesitant after your proposal, and you want to check in rather than just plough ahead. Which chunk fits best?",
+      "options": {
+        "A": "That's brilliant!",
+        "B": "I feel like there's something unsaid.",
+        "C": "I'm sorry — that's really hard.",
+        "D": "It seems like you're under a lot of pressure."
+      },
+      "correct": "B",
+      "explanation": "✗ \"That's brilliant!\" belongs to Responding when someone's happy — used to respond warmly to someone sharing good news, not this context.\nSimilar chunks:\n- I'm so pleased for you.\n- You must be delighted.\n\n✓ Correct — \"I feel like there's something unsaid.\" is a Reading the room chunk: used to check in when you sense unspoken hesitation or discomfort in a group.\nExample: \"I feel like there's something unsaid here — anyone want to jump in?\"\nSimilar chunks:\n- Is now a bad time?\n- Let me pause here — where is everyone on this?\n- I'm sensing some hesitation.\n\n✗ \"I'm sorry — that's really hard.\" belongs to Responding when someone's sad or shares hard news — used to respond to someone sharing sad news or a hard moment, not this context.\nSimilar chunks:\n- Do you want to talk about it?\n- I'm really sorry.\n- That's awful.\n\n✗ \"It seems like you're under a lot of pressure.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- That must have been difficult.\n- I get the sense you're not convinced.\n- It sounds like this has been frustrating."
+    },
+    {
+      "id": 10,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "The room's gone quiet or people seem hesitant after your proposal, and you want to check in rather than just plough ahead. Which chunk fits best?",
+      "options": {
+        "A": "That's awful.",
+        "B": "That's not on.",
+        "C": "Don't rush back.",
+        "D": "Is now a bad time?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"That's awful.\" belongs to Responding when someone's sad or shares hard news — used to respond to someone sharing sad news or a hard moment, not this context.\nSimilar chunks:\n- I'm really sorry.\n- I'm sorry — that's really hard.\n- Do you want to talk about it?\n\n✗ \"That's not on.\" belongs to Responding when someone's angry — used to respond to someone who's angry, without dismissing the feeling, not this context.\nSimilar chunks:\n- I'd be annoyed too.\n- You've every right to be.\n\n✗ \"Don't rush back.\" belongs to Responding when someone's unwell — used to respond to a colleague who's unwell, not this context.\nSimilar chunks:\n- Look after yourself.\n- Get well soon.\n\n✓ Correct — \"Is now a bad time?\" is a Reading the room chunk: used to check in when you sense unspoken hesitation or discomfort in a group.\nExample: \"Is now a bad time? We can pick this up tomorrow instead.\"\nSimilar chunks:\n- I'm sensing some hesitation.\n- I feel like there's something unsaid.\n- Let me pause here — where is everyone on this?"
+    },
+    {
+      "id": 11,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to show a colleague you actually remember and care about their life outside work, not just default small talk. Which chunk fits best?",
+      "options": {
+        "A": "Thanks for trusting me with that.",
+        "B": "How did your daughter's recital go?",
+        "C": "Do you want to talk about it?",
+        "D": "It looks like this matters a lot to you."
+      },
+      "correct": "B",
+      "explanation": "✗ \"Thanks for trusting me with that.\" belongs to Acknowledging vulnerability — used to acknowledge that what someone just shared took courage to say, not this context.\nSimilar chunks:\n- That can't have been easy to say.\n\n✓ Correct — \"How did your daughter's recital go?\" is a Deliberate warmth chunk: used to show deliberate, specific warmth rather than a generic check-in.\nExample: \"How did your daughter's recital go? You'd mentioned it last week.\"\nSimilar chunks:\n- The point you made about X last week really stuck with me.\n- Thanks for making time — I know how full your week is.\n- Did you get that issue with the landlord sorted?\n\n✗ \"Do you want to talk about it?\" belongs to Responding when someone's sad or shares hard news — used to respond to someone sharing sad news or a hard moment, not this context.\nSimilar chunks:\n- I'm sorry — that's really hard.\n- I'm really sorry.\n- That's awful.\n\n✗ \"It looks like this matters a lot to you.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- It sounds like this has been frustrating.\n- You seem hesitant — am I reading that right?\n- It seems like..."
+    },
+    {
+      "id": 12,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to show a colleague you actually remember and care about their life outside work, not just default small talk. Which chunk fits best?",
+      "options": {
+        "A": "I'm sorry — that's really hard.",
+        "B": "These things happen.",
+        "C": "How are you doing — actually?",
+        "D": "I don't know what to say."
+      },
+      "correct": "C",
+      "explanation": "✗ \"I'm sorry — that's really hard.\" belongs to Responding when someone's sad or shares hard news — used to respond to someone sharing sad news or a hard moment, not this context.\nSimilar chunks:\n- Do you want to talk about it?\n- I'm really sorry.\n- That's awful.\n\n✗ \"These things happen.\" belongs to Responding to someone's setback or failure — used to respond to someone's setback or failed attempt without piling on, not this context.\nSimilar chunks:\n- Onwards.\n- You gave it a proper go.\n\n✓ Correct — \"How are you doing — actually?\" is a Deliberate warmth chunk: used to show deliberate, specific warmth rather than a generic check-in.\nExample: \"How are you doing — actually? Not the meeting-status version.\"\nSimilar chunks:\n- Did you get that issue with the landlord sorted?\n- The point you made about X last week really stuck with me.\n- Thinking of you.\n\n✗ \"I don't know what to say.\" belongs to When you don't know what to say — used when you genuinely don't know what to say but don't want to stay silent, not this context.\nSimilar chunks:\n- I'm just glad you told me."
+    },
+    {
+      "id": 13,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to show a colleague you actually remember and care about their life outside work, not just default small talk. Which chunk fits best?",
+      "options": {
+        "A": "Of course you are.",
+        "B": "Thinking of you.",
+        "C": "Let me pause here — where is everyone on this?",
+        "D": "How can I help?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"Of course you are.\" belongs to Validating before solving — used to acknowledge someone's reaction as reasonable before offering any solution, not this context.\nSimilar chunks:\n- Do you want me to help fix it, or do you just want to vent?\n- What would help right now?\n- I hear you.\n\n✓ Correct — \"Thinking of you.\" is a Deliberate warmth chunk: used to show deliberate, specific warmth rather than a generic check-in.\nExample: \"Just wanted to say I'm thinking of you this week.\"\nSimilar chunks:\n- No rush at all — take the time you need.\n- Did you get that issue with the landlord sorted?\n- How are you doing — actually?\n\n✗ \"Let me pause here — where is everyone on this?\" belongs to Reading the room — used to check in when you sense unspoken hesitation or discomfort in a group, not this context.\nSimilar chunks:\n- I'm sensing some hesitation.\n- Is now a bad time?\n- I feel like there's something unsaid.\n\n✗ \"How can I help?\" belongs to Responding when someone's anxious — used to respond to someone who's anxious or worried about something, not this context.\nSimilar chunks:\n- That sounds stressful.\n- What's the worst case?"
+    },
+    {
+      "id": 14,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to show a colleague you actually remember and care about their life outside work, not just default small talk. Which chunk fits best?",
+      "options": {
+        "A": "Look after yourself.",
+        "B": "How can I help?",
+        "C": "I don't know what to say.",
+        "D": "Did you get that issue with the landlord sorted?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"Look after yourself.\" belongs to Responding when someone's unwell — used to respond to a colleague who's unwell, not this context.\nSimilar chunks:\n- Get well soon.\n- Don't rush back.\n\n✗ \"How can I help?\" belongs to Responding when someone's anxious — used to respond to someone who's anxious or worried about something, not this context.\nSimilar chunks:\n- What's the worst case?\n- That sounds stressful.\n\n✗ \"I don't know what to say.\" belongs to When you don't know what to say — used when you genuinely don't know what to say but don't want to stay silent, not this context.\nSimilar chunks:\n- I'm just glad you told me.\n\n✓ Correct — \"Did you get that issue with the landlord sorted?\" is a Deliberate warmth chunk: used to show deliberate, specific warmth rather than a generic check-in.\nExample: \"Did you get that issue with the landlord sorted in the end?\"\nSimilar chunks:\n- How did your daughter's recital go?\n- That was [name]'s idea, credit where it's due.\n- Thinking of you."
+    },
+    {
+      "id": 15,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague just told you something upsetting or shared some hard personal news. Which chunk fits best?",
+      "options": {
+        "A": "That's brilliant!",
+        "B": "I've been thinking about what you said.",
+        "C": "I'm really sorry.",
+        "D": "Is now a bad time?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"That's brilliant!\" belongs to Responding when someone's happy — used to respond warmly to someone sharing good news, not this context.\nSimilar chunks:\n- I'm so pleased for you.\n- You must be delighted.\n\n✗ \"I've been thinking about what you said.\" belongs to Following up after a hard conversation — used to follow up after a difficult conversation, days or weeks later, not this context.\nSimilar chunks:\n- How are things now?\n\n✓ Correct — \"I'm really sorry.\" is a Responding when someone's sad or shares hard news chunk: used to respond to someone sharing sad news or a hard moment.\nExample: \"I'm really sorry — that's a lot to deal with all at once.\"\nSimilar chunks:\n- That's awful.\n- I'm sorry — that's really hard.\n- Do you want to talk about it?\n\n✗ \"Is now a bad time?\" belongs to Reading the room — used to check in when you sense unspoken hesitation or discomfort in a group, not this context.\nSimilar chunks:\n- I'm sensing some hesitation.\n- I feel like there's something unsaid.\n- Let me pause here — where is everyone on this?"
+    },
+    {
+      "id": 16,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague just told you something upsetting or shared some hard personal news. Which chunk fits best?",
+      "options": {
+        "A": "How are you doing — actually?",
+        "B": "These things happen.",
+        "C": "Do you want to talk about it?",
+        "D": "The point you made about X last week really stuck with me."
+      },
+      "correct": "C",
+      "explanation": "✗ \"How are you doing — actually?\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- No rush at all — take the time you need.\n- Thinking of you.\n- That was [name]'s idea, credit where it's due.\n\n✗ \"These things happen.\" belongs to Responding to someone's setback or failure — used to respond to someone's setback or failed attempt without piling on, not this context.\nSimilar chunks:\n- Onwards.\n- You gave it a proper go.\n\n✓ Correct — \"Do you want to talk about it?\" is a Responding when someone's sad or shares hard news chunk: used to respond to someone sharing sad news or a hard moment.\nExample: \"Do you want to talk about it, or would you rather just get on with the day?\"\nSimilar chunks:\n- I'm really sorry.\n- I'm sorry — that's really hard.\n- That's awful.\n\n✗ \"The point you made about X last week really stuck with me.\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- How did your daughter's recital go?\n- Thinking of you.\n- That was [name]'s idea, credit where it's due."
+    },
+    {
+      "id": 17,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague is clearly worried about something coming up and needs a response that doesn't brush it off. Which chunk fits best?",
+      "options": {
+        "A": "It looks like this matters a lot to you.",
+        "B": "It seems like you're under a lot of pressure.",
+        "C": "How can I help?",
+        "D": "The point you made about X last week really stuck with me."
+      },
+      "correct": "C",
+      "explanation": "✗ \"It looks like this matters a lot to you.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- It seems like...\n- You seem hesitant — am I reading that right?\n- I get the sense you're not convinced.\n\n✗ \"It seems like you're under a lot of pressure.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- It looks like this matters a lot to you.\n- It seems like...\n- I imagine that wasn't easy.\n\n✓ Correct — \"How can I help?\" is a Responding when someone's anxious chunk: used to respond to someone who's anxious or worried about something.\nExample: \"How can I help — do you need another pair of hands before Friday?\"\nSimilar chunks:\n- What's the worst case?\n- That sounds stressful.\n\n✗ \"The point you made about X last week really stuck with me.\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- No rush at all — take the time you need.\n- Thinking of you.\n- How did your daughter's recital go?"
+    },
+    {
+      "id": 18,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague is clearly worried about something coming up and needs a response that doesn't brush it off. Which chunk fits best?",
+      "options": {
+        "A": "That's brilliant!",
+        "B": "What's the worst case?",
+        "C": "You've every right to be.",
+        "D": "How are you doing — actually?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"That's brilliant!\" belongs to Responding when someone's happy — used to respond warmly to someone sharing good news, not this context.\nSimilar chunks:\n- I'm so pleased for you.\n- You must be delighted.\n\n✓ Correct — \"What's the worst case?\" is a Responding when someone's anxious chunk: used to respond to someone who's anxious or worried about something.\nExample: \"What's the worst case here — walk me through it.\"\nSimilar chunks:\n- That sounds stressful.\n- How can I help?\n\n✗ \"You've every right to be.\" belongs to Responding when someone's angry — used to respond to someone who's angry, without dismissing the feeling, not this context.\nSimilar chunks:\n- I'd be annoyed too.\n- That's not on.\n\n✗ \"How are you doing — actually?\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- Did you get that issue with the landlord sorted?\n- How did your daughter's recital go?\n- The point you made about X last week really stuck with me."
+    },
+    {
+      "id": 19,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague is clearly angry about something that happened, and you want to respond without dismissing it. Which chunk fits best?",
+      "options": {
+        "A": "That can't have been easy to say.",
+        "B": "Do you want to talk about it?",
+        "C": "It seems like...",
+        "D": "That's not on."
+      },
+      "correct": "D",
+      "explanation": "✗ \"That can't have been easy to say.\" belongs to Acknowledging vulnerability — used to acknowledge that what someone just shared took courage to say, not this context.\nSimilar chunks:\n- Thanks for trusting me with that.\n\n✗ \"Do you want to talk about it?\" belongs to Responding when someone's sad or shares hard news — used to respond to someone sharing sad news or a hard moment, not this context.\nSimilar chunks:\n- I'm sorry — that's really hard.\n- I'm really sorry.\n- That's awful.\n\n✗ \"It seems like...\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- You seem hesitant — am I reading that right?\n- It sounds like...\n- I get the sense you're not convinced.\n\n✓ Correct — \"That's not on.\" is a Responding when someone's angry chunk: used to respond to someone who's angry, without dismissing the feeling.\nExample: \"That's not on — you should have been told before the announcement went out.\"\nSimilar chunks:\n- You've every right to be.\n- I'd be annoyed too."
+    },
+    {
+      "id": 20,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague is clearly angry about something that happened, and you want to respond without dismissing it. Which chunk fits best?",
+      "options": {
+        "A": "What's the worst case?",
+        "B": "I'd be annoyed too.",
+        "C": "It sounds like this has been frustrating.",
+        "D": "Did you get that issue with the landlord sorted?"
+      },
+      "correct": "B",
+      "explanation": "✗ \"What's the worst case?\" belongs to Responding when someone's anxious — used to respond to someone who's anxious or worried about something, not this context.\nSimilar chunks:\n- That sounds stressful.\n- How can I help?\n\n✓ Correct — \"I'd be annoyed too.\" is a Responding when someone's angry chunk: used to respond to someone who's angry, without dismissing the feeling.\nExample: \"I'd be annoyed too if they changed the requirements this late.\"\nSimilar chunks:\n- That's not on.\n- You've every right to be.\n\n✗ \"It sounds like this has been frustrating.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- It seems like you're under a lot of pressure.\n- You seem hesitant — am I reading that right?\n- That must have been difficult.\n\n✗ \"Did you get that issue with the landlord sorted?\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- Thanks for making time — I know how full your week is.\n- How are you doing — actually?\n- The point you made about X last week really stuck with me."
+    },
+    {
+      "id": 21,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague just shared good news and you want your reaction to actually match their excitement. Which chunk fits best?",
+      "options": {
+        "A": "I'm sorry — that's really hard.",
+        "B": "Look after yourself.",
+        "C": "Of course you are.",
+        "D": "You must be delighted."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I'm sorry — that's really hard.\" belongs to Responding when someone's sad or shares hard news — used to respond to someone sharing sad news or a hard moment, not this context.\nSimilar chunks:\n- I'm really sorry.\n- Do you want to talk about it?\n- That's awful.\n\n✗ \"Look after yourself.\" belongs to Responding when someone's unwell — used to respond to a colleague who's unwell, not this context.\nSimilar chunks:\n- Get well soon.\n- Don't rush back.\n\n✗ \"Of course you are.\" belongs to Validating before solving — used to acknowledge someone's reaction as reasonable before offering any solution, not this context.\nSimilar chunks:\n- I'd feel the same in your position.\n- I'm with you on that.\n- I hear you.\n\n✓ Correct — \"You must be delighted.\" is a Responding when someone's happy chunk: used to respond warmly to someone sharing good news.\nExample: \"You must be delighted, that's a huge win for the team.\"\nSimilar chunks:\n- I'm so pleased for you.\n- That's brilliant!"
+    },
+    {
+      "id": 22,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague just shared good news and you want your reaction to actually match their excitement. Which chunk fits best?",
+      "options": {
+        "A": "How did your daughter's recital go?",
+        "B": "Thinking of you.",
+        "C": "How are things now?",
+        "D": "That's brilliant!"
+      },
+      "correct": "D",
+      "explanation": "✗ \"How did your daughter's recital go?\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- That was [name]'s idea, credit where it's due.\n- The point you made about X last week really stuck with me.\n- Did you get that issue with the landlord sorted?\n\n✗ \"Thinking of you.\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- That was [name]'s idea, credit where it's due.\n- How are you doing — actually?\n- No rush at all — take the time you need.\n\n✗ \"How are things now?\" belongs to Following up after a hard conversation — used to follow up after a difficult conversation, days or weeks later, not this context.\nSimilar chunks:\n- I've been thinking about what you said.\n\n✓ Correct — \"That's brilliant!\" is a Responding when someone's happy chunk: used to respond warmly to someone sharing good news.\nExample: \"That's brilliant! You've been working towards this for months.\"\nSimilar chunks:\n- You must be delighted.\n- I'm so pleased for you."
+    },
+    {
+      "id": 23,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague's project or attempt just didn't work out, and you want to respond in a way that doesn't pile on. Which chunk fits best?",
+      "options": {
+        "A": "I get the sense you're not convinced.",
+        "B": "You must be delighted.",
+        "C": "What's the worst case?",
+        "D": "You gave it a proper go."
+      },
+      "correct": "D",
+      "explanation": "✗ \"I get the sense you're not convinced.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- It looks like this matters a lot to you.\n- It seems like...\n- It seems like you're under a lot of pressure.\n\n✗ \"You must be delighted.\" belongs to Responding when someone's happy — used to respond warmly to someone sharing good news, not this context.\nSimilar chunks:\n- That's brilliant!\n- I'm so pleased for you.\n\n✗ \"What's the worst case?\" belongs to Responding when someone's anxious — used to respond to someone who's anxious or worried about something, not this context.\nSimilar chunks:\n- How can I help?\n- That sounds stressful.\n\n✓ Correct — \"You gave it a proper go.\" is a Responding to someone's setback or failure chunk: used to respond to someone's setback or failed attempt without piling on.\nExample: \"You gave it a proper go, nobody could say you didn't try.\"\nSimilar chunks:\n- These things happen.\n- Onwards."
+    },
+    {
+      "id": 24,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague's project or attempt just didn't work out, and you want to respond in a way that doesn't pile on. Which chunk fits best?",
+      "options": {
+        "A": "Onwards.",
+        "B": "It sounds like...",
+        "C": "I'm with you on that.",
+        "D": "It sounds like this has been frustrating."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Onwards.\" is a Responding to someone's setback or failure chunk: used to respond to someone's setback or failed attempt without piling on.\nExample: \"Onwards — let's see what we can salvage for next quarter.\"\nSimilar chunks:\n- You gave it a proper go.\n- These things happen.\n\n✗ \"It sounds like...\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- I get the sense you're not convinced.\n- It sounds like this has been frustrating.\n- You seem hesitant — am I reading that right?\n\n✗ \"I'm with you on that.\" belongs to Validating before solving — used to acknowledge someone's reaction as reasonable before offering any solution, not this context.\nSimilar chunks:\n- Of course you are.\n- What would help right now?\n- Do you want me to help fix it, or do you just want to vent?\n\n✗ \"It sounds like this has been frustrating.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- It seems like...\n- I get the sense you're not convinced.\n- It seems like you're under a lot of pressure."
+    },
+    {
+      "id": 25,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague tells you they're sick or heading off unwell. Which chunk fits best?",
+      "options": {
+        "A": "Get well soon.",
+        "B": "It sounds like this has been frustrating.",
+        "C": "Let me pause here — where is everyone on this?",
+        "D": "Is now a bad time?"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Get well soon.\" is a Responding when someone's unwell chunk: used to respond to a colleague who's unwell.\nExample: \"Get well soon — don't worry about the deck, I've got it covered.\"\nSimilar chunks:\n- Look after yourself.\n- Don't rush back.\n\n✗ \"It sounds like this has been frustrating.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- I imagine that wasn't easy.\n- It looks like this matters a lot to you.\n- It seems like...\n\n✗ \"Let me pause here — where is everyone on this?\" belongs to Reading the room — used to check in when you sense unspoken hesitation or discomfort in a group, not this context.\nSimilar chunks:\n- Is now a bad time?\n- I feel like there's something unsaid.\n- I'm sensing some hesitation.\n\n✗ \"Is now a bad time?\" belongs to Reading the room — used to check in when you sense unspoken hesitation or discomfort in a group, not this context.\nSimilar chunks:\n- I feel like there's something unsaid.\n- Let me pause here — where is everyone on this?\n- I'm sensing some hesitation."
+    },
+    {
+      "id": 26,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague tells you they're sick or heading off unwell. Which chunk fits best?",
+      "options": {
+        "A": "You must be delighted.",
+        "B": "How did your daughter's recital go?",
+        "C": "Let me pause here — where is everyone on this?",
+        "D": "Look after yourself."
+      },
+      "correct": "D",
+      "explanation": "✗ \"You must be delighted.\" belongs to Responding when someone's happy — used to respond warmly to someone sharing good news, not this context.\nSimilar chunks:\n- That's brilliant!\n- I'm so pleased for you.\n\n✗ \"How did your daughter's recital go?\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- No rush at all — take the time you need.\n- Thanks for making time — I know how full your week is.\n- The point you made about X last week really stuck with me.\n\n✗ \"Let me pause here — where is everyone on this?\" belongs to Reading the room — used to check in when you sense unspoken hesitation or discomfort in a group, not this context.\nSimilar chunks:\n- I feel like there's something unsaid.\n- I'm sensing some hesitation.\n- Is now a bad time?\n\n✓ Correct — \"Look after yourself.\" is a Responding when someone's unwell chunk: used to respond to a colleague who's unwell.\nExample: \"Look after yourself, the inbox can wait.\"\nSimilar chunks:\n- Get well soon.\n- Don't rush back."
+    },
+    {
+      "id": 27,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague has just told you about a death in their family or a significant personal loss. Which chunk fits best?",
+      "options": {
+        "A": "I'm so sorry for your loss.",
+        "B": "Do you want me to help fix it, or do you just want to vent?",
+        "C": "Did you get that issue with the landlord sorted?",
+        "D": "It sounds like this has been frustrating."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I'm so sorry for your loss.\" is a Responding to loss chunk: used to respond to someone dealing with a death or significant loss.\nExample: \"I'm so sorry for your loss — take whatever time you need.\"\nSimilar chunks:\n- There are no words.\n- I'm thinking of you.\n\n✗ \"Do you want me to help fix it, or do you just want to vent?\" belongs to Validating before solving — used to acknowledge someone's reaction as reasonable before offering any solution, not this context.\nSimilar chunks:\n- What would help right now?\n- That's a fair reaction.\n- That's completely fair.\n\n✗ \"Did you get that issue with the landlord sorted?\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- That was [name]'s idea, credit where it's due.\n- How are you doing — actually?\n- The point you made about X last week really stuck with me.\n\n✗ \"It sounds like this has been frustrating.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- That must have been difficult.\n- It looks like this matters a lot to you.\n- It seems like you're under a lot of pressure."
+    },
+    {
+      "id": 28,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague has just told you about a death in their family or a significant personal loss. Which chunk fits best?",
+      "options": {
+        "A": "Thanks for making time — I know how full your week is.",
+        "B": "Let me pause here — where is everyone on this?",
+        "C": "There are no words.",
+        "D": "That must have been difficult."
+      },
+      "correct": "C",
+      "explanation": "✗ \"Thanks for making time — I know how full your week is.\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- Thinking of you.\n- No rush at all — take the time you need.\n- The point you made about X last week really stuck with me.\n\n✗ \"Let me pause here — where is everyone on this?\" belongs to Reading the room — used to check in when you sense unspoken hesitation or discomfort in a group, not this context.\nSimilar chunks:\n- Is now a bad time?\n- I feel like there's something unsaid.\n- I'm sensing some hesitation.\n\n✓ Correct — \"There are no words.\" is a Responding to loss chunk: used to respond to someone dealing with a death or significant loss.\nExample: \"There are no words, I just wanted you to know I'm here.\"\nSimilar chunks:\n- I'm so sorry for your loss.\n- I'm thinking of you.\n\n✗ \"That must have been difficult.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- It seems like...\n- I get the sense you're not convinced.\n- It sounds like this has been frustrating."
+    },
+    {
+      "id": 29,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "Someone has just shared something heavy and you genuinely don't have the right words, but staying silent feels worse. Which chunk fits best?",
+      "options": {
+        "A": "I'm just glad you told me.",
+        "B": "It sounds like this has been frustrating.",
+        "C": "I imagine that wasn't easy.",
+        "D": "I get the sense you're not convinced."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I'm just glad you told me.\" is a When you don't know what to say chunk: used when you genuinely don't know what to say but don't want to stay silent.\nExample: \"I'm just glad you told me, I want to know when things are hard for you.\"\nSimilar chunks:\n- I don't know what to say.\n\n✗ \"It sounds like this has been frustrating.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- It looks like this matters a lot to you.\n- You seem hesitant — am I reading that right?\n- It sounds like...\n\n✗ \"I imagine that wasn't easy.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- It sounds like...\n- It sounds like this has been frustrating.\n- I get the sense you're not convinced.\n\n✗ \"I get the sense you're not convinced.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- It seems like you're under a lot of pressure.\n- I imagine that wasn't easy.\n- You seem hesitant — am I reading that right?"
+    },
+    {
+      "id": 30,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "Someone has just shared something heavy and you genuinely don't have the right words, but staying silent feels worse. Which chunk fits best?",
+      "options": {
+        "A": "I don't know what to say.",
+        "B": "That must have been difficult.",
+        "C": "I'm thinking of you.",
+        "D": "You gave it a proper go."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I don't know what to say.\" is a When you don't know what to say chunk: used when you genuinely don't know what to say but don't want to stay silent.\nExample: \"I don't know what to say, honestly — that's really tough.\"\nSimilar chunks:\n- I'm just glad you told me.\n\n✗ \"That must have been difficult.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- I imagine that wasn't easy.\n- It sounds like...\n- It seems like you're under a lot of pressure.\n\n✗ \"I'm thinking of you.\" belongs to Responding to loss — used to respond to someone dealing with a death or significant loss, not this context.\nSimilar chunks:\n- There are no words.\n- I'm so sorry for your loss.\n\n✗ \"You gave it a proper go.\" belongs to Responding to someone's setback or failure — used to respond to someone's setback or failed attempt without piling on, not this context.\nSimilar chunks:\n- Onwards.\n- These things happen."
+    },
+    {
+      "id": 31,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague just told you something personal that clearly wasn't easy for them to bring up. Which chunk fits best?",
+      "options": {
+        "A": "I feel like there's something unsaid.",
+        "B": "Thanks for trusting me with that.",
+        "C": "No rush at all — take the time you need.",
+        "D": "That must have been difficult."
+      },
+      "correct": "B",
+      "explanation": "✗ \"I feel like there's something unsaid.\" belongs to Reading the room — used to check in when you sense unspoken hesitation or discomfort in a group, not this context.\nSimilar chunks:\n- I'm sensing some hesitation.\n- Let me pause here — where is everyone on this?\n- Is now a bad time?\n\n✓ Correct — \"Thanks for trusting me with that.\" is an Acknowledging vulnerability chunk: used to acknowledge that what someone just shared took courage to say.\nExample: \"Thanks for trusting me with that — it stays between us.\"\nSimilar chunks:\n- That can't have been easy to say.\n\n✗ \"No rush at all — take the time you need.\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- How did your daughter's recital go?\n- That was [name]'s idea, credit where it's due.\n- Thinking of you.\n\n✗ \"That must have been difficult.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- It sounds like...\n- It seems like you're under a lot of pressure.\n- It sounds like this has been frustrating."
+    },
+    {
+      "id": 32,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "A colleague just told you something personal that clearly wasn't easy for them to bring up. Which chunk fits best?",
+      "options": {
+        "A": "That can't have been easy to say.",
+        "B": "I'm just glad you told me.",
+        "C": "You're not wrong to feel that.",
+        "D": "That makes sense given what you've been dealing with."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"That can't have been easy to say.\" is an Acknowledging vulnerability chunk: used to acknowledge that what someone just shared took courage to say.\nExample: \"That can't have been easy to say, thank you for telling me.\"\nSimilar chunks:\n- Thanks for trusting me with that.\n\n✗ \"I'm just glad you told me.\" belongs to When you don't know what to say — used when you genuinely don't know what to say but don't want to stay silent, not this context.\nSimilar chunks:\n- I don't know what to say.\n\n✗ \"You're not wrong to feel that.\" belongs to Validating before solving — used to acknowledge someone's reaction as reasonable before offering any solution, not this context.\nSimilar chunks:\n- That's a fair reaction.\n- Do you want me to help fix it, or do you just want to vent?\n- Of course you are.\n\n✗ \"That makes sense given what you've been dealing with.\" belongs to Validating before solving — used to acknowledge someone's reaction as reasonable before offering any solution, not this context.\nSimilar chunks:\n- That's completely fair.\n- That's a fair reaction.\n- I'd feel the same in your position."
+    },
+    {
+      "id": 33,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "It's been a few days since a colleague shared something difficult, and you want to check back in rather than let it drop. Which chunk fits best?",
+      "options": {
+        "A": "That can't have been easy to say.",
+        "B": "How did your daughter's recital go?",
+        "C": "Do you want me to help fix it, or do you just want to vent?",
+        "D": "How are things now?"
+      },
+      "correct": "D",
+      "explanation": "✗ \"That can't have been easy to say.\" belongs to Acknowledging vulnerability — used to acknowledge that what someone just shared took courage to say, not this context.\nSimilar chunks:\n- Thanks for trusting me with that.\n\n✗ \"How did your daughter's recital go?\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- Thanks for making time — I know how full your week is.\n- No rush at all — take the time you need.\n- Thinking of you.\n\n✗ \"Do you want me to help fix it, or do you just want to vent?\" belongs to Validating before solving — used to acknowledge someone's reaction as reasonable before offering any solution, not this context.\nSimilar chunks:\n- I hear you.\n- That's completely fair.\n- I'd feel the same in your position.\n\n✓ Correct — \"How are things now?\" is a Following up after a hard conversation chunk: used to follow up after a difficult conversation, days or weeks later.\nExample: \"How are things now? You mentioned it had been a rough patch.\"\nSimilar chunks:\n- I've been thinking about what you said."
+    },
+    {
+      "id": 34,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "It's been a few days since a colleague shared something difficult, and you want to check back in rather than let it drop. Which chunk fits best?",
+      "options": {
+        "A": "I've been thinking about what you said.",
+        "B": "That was [name]'s idea, credit where it's due.",
+        "C": "I'm sensing some hesitation.",
+        "D": "It seems like you're under a lot of pressure."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"I've been thinking about what you said.\" is a Following up after a hard conversation chunk: used to follow up after a difficult conversation, days or weeks later.\nExample: \"I've been thinking about what you said last week — how are you holding up?\"\nSimilar chunks:\n- How are things now?\n\n✗ \"That was [name]'s idea, credit where it's due.\" belongs to Deliberate warmth — used to show deliberate, specific warmth rather than a generic check-in, not this context.\nSimilar chunks:\n- Did you get that issue with the landlord sorted?\n- Thinking of you.\n- Thanks for making time — I know how full your week is.\n\n✗ \"I'm sensing some hesitation.\" belongs to Reading the room — used to check in when you sense unspoken hesitation or discomfort in a group, not this context.\nSimilar chunks:\n- Is now a bad time?\n- Let me pause here — where is everyone on this?\n- I feel like there's something unsaid.\n\n✗ \"It seems like you're under a lot of pressure.\" belongs to Labelling someone's emotion — used to gently name the emotion you're picking up on in someone else, without diagnosing or dismissing it, not this context.\nSimilar chunks:\n- It sounds like this has been frustrating.\n- I imagine that wasn't easy.\n- It sounds like..."
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "examId": "rhetoric-memorable",
+  "title": "Chunk Atlas — Voice & Presence: Rhetoric & Memorable Language",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to end your point with a punchy list of three that people will actually remember. Which chunk fits best?",
+      "options": {
+        "A": "What we know, what we assume, what we're guessing.",
+        "B": "Slow is smooth, smooth is fast.",
+        "C": "If we do nothing, [X]. That's the decision we're making by default.",
+        "D": "We're building the plane while flying it."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What we know, what we assume, what we're guessing.\" is a Rule of three (tricolon) chunk: used to give a point rhythm and staying power by packaging it as a list of three.\nExample: \"Let's separate what we know, what we assume, and what we're guessing before we commit to a plan.\"\nSimilar chunks:\n- It's not about X. It's not about Y. It's about Z.\n- Faster, cheaper, better.\n- We tried it. We measured it. We learned from it.\n\n✗ \"Slow is smooth, smooth is fast.\" belongs to Antithesis & contrast (not X, but Y) — used to sharpen a point by directly contrasting it with what it is not, not this context.\nSimilar chunks:\n- The goal isn't to be busy. The goal is to be effective.\n- We don't need more data. We need better questions.\n- Cheap now, expensive later.\n\n✗ \"If we do nothing, [X]. That's the decision we're making by default.\" belongs to Memorable closing lines — used as a closing line designed to be the one part people remember and repeat afterwards, not this context.\nSimilar chunks:\n- We're treating the symptom, not the cause.\n- We can have it fast, cheap, or good. Pick two.\n- So the choice is simple: [A] or [B].\n\n✗ \"We're building the plane while flying it.\" belongs to Making the abstract concrete — used to replace a vague, abstract statement with something specific and vivid people can picture or act on, not this context.\nSimilar chunks:\n- We're paying rent on a house we don't live in.\n- Think of it like a queue at a coffee shop — one slow order blocks everyone.\n- What does that look like on Monday morning?"
+    },
+    {
+      "id": 2,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to end your point with a punchy list of three that people will actually remember. Which chunk fits best?",
+      "options": {
+        "A": "We can do this. We should do this. We will do this.",
+        "B": "That's a sticking plaster.",
+        "C": "Three things: [A], [B], [C].",
+        "D": "It's not a technology problem, it's a people problem."
+      },
+      "correct": "C",
+      "explanation": "✗ \"We can do this. We should do this. We will do this.\" belongs to Repetition & rhetorical questions — used to make a point stick through deliberate repetition or a pointed rhetorical question, not this context.\nSimilar chunks:\n- So where does that leave us?\n- Quality isn't an act, it's a habit.\n- Plan the work, work the plan.\n\n✗ \"That's a sticking plaster.\" belongs to Making the abstract concrete — used to replace a vague, abstract statement with something specific and vivid people can picture or act on, not this context.\nSimilar chunks:\n- Let me put a number on that.\n- We're paying rent on a house we don't live in.\n- What does that look like on Monday morning?\n\n✓ Correct — \"Three things: [A], [B], [C].\" is a Rule of three (tricolon) chunk: used to give a point rhythm and staying power by packaging it as a list of three.\nExample: \"Three things: fix the login bug, ship the report, brief the client.\"\nSimilar chunks:\n- Faster, cheaper, better.\n- It's not about X. It's not about Y. It's about Z.\n- What we know, what we assume, what we're guessing.\n\n✗ \"It's not a technology problem, it's a people problem.\" belongs to Antithesis & contrast (not X, but Y) — used to sharpen a point by directly contrasting it with what it is not, not this context.\nSimilar chunks:\n- Slow is smooth, smooth is fast.\n- Cheap now, expensive later.\n- We don't need more data. We need better questions."
+    },
+    {
+      "id": 3,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to end your point with a punchy list of three that people will actually remember. Which chunk fits best?",
+      "options": {
+        "A": "This isn't a cost — it's an investment.",
+        "B": "It's not about X. It's not about Y. It's about Z.",
+        "C": "So where does that leave us?",
+        "D": "The real question is..."
+      },
+      "correct": "B",
+      "explanation": "✗ \"This isn't a cost — it's an investment.\" belongs to Reframing (choosing the frame) — used to control how people perceive an issue by changing the frame around it before they form their own opinion, not this context.\nSimilar chunks:\n- The real question is...\n- We're not cutting scope. We're sequencing it.\n- That's the symptom, not the cause.\n\n✓ Correct — \"It's not about X. It's not about Y. It's about Z.\" is a Rule of three (tricolon) chunk: used to give a point rhythm and staying power by packaging it as a list of three.\nExample: \"It's not about the budget. It's not about the timeline. It's about trust between the teams.\"\nSimilar chunks:\n- What we know, what we assume, what we're guessing.\n- Three things: [A], [B], [C].\n- Faster, cheaper, better.\n\n✗ \"So where does that leave us?\" belongs to Repetition & rhetorical questions — used to make a point stick through deliberate repetition or a pointed rhetorical question, not this context.\nSimilar chunks:\n- Quality isn't an act, it's a habit.\n- We can do this. We should do this. We will do this.\n- Plan the work, work the plan.\n\n✗ \"The real question is...\" belongs to Reframing (choosing the frame) — used to control how people perceive an issue by changing the frame around it before they form their own opinion, not this context.\nSimilar chunks:\n- Let's not ask what it costs. Let's ask what it saves.\n- This isn't a cost — it's an investment.\n- We're not cutting scope. We're sequencing it."
+    },
+    {
+      "id": 4,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to sharpen your point by directly contrasting it with what it is NOT. Which chunk fits best?",
+      "options": {
+        "A": "Faster, cheaper, better.",
+        "B": "That's not a plan, that's a hope.",
+        "C": "We can have it fast, cheap, or good. Pick two.",
+        "D": "It's not a technology problem, it's a people problem."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Faster, cheaper, better.\" belongs to Rule of three (tricolon) — used to give a point rhythm and staying power by packaging it as a list of three, not this context.\nSimilar chunks:\n- It's not about X. It's not about Y. It's about Z.\n- Three things: [A], [B], [C].\n- What we know, what we assume, what we're guessing.\n\n✗ \"That's not a plan, that's a hope.\" belongs to Memorable closing lines — used as a closing line designed to be the one part people remember and repeat afterwards, not this context.\nSimilar chunks:\n- Let's not confuse activity with progress.\n- We can have it fast, cheap, or good. Pick two.\n- We're treating the symptom, not the cause.\n\n✗ \"We can have it fast, cheap, or good. Pick two.\" belongs to Memorable closing lines — used as a closing line designed to be the one part people remember and repeat afterwards, not this context.\nSimilar chunks:\n- That's not a plan, that's a hope.\n- We're treating the symptom, not the cause.\n- Let's not confuse activity with progress.\n\n✓ Correct — \"It's not a technology problem, it's a people problem.\" is an Antithesis & contrast (not X, but Y) chunk: used to sharpen a point by directly contrasting it with what it is not.\nExample: \"The rollout keeps stalling — it's not a technology problem, it's a people problem.\"\nSimilar chunks:\n- We don't need more data. We need better questions.\n- Ask not what X... but what Y...\n- Cheap now, expensive later."
+    },
+    {
+      "id": 5,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to sharpen your point by directly contrasting it with what it is NOT. Which chunk fits best?",
+      "options": {
+        "A": "It's not about X. It's not about Y. It's about Z.",
+        "B": "This isn't a cost — it's an investment.",
+        "C": "The goal isn't to be busy. The goal is to be effective.",
+        "D": "What does that look like on Monday morning?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"It's not about X. It's not about Y. It's about Z.\" belongs to Rule of three (tricolon) — used to give a point rhythm and staying power by packaging it as a list of three, not this context.\nSimilar chunks:\n- Simple, clear, honest.\n- We tried it. We measured it. We learned from it.\n- What we know, what we assume, what we're guessing.\n\n✗ \"This isn't a cost — it's an investment.\" belongs to Reframing (choosing the frame) — used to control how people perceive an issue by changing the frame around it before they form their own opinion, not this context.\nSimilar chunks:\n- Let's not ask what it costs. Let's ask what it saves.\n- The real question is...\n- That's the symptom, not the cause.\n\n✓ Correct — \"The goal isn't to be busy. The goal is to be effective.\" is an Antithesis & contrast (not X, but Y) chunk: used to sharpen a point by directly contrasting it with what it is not.\nExample: \"Everyone's in back-to-back meetings, but the goal isn't to be busy. The goal is to be effective.\"\nSimilar chunks:\n- Ask not what X... but what Y...\n- We don't need more data. We need better questions.\n- It's not a technology problem, it's a people problem.\n\n✗ \"What does that look like on Monday morning?\" belongs to Making the abstract concrete — used to replace a vague, abstract statement with something specific and vivid people can picture or act on, not this context.\nSimilar chunks:\n- Think of it like a queue at a coffee shop — one slow order blocks everyone.\n- That's a sticking plaster.\n- Let me put a number on that."
+    },
+    {
+      "id": 6,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to sharpen your point by directly contrasting it with what it is NOT. Which chunk fits best?",
+      "options": {
+        "A": "We tried it. We measured it. We learned from it.",
+        "B": "Cheap now, expensive later.",
+        "C": "That's a band-aid on a broken leg.",
+        "D": "We're not cutting scope. We're sequencing it."
+      },
+      "correct": "B",
+      "explanation": "✗ \"We tried it. We measured it. We learned from it.\" belongs to Rule of three (tricolon) — used to give a point rhythm and staying power by packaging it as a list of three, not this context.\nSimilar chunks:\n- Three things: [A], [B], [C].\n- Faster, cheaper, better.\n- It's not about X. It's not about Y. It's about Z.\n\n✓ Correct — \"Cheap now, expensive later.\" is an Antithesis & contrast (not X, but Y) chunk: used to sharpen a point by directly contrasting it with what it is not.\nExample: \"Skipping the code review is cheap now, expensive later.\"\nSimilar chunks:\n- Ask not what X... but what Y...\n- The goal isn't to be busy. The goal is to be effective.\n- We don't need more data. We need better questions.\n\n✗ \"That's a band-aid on a broken leg.\" belongs to Making the abstract concrete — used to replace a vague, abstract statement with something specific and vivid people can picture or act on, not this context.\nSimilar chunks:\n- That's a sticking plaster.\n- Let me put a number on that.\n- We're building the plane while flying it.\n\n✗ \"We're not cutting scope. We're sequencing it.\" belongs to Reframing (choosing the frame) — used to control how people perceive an issue by changing the frame around it before they form their own opinion, not this context.\nSimilar chunks:\n- This isn't a cost — it's an investment.\n- That's the symptom, not the cause.\n- Let's not ask what it costs. Let's ask what it saves."
+    },
+    {
+      "id": 7,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want your point to have rhythm and stick in people's heads through deliberate repetition. Which chunk fits best?",
+      "options": {
+        "A": "That's the symptom, not the cause.",
+        "B": "Simple, clear, honest.",
+        "C": "So the choice is simple: [A] or [B].",
+        "D": "Quality isn't an act, it's a habit."
+      },
+      "correct": "D",
+      "explanation": "✗ \"That's the symptom, not the cause.\" belongs to Reframing (choosing the frame) — used to control how people perceive an issue by changing the frame around it before they form their own opinion, not this context.\nSimilar chunks:\n- We're not cutting scope. We're sequencing it.\n- This isn't a cost — it's an investment.\n- Let's not ask what it costs. Let's ask what it saves.\n\n✗ \"Simple, clear, honest.\" belongs to Rule of three (tricolon) — used to give a point rhythm and staying power by packaging it as a list of three, not this context.\nSimilar chunks:\n- Faster, cheaper, better.\n- Three things: [A], [B], [C].\n- What we know, what we assume, what we're guessing.\n\n✗ \"So the choice is simple: [A] or [B].\" belongs to Memorable closing lines — used as a closing line designed to be the one part people remember and repeat afterwards, not this context.\nSimilar chunks:\n- We can have it fast, cheap, or good. Pick two.\n- Let's not confuse activity with progress.\n- If we do nothing, [X]. That's the decision we're making by default.\n\n✓ Correct — \"Quality isn't an act, it's a habit.\" is a Repetition & rhetorical questions chunk: used to make a point stick through deliberate repetition or a pointed rhetorical question.\nExample: \"We don't do one big QA push at the end — quality isn't an act, it's a habit.\"\nSimilar chunks:\n- Plan the work, work the plan.\n- We can do this. We should do this. We will do this.\n- Built for speed. Priced for speed. Designed for speed."
+    },
+    {
+      "id": 8,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want your point to have rhythm and stick in people's heads through deliberate repetition. Which chunk fits best?",
+      "options": {
+        "A": "We're building the plane while flying it.",
+        "B": "It's not a technology problem, it's a people problem.",
+        "C": "We can do this. We should do this. We will do this.",
+        "D": "What does that look like on Monday morning?"
+      },
+      "correct": "C",
+      "explanation": "✗ \"We're building the plane while flying it.\" belongs to Making the abstract concrete — used to replace a vague, abstract statement with something specific and vivid people can picture or act on, not this context.\nSimilar chunks:\n- Let me put a number on that.\n- What does that look like on Monday morning?\n- We're paying rent on a house we don't live in.\n\n✗ \"It's not a technology problem, it's a people problem.\" belongs to Antithesis & contrast (not X, but Y) — used to sharpen a point by directly contrasting it with what it is not, not this context.\nSimilar chunks:\n- Ask not what X... but what Y...\n- We don't need more data. We need better questions.\n- Slow is smooth, smooth is fast.\n\n✓ Correct — \"We can do this. We should do this. We will do this.\" is a Repetition & rhetorical questions chunk: used to make a point stick through deliberate repetition or a pointed rhetorical question.\nExample: \"We can do this. We should do this. We will do this — starting Monday.\"\nSimilar chunks:\n- Quality isn't an act, it's a habit.\n- So where does that leave us?\n- Plan the work, work the plan.\n\n✗ \"What does that look like on Monday morning?\" belongs to Making the abstract concrete — used to replace a vague, abstract statement with something specific and vivid people can picture or act on, not this context.\nSimilar chunks:\n- We're building the plane while flying it.\n- Think of it like a queue at a coffee shop — one slow order blocks everyone.\n- Let me put a number on that."
+    },
+    {
+      "id": 9,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to replace a vague, abstract statement with a specific number, image, or picture people can actually act on. Which chunk fits best?",
+      "options": {
+        "A": "That's the symptom, not the cause.",
+        "B": "Think of it like a queue at a coffee shop — one slow order blocks everyone.",
+        "C": "That's not a plan, that's a hope.",
+        "D": "The question isn't whether we can afford to do it. It's whether we can afford not to."
+      },
+      "correct": "B",
+      "explanation": "✗ \"That's the symptom, not the cause.\" belongs to Reframing (choosing the frame) — used to control how people perceive an issue by changing the frame around it before they form their own opinion, not this context.\nSimilar chunks:\n- Let's not ask what it costs. Let's ask what it saves.\n- We're not cutting scope. We're sequencing it.\n- The real question is...\n\n✓ Correct — \"Think of it like a queue at a coffee shop — one slow order blocks everyone.\" is a Making the abstract concrete chunk: used to replace a vague, abstract statement with something specific and vivid people can picture or act on.\nExample: \"Think of it like a queue at a coffee shop — one slow order blocks everyone, and that's exactly what's happening in our review process.\"\nSimilar chunks:\n- What does that look like on Monday morning?\n- We're paying rent on a house we don't live in.\n- That's a sticking plaster.\n\n✗ \"That's not a plan, that's a hope.\" belongs to Memorable closing lines — used as a closing line designed to be the one part people remember and repeat afterwards, not this context.\nSimilar chunks:\n- If we do nothing, [X]. That's the decision we're making by default.\n- Let's not confuse activity with progress.\n- We're treating the symptom, not the cause.\n\n✗ \"The question isn't whether we can afford to do it. It's whether we can afford not to.\" belongs to Reframing (choosing the frame) — used to control how people perceive an issue by changing the frame around it before they form their own opinion, not this context.\nSimilar chunks:\n- This isn't a cost — it's an investment.\n- We're not cutting scope. We're sequencing it.\n- The real question is..."
+    },
+    {
+      "id": 10,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to replace a vague, abstract statement with a specific number, image, or picture people can actually act on. Which chunk fits best?",
+      "options": {
+        "A": "It's not about X. It's not about Y. It's about Z.",
+        "B": "So where does that leave us?",
+        "C": "Plan the work, work the plan.",
+        "D": "We're paying rent on a house we don't live in."
+      },
+      "correct": "D",
+      "explanation": "✗ \"It's not about X. It's not about Y. It's about Z.\" belongs to Rule of three (tricolon) — used to give a point rhythm and staying power by packaging it as a list of three, not this context.\nSimilar chunks:\n- What we know, what we assume, what we're guessing.\n- Three things: [A], [B], [C].\n- We tried it. We measured it. We learned from it.\n\n✗ \"So where does that leave us?\" belongs to Repetition & rhetorical questions — used to make a point stick through deliberate repetition or a pointed rhetorical question, not this context.\nSimilar chunks:\n- Quality isn't an act, it's a habit.\n- Plan the work, work the plan.\n- We can do this. We should do this. We will do this.\n\n✗ \"Plan the work, work the plan.\" belongs to Repetition & rhetorical questions — used to make a point stick through deliberate repetition or a pointed rhetorical question, not this context.\nSimilar chunks:\n- Built for speed. Priced for speed. Designed for speed.\n- Quality isn't an act, it's a habit.\n- So where does that leave us?\n\n✓ Correct — \"We're paying rent on a house we don't live in.\" is a Making the abstract concrete chunk: used to replace a vague, abstract statement with something specific and vivid people can picture or act on.\nExample: \"We're still paying for that license nobody uses — we're paying rent on a house we don't live in.\"\nSimilar chunks:\n- What does that look like on Monday morning?\n- Think of it like a queue at a coffee shop — one slow order blocks everyone.\n- That's a band-aid on a broken leg."
+    },
+    {
+      "id": 11,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to replace a vague, abstract statement with a specific number, image, or picture people can actually act on. Which chunk fits best?",
+      "options": {
+        "A": "What does that look like on Monday morning?",
+        "B": "Ask not what X... but what Y...",
+        "C": "Slow is smooth, smooth is fast.",
+        "D": "We can have it fast, cheap, or good. Pick two."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"What does that look like on Monday morning?\" is a Making the abstract concrete chunk: used to replace a vague, abstract statement with something specific and vivid people can picture or act on.\nExample: \"Say we approve this today — what does that look like on Monday morning for the support team?\"\nSimilar chunks:\n- We're building the plane while flying it.\n- Let me put a number on that.\n- That's a sticking plaster.\n\n✗ \"Ask not what X... but what Y...\" belongs to Antithesis & contrast (not X, but Y) — used to sharpen a point by directly contrasting it with what it is not, not this context.\nSimilar chunks:\n- We don't need more data. We need better questions.\n- It's not a technology problem, it's a people problem.\n- The goal isn't to be busy. The goal is to be effective.\n\n✗ \"Slow is smooth, smooth is fast.\" belongs to Antithesis & contrast (not X, but Y) — used to sharpen a point by directly contrasting it with what it is not, not this context.\nSimilar chunks:\n- Cheap now, expensive later.\n- We don't need more data. We need better questions.\n- It's not a technology problem, it's a people problem.\n\n✗ \"We can have it fast, cheap, or good. Pick two.\" belongs to Memorable closing lines — used as a closing line designed to be the one part people remember and repeat afterwards, not this context.\nSimilar chunks:\n- We're treating the symptom, not the cause.\n- So the choice is simple: [A] or [B].\n- Let's not confuse activity with progress."
+    },
+    {
+      "id": 12,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to control how people perceive an issue by changing the frame around it before they form their own opinion. Which chunk fits best?",
+      "options": {
+        "A": "The goal isn't to be busy. The goal is to be effective.",
+        "B": "We can have it fast, cheap, or good. Pick two.",
+        "C": "We're not cutting scope. We're sequencing it.",
+        "D": "That's a band-aid on a broken leg."
+      },
+      "correct": "C",
+      "explanation": "✗ \"The goal isn't to be busy. The goal is to be effective.\" belongs to Antithesis & contrast (not X, but Y) — used to sharpen a point by directly contrasting it with what it is not, not this context.\nSimilar chunks:\n- Ask not what X... but what Y...\n- We don't need more data. We need better questions.\n- It's not a technology problem, it's a people problem.\n\n✗ \"We can have it fast, cheap, or good. Pick two.\" belongs to Memorable closing lines — used as a closing line designed to be the one part people remember and repeat afterwards, not this context.\nSimilar chunks:\n- Let's not confuse activity with progress.\n- So the choice is simple: [A] or [B].\n- The cost of waiting is higher than the cost of acting.\n\n✓ Correct — \"We're not cutting scope. We're sequencing it.\" is a Reframing (choosing the frame) chunk: used to control how people perceive an issue by changing the frame around it before they form their own opinion.\nExample: \"We're not cutting scope. We're sequencing it — the reporting feature just moves to phase two.\"\nSimilar chunks:\n- Let's not ask what it costs. Let's ask what it saves.\n- The real question is...\n- The question isn't whether we can afford to do it. It's whether we can afford not to.\n\n✗ \"That's a band-aid on a broken leg.\" belongs to Making the abstract concrete — used to replace a vague, abstract statement with something specific and vivid people can picture or act on, not this context.\nSimilar chunks:\n- We're paying rent on a house we don't live in.\n- What does that look like on Monday morning?\n- Let me put a number on that."
+    },
+    {
+      "id": 13,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to control how people perceive an issue by changing the frame around it before they form their own opinion. Which chunk fits best?",
+      "options": {
+        "A": "We don't need more data. We need better questions.",
+        "B": "This isn't a cost — it's an investment.",
+        "C": "We're paying rent on a house we don't live in.",
+        "D": "What we know, what we assume, what we're guessing."
+      },
+      "correct": "B",
+      "explanation": "✗ \"We don't need more data. We need better questions.\" belongs to Antithesis & contrast (not X, but Y) — used to sharpen a point by directly contrasting it with what it is not, not this context.\nSimilar chunks:\n- It's not a technology problem, it's a people problem.\n- Ask not what X... but what Y...\n- Cheap now, expensive later.\n\n✓ Correct — \"This isn't a cost — it's an investment.\" is a Reframing (choosing the frame) chunk: used to control how people perceive an issue by changing the frame around it before they form their own opinion.\nExample: \"This isn't a cost — it's an investment in not losing customers to downtime.\"\nSimilar chunks:\n- The real question is...\n- We're not cutting scope. We're sequencing it.\n- That's the symptom, not the cause.\n\n✗ \"We're paying rent on a house we don't live in.\" belongs to Making the abstract concrete — used to replace a vague, abstract statement with something specific and vivid people can picture or act on, not this context.\nSimilar chunks:\n- What does that look like on Monday morning?\n- That's a sticking plaster.\n- Let me put a number on that.\n\n✗ \"What we know, what we assume, what we're guessing.\" belongs to Rule of three (tricolon) — used to give a point rhythm and staying power by packaging it as a list of three, not this context.\nSimilar chunks:\n- Three things: [A], [B], [C].\n- Faster, cheaper, better.\n- Simple, clear, honest."
+    },
+    {
+      "id": 14,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to control how people perceive an issue by changing the frame around it before they form their own opinion. Which chunk fits best?",
+      "options": {
+        "A": "The question isn't whether we can afford to do it. It's whether we can afford not to.",
+        "B": "Three things: [A], [B], [C].",
+        "C": "Plan the work, work the plan.",
+        "D": "We're paying rent on a house we don't live in."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"The question isn't whether we can afford to do it. It's whether we can afford not to.\" is a Reframing (choosing the frame) chunk: used to control how people perceive an issue by changing the frame around it before they form their own opinion.\nExample: \"The question isn't whether we can afford the security audit. It's whether we can afford not to.\"\nSimilar chunks:\n- The real question is...\n- This isn't a cost — it's an investment.\n- We're not cutting scope. We're sequencing it.\n\n✗ \"Three things: [A], [B], [C].\" belongs to Rule of three (tricolon) — used to give a point rhythm and staying power by packaging it as a list of three, not this context.\nSimilar chunks:\n- We tried it. We measured it. We learned from it.\n- What we know, what we assume, what we're guessing.\n- Simple, clear, honest.\n\n✗ \"Plan the work, work the plan.\" belongs to Repetition & rhetorical questions — used to make a point stick through deliberate repetition or a pointed rhetorical question, not this context.\nSimilar chunks:\n- We can do this. We should do this. We will do this.\n- Built for speed. Priced for speed. Designed for speed.\n- Quality isn't an act, it's a habit.\n\n✗ \"We're paying rent on a house we don't live in.\" belongs to Making the abstract concrete — used to replace a vague, abstract statement with something specific and vivid people can picture or act on, not this context.\nSimilar chunks:\n- What does that look like on Monday morning?\n- Let me put a number on that.\n- That's a band-aid on a broken leg."
+    },
+    {
+      "id": 15,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to cut through complexity and reduce your point to its simplest, most digestible form. Which chunk fits best?",
+      "options": {
+        "A": "At its simplest...",
+        "B": "The real question is...",
+        "C": "The goal isn't to be busy. The goal is to be effective.",
+        "D": "Simple, clear, honest."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"At its simplest...\" is a Simplifying the point chunk: used to cut through complexity and reduce a point to its simplest, most digestible form.\nExample: \"At its simplest, this is a scheduling problem, not a technology one.\"\nSimilar chunks:\n- Strip it back and it's just...\n\n✗ \"The real question is...\" belongs to Reframing (choosing the frame) — used to control how people perceive an issue by changing the frame around it before they form their own opinion, not this context.\nSimilar chunks:\n- Let's not ask what it costs. Let's ask what it saves.\n- This isn't a cost — it's an investment.\n- We're not cutting scope. We're sequencing it.\n\n✗ \"The goal isn't to be busy. The goal is to be effective.\" belongs to Antithesis & contrast (not X, but Y) — used to sharpen a point by directly contrasting it with what it is not, not this context.\nSimilar chunks:\n- Ask not what X... but what Y...\n- Slow is smooth, smooth is fast.\n- Cheap now, expensive later.\n\n✗ \"Simple, clear, honest.\" belongs to Rule of three (tricolon) — used to give a point rhythm and staying power by packaging it as a list of three, not this context.\nSimilar chunks:\n- Three things: [A], [B], [C].\n- We tried it. We measured it. We learned from it.\n- Faster, cheaper, better."
+    },
+    {
+      "id": 16,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You want to cut through complexity and reduce your point to its simplest, most digestible form. Which chunk fits best?",
+      "options": {
+        "A": "That's the symptom, not the cause.",
+        "B": "Strip it back and it's just...",
+        "C": "The cost of waiting is higher than the cost of acting.",
+        "D": "We're not cutting scope. We're sequencing it."
+      },
+      "correct": "B",
+      "explanation": "✗ \"That's the symptom, not the cause.\" belongs to Reframing (choosing the frame) — used to control how people perceive an issue by changing the frame around it before they form their own opinion, not this context.\nSimilar chunks:\n- We're not cutting scope. We're sequencing it.\n- The question isn't whether we can afford to do it. It's whether we can afford not to.\n- Let's not ask what it costs. Let's ask what it saves.\n\n✓ Correct — \"Strip it back and it's just...\" is a Simplifying the point chunk: used to cut through complexity and reduce a point to its simplest, most digestible form.\nExample: \"Strip it back and it's just a form with three fields.\"\nSimilar chunks:\n- At its simplest...\n\n✗ \"The cost of waiting is higher than the cost of acting.\" belongs to Memorable closing lines — used as a closing line designed to be the one part people remember and repeat afterwards, not this context.\nSimilar chunks:\n- If we do nothing, [X]. That's the decision we're making by default.\n- Let's not confuse activity with progress.\n- That's not a plan, that's a hope.\n\n✗ \"We're not cutting scope. We're sequencing it.\" belongs to Reframing (choosing the frame) — used to control how people perceive an issue by changing the frame around it before they form their own opinion, not this context.\nSimilar chunks:\n- The question isn't whether we can afford to do it. It's whether we can afford not to.\n- This isn't a cost — it's an investment.\n- Let's not ask what it costs. Let's ask what it saves."
+    },
+    {
+      "id": 17,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're wrapping up and want your closing line to be the one part people actually remember and repeat afterwards. Which chunk fits best?",
+      "options": {
+        "A": "Let's not confuse activity with progress.",
+        "B": "Slow is smooth, smooth is fast.",
+        "C": "Cheap now, expensive later.",
+        "D": "At its simplest..."
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"Let's not confuse activity with progress.\" is a Memorable closing lines chunk: used as a closing line designed to be the one part people remember and repeat afterwards.\nExample: \"We've had ten meetings about this and shipped nothing — let's not confuse activity with progress.\"\nSimilar chunks:\n- If we do nothing, [X]. That's the decision we're making by default.\n- We're treating the symptom, not the cause.\n- We can have it fast, cheap, or good. Pick two.\n\n✗ \"Slow is smooth, smooth is fast.\" belongs to Antithesis & contrast (not X, but Y) — used to sharpen a point by directly contrasting it with what it is not, not this context.\nSimilar chunks:\n- Cheap now, expensive later.\n- It's not a technology problem, it's a people problem.\n- Ask not what X... but what Y...\n\n✗ \"Cheap now, expensive later.\" belongs to Antithesis & contrast (not X, but Y) — used to sharpen a point by directly contrasting it with what it is not, not this context.\nSimilar chunks:\n- Ask not what X... but what Y...\n- It's not a technology problem, it's a people problem.\n- The goal isn't to be busy. The goal is to be effective.\n\n✗ \"At its simplest...\" belongs to Simplifying the point — used to cut through complexity and reduce a point to its simplest, most digestible form, not this context.\nSimilar chunks:\n- Strip it back and it's just..."
+    },
+    {
+      "id": 18,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're wrapping up and want your closing line to be the one part people actually remember and repeat afterwards. Which chunk fits best?",
+      "options": {
+        "A": "We're building the plane while flying it.",
+        "B": "We're paying rent on a house we don't live in.",
+        "C": "Strip it back and it's just...",
+        "D": "We can have it fast, cheap, or good. Pick two."
+      },
+      "correct": "D",
+      "explanation": "✗ \"We're building the plane while flying it.\" belongs to Making the abstract concrete — used to replace a vague, abstract statement with something specific and vivid people can picture or act on, not this context.\nSimilar chunks:\n- What does that look like on Monday morning?\n- Think of it like a queue at a coffee shop — one slow order blocks everyone.\n- That's a band-aid on a broken leg.\n\n✗ \"We're paying rent on a house we don't live in.\" belongs to Making the abstract concrete — used to replace a vague, abstract statement with something specific and vivid people can picture or act on, not this context.\nSimilar chunks:\n- Let me put a number on that.\n- Think of it like a queue at a coffee shop — one slow order blocks everyone.\n- That's a band-aid on a broken leg.\n\n✗ \"Strip it back and it's just...\" belongs to Simplifying the point — used to cut through complexity and reduce a point to its simplest, most digestible form, not this context.\nSimilar chunks:\n- At its simplest...\n\n✓ Correct — \"We can have it fast, cheap, or good. Pick two.\" is a Memorable closing lines chunk: used as a closing line designed to be the one part people remember and repeat afterwards.\nExample: \"We can have it fast, cheap, or good. Pick two — that's the trade-off on the table.\"\nSimilar chunks:\n- If we do nothing, [X]. That's the decision we're making by default.\n- So the choice is simple: [A] or [B].\n- Let's not confuse activity with progress."
+    },
+    {
+      "id": 19,
+      "ka": "presence",
+      "kaName": "Voice & Presence",
+      "question": "You're wrapping up and want your closing line to be the one part people actually remember and repeat afterwards. Which chunk fits best?",
+      "options": {
+        "A": "Slow is smooth, smooth is fast.",
+        "B": "Let's not ask what it costs. Let's ask what it saves.",
+        "C": "What we know, what we assume, what we're guessing.",
+        "D": "If we do nothing, [X]. That's the decision we're making by default."
+      },
+      "correct": "D",
+      "explanation": "✗ \"Slow is smooth, smooth is fast.\" belongs to Antithesis & contrast (not X, but Y) — used to sharpen a point by directly contrasting it with what it is not, not this context.\nSimilar chunks:\n- It's not a technology problem, it's a people problem.\n- The goal isn't to be busy. The goal is to be effective.\n- Ask not what X... but what Y...\n\n✗ \"Let's not ask what it costs. Let's ask what it saves.\" belongs to Reframing (choosing the frame) — used to control how people perceive an issue by changing the frame around it before they form their own opinion, not this context.\nSimilar chunks:\n- We're not cutting scope. We're sequencing it.\n- The question isn't whether we can afford to do it. It's whether we can afford not to.\n- That's the symptom, not the cause.\n\n✗ \"What we know, what we assume, what we're guessing.\" belongs to Rule of three (tricolon) — used to give a point rhythm and staying power by packaging it as a list of three, not this context.\nSimilar chunks:\n- Three things: [A], [B], [C].\n- Faster, cheaper, better.\n- We tried it. We measured it. We learned from it.\n\n✓ Correct — \"If we do nothing, [X]. That's the decision we're making by default.\" is a Memorable closing lines chunk: used as a closing line designed to be the one part people remember and repeat afterwards.\nExample: \"If we do nothing, the contract lapses in March. That's the decision we're making by default.\"\nSimilar chunks:\n- We can have it fast, cheap, or good. Pick two.\n- That's not a plan, that's a hope.\n- Let's not confuse activity with progress."
+    }
+  ]
+}

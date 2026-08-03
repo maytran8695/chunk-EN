@@ -1,0 +1,1532 @@
+{
+  "examId": "idiomaticity",
+  "title": "Chunk Atlas — Language Systems: Idiomaticity",
+  "questions": [
+    {
+      "id": 1,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe generating an idea, tolerating something, evading consequences, or catching up on a backlog, using an everyday phrasal verb instead of a stiff formal verb. Which chunk fits best?",
+      "options": {
+        "A": "work out",
+        "B": "attack a proposal",
+        "C": "catch up on",
+        "D": "supply and demand"
+      },
+      "correct": "C",
+      "explanation": "✗ \"work out\" belongs to Figuring things out & outcomes phrasal verbs — an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out, not this context.\nSimilar chunks:\n- come across\n- end up\n- find out\n\n✗ \"attack a proposal\" belongs to Metaphor: ARGUMENT IS WAR — a vivid ARGUMENT IS WAR metaphor for debating or disagreeing, not a neutral discussion verb, not this context.\nSimilar chunks:\n- defend a proposal\n- an indefensible position\n- win a point\n\n✓ Correct — \"catch up on\" is a Coping, waiting & catching up phrasal verbs chunk: an everyday phrasal verb for coping with, evading, or catching up on something, not a formal Latinate verb.\nExample: \"I spent the weekend catching up on a month of unread tickets.\"\nSimilar chunks:\n- get round to\n- get away with\n- come up with\n\n✗ \"supply and demand\" belongs to Binomials: workplace — a fixed workplace binomial expression, in a set word order, describing a standard business concept, not this context.\nSimilar chunks:\n- all things considered\n- rules and regulations\n- terms and conditions"
+    },
+    {
+      "id": 2,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe generating an idea, tolerating something, evading consequences, or catching up on a backlog, using an everyday phrasal verb instead of a stiff formal verb. Which chunk fits best?",
+      "options": {
+        "A": "a rule of thumb",
+        "B": "get on (with)",
+        "C": "look forward to",
+        "D": "touch base"
+      },
+      "correct": "C",
+      "explanation": "✗ \"a rule of thumb\" belongs to Workplace idioms: rough estimation — a workplace idiom for giving a rough estimate or a high-level summary rather than exact detail, not this context.\nSimilar chunks:\n- in broad strokes\n- boil down to\n- at a high level\n\n✗ \"get on (with)\" belongs to Relationships phrasal verbs — an everyday phrasal verb describing how two people or teams relate to each other, not this context.\nSimilar chunks:\n- fall out (with)\n- make up\n- look down on\n\n✓ Correct — \"look forward to\" is a Coping, waiting & catching up phrasal verbs chunk: an everyday phrasal verb for coping with, evading, or catching up on something, not a formal Latinate verb.\nExample: \"I'm really looking forward to seeing the new dashboard live.\"\nSimilar chunks:\n- get away with\n- get round to\n- put up with\n\n✗ \"touch base\" belongs to Communication & follow-up phrasal verbs — an everyday workplace phrasal verb for following up, checking in, or including someone, not this context.\nSimilar chunks:\n- loop in\n- run something by someone\n- chase up"
+    },
+    {
+      "id": 3,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe generating an idea, tolerating something, evading consequences, or catching up on a backlog, using an everyday phrasal verb instead of a stiff formal verb. Which chunk fits best?",
+      "options": {
+        "A": "crop up",
+        "B": "milestones",
+        "C": "get away with",
+        "D": "the luck of the draw"
+      },
+      "correct": "C",
+      "explanation": "✗ \"crop up\" belongs to Problems arising & resolving phrasal verbs — an everyday phrasal verb describing a problem appearing or being resolved, not this context.\nSimilar chunks:\n- patch up\n- clear up\n- come up\n\n✗ \"milestones\" belongs to Metaphor: BUSINESS IS A JOURNEY — a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel, not this context.\nSimilar chunks:\n- steer\n- a roadmap\n- on track\n\n✓ Correct — \"get away with\" is a Coping, waiting & catching up phrasal verbs chunk: an everyday phrasal verb for coping with, evading, or catching up on something, not a formal Latinate verb.\nExample: \"He got away with missing the deadline because nobody escalated it.\"\nSimilar chunks:\n- look forward to\n- run out of\n- get round to\n\n✗ \"the luck of the draw\" belongs to Everyday idioms: luck — a fixed everyday idiom for talking about luck casually, not this context.\nSimilar chunks:\n- fingers crossed\n- touch wood\n- just my luck"
+    },
+    {
+      "id": 4,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe understanding, resolving, discovering, or reaching an outcome, using an everyday phrasal verb instead of a formal single-word verb. Which chunk fits best?",
+      "options": {
+        "A": "figure out",
+        "B": "an uphill struggle",
+        "C": "hand in",
+        "D": "sooner rather than later"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"figure out\" is a Figuring things out & outcomes phrasal verbs chunk: an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out.\nExample: \"It took us an hour to figure out why the build was failing.\"\nSimilar chunks:\n- bring up\n- work out\n- turn out\n\n✗ \"an uphill struggle\" belongs to Everyday idioms: difficulty — a vivid everyday idiom describing how difficult something is, not this context.\nSimilar chunks:\n- a hard nut to crack\n- easier said than done\n- a bit of a slog\n\n✗ \"hand in\" belongs to Work-task phrasal verbs — an everyday phrasal verb describing assigning, transferring, or getting through work, not this context.\nSimilar chunks:\n- take over\n- hand over\n- get through\n\n✗ \"sooner rather than later\" belongs to Everyday idioms: time — a fixed everyday idiom for talking about timing casually, not this context.\nSimilar chunks:\n- in the long run\n- at the end of the day\n- any day now"
+    },
+    {
+      "id": 5,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe understanding, resolving, discovering, or reaching an outcome, using an everyday phrasal verb instead of a formal single-word verb. Which chunk fits best?",
+      "options": {
+        "A": "sort out",
+        "B": "patch up",
+        "C": "hard work",
+        "D": "chill out"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"sort out\" is a Figuring things out & outcomes phrasal verbs chunk: an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out.\nExample: \"Can you sort out the invoice mix-up with finance?\"\nSimilar chunks:\n- bring up\n- figure out\n- end up\n\n✗ \"patch up\" belongs to Problems arising & resolving phrasal verbs — an everyday phrasal verb describing a problem appearing or being resolved, not this context.\nSimilar chunks:\n- come up\n- clear up\n- blow up\n\n✗ \"hard work\" belongs to Everyday idioms: describing people — a vivid everyday idiom describing someone's character, not this context.\nSimilar chunks:\n- a safe pair of hands\n- a live wire\n- full of himself\n\n✗ \"chill out\" belongs to Mood phrasal verbs — an everyday phrasal verb describing a change in someone's mood, not this context.\nSimilar chunks:\n- snap out of it\n- calm down\n- perk up"
+    },
+    {
+      "id": 6,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe understanding, resolving, discovering, or reaching an outcome, using an everyday phrasal verb instead of a formal single-word verb. Which chunk fits best?",
+      "options": {
+        "A": "find out",
+        "B": "fall through",
+        "C": "now and then",
+        "D": "hold up"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"find out\" is a Figuring things out & outcomes phrasal verbs chunk: an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out.\nExample: \"We only found out about the price change from a customer complaint.\"\nSimilar chunks:\n- point out\n- work out\n- turn out\n\n✗ \"fall through\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- call off\n- iron out\n- smooth over\n\n✗ \"now and then\" belongs to Binomials: everyday frequency & condition — a fixed binomial expression, in a set word order, describing frequency, readiness, or condition, not this context.\nSimilar chunks:\n- here and there\n- first and foremost\n- part and parcel\n\n✗ \"hold up\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- put off\n- head off\n- push back"
+    },
+    {
+      "id": 7,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe understanding, resolving, discovering, or reaching an outcome, using an everyday phrasal verb instead of a formal single-word verb. Which chunk fits best?",
+      "options": {
+        "A": "steer",
+        "B": "head off",
+        "C": "save time",
+        "D": "work out"
+      },
+      "correct": "D",
+      "explanation": "✗ \"steer\" belongs to Metaphor: BUSINESS IS A JOURNEY — a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel, not this context.\nSimilar chunks:\n- on track\n- hit a roadblock\n- milestones\n\n✗ \"head off\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- iron out\n- put off\n- push back\n\n✗ \"save time\" belongs to Metaphor: TIME IS MONEY — a vivid TIME IS MONEY metaphor for spending, saving, or wasting time as if it were money, not this context.\nSimilar chunks:\n- budget time\n- a costly delay\n- borrowed time\n\n✓ Correct — \"work out\" is a Figuring things out & outcomes phrasal verbs chunk: an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out.\nExample: \"We worked out a compromise that both teams could live with.\"\nSimilar chunks:\n- find out\n- turn out\n- come across"
+    },
+    {
+      "id": 8,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe investigating, reviewing, or physically handling a task or item, using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "ahead of the curve",
+        "B": "crop up",
+        "C": "blow up",
+        "D": "pick up"
+      },
+      "correct": "D",
+      "explanation": "✗ \"ahead of the curve\" belongs to Workplace idioms: general business praise — a workplace idiom used to praise a strong result, idea, or advantage, not this context.\nSimilar chunks:\n- a game changer\n- a win-win\n- raise the bar\n\n✗ \"crop up\" belongs to Problems arising & resolving phrasal verbs — an everyday phrasal verb describing a problem appearing or being resolved, not this context.\nSimilar chunks:\n- blow up\n- come up\n- clear up\n\n✗ \"blow up\" belongs to Problems arising & resolving phrasal verbs — an everyday phrasal verb describing a problem appearing or being resolved, not this context.\nSimilar chunks:\n- crop up\n- come up\n- blow over\n\n✓ Correct — \"pick up\" is a Handling tasks & objects phrasal verbs chunk: an everyday phrasal verb for investigating, reviewing, or physically handling something.\nExample: \"I'll pick up your part of the deck if you're still stuck on the demo.\"\nSimilar chunks:\n- hold off\n- run by\n- deal with"
+    },
+    {
+      "id": 9,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe investigating, reviewing, or physically handling a task or item, using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "chip in",
+        "B": "look into",
+        "C": "calm down",
+        "D": "get through"
+      },
+      "correct": "B",
+      "explanation": "✗ \"chip in\" belongs to Money & belongings phrasal verbs — an everyday phrasal verb describing spending, saving, or contributing money or resources, not this context.\nSimilar chunks:\n- put by\n- use up\n- save up\n\n✓ Correct — \"look into\" is a Handling tasks & objects phrasal verbs chunk: an everyday phrasal verb for investigating, reviewing, or physically handling something.\nExample: \"I'll look into why the export feature keeps timing out.\"\nSimilar chunks:\n- go over\n- hold off\n- pick up\n\n✗ \"calm down\" belongs to Mood phrasal verbs — an everyday phrasal verb describing a change in someone's mood, not this context.\nSimilar chunks:\n- chill out\n- cheer up\n- snap out of it\n\n✗ \"get through\" belongs to Work-task phrasal verbs — an everyday phrasal verb describing assigning, transferring, or getting through work, not this context.\nSimilar chunks:\n- take on\n- take over\n- hand in"
+    },
+    {
+      "id": 10,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe investigating, reviewing, or physically handling a task or item, using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "run by",
+        "B": "set up",
+        "C": "attack a proposal",
+        "D": "if you ask me"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"run by\" is a Handling tasks & objects phrasal verbs chunk: an everyday phrasal verb for investigating, reviewing, or physically handling something.\nExample: \"Let me run this pricing idea by the finance team first.\"\nSimilar chunks:\n- pick up\n- hold off\n- look into\n\n✗ \"set up\" belongs to Phrasal verbs: starting & finishing — an everyday phrasal verb marking the start or end of an activity, not this context.\nSimilar chunks:\n- wind up\n- wrap up\n- set off\n\n✗ \"attack a proposal\" belongs to Metaphor: ARGUMENT IS WAR — a vivid ARGUMENT IS WAR metaphor for debating or disagreeing, not a neutral discussion verb, not this context.\nSimilar chunks:\n- an indefensible position\n- defend a proposal\n- win a point\n\n✗ \"if you ask me\" belongs to Everyday idioms: giving opinions informally — a fixed everyday idiom for giving a casual, informal opinion, not this context.\nSimilar chunks:\n- at a guess\n- off the record\n- to be honest with you"
+    },
+    {
+      "id": 11,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe investigating, reviewing, or physically handling a task or item, using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "more or less",
+        "B": "put across",
+        "C": "check in",
+        "D": "come up"
+      },
+      "correct": "C",
+      "explanation": "✗ \"more or less\" belongs to Binomials: pace & degree — a fixed binomial expression, in a set word order that native speakers never reverse, describing pace or degree, not this context.\nSimilar chunks:\n- sink or swim\n- back and forth\n- give or take\n\n✗ \"put across\" belongs to Information phrasal verbs — an everyday phrasal verb describing communicating information to someone, not this context.\nSimilar chunks:\n- brief up\n- fill in\n\n✓ Correct — \"check in\" is a Handling tasks & objects phrasal verbs chunk: an everyday phrasal verb for investigating, reviewing, or physically handling something.\nExample: \"I'll check in with the client once the fix is deployed.\"\nSimilar chunks:\n- deal with\n- go through\n- run by\n\n✗ \"come up\" belongs to Problems arising & resolving phrasal verbs — an everyday phrasal verb describing a problem appearing or being resolved, not this context.\nSimilar chunks:\n- blow up\n- clear up\n- blow over"
+    },
+    {
+      "id": 12,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a stage in a project's lifecycle — starting, scaling, reducing, or finishing it — using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "a safe pair of hands",
+        "B": "carry out",
+        "C": "figure out",
+        "D": "safe and sound"
+      },
+      "correct": "B",
+      "explanation": "✗ \"a safe pair of hands\" belongs to Everyday idioms: describing people — a vivid everyday idiom describing someone's character, not this context.\nSimilar chunks:\n- down to earth\n- a live wire\n- hard work\n\n✓ Correct — \"carry out\" is a Project-lifecycle phrasal verbs chunk: an everyday phrasal verb describing a stage in a project's lifecycle, from starting to winding down.\nExample: \"The vendor carried out the migration over the weekend.\"\nSimilar chunks:\n- phase out\n- roll out\n- scale back\n\n✗ \"figure out\" belongs to Figuring things out & outcomes phrasal verbs — an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out, not this context.\nSimilar chunks:\n- find out\n- turn out\n- point out\n\n✗ \"safe and sound\" belongs to Binomials: everyday frequency & condition — a fixed binomial expression, in a set word order, describing frequency, readiness, or condition, not this context.\nSimilar chunks:\n- now and then\n- ready and willing\n- first and foremost"
+    },
+    {
+      "id": 13,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a stage in a project's lifecycle — starting, scaling, reducing, or finishing it — using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "scale up",
+        "B": "all's well that ends well",
+        "C": "look forward to",
+        "D": "profit and loss"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"scale up\" is a Project-lifecycle phrasal verbs chunk: an everyday phrasal verb describing a stage in a project's lifecycle, from starting to winding down.\nExample: \"Once the pilot works, we'll scale up to the whole region.\"\nSimilar chunks:\n- ramp up\n- phase out\n- wind down\n\n✗ \"all's well that ends well\" belongs to Everyday idioms: wrapping up — a fixed everyday idiom for signalling that something is completely finished, not this context.\nSimilar chunks:\n- that's that\n- job done\n- and there you have it\n\n✗ \"look forward to\" belongs to Coping, waiting & catching up phrasal verbs — an everyday phrasal verb for coping with, evading, or catching up on something, not a formal Latinate verb, not this context.\nSimilar chunks:\n- get away with\n- come up with\n- catch up on\n\n✗ \"profit and loss\" belongs to Binomials: workplace — a fixed workplace binomial expression, in a set word order, describing a standard business concept, not this context.\nSimilar chunks:\n- all things considered\n- rules and regulations\n- terms and conditions"
+    },
+    {
+      "id": 14,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a stage in a project's lifecycle — starting, scaling, reducing, or finishing it — using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "kick off",
+        "B": "flag up",
+        "C": "stop by",
+        "D": "come up with"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"kick off\" is a Project-lifecycle phrasal verbs chunk: an everyday phrasal verb describing a stage in a project's lifecycle, from starting to winding down.\nExample: \"We kick off the new sprint on Monday.\"\nSimilar chunks:\n- scale back\n- follow through\n- wind down\n\n✗ \"flag up\" belongs to Communication & follow-up phrasal verbs — an everyday workplace phrasal verb for following up, checking in, or including someone, not this context.\nSimilar chunks:\n- chase up\n- touch base\n- sync up\n\n✗ \"stop by\" belongs to People coming & going phrasal verbs — an everyday phrasal verb describing someone arriving, leaving, or visiting, not this context.\nSimilar chunks:\n- turn up\n- drop in\n- drop by\n\n✗ \"come up with\" belongs to Coping, waiting & catching up phrasal verbs — an everyday phrasal verb for coping with, evading, or catching up on something, not a formal Latinate verb, not this context.\nSimilar chunks:\n- get away with\n- put up with\n- run out of"
+    },
+    {
+      "id": 15,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a stage in a project's lifecycle — starting, scaling, reducing, or finishing it — using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "phase out",
+        "B": "rules and regulations",
+        "C": "a detour",
+        "D": "knock off"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"phase out\" is a Project-lifecycle phrasal verbs chunk: an everyday phrasal verb describing a stage in a project's lifecycle, from starting to winding down.\nExample: \"We're phasing out the legacy API by the end of the year.\"\nSimilar chunks:\n- carry out\n- wind down\n- follow through\n\n✗ \"rules and regulations\" belongs to Binomials: workplace — a fixed workplace binomial expression, in a set word order, describing a standard business concept, not this context.\nSimilar chunks:\n- terms and conditions\n- profit and loss\n- supply and demand\n\n✗ \"a detour\" belongs to Metaphor: BUSINESS IS A JOURNEY — a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel, not this context.\nSimilar chunks:\n- on track\n- hit a roadblock\n- the path forward\n\n✗ \"knock off\" belongs to Phrasal verbs: starting & finishing — an everyday phrasal verb marking the start or end of an activity, not this context.\nSimilar chunks:\n- wind up\n- call it a day\n- set off"
+    },
+    {
+      "id": 16,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe following up, checking in, or including someone in a conversation, using an everyday workplace phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "flag up",
+        "B": "common ground",
+        "C": "save up",
+        "D": "fall through"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"flag up\" is a Communication & follow-up phrasal verbs chunk: an everyday workplace phrasal verb for following up, checking in, or including someone.\nExample: \"She flagged up a risk in the contract terms early on.\"\nSimilar chunks:\n- run something by someone\n- chase up\n- sync up\n\n✗ \"common ground\" belongs to Metaphor: ARGUMENT IS WAR — a vivid ARGUMENT IS WAR metaphor for debating or disagreeing, not a neutral discussion verb, not this context.\nSimilar chunks:\n- win a point\n- attack a proposal\n- an indefensible position\n\n✗ \"save up\" belongs to Money & belongings phrasal verbs — an everyday phrasal verb describing spending, saving, or contributing money or resources, not this context.\nSimilar chunks:\n- splash out\n- use up\n- chip in\n\n✗ \"fall through\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- push back\n- put off\n- back down"
+    },
+    {
+      "id": 17,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe following up, checking in, or including someone in a conversation, using an everyday workplace phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "a doddle",
+        "B": "chase up",
+        "C": "call off",
+        "D": "part and parcel"
+      },
+      "correct": "B",
+      "explanation": "✗ \"a doddle\" belongs to Everyday idioms: ease — a vivid everyday idiom describing how easy something is, not this context.\nSimilar chunks:\n- plain sailing\n- a piece of cake\n- no sweat\n\n✓ Correct — \"chase up\" is a Communication & follow-up phrasal verbs chunk: an everyday workplace phrasal verb for following up, checking in, or including someone.\nExample: \"I'll chase up the vendor, they still owe us the final invoice.\"\nSimilar chunks:\n- follow up\n- touch base\n- loop in\n\n✗ \"call off\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- smooth over\n- push back\n- put off\n\n✗ \"part and parcel\" belongs to Binomials: everyday frequency & condition — a fixed binomial expression, in a set word order, describing frequency, readiness, or condition, not this context.\nSimilar chunks:\n- ready and willing\n- safe and sound\n- here and there"
+    },
+    {
+      "id": 18,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe following up, checking in, or including someone in a conversation, using an everyday workplace phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "give up",
+        "B": "touch base",
+        "C": "steer",
+        "D": "get an idea across"
+      },
+      "correct": "B",
+      "explanation": "✗ \"give up\" belongs to Phrasal verbs: continuing & stopping — an everyday phrasal verb marking continuing or stopping an activity, not this context.\nSimilar chunks:\n- go on\n- carry on\n- hold on\n\n✓ Correct — \"touch base\" is a Communication & follow-up phrasal verbs chunk: an everyday workplace phrasal verb for following up, checking in, or including someone.\nExample: \"Let's touch base after the demo to see how it landed.\"\nSimilar chunks:\n- follow up\n- loop in\n- chase up\n\n✗ \"steer\" belongs to Metaphor: BUSINESS IS A JOURNEY — a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel, not this context.\nSimilar chunks:\n- on track\n- a roadmap\n- a detour\n\n✗ \"get an idea across\" belongs to Metaphor: IDEAS ARE OBJECTS — a vivid IDEAS ARE OBJECTS metaphor for handling or communicating an idea as if it were a physical thing, not this context.\nSimilar chunks:\n- grasp an idea\n- a half-baked idea\n- toss around an idea"
+    },
+    {
+      "id": 19,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe following up, checking in, or including someone in a conversation, using an everyday workplace phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "by and large",
+        "B": "run something by someone",
+        "C": "bandwidth",
+        "D": "a costly delay"
+      },
+      "correct": "B",
+      "explanation": "✗ \"by and large\" belongs to Binomials: pace & degree — a fixed binomial expression, in a set word order that native speakers never reverse, describing pace or degree, not this context.\nSimilar chunks:\n- back and forth\n- more or less\n- sooner or later\n\n✓ Correct — \"run something by someone\" is a Communication & follow-up phrasal verbs chunk: an everyday workplace phrasal verb for following up, checking in, or including someone.\nExample: \"I want to run this by you before I send it to the client.\"\nSimilar chunks:\n- touch base\n- circle back\n- chase up\n\n✗ \"bandwidth\" belongs to Metaphor: ORGANISATIONS ARE MACHINES/BODIES — a vivid ORGANISATIONS ARE MACHINES/BODIES metaphor for describing a team or company's capacity, not this context.\nSimilar chunks:\n- capacity\n- healthy margins\n- friction\n\n✗ \"a costly delay\" belongs to Metaphor: TIME IS MONEY — a vivid TIME IS MONEY metaphor for spending, saving, or wasting time as if it were money, not this context.\nSimilar chunks:\n- borrowed time\n- spend time\n- waste time"
+    },
+    {
+      "id": 20,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe resolving, avoiding, or reacting to a problem, using an everyday workplace phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "think outside the box",
+        "B": "smooth over",
+        "C": "the ins and outs",
+        "D": "put up with"
+      },
+      "correct": "B",
+      "explanation": "✗ \"think outside the box\" belongs to Workplace idioms: general business praise — a workplace idiom used to praise a strong result, idea, or advantage, not this context.\nSimilar chunks:\n- ahead of the curve\n- a game changer\n- a win-win\n\n✓ Correct — \"smooth over\" is a Problem-handling phrasal verbs chunk: an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem.\nExample: \"She smoothed things over with the client after the missed call.\"\nSimilar chunks:\n- fall through\n- call off\n- push back\n\n✗ \"the ins and outs\" belongs to Binomials: overview expressions — a fixed binomial expression, in a set word order, used to give an overview of something's details or status, not this context.\nSimilar chunks:\n- bits and pieces\n- up and running\n- the pros and cons\n\n✗ \"put up with\" belongs to Coping, waiting & catching up phrasal verbs — an everyday phrasal verb for coping with, evading, or catching up on something, not a formal Latinate verb, not this context.\nSimilar chunks:\n- run out of\n- come up with\n- catch up on"
+    },
+    {
+      "id": 21,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe resolving, avoiding, or reacting to a problem, using an everyday workplace phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "trial and error",
+        "B": "blow up",
+        "C": "save time",
+        "D": "put off"
+      },
+      "correct": "D",
+      "explanation": "✗ \"trial and error\" belongs to Binomials: workplace — a fixed workplace binomial expression, in a set word order, describing a standard business concept, not this context.\nSimilar chunks:\n- profit and loss\n- supply and demand\n- terms and conditions\n\n✗ \"blow up\" belongs to Problems arising & resolving phrasal verbs — an everyday phrasal verb describing a problem appearing or being resolved, not this context.\nSimilar chunks:\n- patch up\n- come up\n- clear up\n\n✗ \"save time\" belongs to Metaphor: TIME IS MONEY — a vivid TIME IS MONEY metaphor for spending, saving, or wasting time as if it were money, not this context.\nSimilar chunks:\n- spend time\n- a costly delay\n- budget time\n\n✓ Correct — \"put off\" is a Problem-handling phrasal verbs chunk: an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem.\nExample: \"Let's not put off this conversation any longer.\"\nSimilar chunks:\n- fall through\n- call off\n- head off"
+    },
+    {
+      "id": 22,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe resolving, avoiding, or reacting to a problem, using an everyday workplace phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "hold up",
+        "B": "in broad strokes",
+        "C": "sooner or later",
+        "D": "milestones"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"hold up\" is a Problem-handling phrasal verbs chunk: an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem.\nExample: \"The whole release was held up by one failing test.\"\nSimilar chunks:\n- call off\n- head off\n- back down\n\n✗ \"in broad strokes\" belongs to Workplace idioms: rough estimation — a workplace idiom for giving a rough estimate or a high-level summary rather than exact detail, not this context.\nSimilar chunks:\n- at a high level\n- a rule of thumb\n- a ballpark figure\n\n✗ \"sooner or later\" belongs to Binomials: pace & degree — a fixed binomial expression, in a set word order that native speakers never reverse, describing pace or degree, not this context.\nSimilar chunks:\n- sink or swim\n- give or take\n- back and forth\n\n✗ \"milestones\" belongs to Metaphor: BUSINESS IS A JOURNEY — a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel, not this context.\nSimilar chunks:\n- steer\n- the path forward\n- a detour"
+    },
+    {
+      "id": 23,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe resolving, avoiding, or reacting to a problem, using an everyday workplace phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "job done",
+        "B": "iron out",
+        "C": "go over",
+        "D": "save time"
+      },
+      "correct": "B",
+      "explanation": "✗ \"job done\" belongs to Everyday idioms: wrapping up — a fixed everyday idiom for signalling that something is completely finished, not this context.\nSimilar chunks:\n- all's well that ends well\n- that's that\n- and there you have it\n\n✓ Correct — \"iron out\" is a Problem-handling phrasal verbs chunk: an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem.\nExample: \"We still need to iron out a few details in the contract.\"\nSimilar chunks:\n- fall through\n- call off\n- smooth over\n\n✗ \"go over\" belongs to Handling tasks & objects phrasal verbs — an everyday phrasal verb for investigating, reviewing, or physically handling something, not this context.\nSimilar chunks:\n- hold off\n- drop off\n- look into\n\n✗ \"save time\" belongs to Metaphor: TIME IS MONEY — a vivid TIME IS MONEY metaphor for spending, saving, or wasting time as if it were money, not this context.\nSimilar chunks:\n- waste time\n- invest hours\n- budget time"
+    },
+    {
+      "id": 24,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe narrowing down, weighing, or finalizing a decision, using an everyday workplace phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "clear up",
+        "B": "bring forward",
+        "C": "go over",
+        "D": "hit the ground running"
+      },
+      "correct": "B",
+      "explanation": "✗ \"clear up\" belongs to Problems arising & resolving phrasal verbs — an everyday phrasal verb describing a problem appearing or being resolved, not this context.\nSimilar chunks:\n- patch up\n- blow up\n- crop up\n\n✓ Correct — \"bring forward\" is a Decision-making phrasal verbs chunk: an everyday workplace phrasal verb for narrowing down, weighing, or finalizing a decision.\nExample: \"Can we bring the review meeting forward to Wednesday?\"\nSimilar chunks:\n- go ahead with\n- settle on\n- rule out\n\n✗ \"go over\" belongs to Handling tasks & objects phrasal verbs — an everyday phrasal verb for investigating, reviewing, or physically handling something, not this context.\nSimilar chunks:\n- check in\n- deal with\n- drop off\n\n✗ \"hit the ground running\" belongs to Workplace idioms: progress — a workplace idiom describing how a project is progressing, from starting out to stalling, not this context.\nSimilar chunks:\n- in the pipeline\n- get the ball rolling\n- move the needle"
+    },
+    {
+      "id": 25,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe narrowing down, weighing, or finalizing a decision, using an everyday workplace phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "settle on",
+        "B": "iron out",
+        "C": "by and large",
+        "D": "easier said than done"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"settle on\" is a Decision-making phrasal verbs chunk: an everyday workplace phrasal verb for narrowing down, weighing, or finalizing a decision.\nExample: \"We finally settled on a launch date of March 3rd.\"\nSimilar chunks:\n- narrow down\n- go ahead with\n- opt for\n\n✗ \"iron out\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- call off\n- back down\n- push back\n\n✗ \"by and large\" belongs to Binomials: pace & degree — a fixed binomial expression, in a set word order that native speakers never reverse, describing pace or degree, not this context.\nSimilar chunks:\n- sink or swim\n- give or take\n- back and forth\n\n✗ \"easier said than done\" belongs to Everyday idioms: difficulty — a vivid everyday idiom describing how difficult something is, not this context.\nSimilar chunks:\n- a hard nut to crack\n- a bit of a slog\n- an uphill struggle"
+    },
+    {
+      "id": 26,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe narrowing down, weighing, or finalizing a decision, using an everyday workplace phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "get on (with)",
+        "B": "opt for",
+        "C": "gain momentum",
+        "D": "that's that"
+      },
+      "correct": "B",
+      "explanation": "✗ \"get on (with)\" belongs to Relationships phrasal verbs — an everyday phrasal verb describing how two people or teams relate to each other, not this context.\nSimilar chunks:\n- look down on\n- make up\n- fall out (with)\n\n✓ Correct — \"opt for\" is a Decision-making phrasal verbs chunk: an everyday workplace phrasal verb for narrowing down, weighing, or finalizing a decision.\nExample: \"We opted for the simpler design over the flashier one.\"\nSimilar chunks:\n- weigh up\n- rule out\n- settle on\n\n✗ \"gain momentum\" belongs to Workplace idioms: progress — a workplace idiom describing how a project is progressing, from starting out to stalling, not this context.\nSimilar chunks:\n- move the needle\n- back to the drawing board\n- hit the ground running\n\n✗ \"that's that\" belongs to Everyday idioms: wrapping up — a fixed everyday idiom for signalling that something is completely finished, not this context.\nSimilar chunks:\n- job done\n- all's well that ends well\n- and there you have it"
+    },
+    {
+      "id": 27,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe narrowing down, weighing, or finalizing a decision, using an everyday workplace phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "clear up",
+        "B": "rule out",
+        "C": "cut corners",
+        "D": "borrowed time"
+      },
+      "correct": "B",
+      "explanation": "✗ \"clear up\" belongs to Problems arising & resolving phrasal verbs — an everyday phrasal verb describing a problem appearing or being resolved, not this context.\nSimilar chunks:\n- patch up\n- come up\n- blow up\n\n✓ Correct — \"rule out\" is a Decision-making phrasal verbs chunk: an everyday workplace phrasal verb for narrowing down, weighing, or finalizing a decision.\nExample: \"We've ruled out the cheaper vendor over reliability concerns.\"\nSimilar chunks:\n- sign off (on)\n- weigh up\n- settle on\n\n✗ \"cut corners\" belongs to Workplace idioms: decisions & tradeoffs — a workplace idiom describing a difficult decision, a tradeoff, or getting people aligned, not this context.\nSimilar chunks:\n- bite the bullet\n- on the same page\n- play devil's advocate\n\n✗ \"borrowed time\" belongs to Metaphor: TIME IS MONEY — a vivid TIME IS MONEY metaphor for spending, saving, or wasting time as if it were money, not this context.\nSimilar chunks:\n- save time\n- spend time\n- a costly delay"
+    },
+    {
+      "id": 28,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe pace, degree, or approximation using a fixed two-word binomial expression, in the exact word order native speakers always use. Which chunk fits best?",
+      "options": {
+        "A": "fall out (with)",
+        "B": "hit a roadblock",
+        "C": "ready and willing",
+        "D": "sink or swim"
+      },
+      "correct": "D",
+      "explanation": "✗ \"fall out (with)\" belongs to Relationships phrasal verbs — an everyday phrasal verb describing how two people or teams relate to each other, not this context.\nSimilar chunks:\n- make up\n- get on (with)\n- look down on\n\n✗ \"hit a roadblock\" belongs to Metaphor: BUSINESS IS A JOURNEY — a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel, not this context.\nSimilar chunks:\n- a detour\n- a roadmap\n- steer\n\n✗ \"ready and willing\" belongs to Binomials: everyday frequency & condition — a fixed binomial expression, in a set word order, describing frequency, readiness, or condition, not this context.\nSimilar chunks:\n- safe and sound\n- first and foremost\n- here and there\n\n✓ Correct — \"sink or swim\" is a Binomials: pace & degree chunk: a fixed binomial expression, in a set word order that native speakers never reverse, describing pace or degree.\nExample: \"We threw the new hire straight onto the client call — sink or swim.\"\nSimilar chunks:\n- back and forth\n- more or less\n- sooner or later"
+    },
+    {
+      "id": 29,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe pace, degree, or approximation using a fixed two-word binomial expression, in the exact word order native speakers always use. Which chunk fits best?",
+      "options": {
+        "A": "part and parcel",
+        "B": "pack in",
+        "C": "play devil's advocate",
+        "D": "by and large"
+      },
+      "correct": "D",
+      "explanation": "✗ \"part and parcel\" belongs to Binomials: everyday frequency & condition — a fixed binomial expression, in a set word order, describing frequency, readiness, or condition, not this context.\nSimilar chunks:\n- first and foremost\n- ready and willing\n- safe and sound\n\n✗ \"pack in\" belongs to Phrasal verbs: continuing & stopping — an everyday phrasal verb marking continuing or stopping an activity, not this context.\nSimilar chunks:\n- carry on\n- keep on\n- give up\n\n✗ \"play devil's advocate\" belongs to Workplace idioms: decisions & tradeoffs — a workplace idiom describing a difficult decision, a tradeoff, or getting people aligned, not this context.\nSimilar chunks:\n- bite the bullet\n- low-hanging fruit\n- on the same page\n\n✓ Correct — \"by and large\" is a Binomials: pace & degree chunk: a fixed binomial expression, in a set word order that native speakers never reverse, describing pace or degree.\nExample: \"By and large, the migration went smoothly.\"\nSimilar chunks:\n- back and forth\n- more or less\n- sooner or later"
+    },
+    {
+      "id": 30,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe pace, degree, or approximation using a fixed two-word binomial expression, in the exact word order native speakers always use. Which chunk fits best?",
+      "options": {
+        "A": "back and forth",
+        "B": "scale back",
+        "C": "just my luck",
+        "D": "pop round"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"back and forth\" is a Binomials: pace & degree chunk: a fixed binomial expression, in a set word order that native speakers never reverse, describing pace or degree.\nExample: \"We went back and forth on the pricing for almost a week.\"\nSimilar chunks:\n- sink or swim\n- sooner or later\n- more or less\n\n✗ \"scale back\" belongs to Project-lifecycle phrasal verbs — an everyday phrasal verb describing a stage in a project's lifecycle, from starting to winding down, not this context.\nSimilar chunks:\n- kick off\n- ramp up\n- scale up\n\n✗ \"just my luck\" belongs to Everyday idioms: luck — a fixed everyday idiom for talking about luck casually, not this context.\nSimilar chunks:\n- fingers crossed\n- touch wood\n- the luck of the draw\n\n✗ \"pop round\" belongs to People coming & going phrasal verbs — an everyday phrasal verb describing someone arriving, leaving, or visiting, not this context.\nSimilar chunks:\n- show up\n- drop by\n- head off"
+    },
+    {
+      "id": 31,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give an overview of something's details, tradeoffs, or status, using a fixed binomial expression. Which chunk fits best?",
+      "options": {
+        "A": "head off",
+        "B": "in the same boat",
+        "C": "knock off",
+        "D": "the ins and outs"
+      },
+      "correct": "D",
+      "explanation": "✗ \"head off\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- call off\n- iron out\n- push back\n\n✗ \"in the same boat\" belongs to Everyday idioms: situations — a vivid everyday idiom describing a general situation, not this context.\nSimilar chunks:\n- the last straw\n- a blessing in disguise\n- out of the blue\n\n✗ \"knock off\" belongs to Phrasal verbs: starting & finishing — an everyday phrasal verb marking the start or end of an activity, not this context.\nSimilar chunks:\n- call it a day\n- take off\n- wind up\n\n✓ Correct — \"the ins and outs\" is a Binomials: overview expressions chunk: a fixed binomial expression, in a set word order, used to give an overview of something's details or status.\nExample: \"She knows the ins and outs of the billing system better than anyone.\"\nSimilar chunks:\n- bits and pieces\n- tried and tested\n- cut and dried"
+    },
+    {
+      "id": 32,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give an overview of something's details, tradeoffs, or status, using a fixed binomial expression. Which chunk fits best?",
+      "options": {
+        "A": "bits and pieces",
+        "B": "at a guess",
+        "C": "think outside the box",
+        "D": "catch up"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"bits and pieces\" is a Binomials: overview expressions chunk: a fixed binomial expression, in a set word order, used to give an overview of something's details or status.\nExample: \"There are still a few bits and pieces left to finish before launch.\"\nSimilar chunks:\n- up and running\n- tried and tested\n- the pros and cons\n\n✗ \"at a guess\" belongs to Everyday idioms: giving opinions informally — a fixed everyday idiom for giving a casual, informal opinion, not this context.\nSimilar chunks:\n- if you ask me\n- off the record\n- to be honest with you\n\n✗ \"think outside the box\" belongs to Workplace idioms: general business praise — a workplace idiom used to praise a strong result, idea, or advantage, not this context.\nSimilar chunks:\n- ahead of the curve\n- a win-win\n- raise the bar\n\n✗ \"catch up\" belongs to Work-task phrasal verbs — an everyday phrasal verb describing assigning, transferring, or getting through work, not this context.\nSimilar chunks:\n- hand in\n- get through\n- hand over"
+    },
+    {
+      "id": 33,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give an overview of something's details, tradeoffs, or status, using a fixed binomial expression. Which chunk fits best?",
+      "options": {
+        "A": "a game changer",
+        "B": "pick up on",
+        "C": "tried and tested",
+        "D": "in broad strokes"
+      },
+      "correct": "C",
+      "explanation": "✗ \"a game changer\" belongs to Workplace idioms: general business praise — a workplace idiom used to praise a strong result, idea, or advantage, not this context.\nSimilar chunks:\n- raise the bar\n- ahead of the curve\n- think outside the box\n\n✗ \"pick up on\" belongs to Phrasal verbs: understanding & discovering (extra) — an everyday phrasal verb for noticing or understanding something, not this context.\nSimilar chunks:\n- look up\n- catch on\n- make out\n\n✓ Correct — \"tried and tested\" is a Binomials: overview expressions chunk: a fixed binomial expression, in a set word order, used to give an overview of something's details or status.\nExample: \"We're sticking with the tried and tested onboarding flow for now.\"\nSimilar chunks:\n- the ins and outs\n- up and running\n- the pros and cons\n\n✗ \"in broad strokes\" belongs to Workplace idioms: rough estimation — a workplace idiom for giving a rough estimate or a high-level summary rather than exact detail, not this context.\nSimilar chunks:\n- at a high level\n- a rule of thumb\n- a ballpark figure"
+    },
+    {
+      "id": 34,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe frequency, readiness, or condition using a fixed binomial expression. Which chunk fits best?",
+      "options": {
+        "A": "fall out (with)",
+        "B": "narrow down",
+        "C": "on track",
+        "D": "now and then"
+      },
+      "correct": "D",
+      "explanation": "✗ \"fall out (with)\" belongs to Relationships phrasal verbs — an everyday phrasal verb describing how two people or teams relate to each other, not this context.\nSimilar chunks:\n- get on (with)\n- make up\n- look up to\n\n✗ \"narrow down\" belongs to Decision-making phrasal verbs — an everyday workplace phrasal verb for narrowing down, weighing, or finalizing a decision, not this context.\nSimilar chunks:\n- rule out\n- sign off (on)\n- opt for\n\n✗ \"on track\" belongs to Metaphor: BUSINESS IS A JOURNEY — a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel, not this context.\nSimilar chunks:\n- the path forward\n- steer\n- a detour\n\n✓ Correct — \"now and then\" is a Binomials: everyday frequency & condition chunk: a fixed binomial expression, in a set word order, describing frequency, readiness, or condition.\nExample: \"The old bug still shows up now and then.\"\nSimilar chunks:\n- safe and sound\n- first and foremost\n- ready and willing"
+    },
+    {
+      "id": 35,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe frequency, readiness, or condition using a fixed binomial expression. Which chunk fits best?",
+      "options": {
+        "A": "here and there",
+        "B": "off the record",
+        "C": "touch base",
+        "D": "a can of worms"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"here and there\" is a Binomials: everyday frequency & condition chunk: a fixed binomial expression, in a set word order, describing frequency, readiness, or condition.\nExample: \"We made a few tweaks here and there before shipping.\"\nSimilar chunks:\n- now and then\n- ready and willing\n- first and foremost\n\n✗ \"off the record\" belongs to Everyday idioms: giving opinions informally — a fixed everyday idiom for giving a casual, informal opinion, not this context.\nSimilar chunks:\n- to be honest with you\n- if you ask me\n- at a guess\n\n✗ \"touch base\" belongs to Communication & follow-up phrasal verbs — an everyday workplace phrasal verb for following up, checking in, or including someone, not this context.\nSimilar chunks:\n- chase up\n- sync up\n- circle back\n\n✗ \"a can of worms\" belongs to Workplace idioms: naming a problem — a workplace idiom for naming a difficult, awkward, or unresolved problem, not this context.\nSimilar chunks:\n- a stopgap\n- a double-edged sword\n- the elephant in the room"
+    },
+    {
+      "id": 36,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe frequency, readiness, or condition using a fixed binomial expression. Which chunk fits best?",
+      "options": {
+        "A": "show up",
+        "B": "a blessing in disguise",
+        "C": "save time",
+        "D": "safe and sound"
+      },
+      "correct": "D",
+      "explanation": "✗ \"show up\" belongs to People coming & going phrasal verbs — an everyday phrasal verb describing someone arriving, leaving, or visiting, not this context.\nSimilar chunks:\n- pop round\n- head off\n- stop by\n\n✗ \"a blessing in disguise\" belongs to Everyday idioms: situations — a vivid everyday idiom describing a general situation, not this context.\nSimilar chunks:\n- out of the blue\n- the last straw\n- in the same boat\n\n✗ \"save time\" belongs to Metaphor: TIME IS MONEY — a vivid TIME IS MONEY metaphor for spending, saving, or wasting time as if it were money, not this context.\nSimilar chunks:\n- waste time\n- borrowed time\n- spend time\n\n✓ Correct — \"safe and sound\" is a Binomials: everyday frequency & condition chunk: a fixed binomial expression, in a set word order, describing frequency, readiness, or condition.\nExample: \"The backup arrived safe and sound before the deadline.\"\nSimilar chunks:\n- ready and willing\n- here and there\n- first and foremost"
+    },
+    {
+      "id": 37,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a business concept using a fixed workplace binomial expression. Which chunk fits best?",
+      "options": {
+        "A": "time and effort",
+        "B": "blow up",
+        "C": "boil down to",
+        "D": "cut and dried"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"time and effort\" is a Binomials: workplace chunk: a fixed workplace binomial expression, in a set word order, describing a standard business concept.\nExample: \"It took a lot of time and effort to get the two systems talking to each other.\"\nSimilar chunks:\n- supply and demand\n- terms and conditions\n- trial and error\n\n✗ \"blow up\" belongs to Problems arising & resolving phrasal verbs — an everyday phrasal verb describing a problem appearing or being resolved, not this context.\nSimilar chunks:\n- come up\n- patch up\n- clear up\n\n✗ \"boil down to\" belongs to Workplace idioms: rough estimation — a workplace idiom for giving a rough estimate or a high-level summary rather than exact detail, not this context.\nSimilar chunks:\n- a ballpark figure\n- a rule of thumb\n- in broad strokes\n\n✗ \"cut and dried\" belongs to Binomials: overview expressions — a fixed binomial expression, in a set word order, used to give an overview of something's details or status, not this context.\nSimilar chunks:\n- bits and pieces\n- the pros and cons\n- the ins and outs"
+    },
+    {
+      "id": 38,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a business concept using a fixed workplace binomial expression. Which chunk fits best?",
+      "options": {
+        "A": "get on (with)",
+        "B": "supply and demand",
+        "C": "the path forward",
+        "D": "bring forward"
+      },
+      "correct": "B",
+      "explanation": "✗ \"get on (with)\" belongs to Relationships phrasal verbs — an everyday phrasal verb describing how two people or teams relate to each other, not this context.\nSimilar chunks:\n- look down on\n- fall out (with)\n- look up to\n\n✓ Correct — \"supply and demand\" is a Binomials: workplace chunk: a fixed workplace binomial expression, in a set word order, describing a standard business concept.\nExample: \"Pricing here is really just supply and demand — we raise it when we're full.\"\nSimilar chunks:\n- terms and conditions\n- rules and regulations\n- all things considered\n\n✗ \"the path forward\" belongs to Metaphor: BUSINESS IS A JOURNEY — a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel, not this context.\nSimilar chunks:\n- steer\n- on track\n- a detour\n\n✗ \"bring forward\" belongs to Decision-making phrasal verbs — an everyday workplace phrasal verb for narrowing down, weighing, or finalizing a decision, not this context.\nSimilar chunks:\n- narrow down\n- sign off (on)\n- go ahead with"
+    },
+    {
+      "id": 39,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a business concept using a fixed workplace binomial expression. Which chunk fits best?",
+      "options": {
+        "A": "fall through",
+        "B": "head off",
+        "C": "go ahead with",
+        "D": "terms and conditions"
+      },
+      "correct": "D",
+      "explanation": "✗ \"fall through\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- back down\n- head off\n- call off\n\n✗ \"head off\" belongs to People coming & going phrasal verbs — an everyday phrasal verb describing someone arriving, leaving, or visiting, not this context.\nSimilar chunks:\n- pop round\n- turn up\n- show up\n\n✗ \"go ahead with\" belongs to Decision-making phrasal verbs — an everyday workplace phrasal verb for narrowing down, weighing, or finalizing a decision, not this context.\nSimilar chunks:\n- weigh up\n- opt for\n- rule out\n\n✓ Correct — \"terms and conditions\" is a Binomials: workplace chunk: a fixed workplace binomial expression, in a set word order, describing a standard business concept.\nExample: \"Make sure legal reviews the terms and conditions before we publish them.\"\nSimilar chunks:\n- time and effort\n- trial and error\n- all things considered"
+    },
+    {
+      "id": 40,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to name a difficult or awkward problem vividly, using a workplace idiom instead of a flat word like 'issue'. Which chunk fits best?",
+      "options": {
+        "A": "get the ball rolling",
+        "B": "put up with",
+        "C": "run by",
+        "D": "the elephant in the room"
+      },
+      "correct": "D",
+      "explanation": "✗ \"get the ball rolling\" belongs to Workplace idioms: progress — a workplace idiom describing how a project is progressing, from starting out to stalling, not this context.\nSimilar chunks:\n- gain momentum\n- back to the drawing board\n- hit the ground running\n\n✗ \"put up with\" belongs to Coping, waiting & catching up phrasal verbs — an everyday phrasal verb for coping with, evading, or catching up on something, not a formal Latinate verb, not this context.\nSimilar chunks:\n- look forward to\n- come up with\n- get away with\n\n✗ \"run by\" belongs to Handling tasks & objects phrasal verbs — an everyday phrasal verb for investigating, reviewing, or physically handling something, not this context.\nSimilar chunks:\n- pick up\n- go through\n- hold off\n\n✓ Correct — \"the elephant in the room\" is a Workplace idioms: naming a problem chunk: a workplace idiom for naming a difficult, awkward, or unresolved problem.\nExample: \"Nobody wanted to mention the elephant in the room: the budget cut.\"\nSimilar chunks:\n- a moving target\n- a can of worms\n- a double-edged sword"
+    },
+    {
+      "id": 41,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to name a difficult or awkward problem vividly, using a workplace idiom instead of a flat word like 'issue'. Which chunk fits best?",
+      "options": {
+        "A": "go on",
+        "B": "come across",
+        "C": "a can of worms",
+        "D": "set up"
+      },
+      "correct": "C",
+      "explanation": "✗ \"go on\" belongs to Phrasal verbs: continuing & stopping — an everyday phrasal verb marking continuing or stopping an activity, not this context.\nSimilar chunks:\n- pack in\n- hang on\n- give up\n\n✗ \"come across\" belongs to Figuring things out & outcomes phrasal verbs — an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out, not this context.\nSimilar chunks:\n- figure out\n- sort out\n- turn out\n\n✓ Correct — \"a can of worms\" is a Workplace idioms: naming a problem chunk: a workplace idiom for naming a difficult, awkward, or unresolved problem.\nExample: \"Changing the pricing model opened up a whole can of worms.\"\nSimilar chunks:\n- a double-edged sword\n- a bottleneck\n- the elephant in the room\n\n✗ \"set up\" belongs to Phrasal verbs: starting & finishing — an everyday phrasal verb marking the start or end of an activity, not this context.\nSimilar chunks:\n- take off\n- wrap up\n- call it a day"
+    },
+    {
+      "id": 42,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to name a difficult or awkward problem vividly, using a workplace idiom instead of a flat word like 'issue'. Which chunk fits best?",
+      "options": {
+        "A": "a stopgap",
+        "B": "stop by",
+        "C": "a safe pair of hands",
+        "D": "no sweat"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"a stopgap\" is a Workplace idioms: naming a problem chunk: a workplace idiom for naming a difficult, awkward, or unresolved problem.\nExample: \"This fix is just a stopgap until we rebuild the module properly.\"\nSimilar chunks:\n- a double-edged sword\n- the elephant in the room\n- a bottleneck\n\n✗ \"stop by\" belongs to People coming & going phrasal verbs — an everyday phrasal verb describing someone arriving, leaving, or visiting, not this context.\nSimilar chunks:\n- head off\n- turn up\n- pop round\n\n✗ \"a safe pair of hands\" belongs to Everyday idioms: describing people — a vivid everyday idiom describing someone's character, not this context.\nSimilar chunks:\n- a live wire\n- down to earth\n- full of himself\n\n✗ \"no sweat\" belongs to Everyday idioms: ease — a vivid everyday idiom describing how easy something is, not this context.\nSimilar chunks:\n- plain sailing\n- a piece of cake\n- a doddle"
+    },
+    {
+      "id": 43,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe project progress vividly, using a workplace idiom instead of a plain phrase like 'making progress'. Which chunk fits best?",
+      "options": {
+        "A": "unpack a concept",
+        "B": "head off",
+        "C": "hit the ground running",
+        "D": "healthy margins"
+      },
+      "correct": "C",
+      "explanation": "✗ \"unpack a concept\" belongs to Metaphor: IDEAS ARE OBJECTS — a vivid IDEAS ARE OBJECTS metaphor for handling or communicating an idea as if it were a physical thing, not this context.\nSimilar chunks:\n- put forward an idea\n- toss around an idea\n- a half-baked idea\n\n✗ \"head off\" belongs to People coming & going phrasal verbs — an everyday phrasal verb describing someone arriving, leaving, or visiting, not this context.\nSimilar chunks:\n- pop round\n- stop by\n- turn up\n\n✓ Correct — \"hit the ground running\" is a Workplace idioms: progress chunk: a workplace idiom describing how a project is progressing, from starting out to stalling.\nExample: \"The new lead hit the ground running on day one.\"\nSimilar chunks:\n- gain momentum\n- get the ball rolling\n- in the pipeline\n\n✗ \"healthy margins\" belongs to Metaphor: ORGANISATIONS ARE MACHINES/BODIES — a vivid ORGANISATIONS ARE MACHINES/BODIES metaphor for describing a team or company's capacity, not this context.\nSimilar chunks:\n- a lean team\n- bandwidth\n- friction"
+    },
+    {
+      "id": 44,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe project progress vividly, using a workplace idiom instead of a plain phrase like 'making progress'. Which chunk fits best?",
+      "options": {
+        "A": "more or less",
+        "B": "attack a proposal",
+        "C": "bring up",
+        "D": "get the ball rolling"
+      },
+      "correct": "D",
+      "explanation": "✗ \"more or less\" belongs to Binomials: pace & degree — a fixed binomial expression, in a set word order that native speakers never reverse, describing pace or degree, not this context.\nSimilar chunks:\n- by and large\n- sink or swim\n- sooner or later\n\n✗ \"attack a proposal\" belongs to Metaphor: ARGUMENT IS WAR — a vivid ARGUMENT IS WAR metaphor for debating or disagreeing, not a neutral discussion verb, not this context.\nSimilar chunks:\n- defend a proposal\n- win a point\n- common ground\n\n✗ \"bring up\" belongs to Figuring things out & outcomes phrasal verbs — an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out, not this context.\nSimilar chunks:\n- turn out\n- sort out\n- find out\n\n✓ Correct — \"get the ball rolling\" is a Workplace idioms: progress chunk: a workplace idiom describing how a project is progressing, from starting out to stalling.\nExample: \"Let's get the ball rolling on the contract this week.\"\nSimilar chunks:\n- hit the ground running\n- in the pipeline\n- move the needle"
+    },
+    {
+      "id": 45,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe project progress vividly, using a workplace idiom instead of a plain phrase like 'making progress'. Which chunk fits best?",
+      "options": {
+        "A": "attack a proposal",
+        "B": "move the needle",
+        "C": "back and forth",
+        "D": "run out of"
+      },
+      "correct": "B",
+      "explanation": "✗ \"attack a proposal\" belongs to Metaphor: ARGUMENT IS WAR — a vivid ARGUMENT IS WAR metaphor for debating or disagreeing, not a neutral discussion verb, not this context.\nSimilar chunks:\n- win a point\n- common ground\n- defend a proposal\n\n✓ Correct — \"move the needle\" is a Workplace idioms: progress chunk: a workplace idiom describing how a project is progressing, from starting out to stalling.\nExample: \"None of these small fixes are going to move the needle on churn.\"\nSimilar chunks:\n- back to the drawing board\n- in the pipeline\n- hit the ground running\n\n✗ \"back and forth\" belongs to Binomials: pace & degree — a fixed binomial expression, in a set word order that native speakers never reverse, describing pace or degree, not this context.\nSimilar chunks:\n- by and large\n- sooner or later\n- give or take\n\n✗ \"run out of\" belongs to Coping, waiting & catching up phrasal verbs — an everyday phrasal verb for coping with, evading, or catching up on something, not a formal Latinate verb, not this context.\nSimilar chunks:\n- look forward to\n- catch up on\n- come up with"
+    },
+    {
+      "id": 46,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a difficult decision or tradeoff vividly, using a workplace idiom. Which chunk fits best?",
+      "options": {
+        "A": "borrowed time",
+        "B": "bite the bullet",
+        "C": "a roadmap",
+        "D": "look into"
+      },
+      "correct": "B",
+      "explanation": "✗ \"borrowed time\" belongs to Metaphor: TIME IS MONEY — a vivid TIME IS MONEY metaphor for spending, saving, or wasting time as if it were money, not this context.\nSimilar chunks:\n- invest hours\n- waste time\n- spend time\n\n✓ Correct — \"bite the bullet\" is a Workplace idioms: decisions & tradeoffs chunk: a workplace idiom describing a difficult decision, a tradeoff, or getting people aligned.\nExample: \"We finally bit the bullet and rewrote the whole billing module.\"\nSimilar chunks:\n- play devil's advocate\n- cut corners\n- low-hanging fruit\n\n✗ \"a roadmap\" belongs to Metaphor: BUSINESS IS A JOURNEY — a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel, not this context.\nSimilar chunks:\n- on track\n- a detour\n- hit a roadblock\n\n✗ \"look into\" belongs to Handling tasks & objects phrasal verbs — an everyday phrasal verb for investigating, reviewing, or physically handling something, not this context.\nSimilar chunks:\n- hold off\n- deal with\n- drop off"
+    },
+    {
+      "id": 47,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a difficult decision or tradeoff vividly, using a workplace idiom. Which chunk fits best?",
+      "options": {
+        "A": "give or take",
+        "B": "first and foremost",
+        "C": "fall through",
+        "D": "a judgement call"
+      },
+      "correct": "D",
+      "explanation": "✗ \"give or take\" belongs to Binomials: pace & degree — a fixed binomial expression, in a set word order that native speakers never reverse, describing pace or degree, not this context.\nSimilar chunks:\n- sooner or later\n- sink or swim\n- by and large\n\n✗ \"first and foremost\" belongs to Binomials: everyday frequency & condition — a fixed binomial expression, in a set word order, describing frequency, readiness, or condition, not this context.\nSimilar chunks:\n- ready and willing\n- safe and sound\n- here and there\n\n✗ \"fall through\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- push back\n- smooth over\n- iron out\n\n✓ Correct — \"a judgement call\" is a Workplace idioms: decisions & tradeoffs chunk: a workplace idiom describing a difficult decision, a tradeoff, or getting people aligned.\nExample: \"Whether to delay the launch is really a judgement call at this point.\"\nSimilar chunks:\n- low-hanging fruit\n- cut corners\n- play devil's advocate"
+    },
+    {
+      "id": 48,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a difficult decision or tradeoff vividly, using a workplace idiom. Which chunk fits best?",
+      "options": {
+        "A": "unpack a concept",
+        "B": "put by",
+        "C": "if you ask me",
+        "D": "play devil's advocate"
+      },
+      "correct": "D",
+      "explanation": "✗ \"unpack a concept\" belongs to Metaphor: IDEAS ARE OBJECTS — a vivid IDEAS ARE OBJECTS metaphor for handling or communicating an idea as if it were a physical thing, not this context.\nSimilar chunks:\n- get an idea across\n- grasp an idea\n- put forward an idea\n\n✗ \"put by\" belongs to Money & belongings phrasal verbs — an everyday phrasal verb describing spending, saving, or contributing money or resources, not this context.\nSimilar chunks:\n- save up\n- use up\n- pay off\n\n✗ \"if you ask me\" belongs to Everyday idioms: giving opinions informally — a fixed everyday idiom for giving a casual, informal opinion, not this context.\nSimilar chunks:\n- at a guess\n- off the record\n- to be honest with you\n\n✓ Correct — \"play devil's advocate\" is a Workplace idioms: decisions & tradeoffs chunk: a workplace idiom describing a difficult decision, a tradeoff, or getting people aligned.\nExample: \"Let me play devil's advocate for a second — what if the client says no?\"\nSimilar chunks:\n- on the same page\n- a judgement call\n- low-hanging fruit"
+    },
+    {
+      "id": 49,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a rough estimate or high-level summary vividly, using a workplace idiom instead of saying 'approximately'. Which chunk fits best?",
+      "options": {
+        "A": "boil down to",
+        "B": "head off",
+        "C": "bandwidth",
+        "D": "cut and dried"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"boil down to\" is a Workplace idioms: rough estimation chunk: a workplace idiom for giving a rough estimate or a high-level summary rather than exact detail.\nExample: \"The whole disagreement boils down to who owns the final sign-off.\"\nSimilar chunks:\n- a ballpark figure\n- a rule of thumb\n- in broad strokes\n\n✗ \"head off\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- iron out\n- back down\n- call off\n\n✗ \"bandwidth\" belongs to Metaphor: ORGANISATIONS ARE MACHINES/BODIES — a vivid ORGANISATIONS ARE MACHINES/BODIES metaphor for describing a team or company's capacity, not this context.\nSimilar chunks:\n- friction\n- capacity\n- healthy margins\n\n✗ \"cut and dried\" belongs to Binomials: overview expressions — a fixed binomial expression, in a set word order, used to give an overview of something's details or status, not this context.\nSimilar chunks:\n- up and running\n- the pros and cons\n- bits and pieces"
+    },
+    {
+      "id": 50,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a rough estimate or high-level summary vividly, using a workplace idiom instead of saying 'approximately'. Which chunk fits best?",
+      "options": {
+        "A": "turn up",
+        "B": "full of himself",
+        "C": "phase out",
+        "D": "in broad strokes"
+      },
+      "correct": "D",
+      "explanation": "✗ \"turn up\" belongs to People coming & going phrasal verbs — an everyday phrasal verb describing someone arriving, leaving, or visiting, not this context.\nSimilar chunks:\n- head off\n- drop in\n- drop by\n\n✗ \"full of himself\" belongs to Everyday idioms: describing people — a vivid everyday idiom describing someone's character, not this context.\nSimilar chunks:\n- a safe pair of hands\n- hard work\n- a live wire\n\n✗ \"phase out\" belongs to Project-lifecycle phrasal verbs — an everyday phrasal verb describing a stage in a project's lifecycle, from starting to winding down, not this context.\nSimilar chunks:\n- scale back\n- carry out\n- ramp up\n\n✓ Correct — \"in broad strokes\" is a Workplace idioms: rough estimation chunk: a workplace idiom for giving a rough estimate or a high-level summary rather than exact detail.\nExample: \"Let me explain the plan in broad strokes before we get into detail.\"\nSimilar chunks:\n- a ballpark figure\n- at a high level\n- boil down to"
+    },
+    {
+      "id": 51,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to praise a business result or idea vividly, using a workplace idiom instead of a flat word like 'good'. Which chunk fits best?",
+      "options": {
+        "A": "get round to",
+        "B": "pay off",
+        "C": "a win-win",
+        "D": "show up"
+      },
+      "correct": "C",
+      "explanation": "✗ \"get round to\" belongs to Coping, waiting & catching up phrasal verbs — an everyday phrasal verb for coping with, evading, or catching up on something, not a formal Latinate verb, not this context.\nSimilar chunks:\n- run out of\n- catch up on\n- put up with\n\n✗ \"pay off\" belongs to Money & belongings phrasal verbs — an everyday phrasal verb describing spending, saving, or contributing money or resources, not this context.\nSimilar chunks:\n- splash out\n- put by\n- save up\n\n✓ Correct — \"a win-win\" is a Workplace idioms: general business praise chunk: a workplace idiom used to praise a strong result, idea, or advantage.\nExample: \"Extending the trial period was a win-win for both sides.\"\nSimilar chunks:\n- raise the bar\n- ahead of the curve\n- think outside the box\n\n✗ \"show up\" belongs to People coming & going phrasal verbs — an everyday phrasal verb describing someone arriving, leaving, or visiting, not this context.\nSimilar chunks:\n- head off\n- stop by\n- turn up"
+    },
+    {
+      "id": 52,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to praise a business result or idea vividly, using a workplace idiom instead of a flat word like 'good'. Which chunk fits best?",
+      "options": {
+        "A": "clear up",
+        "B": "rule out",
+        "C": "perk up",
+        "D": "raise the bar"
+      },
+      "correct": "D",
+      "explanation": "✗ \"clear up\" belongs to Problems arising & resolving phrasal verbs — an everyday phrasal verb describing a problem appearing or being resolved, not this context.\nSimilar chunks:\n- blow over\n- crop up\n- patch up\n\n✗ \"rule out\" belongs to Decision-making phrasal verbs — an everyday workplace phrasal verb for narrowing down, weighing, or finalizing a decision, not this context.\nSimilar chunks:\n- go ahead with\n- settle on\n- bring forward\n\n✗ \"perk up\" belongs to Mood phrasal verbs — an everyday phrasal verb describing a change in someone's mood, not this context.\nSimilar chunks:\n- snap out of it\n- cheer up\n- chill out\n\n✓ Correct — \"raise the bar\" is a Workplace idioms: general business praise chunk: a workplace idiom used to praise a strong result, idea, or advantage.\nExample: \"This release really raised the bar for what customers expect from us.\"\nSimilar chunks:\n- a win-win\n- a game changer\n- ahead of the curve"
+    },
+    {
+      "id": 53,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to talk about a debate or disagreement using vivid war-like language instead of neutral words like 'discuss' or 'disagree'. Which chunk fits best?",
+      "options": {
+        "A": "common ground",
+        "B": "carry on",
+        "C": "save up",
+        "D": "push back"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"common ground\" is a Metaphor: ARGUMENT IS WAR chunk: a vivid ARGUMENT IS WAR metaphor for debating or disagreeing, not a neutral discussion verb.\nExample: \"We finally found common ground on the rollout timeline, if not the budget.\"\nSimilar chunks:\n- attack a proposal\n- win a point\n- shoot down a proposal\n\n✗ \"carry on\" belongs to Phrasal verbs: continuing & stopping — an everyday phrasal verb marking continuing or stopping an activity, not this context.\nSimilar chunks:\n- hold on\n- pack in\n- hang on\n\n✗ \"save up\" belongs to Money & belongings phrasal verbs — an everyday phrasal verb describing spending, saving, or contributing money or resources, not this context.\nSimilar chunks:\n- put by\n- chip in\n- pay off\n\n✗ \"push back\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- head off\n- iron out\n- hold up"
+    },
+    {
+      "id": 54,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to talk about a debate or disagreement using vivid war-like language instead of neutral words like 'discuss' or 'disagree'. Which chunk fits best?",
+      "options": {
+        "A": "attack a proposal",
+        "B": "pick up",
+        "C": "a win-win",
+        "D": "waste time"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"attack a proposal\" is a Metaphor: ARGUMENT IS WAR chunk: a vivid ARGUMENT IS WAR metaphor for debating or disagreeing, not a neutral discussion verb.\nExample: \"Two board members attacked the proposal before we'd even finished presenting it.\"\nSimilar chunks:\n- defend a proposal\n- an indefensible position\n- shoot down a proposal\n\n✗ \"pick up\" belongs to Handling tasks & objects phrasal verbs — an everyday phrasal verb for investigating, reviewing, or physically handling something, not this context.\nSimilar chunks:\n- deal with\n- go through\n- look into\n\n✗ \"a win-win\" belongs to Workplace idioms: general business praise — a workplace idiom used to praise a strong result, idea, or advantage, not this context.\nSimilar chunks:\n- think outside the box\n- a game changer\n- raise the bar\n\n✗ \"waste time\" belongs to Metaphor: TIME IS MONEY — a vivid TIME IS MONEY metaphor for spending, saving, or wasting time as if it were money, not this context.\nSimilar chunks:\n- spend time\n- a costly delay\n- borrowed time"
+    },
+    {
+      "id": 55,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to talk about a debate or disagreement using vivid war-like language instead of neutral words like 'discuss' or 'disagree'. Which chunk fits best?",
+      "options": {
+        "A": "at a high level",
+        "B": "shoot down a proposal",
+        "C": "plain sailing",
+        "D": "save up"
+      },
+      "correct": "B",
+      "explanation": "✗ \"at a high level\" belongs to Workplace idioms: rough estimation — a workplace idiom for giving a rough estimate or a high-level summary rather than exact detail, not this context.\nSimilar chunks:\n- boil down to\n- a rule of thumb\n- in broad strokes\n\n✓ Correct — \"shoot down a proposal\" is a Metaphor: ARGUMENT IS WAR chunk: a vivid ARGUMENT IS WAR metaphor for debating or disagreeing, not a neutral discussion verb.\nExample: \"They shot down the proposal in the first five minutes of the meeting.\"\nSimilar chunks:\n- an indefensible position\n- win a point\n- common ground\n\n✗ \"plain sailing\" belongs to Everyday idioms: ease — a vivid everyday idiom describing how easy something is, not this context.\nSimilar chunks:\n- no sweat\n- a doddle\n- a piece of cake\n\n✗ \"save up\" belongs to Money & belongings phrasal verbs — an everyday phrasal verb describing spending, saving, or contributing money or resources, not this context.\nSimilar chunks:\n- pay off\n- put by\n- splash out"
+    },
+    {
+      "id": 56,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to talk about time as if it were a limited resource you can spend, save, or waste, the way native speakers naturally do. Which chunk fits best?",
+      "options": {
+        "A": "supply and demand",
+        "B": "look down on",
+        "C": "invest hours",
+        "D": "check in"
+      },
+      "correct": "C",
+      "explanation": "✗ \"supply and demand\" belongs to Binomials: workplace — a fixed workplace binomial expression, in a set word order, describing a standard business concept, not this context.\nSimilar chunks:\n- all things considered\n- time and effort\n- terms and conditions\n\n✗ \"look down on\" belongs to Relationships phrasal verbs — an everyday phrasal verb describing how two people or teams relate to each other, not this context.\nSimilar chunks:\n- get on (with)\n- make up\n- fall out (with)\n\n✓ Correct — \"invest hours\" is a Metaphor: TIME IS MONEY chunk: a vivid TIME IS MONEY metaphor for spending, saving, or wasting time as if it were money.\nExample: \"The team invested hours into a fix that the vendor could have shipped in a day.\"\nSimilar chunks:\n- save time\n- borrowed time\n- budget time\n\n✗ \"check in\" belongs to Handling tasks & objects phrasal verbs — an everyday phrasal verb for investigating, reviewing, or physically handling something, not this context.\nSimilar chunks:\n- go over\n- deal with\n- hold off"
+    },
+    {
+      "id": 57,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to talk about time as if it were a limited resource you can spend, save, or waste, the way native speakers naturally do. Which chunk fits best?",
+      "options": {
+        "A": "smooth over",
+        "B": "spend time",
+        "C": "a moving target",
+        "D": "come up with"
+      },
+      "correct": "B",
+      "explanation": "✗ \"smooth over\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- iron out\n- put off\n- back down\n\n✓ Correct — \"spend time\" is a Metaphor: TIME IS MONEY chunk: a vivid TIME IS MONEY metaphor for spending, saving, or wasting time as if it were money.\nExample: \"We spent two full days debugging something that turned out to be a config typo.\"\nSimilar chunks:\n- save time\n- a costly delay\n- waste time\n\n✗ \"a moving target\" belongs to Workplace idioms: naming a problem — a workplace idiom for naming a difficult, awkward, or unresolved problem, not this context.\nSimilar chunks:\n- a can of worms\n- the elephant in the room\n- a double-edged sword\n\n✗ \"come up with\" belongs to Coping, waiting & catching up phrasal verbs — an everyday phrasal verb for coping with, evading, or catching up on something, not a formal Latinate verb, not this context.\nSimilar chunks:\n- look forward to\n- get round to\n- put up with"
+    },
+    {
+      "id": 58,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to talk about time as if it were a limited resource you can spend, save, or waste, the way native speakers naturally do. Which chunk fits best?",
+      "options": {
+        "A": "waste time",
+        "B": "figure out",
+        "C": "a bit of a slog",
+        "D": "friction"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"waste time\" is a Metaphor: TIME IS MONEY chunk: a vivid TIME IS MONEY metaphor for spending, saving, or wasting time as if it were money.\nExample: \"Let's not waste time re-litigating a decision we made last week.\"\nSimilar chunks:\n- borrowed time\n- spend time\n- save time\n\n✗ \"figure out\" belongs to Figuring things out & outcomes phrasal verbs — an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out, not this context.\nSimilar chunks:\n- bring up\n- come across\n- work out\n\n✗ \"a bit of a slog\" belongs to Everyday idioms: difficulty — a vivid everyday idiom describing how difficult something is, not this context.\nSimilar chunks:\n- a hard nut to crack\n- easier said than done\n- an uphill struggle\n\n✗ \"friction\" belongs to Metaphor: ORGANISATIONS ARE MACHINES/BODIES — a vivid ORGANISATIONS ARE MACHINES/BODIES metaphor for describing a team or company's capacity, not this context.\nSimilar chunks:\n- healthy margins\n- capacity\n- a lean team"
+    },
+    {
+      "id": 59,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to talk about an idea as if it were a physical object you can hold, pass around, or unpack, instead of using an abstract verb like 'consider'. Which chunk fits best?",
+      "options": {
+        "A": "call off",
+        "B": "toss around an idea",
+        "C": "bits and pieces",
+        "D": "carry on"
+      },
+      "correct": "B",
+      "explanation": "✗ \"call off\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- head off\n- smooth over\n- push back\n\n✓ Correct — \"toss around an idea\" is a Metaphor: IDEAS ARE OBJECTS chunk: a vivid IDEAS ARE OBJECTS metaphor for handling or communicating an idea as if it were a physical thing.\nExample: \"We tossed around a few ideas before settling on the current design.\"\nSimilar chunks:\n- put forward an idea\n- get an idea across\n- a half-baked idea\n\n✗ \"bits and pieces\" belongs to Binomials: overview expressions — a fixed binomial expression, in a set word order, used to give an overview of something's details or status, not this context.\nSimilar chunks:\n- cut and dried\n- tried and tested\n- up and running\n\n✗ \"carry on\" belongs to Phrasal verbs: continuing & stopping — an everyday phrasal verb marking continuing or stopping an activity, not this context.\nSimilar chunks:\n- hold on\n- give up\n- go on"
+    },
+    {
+      "id": 60,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to talk about an idea as if it were a physical object you can hold, pass around, or unpack, instead of using an abstract verb like 'consider'. Which chunk fits best?",
+      "options": {
+        "A": "a half-baked idea",
+        "B": "ahead of the curve",
+        "C": "sort out",
+        "D": "attack a proposal"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"a half-baked idea\" is a Metaphor: IDEAS ARE OBJECTS chunk: a vivid IDEAS ARE OBJECTS metaphor for handling or communicating an idea as if it were a physical thing.\nExample: \"I don't want to pitch a half-baked idea to the client without testing it first.\"\nSimilar chunks:\n- unpack a concept\n- grasp an idea\n- get an idea across\n\n✗ \"ahead of the curve\" belongs to Workplace idioms: general business praise — a workplace idiom used to praise a strong result, idea, or advantage, not this context.\nSimilar chunks:\n- a game changer\n- raise the bar\n- think outside the box\n\n✗ \"sort out\" belongs to Figuring things out & outcomes phrasal verbs — an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out, not this context.\nSimilar chunks:\n- bring up\n- find out\n- figure out\n\n✗ \"attack a proposal\" belongs to Metaphor: ARGUMENT IS WAR — a vivid ARGUMENT IS WAR metaphor for debating or disagreeing, not a neutral discussion verb, not this context.\nSimilar chunks:\n- win a point\n- common ground\n- shoot down a proposal"
+    },
+    {
+      "id": 61,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to talk about an idea as if it were a physical object you can hold, pass around, or unpack, instead of using an abstract verb like 'consider'. Which chunk fits best?",
+      "options": {
+        "A": "hit a roadblock",
+        "B": "call it a day",
+        "C": "clear up",
+        "D": "unpack a concept"
+      },
+      "correct": "D",
+      "explanation": "✗ \"hit a roadblock\" belongs to Metaphor: BUSINESS IS A JOURNEY — a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel, not this context.\nSimilar chunks:\n- a detour\n- a roadmap\n- steer\n\n✗ \"call it a day\" belongs to Phrasal verbs: starting & finishing — an everyday phrasal verb marking the start or end of an activity, not this context.\nSimilar chunks:\n- set up\n- take off\n- set off\n\n✗ \"clear up\" belongs to Problems arising & resolving phrasal verbs — an everyday phrasal verb describing a problem appearing or being resolved, not this context.\nSimilar chunks:\n- patch up\n- blow up\n- come up\n\n✓ Correct — \"unpack a concept\" is a Metaphor: IDEAS ARE OBJECTS chunk: a vivid IDEAS ARE OBJECTS metaphor for handling or communicating an idea as if it were a physical thing.\nExample: \"Let's unpack that concept a bit before we move on to implementation.\"\nSimilar chunks:\n- get an idea across\n- grasp an idea\n- a half-baked idea"
+    },
+    {
+      "id": 62,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe your project's progress as if it were a physical journey, using words like roadmap, milestones, and detour. Which chunk fits best?",
+      "options": {
+        "A": "put across",
+        "B": "narrow down",
+        "C": "toss around an idea",
+        "D": "on track"
+      },
+      "correct": "D",
+      "explanation": "✗ \"put across\" belongs to Information phrasal verbs — an everyday phrasal verb describing communicating information to someone, not this context.\nSimilar chunks:\n- fill in\n- brief up\n\n✗ \"narrow down\" belongs to Decision-making phrasal verbs — an everyday workplace phrasal verb for narrowing down, weighing, or finalizing a decision, not this context.\nSimilar chunks:\n- bring forward\n- go ahead with\n- settle on\n\n✗ \"toss around an idea\" belongs to Metaphor: IDEAS ARE OBJECTS — a vivid IDEAS ARE OBJECTS metaphor for handling or communicating an idea as if it were a physical thing, not this context.\nSimilar chunks:\n- grasp an idea\n- unpack a concept\n- put forward an idea\n\n✓ Correct — \"on track\" is a Metaphor: BUSINESS IS A JOURNEY chunk: a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel.\nExample: \"Despite the scare last week, we're still on track for the March release.\"\nSimilar chunks:\n- milestones\n- a detour\n- the path forward"
+    },
+    {
+      "id": 63,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe your project's progress as if it were a physical journey, using words like roadmap, milestones, and detour. Which chunk fits best?",
+      "options": {
+        "A": "cheer up",
+        "B": "the path forward",
+        "C": "perk up",
+        "D": "call off"
+      },
+      "correct": "B",
+      "explanation": "✗ \"cheer up\" belongs to Mood phrasal verbs — an everyday phrasal verb describing a change in someone's mood, not this context.\nSimilar chunks:\n- calm down\n- snap out of it\n- chill out\n\n✓ Correct — \"the path forward\" is a Metaphor: BUSINESS IS A JOURNEY chunk: a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel.\nExample: \"The path forward is a phased rollout, starting with our friendliest customers.\"\nSimilar chunks:\n- on track\n- a roadmap\n- steer\n\n✗ \"perk up\" belongs to Mood phrasal verbs — an everyday phrasal verb describing a change in someone's mood, not this context.\nSimilar chunks:\n- cheer up\n- calm down\n- snap out of it\n\n✗ \"call off\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- head off\n- push back\n- iron out"
+    },
+    {
+      "id": 64,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe your project's progress as if it were a physical journey, using words like roadmap, milestones, and detour. Which chunk fits best?",
+      "options": {
+        "A": "a hard nut to crack",
+        "B": "circle back",
+        "C": "fall out (with)",
+        "D": "hit a roadblock"
+      },
+      "correct": "D",
+      "explanation": "✗ \"a hard nut to crack\" belongs to Everyday idioms: difficulty — a vivid everyday idiom describing how difficult something is, not this context.\nSimilar chunks:\n- easier said than done\n- an uphill struggle\n- a bit of a slog\n\n✗ \"circle back\" belongs to Communication & follow-up phrasal verbs — an everyday workplace phrasal verb for following up, checking in, or including someone, not this context.\nSimilar chunks:\n- chase up\n- touch base\n- loop in\n\n✗ \"fall out (with)\" belongs to Relationships phrasal verbs — an everyday phrasal verb describing how two people or teams relate to each other, not this context.\nSimilar chunks:\n- look up to\n- make up\n- get on (with)\n\n✓ Correct — \"hit a roadblock\" is a Metaphor: BUSINESS IS A JOURNEY chunk: a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel.\nExample: \"We hit a roadblock when the vendor's API changed without warning.\"\nSimilar chunks:\n- milestones\n- on track\n- a roadmap"
+    },
+    {
+      "id": 65,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe your team or company's capacity using mechanical or body metaphors like bandwidth, friction, or a lean team. Which chunk fits best?",
+      "options": {
+        "A": "bandwidth",
+        "B": "carry on",
+        "C": "loop in",
+        "D": "hold on"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"bandwidth\" is a Metaphor: ORGANISATIONS ARE MACHINES/BODIES chunk: a vivid ORGANISATIONS ARE MACHINES/BODIES metaphor for describing a team or company's capacity.\nExample: \"We don't have the bandwidth to take on a fourth project this quarter.\"\nSimilar chunks:\n- a lean team\n- capacity\n- healthy margins\n\n✗ \"carry on\" belongs to Phrasal verbs: continuing & stopping — an everyday phrasal verb marking continuing or stopping an activity, not this context.\nSimilar chunks:\n- hold on\n- go on\n- keep on\n\n✗ \"loop in\" belongs to Communication & follow-up phrasal verbs — an everyday workplace phrasal verb for following up, checking in, or including someone, not this context.\nSimilar chunks:\n- touch base\n- run something by someone\n- sync up\n\n✗ \"hold on\" belongs to Phrasal verbs: continuing & stopping — an everyday phrasal verb marking continuing or stopping an activity, not this context.\nSimilar chunks:\n- hang on\n- pack in\n- go on"
+    },
+    {
+      "id": 66,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe your team or company's capacity using mechanical or body metaphors like bandwidth, friction, or a lean team. Which chunk fits best?",
+      "options": {
+        "A": "friction",
+        "B": "attack a proposal",
+        "C": "gain momentum",
+        "D": "use up"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"friction\" is a Metaphor: ORGANISATIONS ARE MACHINES/BODIES chunk: a vivid ORGANISATIONS ARE MACHINES/BODIES metaphor for describing a team or company's capacity.\nExample: \"There's too much friction between sales and product on feature requests.\"\nSimilar chunks:\n- a lean team\n- bandwidth\n- healthy margins\n\n✗ \"attack a proposal\" belongs to Metaphor: ARGUMENT IS WAR — a vivid ARGUMENT IS WAR metaphor for debating or disagreeing, not a neutral discussion verb, not this context.\nSimilar chunks:\n- shoot down a proposal\n- win a point\n- common ground\n\n✗ \"gain momentum\" belongs to Workplace idioms: progress — a workplace idiom describing how a project is progressing, from starting out to stalling, not this context.\nSimilar chunks:\n- hit the ground running\n- in the pipeline\n- move the needle\n\n✗ \"use up\" belongs to Money & belongings phrasal verbs — an everyday phrasal verb describing spending, saving, or contributing money or resources, not this context.\nSimilar chunks:\n- pay off\n- save up\n- put by"
+    },
+    {
+      "id": 67,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe the start or end of an activity using an everyday phrasal verb instead of a formal single word like 'commence' or 'terminate'. Which chunk fits best?",
+      "options": {
+        "A": "call off",
+        "B": "safe and sound",
+        "C": "set up",
+        "D": "look down on"
+      },
+      "correct": "C",
+      "explanation": "✗ \"call off\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- head off\n- fall through\n- iron out\n\n✗ \"safe and sound\" belongs to Binomials: everyday frequency & condition — a fixed binomial expression, in a set word order, describing frequency, readiness, or condition, not this context.\nSimilar chunks:\n- part and parcel\n- ready and willing\n- here and there\n\n✓ Correct — \"set up\" is a Phrasal verbs: starting & finishing chunk: an everyday phrasal verb marking the start or end of an activity.\nExample: \"Can you set up a call with the vendor for tomorrow morning?\"\nSimilar chunks:\n- call it a day\n- wrap up\n- knock off\n\n✗ \"look down on\" belongs to Relationships phrasal verbs — an everyday phrasal verb describing how two people or teams relate to each other, not this context.\nSimilar chunks:\n- make up\n- get on (with)\n- look up to"
+    },
+    {
+      "id": 68,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe the start or end of an activity using an everyday phrasal verb instead of a formal single word like 'commence' or 'terminate'. Which chunk fits best?",
+      "options": {
+        "A": "perk up",
+        "B": "touch base",
+        "C": "call it a day",
+        "D": "spend time"
+      },
+      "correct": "C",
+      "explanation": "✗ \"perk up\" belongs to Mood phrasal verbs — an everyday phrasal verb describing a change in someone's mood, not this context.\nSimilar chunks:\n- chill out\n- calm down\n- cheer up\n\n✗ \"touch base\" belongs to Communication & follow-up phrasal verbs — an everyday workplace phrasal verb for following up, checking in, or including someone, not this context.\nSimilar chunks:\n- loop in\n- run something by someone\n- flag up\n\n✓ Correct — \"call it a day\" is a Phrasal verbs: starting & finishing chunk: an everyday phrasal verb marking the start or end of an activity.\nExample: \"It's past seven, let's call it a day and pick this up tomorrow.\"\nSimilar chunks:\n- knock off\n- set up\n- wrap up\n\n✗ \"spend time\" belongs to Metaphor: TIME IS MONEY — a vivid TIME IS MONEY metaphor for spending, saving, or wasting time as if it were money, not this context.\nSimilar chunks:\n- a costly delay\n- waste time\n- borrowed time"
+    },
+    {
+      "id": 69,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe the start or end of an activity using an everyday phrasal verb instead of a formal single word like 'commence' or 'terminate'. Which chunk fits best?",
+      "options": {
+        "A": "a doddle",
+        "B": "phase out",
+        "C": "wind up",
+        "D": "touch base"
+      },
+      "correct": "C",
+      "explanation": "✗ \"a doddle\" belongs to Everyday idioms: ease — a vivid everyday idiom describing how easy something is, not this context.\nSimilar chunks:\n- no sweat\n- plain sailing\n- a piece of cake\n\n✗ \"phase out\" belongs to Project-lifecycle phrasal verbs — an everyday phrasal verb describing a stage in a project's lifecycle, from starting to winding down, not this context.\nSimilar chunks:\n- roll out\n- scale back\n- carry out\n\n✓ Correct — \"wind up\" is a Phrasal verbs: starting & finishing chunk: an everyday phrasal verb marking the start or end of an activity.\nExample: \"The pilot program wound up early once we hit our target metrics.\"\nSimilar chunks:\n- take off\n- set up\n- wrap up\n\n✗ \"touch base\" belongs to Communication & follow-up phrasal verbs — an everyday workplace phrasal verb for following up, checking in, or including someone, not this context.\nSimilar chunks:\n- follow up\n- loop in\n- chase up"
+    },
+    {
+      "id": 70,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe continuing or stopping an activity using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "cut out",
+        "B": "the pros and cons",
+        "C": "call off",
+        "D": "roll out"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"cut out\" is a Phrasal verbs: continuing & stopping chunk: an everyday phrasal verb marking continuing or stopping an activity.\nExample: \"We cut out the extra approval step to speed up the process.\"\nSimilar chunks:\n- hang on\n- keep on\n- pack in\n\n✗ \"the pros and cons\" belongs to Binomials: overview expressions — a fixed binomial expression, in a set word order, used to give an overview of something's details or status, not this context.\nSimilar chunks:\n- bits and pieces\n- cut and dried\n- up and running\n\n✗ \"call off\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- back down\n- fall through\n- smooth over\n\n✗ \"roll out\" belongs to Project-lifecycle phrasal verbs — an everyday phrasal verb describing a stage in a project's lifecycle, from starting to winding down, not this context.\nSimilar chunks:\n- wind down\n- scale back\n- scale up"
+    },
+    {
+      "id": 71,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe continuing or stopping an activity using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "chill out",
+        "B": "snap out of it",
+        "C": "give up",
+        "D": "a detour"
+      },
+      "correct": "C",
+      "explanation": "✗ \"chill out\" belongs to Mood phrasal verbs — an everyday phrasal verb describing a change in someone's mood, not this context.\nSimilar chunks:\n- perk up\n- calm down\n- cheer up\n\n✗ \"snap out of it\" belongs to Mood phrasal verbs — an everyday phrasal verb describing a change in someone's mood, not this context.\nSimilar chunks:\n- chill out\n- calm down\n- cheer up\n\n✓ Correct — \"give up\" is a Phrasal verbs: continuing & stopping chunk: an everyday phrasal verb marking continuing or stopping an activity.\nExample: \"Don't give up on the integration yet, we're close.\"\nSimilar chunks:\n- carry on\n- cut out\n- hold on\n\n✗ \"a detour\" belongs to Metaphor: BUSINESS IS A JOURNEY — a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel, not this context.\nSimilar chunks:\n- steer\n- hit a roadblock\n- on track"
+    },
+    {
+      "id": 72,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe continuing or stopping an activity using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "point out",
+        "B": "a hard nut to crack",
+        "C": "take on",
+        "D": "go on"
+      },
+      "correct": "D",
+      "explanation": "✗ \"point out\" belongs to Figuring things out & outcomes phrasal verbs — an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out, not this context.\nSimilar chunks:\n- work out\n- bring up\n- end up\n\n✗ \"a hard nut to crack\" belongs to Everyday idioms: difficulty — a vivid everyday idiom describing how difficult something is, not this context.\nSimilar chunks:\n- a bit of a slog\n- easier said than done\n- an uphill struggle\n\n✗ \"take on\" belongs to Work-task phrasal verbs — an everyday phrasal verb describing assigning, transferring, or getting through work, not this context.\nSimilar chunks:\n- hand over\n- take over\n- get through\n\n✓ Correct — \"go on\" is a Phrasal verbs: continuing & stopping chunk: an everyday phrasal verb marking continuing or stopping an activity.\nExample: \"Go on, I didn't mean to interrupt.\"\nSimilar chunks:\n- cut out\n- give up\n- hold on"
+    },
+    {
+      "id": 73,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe continuing or stopping an activity using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "run something by someone",
+        "B": "hold on",
+        "C": "a bit of a slog",
+        "D": "easier said than done"
+      },
+      "correct": "B",
+      "explanation": "✗ \"run something by someone\" belongs to Communication & follow-up phrasal verbs — an everyday workplace phrasal verb for following up, checking in, or including someone, not this context.\nSimilar chunks:\n- loop in\n- sync up\n- flag up\n\n✓ Correct — \"hold on\" is a Phrasal verbs: continuing & stopping chunk: an everyday phrasal verb marking continuing or stopping an activity.\nExample: \"Hold on, let me pull up the numbers before we decide.\"\nSimilar chunks:\n- keep on\n- hang on\n- go on\n\n✗ \"a bit of a slog\" belongs to Everyday idioms: difficulty — a vivid everyday idiom describing how difficult something is, not this context.\nSimilar chunks:\n- an uphill struggle\n- a hard nut to crack\n- easier said than done\n\n✗ \"easier said than done\" belongs to Everyday idioms: difficulty — a vivid everyday idiom describing how difficult something is, not this context.\nSimilar chunks:\n- a bit of a slog\n- a hard nut to crack\n- an uphill struggle"
+    },
+    {
+      "id": 74,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe understanding or noticing something using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "pick up on",
+        "B": "cut out",
+        "C": "back to the drawing board",
+        "D": "pack in"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"pick up on\" is a Phrasal verbs: understanding & discovering (extra) chunk: an everyday phrasal verb for noticing or understanding something.\nExample: \"She picked up on the tension in the room before anyone said a word.\"\nSimilar chunks:\n- catch on\n- look up\n- make out\n\n✗ \"cut out\" belongs to Phrasal verbs: continuing & stopping — an everyday phrasal verb marking continuing or stopping an activity, not this context.\nSimilar chunks:\n- hold on\n- hang on\n- carry on\n\n✗ \"back to the drawing board\" belongs to Workplace idioms: progress — a workplace idiom describing how a project is progressing, from starting out to stalling, not this context.\nSimilar chunks:\n- get the ball rolling\n- hit the ground running\n- in the pipeline\n\n✗ \"pack in\" belongs to Phrasal verbs: continuing & stopping — an everyday phrasal verb marking continuing or stopping an activity, not this context.\nSimilar chunks:\n- give up\n- hold on\n- keep on"
+    },
+    {
+      "id": 75,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe understanding or noticing something using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "scale up",
+        "B": "a ballpark figure",
+        "C": "catch on",
+        "D": "come across"
+      },
+      "correct": "C",
+      "explanation": "✗ \"scale up\" belongs to Project-lifecycle phrasal verbs — an everyday phrasal verb describing a stage in a project's lifecycle, from starting to winding down, not this context.\nSimilar chunks:\n- ramp up\n- wind down\n- scale back\n\n✗ \"a ballpark figure\" belongs to Workplace idioms: rough estimation — a workplace idiom for giving a rough estimate or a high-level summary rather than exact detail, not this context.\nSimilar chunks:\n- a rule of thumb\n- at a high level\n- boil down to\n\n✓ Correct — \"catch on\" is a Phrasal verbs: understanding & discovering (extra) chunk: an everyday phrasal verb for noticing or understanding something.\nExample: \"It took the team a while to catch on to the new naming convention.\"\nSimilar chunks:\n- pick up on\n- look up\n- make out\n\n✗ \"come across\" belongs to Figuring things out & outcomes phrasal verbs — an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out, not this context.\nSimilar chunks:\n- turn out\n- bring up\n- sort out"
+    },
+    {
+      "id": 76,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how two people or teams get along, or don't, using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "hard work",
+        "B": "hang on",
+        "C": "follow through",
+        "D": "get on (with)"
+      },
+      "correct": "D",
+      "explanation": "✗ \"hard work\" belongs to Everyday idioms: describing people — a vivid everyday idiom describing someone's character, not this context.\nSimilar chunks:\n- full of himself\n- a live wire\n- a safe pair of hands\n\n✗ \"hang on\" belongs to Phrasal verbs: continuing & stopping — an everyday phrasal verb marking continuing or stopping an activity, not this context.\nSimilar chunks:\n- pack in\n- keep on\n- carry on\n\n✗ \"follow through\" belongs to Project-lifecycle phrasal verbs — an everyday phrasal verb describing a stage in a project's lifecycle, from starting to winding down, not this context.\nSimilar chunks:\n- ramp up\n- wind down\n- scale back\n\n✓ Correct — \"get on (with)\" is a Relationships phrasal verbs chunk: an everyday phrasal verb describing how two people or teams relate to each other.\nExample: \"The new hire gets on really well with the design team.\"\nSimilar chunks:\n- make up\n- fall out (with)\n- look up to"
+    },
+    {
+      "id": 77,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how two people or teams get along, or don't, using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "look up to",
+        "B": "look into",
+        "C": "wrap up",
+        "D": "put up with"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"look up to\" is a Relationships phrasal verbs chunk: an everyday phrasal verb describing how two people or teams relate to each other.\nExample: \"Junior engineers really look up to her technical judgment.\"\nSimilar chunks:\n- fall out (with)\n- make up\n- get on (with)\n\n✗ \"look into\" belongs to Handling tasks & objects phrasal verbs — an everyday phrasal verb for investigating, reviewing, or physically handling something, not this context.\nSimilar chunks:\n- go over\n- check in\n- drop off\n\n✗ \"wrap up\" belongs to Phrasal verbs: starting & finishing — an everyday phrasal verb marking the start or end of an activity, not this context.\nSimilar chunks:\n- set up\n- call it a day\n- wind up\n\n✗ \"put up with\" belongs to Coping, waiting & catching up phrasal verbs — an everyday phrasal verb for coping with, evading, or catching up on something, not a formal Latinate verb, not this context.\nSimilar chunks:\n- get away with\n- catch up on\n- run out of"
+    },
+    {
+      "id": 78,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a problem appearing or being resolved using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "drop off",
+        "B": "come up",
+        "C": "back down",
+        "D": "calm down"
+      },
+      "correct": "B",
+      "explanation": "✗ \"drop off\" belongs to Handling tasks & objects phrasal verbs — an everyday phrasal verb for investigating, reviewing, or physically handling something, not this context.\nSimilar chunks:\n- deal with\n- run by\n- pick up\n\n✓ Correct — \"come up\" is a Problems arising & resolving phrasal verbs chunk: an everyday phrasal verb describing a problem appearing or being resolved.\nExample: \"A scheduling conflict came up right before the client call.\"\nSimilar chunks:\n- blow up\n- blow over\n- patch up\n\n✗ \"back down\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- push back\n- iron out\n- hold up\n\n✗ \"calm down\" belongs to Mood phrasal verbs — an everyday phrasal verb describing a change in someone's mood, not this context.\nSimilar chunks:\n- chill out\n- perk up\n- cheer up"
+    },
+    {
+      "id": 79,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a problem appearing or being resolved using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "grasp an idea",
+        "B": "a moving target",
+        "C": "blow over",
+        "D": "an indefensible position"
+      },
+      "correct": "C",
+      "explanation": "✗ \"grasp an idea\" belongs to Metaphor: IDEAS ARE OBJECTS — a vivid IDEAS ARE OBJECTS metaphor for handling or communicating an idea as if it were a physical thing, not this context.\nSimilar chunks:\n- get an idea across\n- put forward an idea\n- unpack a concept\n\n✗ \"a moving target\" belongs to Workplace idioms: naming a problem — a workplace idiom for naming a difficult, awkward, or unresolved problem, not this context.\nSimilar chunks:\n- a double-edged sword\n- a can of worms\n- a bottleneck\n\n✓ Correct — \"blow over\" is a Problems arising & resolving phrasal verbs chunk: an everyday phrasal verb describing a problem appearing or being resolved.\nExample: \"Give it a day, this will blow over once we send the apology email.\"\nSimilar chunks:\n- clear up\n- come up\n- patch up\n\n✗ \"an indefensible position\" belongs to Metaphor: ARGUMENT IS WAR — a vivid ARGUMENT IS WAR metaphor for debating or disagreeing, not a neutral discussion verb, not this context.\nSimilar chunks:\n- defend a proposal\n- attack a proposal\n- shoot down a proposal"
+    },
+    {
+      "id": 80,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a problem appearing or being resolved using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "make out",
+        "B": "healthy margins",
+        "C": "tried and tested",
+        "D": "clear up"
+      },
+      "correct": "D",
+      "explanation": "✗ \"make out\" belongs to Phrasal verbs: understanding & discovering (extra) — an everyday phrasal verb for noticing or understanding something, not this context.\nSimilar chunks:\n- look up\n- pick up on\n- catch on\n\n✗ \"healthy margins\" belongs to Metaphor: ORGANISATIONS ARE MACHINES/BODIES — a vivid ORGANISATIONS ARE MACHINES/BODIES metaphor for describing a team or company's capacity, not this context.\nSimilar chunks:\n- a lean team\n- friction\n- capacity\n\n✗ \"tried and tested\" belongs to Binomials: overview expressions — a fixed binomial expression, in a set word order, used to give an overview of something's details or status, not this context.\nSimilar chunks:\n- bits and pieces\n- up and running\n- cut and dried\n\n✓ Correct — \"clear up\" is a Problems arising & resolving phrasal verbs chunk: an everyday phrasal verb describing a problem appearing or being resolved.\nExample: \"Let's clear up the confusion about who owns this ticket.\"\nSimilar chunks:\n- blow up\n- crop up\n- blow over"
+    },
+    {
+      "id": 81,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe someone arriving, leaving, or visiting using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "head off",
+        "B": "trial and error",
+        "C": "look forward to",
+        "D": "a costly delay"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"head off\" is a People coming & going phrasal verbs chunk: an everyday phrasal verb describing someone arriving, leaving, or visiting.\nExample: \"I need to head off early to catch my flight.\"\nSimilar chunks:\n- drop by\n- pop round\n- drop in\n\n✗ \"trial and error\" belongs to Binomials: workplace — a fixed workplace binomial expression, in a set word order, describing a standard business concept, not this context.\nSimilar chunks:\n- terms and conditions\n- all things considered\n- rules and regulations\n\n✗ \"look forward to\" belongs to Coping, waiting & catching up phrasal verbs — an everyday phrasal verb for coping with, evading, or catching up on something, not a formal Latinate verb, not this context.\nSimilar chunks:\n- run out of\n- get round to\n- put up with\n\n✗ \"a costly delay\" belongs to Metaphor: TIME IS MONEY — a vivid TIME IS MONEY metaphor for spending, saving, or wasting time as if it were money, not this context.\nSimilar chunks:\n- save time\n- invest hours\n- waste time"
+    },
+    {
+      "id": 82,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe someone arriving, leaving, or visiting using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "fall through",
+        "B": "turn up",
+        "C": "crop up",
+        "D": "just my luck"
+      },
+      "correct": "B",
+      "explanation": "✗ \"fall through\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- smooth over\n- head off\n- call off\n\n✓ Correct — \"turn up\" is a People coming & going phrasal verbs chunk: an everyday phrasal verb describing someone arriving, leaving, or visiting.\nExample: \"Half the invitees didn't turn up to the workshop.\"\nSimilar chunks:\n- head off\n- drop by\n- pop round\n\n✗ \"crop up\" belongs to Problems arising & resolving phrasal verbs — an everyday phrasal verb describing a problem appearing or being resolved, not this context.\nSimilar chunks:\n- blow up\n- patch up\n- come up\n\n✗ \"just my luck\" belongs to Everyday idioms: luck — a fixed everyday idiom for talking about luck casually, not this context.\nSimilar chunks:\n- fingers crossed\n- touch wood\n- the luck of the draw"
+    },
+    {
+      "id": 83,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe someone arriving, leaving, or visiting using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "common ground",
+        "B": "the pros and cons",
+        "C": "terms and conditions",
+        "D": "drop in"
+      },
+      "correct": "D",
+      "explanation": "✗ \"common ground\" belongs to Metaphor: ARGUMENT IS WAR — a vivid ARGUMENT IS WAR metaphor for debating or disagreeing, not a neutral discussion verb, not this context.\nSimilar chunks:\n- shoot down a proposal\n- attack a proposal\n- defend a proposal\n\n✗ \"the pros and cons\" belongs to Binomials: overview expressions — a fixed binomial expression, in a set word order, used to give an overview of something's details or status, not this context.\nSimilar chunks:\n- tried and tested\n- cut and dried\n- bits and pieces\n\n✗ \"terms and conditions\" belongs to Binomials: workplace — a fixed workplace binomial expression, in a set word order, describing a standard business concept, not this context.\nSimilar chunks:\n- rules and regulations\n- time and effort\n- supply and demand\n\n✓ Correct — \"drop in\" is a People coming & going phrasal verbs chunk: an everyday phrasal verb describing someone arriving, leaving, or visiting.\nExample: \"Feel free to drop in if you're in the area next week.\"\nSimilar chunks:\n- drop by\n- turn up\n- head off"
+    },
+    {
+      "id": 84,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe spending, saving, or contributing money or resources using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "run something by someone",
+        "B": "splash out",
+        "C": "look up to",
+        "D": "wind up"
+      },
+      "correct": "B",
+      "explanation": "✗ \"run something by someone\" belongs to Communication & follow-up phrasal verbs — an everyday workplace phrasal verb for following up, checking in, or including someone, not this context.\nSimilar chunks:\n- flag up\n- sync up\n- follow up\n\n✓ Correct — \"splash out\" is a Money & belongings phrasal verbs chunk: an everyday phrasal verb describing spending, saving, or contributing money or resources.\nExample: \"The team splashed out on a nicer venue for the offsite this year.\"\nSimilar chunks:\n- pay off\n- save up\n- put by\n\n✗ \"look up to\" belongs to Relationships phrasal verbs — an everyday phrasal verb describing how two people or teams relate to each other, not this context.\nSimilar chunks:\n- fall out (with)\n- get on (with)\n- make up\n\n✗ \"wind up\" belongs to Phrasal verbs: starting & finishing — an everyday phrasal verb marking the start or end of an activity, not this context.\nSimilar chunks:\n- knock off\n- take off\n- wrap up"
+    },
+    {
+      "id": 85,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe spending, saving, or contributing money or resources using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "the last straw",
+        "B": "chip in",
+        "C": "the path forward",
+        "D": "brief up"
+      },
+      "correct": "B",
+      "explanation": "✗ \"the last straw\" belongs to Everyday idioms: situations — a vivid everyday idiom describing a general situation, not this context.\nSimilar chunks:\n- a blessing in disguise\n- in the same boat\n- out of the blue\n\n✓ Correct — \"chip in\" is a Money & belongings phrasal verbs chunk: an everyday phrasal verb describing spending, saving, or contributing money or resources.\nExample: \"Everyone chipped in a few ideas during the brainstorm.\"\nSimilar chunks:\n- pay off\n- use up\n- save up\n\n✗ \"the path forward\" belongs to Metaphor: BUSINESS IS A JOURNEY — a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel, not this context.\nSimilar chunks:\n- a detour\n- on track\n- steer\n\n✗ \"brief up\" belongs to Information phrasal verbs — an everyday phrasal verb describing communicating information to someone, not this context.\nSimilar chunks:\n- fill in\n- put across"
+    },
+    {
+      "id": 86,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe spending, saving, or contributing money or resources using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "pay off",
+        "B": "ramp up",
+        "C": "get through",
+        "D": "a moving target"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"pay off\" is a Money & belongings phrasal verbs chunk: an everyday phrasal verb describing spending, saving, or contributing money or resources.\nExample: \"The investment in automated testing really paid off during this release.\"\nSimilar chunks:\n- splash out\n- save up\n- use up\n\n✗ \"ramp up\" belongs to Project-lifecycle phrasal verbs — an everyday phrasal verb describing a stage in a project's lifecycle, from starting to winding down, not this context.\nSimilar chunks:\n- kick off\n- roll out\n- wind down\n\n✗ \"get through\" belongs to Work-task phrasal verbs — an everyday phrasal verb describing assigning, transferring, or getting through work, not this context.\nSimilar chunks:\n- hand over\n- catch up\n- hand in\n\n✗ \"a moving target\" belongs to Workplace idioms: naming a problem — a workplace idiom for naming a difficult, awkward, or unresolved problem, not this context.\nSimilar chunks:\n- the elephant in the room\n- a double-edged sword\n- a stopgap"
+    },
+    {
+      "id": 87,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe someone's emotional state changing using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "unpack a concept",
+        "B": "make out",
+        "C": "put by",
+        "D": "calm down"
+      },
+      "correct": "D",
+      "explanation": "✗ \"unpack a concept\" belongs to Metaphor: IDEAS ARE OBJECTS — a vivid IDEAS ARE OBJECTS metaphor for handling or communicating an idea as if it were a physical thing, not this context.\nSimilar chunks:\n- get an idea across\n- a half-baked idea\n- grasp an idea\n\n✗ \"make out\" belongs to Phrasal verbs: understanding & discovering (extra) — an everyday phrasal verb for noticing or understanding something, not this context.\nSimilar chunks:\n- pick up on\n- look up\n- catch on\n\n✗ \"put by\" belongs to Money & belongings phrasal verbs — an everyday phrasal verb describing spending, saving, or contributing money or resources, not this context.\nSimilar chunks:\n- use up\n- pay off\n- splash out\n\n✓ Correct — \"calm down\" is a Mood phrasal verbs chunk: an everyday phrasal verb describing a change in someone's mood.\nExample: \"Let's all calm down before we respond to the client.\"\nSimilar chunks:\n- perk up\n- chill out\n- snap out of it"
+    },
+    {
+      "id": 88,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe someone's emotional state changing using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "make up",
+        "B": "call off",
+        "C": "back and forth",
+        "D": "chill out"
+      },
+      "correct": "D",
+      "explanation": "✗ \"make up\" belongs to Relationships phrasal verbs — an everyday phrasal verb describing how two people or teams relate to each other, not this context.\nSimilar chunks:\n- fall out (with)\n- look down on\n- look up to\n\n✗ \"call off\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- head off\n- push back\n- put off\n\n✗ \"back and forth\" belongs to Binomials: pace & degree — a fixed binomial expression, in a set word order that native speakers never reverse, describing pace or degree, not this context.\nSimilar chunks:\n- sink or swim\n- sooner or later\n- by and large\n\n✓ Correct — \"chill out\" is a Mood phrasal verbs chunk: an everyday phrasal verb describing a change in someone's mood.\nExample: \"You can chill out, the backup actually worked.\"\nSimilar chunks:\n- perk up\n- cheer up\n- snap out of it"
+    },
+    {
+      "id": 89,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe assigning, transferring, or getting through work using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "hang on",
+        "B": "call off",
+        "C": "a hard nut to crack",
+        "D": "get through"
+      },
+      "correct": "D",
+      "explanation": "✗ \"hang on\" belongs to Phrasal verbs: continuing & stopping — an everyday phrasal verb marking continuing or stopping an activity, not this context.\nSimilar chunks:\n- keep on\n- carry on\n- hold on\n\n✗ \"call off\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- fall through\n- iron out\n- put off\n\n✗ \"a hard nut to crack\" belongs to Everyday idioms: difficulty — a vivid everyday idiom describing how difficult something is, not this context.\nSimilar chunks:\n- a bit of a slog\n- an uphill struggle\n- easier said than done\n\n✓ Correct — \"get through\" is a Work-task phrasal verbs chunk: an everyday phrasal verb describing assigning, transferring, or getting through work.\nExample: \"We managed to get through the whole backlog before the sprint ended.\"\nSimilar chunks:\n- take over\n- take on\n- catch up"
+    },
+    {
+      "id": 90,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe assigning, transferring, or getting through work using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "catch up",
+        "B": "circle back",
+        "C": "back and forth",
+        "D": "hit the ground running"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"catch up\" is a Work-task phrasal verbs chunk: an everyday phrasal verb describing assigning, transferring, or getting through work.\nExample: \"I need an hour to catch up on emails after the offsite.\"\nSimilar chunks:\n- take over\n- take on\n- get through\n\n✗ \"circle back\" belongs to Communication & follow-up phrasal verbs — an everyday workplace phrasal verb for following up, checking in, or including someone, not this context.\nSimilar chunks:\n- follow up\n- loop in\n- touch base\n\n✗ \"back and forth\" belongs to Binomials: pace & degree — a fixed binomial expression, in a set word order that native speakers never reverse, describing pace or degree, not this context.\nSimilar chunks:\n- sooner or later\n- by and large\n- more or less\n\n✗ \"hit the ground running\" belongs to Workplace idioms: progress — a workplace idiom describing how a project is progressing, from starting out to stalling, not this context.\nSimilar chunks:\n- move the needle\n- get the ball rolling\n- back to the drawing board"
+    },
+    {
+      "id": 91,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe assigning, transferring, or getting through work using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "hand over",
+        "B": "rules and regulations",
+        "C": "head off",
+        "D": "at a guess"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"hand over\" is a Work-task phrasal verbs chunk: an everyday phrasal verb describing assigning, transferring, or getting through work.\nExample: \"Make sure you hand over your open tickets before you go.\"\nSimilar chunks:\n- get through\n- take over\n- hand in\n\n✗ \"rules and regulations\" belongs to Binomials: workplace — a fixed workplace binomial expression, in a set word order, describing a standard business concept, not this context.\nSimilar chunks:\n- time and effort\n- supply and demand\n- terms and conditions\n\n✗ \"head off\" belongs to People coming & going phrasal verbs — an everyday phrasal verb describing someone arriving, leaving, or visiting, not this context.\nSimilar chunks:\n- pop round\n- stop by\n- turn up\n\n✗ \"at a guess\" belongs to Everyday idioms: giving opinions informally — a fixed everyday idiom for giving a casual, informal opinion, not this context.\nSimilar chunks:\n- if you ask me\n- off the record\n- to be honest with you"
+    },
+    {
+      "id": 92,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe communicating information to someone using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "put across",
+        "B": "down to earth",
+        "C": "touch wood",
+        "D": "trial and error"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"put across\" is an Information phrasal verbs chunk: an everyday phrasal verb describing communicating information to someone.\nExample: \"He struggled to put his point across without sounding dismissive.\"\nSimilar chunks:\n- brief up\n- fill in\n\n✗ \"down to earth\" belongs to Everyday idioms: describing people — a vivid everyday idiom describing someone's character, not this context.\nSimilar chunks:\n- a safe pair of hands\n- full of himself\n- hard work\n\n✗ \"touch wood\" belongs to Everyday idioms: luck — a fixed everyday idiom for talking about luck casually, not this context.\nSimilar chunks:\n- fingers crossed\n- the luck of the draw\n- just my luck\n\n✗ \"trial and error\" belongs to Binomials: workplace — a fixed workplace binomial expression, in a set word order, describing a standard business concept, not this context.\nSimilar chunks:\n- terms and conditions\n- profit and loss\n- supply and demand"
+    },
+    {
+      "id": 93,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe communicating information to someone using an everyday phrasal verb. Which chunk fits best?",
+      "options": {
+        "A": "wind up",
+        "B": "a stopgap",
+        "C": "fill in",
+        "D": "more or less"
+      },
+      "correct": "C",
+      "explanation": "✗ \"wind up\" belongs to Phrasal verbs: starting & finishing — an everyday phrasal verb marking the start or end of an activity, not this context.\nSimilar chunks:\n- call it a day\n- take off\n- set off\n\n✗ \"a stopgap\" belongs to Workplace idioms: naming a problem — a workplace idiom for naming a difficult, awkward, or unresolved problem, not this context.\nSimilar chunks:\n- a bottleneck\n- a double-edged sword\n- a can of worms\n\n✓ Correct — \"fill in\" is an Information phrasal verbs chunk: an everyday phrasal verb describing communicating information to someone.\nExample: \"Can you fill me in on what happened while I was out?\"\nSimilar chunks:\n- brief up\n- put across\n\n✗ \"more or less\" belongs to Binomials: pace & degree — a fixed binomial expression, in a set word order that native speakers never reverse, describing pace or degree, not this context.\nSimilar chunks:\n- sooner or later\n- by and large\n- sink or swim"
+    },
+    {
+      "id": 94,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe timing casually, the way a native speaker would in relaxed conversation, using a fixed idiom rather than a plain phrase. Which chunk fits best?",
+      "options": {
+        "A": "blow over",
+        "B": "weigh up",
+        "C": "point out",
+        "D": "in the long run"
+      },
+      "correct": "D",
+      "explanation": "✗ \"blow over\" belongs to Problems arising & resolving phrasal verbs — an everyday phrasal verb describing a problem appearing or being resolved, not this context.\nSimilar chunks:\n- blow up\n- patch up\n- come up\n\n✗ \"weigh up\" belongs to Decision-making phrasal verbs — an everyday workplace phrasal verb for narrowing down, weighing, or finalizing a decision, not this context.\nSimilar chunks:\n- settle on\n- narrow down\n- go ahead with\n\n✗ \"point out\" belongs to Figuring things out & outcomes phrasal verbs — an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out, not this context.\nSimilar chunks:\n- work out\n- come across\n- turn out\n\n✓ Correct — \"in the long run\" is an Everyday idioms: time chunk: a fixed everyday idiom for talking about timing casually.\nExample: \"It'll cost more now, but it'll pay off in the long run.\"\nSimilar chunks:\n- any day now\n- at the end of the day\n- sooner rather than later"
+    },
+    {
+      "id": 95,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe timing casually, the way a native speaker would in relaxed conversation, using a fixed idiom rather than a plain phrase. Which chunk fits best?",
+      "options": {
+        "A": "scale back",
+        "B": "sooner rather than later",
+        "C": "push back",
+        "D": "cut and dried"
+      },
+      "correct": "B",
+      "explanation": "✗ \"scale back\" belongs to Project-lifecycle phrasal verbs — an everyday phrasal verb describing a stage in a project's lifecycle, from starting to winding down, not this context.\nSimilar chunks:\n- roll out\n- scale up\n- kick off\n\n✓ Correct — \"sooner rather than later\" is an Everyday idioms: time chunk: a fixed everyday idiom for talking about timing casually.\nExample: \"We should fix this sooner rather than later, before it affects more users.\"\nSimilar chunks:\n- any day now\n- in the long run\n- at the end of the day\n\n✗ \"push back\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- call off\n- fall through\n- put off\n\n✗ \"cut and dried\" belongs to Binomials: overview expressions — a fixed binomial expression, in a set word order, used to give an overview of something's details or status, not this context.\nSimilar chunks:\n- the pros and cons\n- up and running\n- bits and pieces"
+    },
+    {
+      "id": 96,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to talk about luck casually, using a fixed idiom rather than a plain statement. Which chunk fits best?",
+      "options": {
+        "A": "the luck of the draw",
+        "B": "find out",
+        "C": "bite the bullet",
+        "D": "tried and tested"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"the luck of the draw\" is an Everyday idioms: luck chunk: a fixed everyday idiom for talking about luck casually.\nExample: \"Getting a supportive manager on your first project is really the luck of the draw.\"\nSimilar chunks:\n- fingers crossed\n- just my luck\n- touch wood\n\n✗ \"find out\" belongs to Figuring things out & outcomes phrasal verbs — an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out, not this context.\nSimilar chunks:\n- end up\n- come across\n- bring up\n\n✗ \"bite the bullet\" belongs to Workplace idioms: decisions & tradeoffs — a workplace idiom describing a difficult decision, a tradeoff, or getting people aligned, not this context.\nSimilar chunks:\n- on the same page\n- cut corners\n- low-hanging fruit\n\n✗ \"tried and tested\" belongs to Binomials: overview expressions — a fixed binomial expression, in a set word order, used to give an overview of something's details or status, not this context.\nSimilar chunks:\n- up and running\n- bits and pieces\n- cut and dried"
+    },
+    {
+      "id": 97,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to talk about luck casually, using a fixed idiom rather than a plain statement. Which chunk fits best?",
+      "options": {
+        "A": "common ground",
+        "B": "just my luck",
+        "C": "the pros and cons",
+        "D": "iron out"
+      },
+      "correct": "B",
+      "explanation": "✗ \"common ground\" belongs to Metaphor: ARGUMENT IS WAR — a vivid ARGUMENT IS WAR metaphor for debating or disagreeing, not a neutral discussion verb, not this context.\nSimilar chunks:\n- attack a proposal\n- shoot down a proposal\n- defend a proposal\n\n✓ Correct — \"just my luck\" is an Everyday idioms: luck chunk: a fixed everyday idiom for talking about luck casually.\nExample: \"Just my luck, the server crashed the one day I was on call.\"\nSimilar chunks:\n- fingers crossed\n- touch wood\n- the luck of the draw\n\n✗ \"the pros and cons\" belongs to Binomials: overview expressions — a fixed binomial expression, in a set word order, used to give an overview of something's details or status, not this context.\nSimilar chunks:\n- tried and tested\n- bits and pieces\n- the ins and outs\n\n✗ \"iron out\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- head off\n- smooth over\n- push back"
+    },
+    {
+      "id": 98,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how difficult something is, using a vivid idiom instead of a plain word like 'hard'. Which chunk fits best?",
+      "options": {
+        "A": "catch on",
+        "B": "the elephant in the room",
+        "C": "easier said than done",
+        "D": "spend time"
+      },
+      "correct": "C",
+      "explanation": "✗ \"catch on\" belongs to Phrasal verbs: understanding & discovering (extra) — an everyday phrasal verb for noticing or understanding something, not this context.\nSimilar chunks:\n- pick up on\n- look up\n- make out\n\n✗ \"the elephant in the room\" belongs to Workplace idioms: naming a problem — a workplace idiom for naming a difficult, awkward, or unresolved problem, not this context.\nSimilar chunks:\n- a can of worms\n- a stopgap\n- a bottleneck\n\n✓ Correct — \"easier said than done\" is an Everyday idioms: difficulty chunk: a vivid everyday idiom describing how difficult something is.\nExample: \"Simplifying the onboarding sounds great, but it's easier said than done.\"\nSimilar chunks:\n- a bit of a slog\n- an uphill struggle\n- a hard nut to crack\n\n✗ \"spend time\" belongs to Metaphor: TIME IS MONEY — a vivid TIME IS MONEY metaphor for spending, saving, or wasting time as if it were money, not this context.\nSimilar chunks:\n- waste time\n- budget time\n- a costly delay"
+    },
+    {
+      "id": 99,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how difficult something is, using a vivid idiom instead of a plain word like 'hard'. Which chunk fits best?",
+      "options": {
+        "A": "chip in",
+        "B": "run out of",
+        "C": "an uphill struggle",
+        "D": "a stopgap"
+      },
+      "correct": "C",
+      "explanation": "✗ \"chip in\" belongs to Money & belongings phrasal verbs — an everyday phrasal verb describing spending, saving, or contributing money or resources, not this context.\nSimilar chunks:\n- use up\n- put by\n- save up\n\n✗ \"run out of\" belongs to Coping, waiting & catching up phrasal verbs — an everyday phrasal verb for coping with, evading, or catching up on something, not a formal Latinate verb, not this context.\nSimilar chunks:\n- look forward to\n- get away with\n- come up with\n\n✓ Correct — \"an uphill struggle\" is an Everyday idioms: difficulty chunk: a vivid everyday idiom describing how difficult something is.\nExample: \"Getting sign-off from three departments has been an uphill struggle.\"\nSimilar chunks:\n- easier said than done\n- a bit of a slog\n- a hard nut to crack\n\n✗ \"a stopgap\" belongs to Workplace idioms: naming a problem — a workplace idiom for naming a difficult, awkward, or unresolved problem, not this context.\nSimilar chunks:\n- the elephant in the room\n- a can of worms\n- a moving target"
+    },
+    {
+      "id": 100,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how easy something is, using a vivid idiom instead of a plain word like 'easy'. Which chunk fits best?",
+      "options": {
+        "A": "the ins and outs",
+        "B": "move the needle",
+        "C": "up and running",
+        "D": "plain sailing"
+      },
+      "correct": "D",
+      "explanation": "✗ \"the ins and outs\" belongs to Binomials: overview expressions — a fixed binomial expression, in a set word order, used to give an overview of something's details or status, not this context.\nSimilar chunks:\n- up and running\n- the pros and cons\n- bits and pieces\n\n✗ \"move the needle\" belongs to Workplace idioms: progress — a workplace idiom describing how a project is progressing, from starting out to stalling, not this context.\nSimilar chunks:\n- hit the ground running\n- get the ball rolling\n- back to the drawing board\n\n✗ \"up and running\" belongs to Binomials: overview expressions — a fixed binomial expression, in a set word order, used to give an overview of something's details or status, not this context.\nSimilar chunks:\n- the pros and cons\n- the ins and outs\n- cut and dried\n\n✓ Correct — \"plain sailing\" is an Everyday idioms: ease chunk: a vivid everyday idiom describing how easy something is.\nExample: \"After the first rocky week, the rest of the rollout was plain sailing.\"\nSimilar chunks:\n- a piece of cake\n- a doddle\n- no sweat"
+    },
+    {
+      "id": 101,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe how easy something is, using a vivid idiom instead of a plain word like 'easy'. Which chunk fits best?",
+      "options": {
+        "A": "touch base",
+        "B": "look forward to",
+        "C": "find out",
+        "D": "a piece of cake"
+      },
+      "correct": "D",
+      "explanation": "✗ \"touch base\" belongs to Communication & follow-up phrasal verbs — an everyday workplace phrasal verb for following up, checking in, or including someone, not this context.\nSimilar chunks:\n- chase up\n- circle back\n- sync up\n\n✗ \"look forward to\" belongs to Coping, waiting & catching up phrasal verbs — an everyday phrasal verb for coping with, evading, or catching up on something, not a formal Latinate verb, not this context.\nSimilar chunks:\n- run out of\n- get away with\n- catch up on\n\n✗ \"find out\" belongs to Figuring things out & outcomes phrasal verbs — an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out, not this context.\nSimilar chunks:\n- figure out\n- come across\n- turn out\n\n✓ Correct — \"a piece of cake\" is an Everyday idioms: ease chunk: a vivid everyday idiom describing how easy something is.\nExample: \"Compared to last quarter's migration, this one's a piece of cake.\"\nSimilar chunks:\n- a doddle\n- plain sailing\n- no sweat"
+    },
+    {
+      "id": 102,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a general situation vividly, using a fixed idiom instead of a plain description. Which chunk fits best?",
+      "options": {
+        "A": "out of the blue",
+        "B": "sort out",
+        "C": "flag up",
+        "D": "head off"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"out of the blue\" is an Everyday idioms: situations chunk: a vivid everyday idiom describing a general situation.\nExample: \"The vendor cancelled the contract completely out of the blue.\"\nSimilar chunks:\n- a blessing in disguise\n- in the same boat\n- the last straw\n\n✗ \"sort out\" belongs to Figuring things out & outcomes phrasal verbs — an everyday phrasal verb for figuring something out, discovering it, or describing how it turned out, not this context.\nSimilar chunks:\n- end up\n- figure out\n- come across\n\n✗ \"flag up\" belongs to Communication & follow-up phrasal verbs — an everyday workplace phrasal verb for following up, checking in, or including someone, not this context.\nSimilar chunks:\n- follow up\n- loop in\n- sync up\n\n✗ \"head off\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- fall through\n- iron out\n- put off"
+    },
+    {
+      "id": 103,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe a general situation vividly, using a fixed idiom instead of a plain description. Which chunk fits best?",
+      "options": {
+        "A": "a detour",
+        "B": "in the same boat",
+        "C": "run by",
+        "D": "a moving target"
+      },
+      "correct": "B",
+      "explanation": "✗ \"a detour\" belongs to Metaphor: BUSINESS IS A JOURNEY — a vivid BUSINESS IS A JOURNEY metaphor for describing project progress as if it were travel, not this context.\nSimilar chunks:\n- the path forward\n- hit a roadblock\n- on track\n\n✓ Correct — \"in the same boat\" is an Everyday idioms: situations chunk: a vivid everyday idiom describing a general situation.\nExample: \"Every team missed their Q1 targets, so we're all in the same boat.\"\nSimilar chunks:\n- out of the blue\n- a blessing in disguise\n- the last straw\n\n✗ \"run by\" belongs to Handling tasks & objects phrasal verbs — an everyday phrasal verb for investigating, reviewing, or physically handling something, not this context.\nSimilar chunks:\n- check in\n- deal with\n- look into\n\n✗ \"a moving target\" belongs to Workplace idioms: naming a problem — a workplace idiom for naming a difficult, awkward, or unresolved problem, not this context.\nSimilar chunks:\n- the elephant in the room\n- a bottleneck\n- a can of worms"
+    },
+    {
+      "id": 104,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe someone's character vividly, using a fixed idiom instead of a plain adjective. Which chunk fits best?",
+      "options": {
+        "A": "ahead of the curve",
+        "B": "pack in",
+        "C": "hand in",
+        "D": "down to earth"
+      },
+      "correct": "D",
+      "explanation": "✗ \"ahead of the curve\" belongs to Workplace idioms: general business praise — a workplace idiom used to praise a strong result, idea, or advantage, not this context.\nSimilar chunks:\n- a win-win\n- raise the bar\n- think outside the box\n\n✗ \"pack in\" belongs to Phrasal verbs: continuing & stopping — an everyday phrasal verb marking continuing or stopping an activity, not this context.\nSimilar chunks:\n- give up\n- hold on\n- go on\n\n✗ \"hand in\" belongs to Work-task phrasal verbs — an everyday phrasal verb describing assigning, transferring, or getting through work, not this context.\nSimilar chunks:\n- catch up\n- get through\n- hand over\n\n✓ Correct — \"down to earth\" is an Everyday idioms: describing people chunk: a vivid everyday idiom describing someone's character.\nExample: \"The new CEO is surprisingly down to earth for someone at that level.\"\nSimilar chunks:\n- a safe pair of hands\n- a live wire\n- full of himself"
+    },
+    {
+      "id": 105,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to describe someone's character vividly, using a fixed idiom instead of a plain adjective. Which chunk fits best?",
+      "options": {
+        "A": "up and running",
+        "B": "full of himself",
+        "C": "a blessing in disguise",
+        "D": "a game changer"
+      },
+      "correct": "B",
+      "explanation": "✗ \"up and running\" belongs to Binomials: overview expressions — a fixed binomial expression, in a set word order, used to give an overview of something's details or status, not this context.\nSimilar chunks:\n- the ins and outs\n- bits and pieces\n- tried and tested\n\n✓ Correct — \"full of himself\" is an Everyday idioms: describing people chunk: a vivid everyday idiom describing someone's character.\nExample: \"He's talented, but he can come across as a bit full of himself.\"\nSimilar chunks:\n- down to earth\n- a safe pair of hands\n- hard work\n\n✗ \"a blessing in disguise\" belongs to Everyday idioms: situations — a vivid everyday idiom describing a general situation, not this context.\nSimilar chunks:\n- out of the blue\n- the last straw\n- in the same boat\n\n✗ \"a game changer\" belongs to Workplace idioms: general business praise — a workplace idiom used to praise a strong result, idea, or advantage, not this context.\nSimilar chunks:\n- ahead of the curve\n- raise the bar\n- think outside the box"
+    },
+    {
+      "id": 106,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a casual, informal opinion using a fixed idiom instead of a plain 'I think'. Which chunk fits best?",
+      "options": {
+        "A": "shoot down a proposal",
+        "B": "at a guess",
+        "C": "sync up",
+        "D": "call off"
+      },
+      "correct": "B",
+      "explanation": "✗ \"shoot down a proposal\" belongs to Metaphor: ARGUMENT IS WAR — a vivid ARGUMENT IS WAR metaphor for debating or disagreeing, not a neutral discussion verb, not this context.\nSimilar chunks:\n- attack a proposal\n- win a point\n- an indefensible position\n\n✓ Correct — \"at a guess\" is an Everyday idioms: giving opinions informally chunk: a fixed everyday idiom for giving a casual, informal opinion.\nExample: \"At a guess, I'd say we're about two weeks behind.\"\nSimilar chunks:\n- to be honest with you\n- off the record\n- if you ask me\n\n✗ \"sync up\" belongs to Communication & follow-up phrasal verbs — an everyday workplace phrasal verb for following up, checking in, or including someone, not this context.\nSimilar chunks:\n- touch base\n- loop in\n- chase up\n\n✗ \"call off\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- head off\n- hold up\n- put off"
+    },
+    {
+      "id": 107,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to give a casual, informal opinion using a fixed idiom instead of a plain 'I think'. Which chunk fits best?",
+      "options": {
+        "A": "to be honest with you",
+        "B": "a doddle",
+        "C": "cheer up",
+        "D": "move the needle"
+      },
+      "correct": "A",
+      "explanation": "✓ Correct — \"to be honest with you\" is an Everyday idioms: giving opinions informally chunk: a fixed everyday idiom for giving a casual, informal opinion.\nExample: \"To be honest with you, I don't think the deadline is realistic.\"\nSimilar chunks:\n- at a guess\n- off the record\n- if you ask me\n\n✗ \"a doddle\" belongs to Everyday idioms: ease — a vivid everyday idiom describing how easy something is, not this context.\nSimilar chunks:\n- plain sailing\n- a piece of cake\n- no sweat\n\n✗ \"cheer up\" belongs to Mood phrasal verbs — an everyday phrasal verb describing a change in someone's mood, not this context.\nSimilar chunks:\n- snap out of it\n- perk up\n- calm down\n\n✗ \"move the needle\" belongs to Workplace idioms: progress — a workplace idiom describing how a project is progressing, from starting out to stalling, not this context.\nSimilar chunks:\n- in the pipeline\n- get the ball rolling\n- hit the ground running"
+    },
+    {
+      "id": 108,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to signal that a story or situation is completely finished, using a fixed idiom instead of a plain 'that's finished'. Which chunk fits best?",
+      "options": {
+        "A": "ahead of the curve",
+        "B": "iron out",
+        "C": "that's that",
+        "D": "scale back"
+      },
+      "correct": "C",
+      "explanation": "✗ \"ahead of the curve\" belongs to Workplace idioms: general business praise — a workplace idiom used to praise a strong result, idea, or advantage, not this context.\nSimilar chunks:\n- a win-win\n- think outside the box\n- raise the bar\n\n✗ \"iron out\" belongs to Problem-handling phrasal verbs — an everyday workplace phrasal verb for resolving, avoiding, or reacting to a problem, not this context.\nSimilar chunks:\n- smooth over\n- fall through\n- call off\n\n✓ Correct — \"that's that\" is an Everyday idioms: wrapping up chunk: a fixed everyday idiom for signalling that something is completely finished.\nExample: \"We signed the contract, and that's that.\"\nSimilar chunks:\n- job done\n- and there you have it\n- all's well that ends well\n\n✗ \"scale back\" belongs to Project-lifecycle phrasal verbs — an everyday phrasal verb describing a stage in a project's lifecycle, from starting to winding down, not this context.\nSimilar chunks:\n- scale up\n- kick off\n- follow through"
+    },
+    {
+      "id": 109,
+      "ka": "mastery",
+      "kaName": "Language Systems",
+      "question": "You want to signal that a story or situation is completely finished, using a fixed idiom instead of a plain 'that's finished'. Which chunk fits best?",
+      "options": {
+        "A": "put across",
+        "B": "set off",
+        "C": "look into",
+        "D": "all's well that ends well"
+      },
+      "correct": "D",
+      "explanation": "✗ \"put across\" belongs to Information phrasal verbs — an everyday phrasal verb describing communicating information to someone, not this context.\nSimilar chunks:\n- fill in\n- brief up\n\n✗ \"set off\" belongs to Phrasal verbs: starting & finishing — an everyday phrasal verb marking the start or end of an activity, not this context.\nSimilar chunks:\n- wind up\n- knock off\n- call it a day\n\n✗ \"look into\" belongs to Handling tasks & objects phrasal verbs — an everyday phrasal verb for investigating, reviewing, or physically handling something, not this context.\nSimilar chunks:\n- deal with\n- hold off\n- pick up\n\n✓ Correct — \"all's well that ends well\" is an Everyday idioms: wrapping up chunk: a fixed everyday idiom for signalling that something is completely finished.\nExample: \"It was a stressful launch, but all's well that ends well.\"\nSimilar chunks:\n- job done\n- that's that\n- and there you have it"
+    }
+  ]
+}
