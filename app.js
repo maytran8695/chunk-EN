@@ -94,26 +94,50 @@
 
   // ---------- home screen ----------
   function renderSourceSelect() {
-    // Grouped-by-tier topic picker, built dynamically from TOPICS + loaded
-    // question counts, plus a "mix everything" option — same idea as CBAP's
-    // Standard/Advanced/Expert/Mix radios, just generated instead of hard-coded
-    // since Chunk Atlas has many more topics than CBAP has exam sets.
-    // Rendered as a single <select> with an <optgroup> per tier — with 37+
-    // topics a row list (even a compact one) makes the page too tall, a
-    // dropdown keeps step 1 to one line.
+    // One <select> PER TIER (5 total) — reads as "5 tabs, 5 dropdowns" —
+    // plus a separate "mix everything" checkbox. Only one selection is ever
+    // active: picking a topic in one dropdown resets the other 4 back to
+    // their placeholder, and checking "mix everything" resets all 5.
     const option = (value, label, count, selected) =>
       `<option value="${value}" ${selected ? "selected" : ""}>${escapeHtml(label)} (${count} questions)</option>`;
     const tiers = [...new Set(TOPICS.map(t => t.tier))];
     let html = "";
     for (const tier of tiers) {
       const tierTopics = TOPICS.filter(t => t.tier === tier);
-      html += `<optgroup label="${escapeHtml(tier)}">`;
-      html += tierTopics.map(t => option(t.id, t.label, DATA[t.id] ? DATA[t.id].questions.length : 0, t.id === "core")).join("");
-      html += `</optgroup>`;
+      const hasDefault = tierTopics.some(t => t.id === "core");
+      html += `<div class="tier-select-row">`;
+      html += `<label class="tier-select-label">${escapeHtml(tier)}</label>`;
+      html += `<select class="tier-select" data-tier="${escapeHtml(tier)}">`;
+      html += `<option value="">— Select a topic —</option>`;
+      html += tierTopics.map(t => option(t.id, t.label, DATA[t.id] ? DATA[t.id].questions.length : 0, hasDefault && t.id === "core")).join("");
+      html += `</select>`;
+      html += `</div>`;
     }
     const totalQuestions = Object.values(QUESTIONS_BY_UID).length;
-    html += `<optgroup label="All topics">${option("mixed", "Mix everything", totalQuestions, false)}</optgroup>`;
+    html += `<label class="mix-row"><input type="checkbox" id="mix-everything">` +
+      `<span>Mix everything</span><span class="ka-row-count">${totalQuestions} questions</span></label>`;
     document.getElementById("source-select").innerHTML = html;
+
+    const tierSelects = [...document.querySelectorAll(".tier-select")];
+    const mixCheckbox = document.getElementById("mix-everything");
+    tierSelects.forEach(sel => {
+      sel.addEventListener("change", () => {
+        if (sel.value) {
+          tierSelects.forEach(other => { if (other !== sel) other.value = ""; });
+          mixCheckbox.checked = false;
+        }
+      });
+    });
+    mixCheckbox.addEventListener("change", () => {
+      if (mixCheckbox.checked) tierSelects.forEach(sel => { sel.value = ""; });
+    });
+  }
+
+  function getSelectedSource() {
+    const mixCheckbox = document.getElementById("mix-everything");
+    if (mixCheckbox && mixCheckbox.checked) return "mixed";
+    const active = [...document.querySelectorAll(".tier-select")].find(s => s.value);
+    return active ? active.value : "core";
   }
 
   function renderKaSelect() {
@@ -426,8 +450,7 @@
     });
 
     document.getElementById("btn-start").addEventListener("click", () => {
-      const sourceSelect = document.getElementById("source-select");
-      const source = sourceSelect && sourceSelect.value ? sourceSelect.value : "core";
+      const source = getSelectedSource();
       const mode = document.querySelector('input[name="mode"]:checked').value;
       const kaFilter = getSelectedKAs();
       if (kaFilter.length === 0) { alert("Please select at least one tab."); return; }

@@ -19,9 +19,10 @@
 
     <div class="card">
       <h2>1. Choose a topic</h2>
-      <select id="source-select" class="topic-select">
-        <!-- filled dynamically from TOPICS, see app.js renderSourceSelect() -->
-      </select>
+      <div id="source-select" class="tier-select-list">
+        <!-- filled dynamically from TOPICS: one <select> per tier, plus a
+             "mix everything" row — see app.js renderSourceSelect() -->
+      </div>
     </div>
 
     <div class="card">
