@@ -18,26 +18,16 @@
     </header>
 
     <div class="card">
-      <h2>1. Choose a topic</h2>
+      <h2>1. Choose topics</h2>
       <div id="source-select" class="tier-select-list">
-        <!-- filled dynamically from TOPICS: one <select> per tier, plus a
+        <!-- filled dynamically from TOPICS: one row per tier (checkbox to
+             include/exclude the tier + a <select> to pick its topic), plus a
              "mix everything" row — see app.js renderSourceSelect() -->
       </div>
     </div>
 
     <div class="card">
-      <h2>2. Filter by tab</h2>
-      <div class="ka-actions">
-        <button type="button" class="link-btn" id="ka-select-all">Select all</button>
-        <button type="button" class="link-btn" id="ka-select-none">Deselect all</button>
-      </div>
-      <div id="ka-select">
-        <!-- filled dynamically from loaded data, see app.js renderKaSelect() -->
-      </div>
-    </div>
-
-    <div class="card">
-      <h2>3. Mode</h2>
+      <h2>2. Mode</h2>
       <div class="option-grid" id="mode-select">
         <label class="pill-radio">
           <input type="radio" name="mode" value="practice" checked>
@@ -88,6 +78,7 @@
 
   <!-- RESULT SCREEN -->
   <section id="screen-result" class="screen hidden">
+    <button id="btn-back-home-fixed" class="back-fab" type="button" title="Back to home">← Home</button>
     <div class="card result-summary">
       <h2>Result</h2>
       <div class="score-big" id="score-big">0/0</div>
@@ -100,7 +91,7 @@
     </div>
 
     <div class="card">
-      <div class="row-between">
+      <div class="row-between review-header">
         <h3>Question review</h3>
         <label class="chip"><input type="checkbox" id="filter-wrong-only"> Show incorrect only</label>
       </div>

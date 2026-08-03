@@ -89,25 +89,30 @@
       if (countEl) countEl.textContent = `(${data.questions.length} questions)`;
     }
     renderSourceSelect();
-    renderKaSelect();
   }
 
   // ---------- home screen ----------
   function renderSourceSelect() {
-    // One <select> PER TIER (5 total), each always defaulted to its own
-    // first topic — no placeholder, no cross-resetting. All 5 selections
-    // are independent and stay active at once; Start combines whichever
-    // topic is currently picked in each of the 5 dropdowns. A separate
-    // "mix everything" checkbox bypasses the 5 picks entirely and pulls
-    // from all topics instead.
+    // One row PER TIER (5 total): a checkbox to include/exclude the tier,
+    // plus a <select> defaulted to its own first topic — no placeholder, no
+    // cross-resetting. All 5 selects stay active at once; Start combines
+    // whichever topic is currently picked in each checked tier's dropdown.
+    // The checkbox doubles as the tab/ka filter, since every topic's `ka`
+    // is 1:1 with its tier. A separate "mix everything" checkbox bypasses
+    // the topic picks and pulls every topic within each checked tier instead.
     const option = (value, label, count, selected) =>
       `<option value="${value}" ${selected ? "selected" : ""}>${escapeHtml(label)} (${count} questions)</option>`;
     const tiers = [...new Set(TOPICS.map(t => t.tier))];
     let html = "";
     for (const tier of tiers) {
       const tierTopics = TOPICS.filter(t => t.tier === tier);
+      const sampleQ = DATA[tierTopics[0].id]?.questions[0];
+      const ka = sampleQ ? sampleQ.ka : "";
       html += `<div class="tier-select-row">`;
+      html += `<span class="tier-check-label">`;
+      html += `<input type="checkbox" class="tier-toggle" data-tier="${escapeHtml(tier)}" data-ka="${escapeHtml(ka)}" checked>`;
       html += `<label class="tier-select-label">${escapeHtml(tier)}</label>`;
+      html += `</span>`;
       html += `<select class="tier-select" data-tier="${escapeHtml(tier)}">`;
       html += tierTopics.map((t, i) => option(t.id, t.label, DATA[t.id] ? DATA[t.id].questions.length : 0, i === 0)).join("");
       html += `</select>`;
@@ -115,27 +120,31 @@
     }
     const totalQuestions = Object.values(QUESTIONS_BY_UID).length;
     html += `<label class="mix-row"><input type="checkbox" id="mix-everything">` +
-      `<span>Mix everything (ignores the 5 picks above)</span><span class="ka-row-count">${totalQuestions} questions</span></label>`;
+      `<span>Mix everything (each checked tier pulls ALL its topics, not just the one picked)</span><span class="ka-row-count">${totalQuestions} questions</span></label>`;
     document.getElementById("source-select").innerHTML = html;
+    updateTierRowStates();
+  }
+
+  function updateTierRowStates() {
+    const mixed = document.getElementById("mix-everything")?.checked;
+    document.querySelectorAll(".tier-select-row").forEach(row => {
+      const toggle = row.querySelector(".tier-toggle");
+      const select = row.querySelector(".tier-select");
+      select.disabled = mixed || !toggle.checked;
+      row.classList.toggle("tier-off", !toggle.checked);
+    });
+  }
+
+  function getCheckedTierRows() {
+    return [...document.querySelectorAll(".tier-select-row")]
+      .map(row => ({ toggle: row.querySelector(".tier-toggle"), select: row.querySelector(".tier-select") }))
+      .filter(r => r.toggle.checked);
   }
 
   function getSelectedSource() {
     const mixCheckbox = document.getElementById("mix-everything");
     if (mixCheckbox && mixCheckbox.checked) return "mixed";
-    return [...document.querySelectorAll(".tier-select")].map(s => s.value).filter(Boolean);
-  }
-
-  function renderKaSelect() {
-    // Build the tab (ka) checklist dynamically from loaded data, instead of hard-coding
-    // like CBAP (fixed KA3..KA8) — Chunk Atlas will grow more tiers/topics over time.
-    const seen = new Map();
-    for (const q of Object.values(QUESTIONS_BY_UID)) {
-      if (!seen.has(q.ka)) seen.set(q.ka, q.kaName);
-    }
-    const container = document.getElementById("ka-select");
-    container.innerHTML = [...seen.entries()]
-      .map(([ka, name]) => `<label class="ka-row"><input type="checkbox" value="${ka}" checked> ${escapeHtml(name)}</label>`)
-      .join("");
+    return getCheckedTierRows().map(r => r.select.value);
   }
 
   function updateReviewButton() {
@@ -149,7 +158,7 @@
   }
 
   function getSelectedKAs() {
-    return [...document.querySelectorAll("#ka-select input:checked")].map(i => i.value);
+    return [...document.querySelectorAll(".tier-toggle:checked")].map(i => i.dataset.ka);
   }
 
   function shuffle(arr) {
@@ -430,18 +439,17 @@
   // ---------- wiring ----------
   function wireEvents() {
     document.getElementById("theme-toggle").addEventListener("click", toggleTheme);
-    document.getElementById("ka-select-all").addEventListener("click", () => {
-      document.querySelectorAll("#ka-select input").forEach(i => i.checked = true);
-    });
-    document.getElementById("ka-select-none").addEventListener("click", () => {
-      document.querySelectorAll("#ka-select input").forEach(i => i.checked = false);
+    document.getElementById("source-select").addEventListener("change", (e) => {
+      if (e.target.classList.contains("tier-toggle") || e.target.id === "mix-everything") {
+        updateTierRowStates();
+      }
     });
 
     document.getElementById("btn-start").addEventListener("click", () => {
       const source = getSelectedSource();
       const mode = document.querySelector('input[name="mode"]:checked').value;
       const kaFilter = getSelectedKAs();
-      if (kaFilter.length === 0) { alert("Please select at least one tab."); return; }
+      if (kaFilter.length === 0) { alert("Please select at least one topic group."); return; }
       const questions = buildQuestionList(source, kaFilter);
       startSession(questions, mode, false);
     });
@@ -462,11 +470,13 @@
     });
     document.getElementById("btn-exit-quiz").addEventListener("click", exitQuiz);
 
-    document.getElementById("btn-back-home").addEventListener("click", () => {
+    const goHome = () => {
       session = null;
       showScreen("home");
       updateReviewButton();
-    });
+    };
+    document.getElementById("btn-back-home").addEventListener("click", goHome);
+    document.getElementById("btn-back-home-fixed").addEventListener("click", goHome);
     document.getElementById("btn-review-wrong-now").addEventListener("click", () => {
       const wrongQuestions = session.lastResults.filter(r => !r.isCorrect).map(r => QUESTIONS_BY_UID[r.uid]);
       if (wrongQuestions.length === 0) { alert("No incorrect answers in this round!"); return; }
