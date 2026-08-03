@@ -94,50 +94,35 @@
 
   // ---------- home screen ----------
   function renderSourceSelect() {
-    // One <select> PER TIER (5 total) — reads as "5 tabs, 5 dropdowns" —
-    // plus a separate "mix everything" checkbox. Only one selection is ever
-    // active: picking a topic in one dropdown resets the other 4 back to
-    // their placeholder, and checking "mix everything" resets all 5.
+    // One <select> PER TIER (5 total), each always defaulted to its own
+    // first topic — no placeholder, no cross-resetting. All 5 selections
+    // are independent and stay active at once; Start combines whichever
+    // topic is currently picked in each of the 5 dropdowns. A separate
+    // "mix everything" checkbox bypasses the 5 picks entirely and pulls
+    // from all topics instead.
     const option = (value, label, count, selected) =>
       `<option value="${value}" ${selected ? "selected" : ""}>${escapeHtml(label)} (${count} questions)</option>`;
     const tiers = [...new Set(TOPICS.map(t => t.tier))];
     let html = "";
     for (const tier of tiers) {
       const tierTopics = TOPICS.filter(t => t.tier === tier);
-      const hasDefault = tierTopics.some(t => t.id === "core");
       html += `<div class="tier-select-row">`;
       html += `<label class="tier-select-label">${escapeHtml(tier)}</label>`;
       html += `<select class="tier-select" data-tier="${escapeHtml(tier)}">`;
-      html += `<option value="">— Select a topic —</option>`;
-      html += tierTopics.map(t => option(t.id, t.label, DATA[t.id] ? DATA[t.id].questions.length : 0, hasDefault && t.id === "core")).join("");
+      html += tierTopics.map((t, i) => option(t.id, t.label, DATA[t.id] ? DATA[t.id].questions.length : 0, i === 0)).join("");
       html += `</select>`;
       html += `</div>`;
     }
     const totalQuestions = Object.values(QUESTIONS_BY_UID).length;
     html += `<label class="mix-row"><input type="checkbox" id="mix-everything">` +
-      `<span>Mix everything</span><span class="ka-row-count">${totalQuestions} questions</span></label>`;
+      `<span>Mix everything (ignores the 5 picks above)</span><span class="ka-row-count">${totalQuestions} questions</span></label>`;
     document.getElementById("source-select").innerHTML = html;
-
-    const tierSelects = [...document.querySelectorAll(".tier-select")];
-    const mixCheckbox = document.getElementById("mix-everything");
-    tierSelects.forEach(sel => {
-      sel.addEventListener("change", () => {
-        if (sel.value) {
-          tierSelects.forEach(other => { if (other !== sel) other.value = ""; });
-          mixCheckbox.checked = false;
-        }
-      });
-    });
-    mixCheckbox.addEventListener("change", () => {
-      if (mixCheckbox.checked) tierSelects.forEach(sel => { sel.value = ""; });
-    });
   }
 
   function getSelectedSource() {
     const mixCheckbox = document.getElementById("mix-everything");
     if (mixCheckbox && mixCheckbox.checked) return "mixed";
-    const active = [...document.querySelectorAll(".tier-select")].find(s => s.value);
-    return active ? active.value : "core";
+    return [...document.querySelectorAll(".tier-select")].map(s => s.value).filter(Boolean);
   }
 
   function renderKaSelect() {
@@ -177,14 +162,17 @@
   }
 
   function buildQuestionList(source, kaFilter) {
+    // source is either "mixed" (every topic) or an array of examIds — one
+    // per tier dropdown — whose questions get combined into one session.
     let list;
     if (source === "mixed") {
       list = Object.values(QUESTIONS_BY_UID);
-      list = shuffle(list);
     } else {
-      list = DATA[source].questions.map(q => QUESTIONS_BY_UID[uid(source, q.id)]);
-      list = shuffle(list);
+      list = source.flatMap(examId =>
+        DATA[examId] ? DATA[examId].questions.map(q => QUESTIONS_BY_UID[uid(examId, q.id)]) : []
+      );
     }
+    list = shuffle(list);
     return list.filter(q => kaFilter.includes(q.ka));
   }
 

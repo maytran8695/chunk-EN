@@ -187,7 +187,6 @@ body {
   cursor: pointer;
 }
 .tier-select:focus { outline: 2px solid var(--primary); outline-offset: 1px; }
-.tier-select:has(option:checked:not([value=""])) { border-color: var(--primary); }
 
 .mix-row {
   display: flex;
