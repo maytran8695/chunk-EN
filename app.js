@@ -80,22 +80,24 @@
     // question counts, plus a "mix everything" option — same idea as CBAP's
     // Standard/Advanced/Expert/Mix radios, just generated instead of hard-coded
     // since Chunk Atlas has many more topics than CBAP has exam sets.
+    // Rendered as a compact row list (same look as the "Filter by tab"
+    // checklist below it), not a card grid — keeps a long topic list scannable.
+    const row = (value, label, count, checked) =>
+      `<label class="ka-row"><input type="radio" name="source" value="${value}" ${checked ? "checked" : ""}>` +
+      `<span class="ka-row-label">${escapeHtml(label)}</span>` +
+      `<span class="ka-row-count">${count} questions</span></label>`;
     const tiers = [...new Set(TOPICS.map(t => t.tier))];
     let html = "";
     for (const tier of tiers) {
       const tierTopics = TOPICS.filter(t => t.tier === tier);
       html += `<div class="source-tier-label">${escapeHtml(tier)}</div>`;
-      html += `<div class="option-grid">`;
-      html += tierTopics.map(t => {
-        const count = DATA[t.id] ? DATA[t.id].questions.length : 0;
-        const checked = t.id === "core" ? "checked" : "";
-        return `<label class="pill-radio"><input type="radio" name="source" value="${t.id}" ${checked}><span>${escapeHtml(t.label)} <small>(${count} questions)</small></span></label>`;
-      }).join("");
+      html += `<div class="source-row-list">`;
+      html += tierTopics.map(t => row(t.id, t.label, DATA[t.id] ? DATA[t.id].questions.length : 0, t.id === "core")).join("");
       html += `</div>`;
     }
     const totalQuestions = Object.values(QUESTIONS_BY_UID).length;
     html += `<div class="source-tier-label">All topics</div>`;
-    html += `<div class="option-grid"><label class="pill-radio"><input type="radio" name="source" value="mixed"><span>Mix everything <small>(${totalQuestions} questions)</small></span></label></div>`;
+    html += `<div class="source-row-list">${row("mixed", "Mix everything", totalQuestions, false)}</div>`;
     document.getElementById("source-select").innerHTML = html;
   }
 
